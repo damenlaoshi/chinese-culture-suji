@@ -1,0 +1,2298 @@
+[
+  {
+    "slug": "sida-faming",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "木桌被一盏暖灯罩住，这是书房，不是实验室。",
+        "en": "A wooden desk sits under a warm lamp: this is a study, not a laboratory."
+      },
+      {
+        "zh": "一垛线装旧书叠在左手边，书口发黄。",
+        "en": "A stack of thread-bound old books on the left, their edges yellowed."
+      },
+      {
+        "zh": "墙上或架上挂着书法立轴，墨色比桌上的纸更深。",
+        "en": "A calligraphy scroll hangs on the wall or shelf; its ink is darker than the paper on the desk."
+      },
+      {
+        "zh": "砚台里有一汪墨，墨条搁在旁边。",
+        "en": "A pool of ink in the inkstone, an ink stick laid beside it."
+      },
+      {
+        "zh": "笔架上斜插几支毛笔，笔尖有的还没洗净。",
+        "en": "Several brushes lean in a rack; some tips have not been washed clean."
+      },
+      {
+        "zh": "一块雕版反刻着字，像印刷的负片，这是本图最关键的物件。",
+        "en": "A woodblock with characters carved in reverse, like a printing negative — the key object in this picture."
+      },
+      {
+        "zh": "铺开的纸还是空的，等下一笔或下一次刷墨。",
+        "en": "The paper spread out is still empty, waiting for the next stroke or the next brush of ink."
+      },
+      {
+        "zh": "窗棂和铜器说明时间被放慢了——发明先发生在手边，再改外面的海和山。",
+        "en": "Window lattices and bronze show that time has been slowed: invention happens first at the hand, then it changes the sea and mountains outside."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "书桌上不是实验室，是一套能把思想留下来的工具。暖灯底下，线装书叠成一垛，立轴上的字还在呼吸；砚台里的墨没干，笔搁在架上，旁边一块反刻着字的雕版——印刷的「负片」。铜器和窗棂说明这里是书房，不是工厂。四大发明里，纸和印刷最先能被手摸到；火药和指南针不在这张桌上，却已经改过桌外的世界：谁能考试、谁能出海、谁能把一座山炸开。",
+        "en": "The desk is not a laboratory; it is a set of tools that can leave thought behind. Under a warm lamp, thread-bound books sit in a stack, and the characters on the hanging scroll still seem to breathe. The ink in the inkstone has not dried, brushes rest on a rack, and beside them a woodblock with reversed characters — printing’s “negative”. Bronze and window lattices show this is a study, not a factory. Among the four great inventions, paper and printing are the first you can touch with a hand; gunpowder and the compass are not on this desk, yet they have already rewritten the world beyond it: who may sit an exam, who may go to sea, who may blast a mountain open."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "所谓「四大发明」，是后人对造纸、印刷、火药、指南针的打包称呼，不是古人自己颁的奖杯。传统叙述里，蔡伦在东汉改进了纸；雕版印刷在唐代已经成熟，毕昇在北宋做出胶泥活字；火药从炼丹配方里长出来，宋代用于军事，也用于开山和烟花；指南针让海船不必只靠星和岸。它到底在解决谁的问题？解决的是「思想、暴力和方向都太依赖身体」：话一出口就散，路一离开岸就盲，山挡着就只能绕。发明把记忆从脑子里搬到纸上，把方向从经验里搬到磁上。",
+        "en": "The so-called “four great inventions” are a later package name for papermaking, printing, gunpowder and the compass — not a trophy the ancients awarded themselves. In the traditional account, Cai Lun improved paper in the Eastern Han; woodblock printing had matured by the Tang, and Bi Sheng made clay movable type in the Northern Song; gunpowder grew out of alchemical recipes, used in the Song for war, for opening mountains and for fireworks; the compass let ships stop relying only on stars and shore. Whose problem did it solve? That thought, violence and direction all depended too much on the body: words scatter the moment they leave the mouth; a road goes blind once it leaves the shore; a mountain can only be walked around. Invention moved memory from the brain onto paper, and direction from experience onto the magnet."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "纸让科举成为可能：卷子可以标准化，考生能把一年的记忆交到陌生人手里。印刷让同一份文本离开抄书人，寺院、书坊、后来的报纸都靠它。火药先在军营和矿坑里，也在节夜里；指南针在船上，也在风水师的罗盘里。钱的流向很清楚：谁控制纸和版，谁就控制什么可以被复制；谁控制火药和航线，谁就控制什么地方可以被打开。规则是：发明很少只服务发明者——纸一便宜，考官和商人同时出现；罗盘一稳，贸易和殖民也可以同时出发。",
+        "en": "Paper made the civil exams possible: papers could be standardised, and a candidate could hand a year’s memory to a stranger. Printing let the same text leave the copyist; temples, bookshops and later newspapers all depended on it. Gunpowder lived first in camps and mines, and also on festival nights; the compass lived on ships and in a geomancer’s luopan. The flow of money is clear: whoever controls paper and plates controls what can be copied; whoever controls gunpowder and sea-lanes controls what places can be opened. The rule is that inventions rarely serve only the inventor — once paper is cheap, examiners and merchants appear together; once the compass is steady, trade and colonisation can set out together."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：思想可以离开这张嘴，一张纸比一次谈话走得更远，自己也终于能把没说完的话留到明天。家庭：族谱、家书、药方可以隔代保存，不必全靠老人的记性，一封信能把人从码头喊回家。社会：知识门槛下降，标准答案也第一次能同时到达许多城市；远洋不再只是传说，海被写成可以计算的路。印刷降低了识字的成本，也让一份报纸成为公共时钟——同一天，不同的人读到同一条消息。",
+        "en": "Personal: thought can leave this mouth; a sheet of paper travels farther than one conversation, and you can finally keep an unfinished sentence until tomorrow. Family: genealogies, letters and prescriptions can be kept across generations, without relying only on an elder’s memory; a letter can call someone home from the dock. Society: the threshold of knowledge falls, and a standard answer can reach many cities at once; blue-water travel is no longer only a legend — the sea is written as a calculable road. Printing lowered the cost of literacy, and turned a newspaper into a public clock: on the same day, different people read the same news."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：人们争论「谁先发明」，像在争一块金牌，展览柜比使用说明更亮，学生背年代，却说不出纸改变了谁的手。结构：印刷让异端和标准答案一起加速；火药开山也开战争；罗盘让贸易变宽，也让炮舰找得到港。被排除的是没有纸、进不了考场、上不了船的人——发明写进教科书时，他们的名字通常不在。创造力从来不是中性的：同一把火，可以是烟花，也可以是攻城。",
+        "en": "Everyday: people argue over “who invented it first”, as if fighting for a gold medal; the display case is brighter than the instruction sheet; students recite dates yet cannot say whose hands paper changed. Structural: printing accelerates both heresy and the standard answer; gunpowder opens mountains and also opens war; the compass widens trade and also lets gunboats find a harbour. The excluded are those with no paper, no way into the exam hall, no way onto a ship — when invention is written into textbooks, their names are usually not there. Ingenuity was never neutral: the same fire can be fireworks, or a siege."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "活字在中国没有立刻变成古腾堡那种工业，材料、文字数量和书坊组织都不同，这不是「落后」，是另一条技术路径。纸从中国传到中亚、再传到欧洲，威尼斯和意大利手作纸坊后来把纸做成生意。当代把移动支付、高铁、短视频说成「新四大」，评判标准常是方便，很少是「它改了人与人怎么相处」。博物馆的荣誉叙事，会把发明从基础设施说成民族勋章。烟花把火药写成节日，开山把火药写成工程，两套道德共用同一种黑粉。指南针在风水里仍转，在手机里已经变成看不见的箭头。",
+        "en": "Movable type in China did not immediately become a Gutenberg-style industry; materials, the number of characters and the organisation of workshops were different. That is not “backwardness”; it is another technical path. Paper travelled from China to Central Asia and on to Europe; Venetian and Italian handmade-paper workshops later turned paper into a business. Today mobile payment, high-speed rail and short video are called a “new four”; the test is usually convenience, rarely “how it changed the way people live with each other”. Museum honour-stories turn infrastructure into a national medal. Fireworks write gunpowder as a festival; blasting writes it as engineering — two moralities sharing the same black powder. The compass still turns in feng shui; in a phone it has already become an invisible arrow."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙也有对应物：马德里旧书摊、萨拉曼卡的纸页，塞万提斯被印成无数本——纸把一句话从嘴里交到陌生人手里。意大利手作纸、威尼斯曾经的印刷作坊，是纸和版的南欧工坊。Instagram 则是当代印刷——一张图复制成无数次观看。AVE 压缩土地的距离，指南针当年压缩海的未知。挂钩：纸改关系，让陌生人能读同一份卷子；改时间，让一句话活过说它的人；改身体，让手从抄写里解放。下一件「四大」，改的是方便，还是人怎么见面、怎么等、怎么用手。",
+        "en": "Spain has counterparts too: Madrid’s old-book stalls, Salamanca’s paper, Cervantes printed into countless copies — paper taking a sentence out of a mouth and into a stranger’s hands. Italian handmade paper and Venice’s old print shops are Southern Europe’s workshops of paper and plate. Instagram is contemporary printing — one image copied into countless views. AVE compresses the distance of land; the compass once compressed the unknown of the sea. The hook: paper changes relations, so strangers can read the same exam paper; it changes time, so a sentence outlives the person who spoke it; it changes the body, freeing the hand from copying. The next thing called one of the “four” — does it change convenience, or how people meet, wait, and use their own hands?"
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "暖灯、线装书、砚、反刻雕版；「负片在桌上」。",
+        "en": "Warm lamp, thread-bound books, inkstone, reversed woodblock; “the negative is on the desk”."
+      },
+      {
+        "time": "0:30",
+        "zh": "后打包的四种材料；解决「太依赖身体」。",
+        "en": "A later package of four materials; solving “too much dependence on the body”."
+      },
+      {
+        "time": "0:55",
+        "zh": "科举用纸、书坊用版；火药开山也放烟花；针在船上。",
+        "en": "Exams use paper, workshops use plates; gunpowder blasts mountains and makes fireworks; the needle is on a ship."
+      },
+      {
+        "time": "1:35",
+        "zh": "话能留下／家书族谱／报纸当公共时钟。",
+        "en": "Words can stay / family letters and genealogies / a newspaper as a public clock."
+      },
+      {
+        "time": "2:15",
+        "zh": "争谁先发明；战争与标准答案；上不了船的人。",
+        "en": "Fighting over who was first; war and standard answers; people who never boarded."
+      },
+      {
+        "time": "3:00",
+        "zh": "意大利手作纸或威尼斯书坊；Instagram＝当代印刷。挂钩关系、时间、身体。",
+        "en": "Italian paper or a Venetian shop; Instagram as contemporary print. Hook: relations, time, body."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "四大发明里，哪一项对你的生活影响最大？不要只说「方便」。",
+        "en": "Which of the four great inventions most affects your life? Do not only say “convenient”."
+      },
+      {
+        "zh": "一项发明可能同时带来好处和伤害吗？举火药或印刷为例。",
+        "en": "Can one invention help and harm at once? Use gunpowder or printing as an example."
+      },
+      {
+        "zh": "印刷术和 Instagram，哪一种更像「当代印刷」？",
+        "en": "Which is more like “contemporary printing”, the printing press or Instagram?"
+      },
+      {
+        "zh": "意大利手作纸和中国的纸，解决的是不是同一个问题？",
+        "en": "Do Italian handmade paper and Chinese paper solve the same problem?"
+      },
+      {
+        "zh": "下一件被叫做「四大」的东西，你希望它改关系、时间，还是身体？",
+        "en": "The next thing called one of the “four”: should it change relations, time, or the body?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "如果只能留一项「四大」给今天的生活，你留哪一项？不要只说「方便」。",
+        "en": "If you could keep only one of the “four” for life today, which? Do not only say “convenient”."
+      },
+      {
+        "zh": "印刷术和 Instagram，哪一种更难撤回一句已经发出去的话？",
+        "en": "Printing and Instagram: which makes it harder to take back a sentence already sent?"
+      },
+      {
+        "zh": "为什么「谁先发明」会让人激动？它保护的是知识，还是面子？",
+        "en": "Why does “who invented it first” excite people? Does it protect knowledge, or face?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "发明",
+        "pinyin": "fāmíng",
+        "pos": "名/动",
+        "en": "invention / to invent",
+        "example": "指南针是一项改变航海的发明。",
+        "exampleEn": "The compass is an invention that changed seafaring."
+      },
+      {
+        "hanzi": "造纸",
+        "pinyin": "zàozhǐ",
+        "pos": "动/名",
+        "en": "papermaking",
+        "example": "造纸术让书写变得便宜。",
+        "exampleEn": "Papermaking made writing cheaper."
+      },
+      {
+        "hanzi": "印刷",
+        "pinyin": "yìnshuā",
+        "pos": "名/动",
+        "en": "printing",
+        "example": "印刷让知识传播得更快。",
+        "exampleEn": "Printing let knowledge travel faster."
+      },
+      {
+        "hanzi": "火药",
+        "pinyin": "huǒyào",
+        "pos": "名",
+        "en": "gunpowder",
+        "example": "火药既用于战争，也用于烟花。",
+        "exampleEn": "Gunpowder is used in war and in fireworks."
+      },
+      {
+        "hanzi": "指南针",
+        "pinyin": "zhǐnánzhēn",
+        "pos": "名",
+        "en": "compass",
+        "example": "水手靠指南针辨别方向。",
+        "exampleEn": "Sailors used the compass to find direction."
+      },
+      {
+        "hanzi": "传播",
+        "pinyin": "chuánbō",
+        "pos": "动",
+        "en": "to spread / disseminate",
+        "example": "好的技术会迅速传播。",
+        "exampleEn": "Good technology spreads quickly."
+      },
+      {
+        "hanzi": "影响",
+        "pinyin": "yǐngxiǎng",
+        "pos": "名/动",
+        "en": "influence / to affect",
+        "example": "这项发明影响了整个世界。",
+        "exampleEn": "This invention affected the whole world."
+      },
+      {
+        "hanzi": "创新",
+        "pinyin": "chuàngxīn",
+        "pos": "名/动",
+        "en": "innovation / to innovate",
+        "example": "创新不只是发明新东西。",
+        "exampleEn": "Innovation is more than inventing new objects."
+      },
+      {
+        "hanzi": "科举",
+        "pinyin": "kējǔ",
+        "pos": "名",
+        "en": "imperial civil exams",
+        "example": "没有纸，科举很难大规模举行。",
+        "exampleEn": "Without paper, the civil exams could hardly be held at scale."
+      },
+      {
+        "hanzi": "雕版",
+        "pinyin": "diāobǎn",
+        "pos": "名",
+        "en": "woodblock for printing",
+        "example": "这块雕版上的字是反的。",
+        "exampleEn": "The characters on this woodblock are reversed."
+      },
+      {
+        "hanzi": "活字",
+        "pinyin": "huózì",
+        "pos": "名",
+        "en": "movable type",
+        "example": "毕昇的活字用胶泥做成。",
+        "exampleEn": "Bi Sheng’s movable type was made of clay."
+      },
+      {
+        "hanzi": "罗盘",
+        "pinyin": "luópán",
+        "pos": "名",
+        "en": "compass (incl. geomantic)",
+        "example": "船上的罗盘让离开海岸成为可能。",
+        "exampleEn": "The compass on board made leaving the coast possible."
+      },
+      {
+        "hanzi": "基础设施",
+        "pinyin": "jīchǔ shèshī",
+        "pos": "名",
+        "en": "infrastructure",
+        "example": "四大发明首先是基础设施，不是勋章。",
+        "exampleEn": "The four inventions are infrastructure first, not medals."
+      },
+      {
+        "hanzi": "开山",
+        "pinyin": "kāishān",
+        "pos": "动",
+        "en": "to blast / open a mountain",
+        "example": "火药可以开山，也可以攻城。",
+        "exampleEn": "Gunpowder can open a mountain, or besiege a city."
+      },
+      {
+        "hanzi": "标准答案",
+        "pinyin": "biāozhǔn dá'àn",
+        "pos": "名",
+        "en": "standard answer",
+        "example": "印刷让标准答案传得更快。",
+        "exampleEn": "Printing lets standard answers travel faster."
+      },
+      {
+        "hanzi": "作坊",
+        "pinyin": "zuōfang",
+        "pos": "名",
+        "en": "workshop",
+        "example": "威尼斯的印刷作坊把纸和版做成生意。",
+        "exampleEn": "Venetian print workshops turned paper and plates into a business."
+      }
+    ]
+  },
+  {
+    "slug": "hanzi",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "镜头贴得很近，纸的纤维一根一根看得见。",
+        "en": "The lens is very close: the fibres of the paper can be seen one by one."
+      },
+      {
+        "zh": "墨还湿，边缘有润开，说明字刚写下不久。",
+        "en": "The ink is still wet, bleeding at the edges, so the character was written only a moment ago."
+      },
+      {
+        "zh": "笔画是中锋走出来的，有粗有细，不是打印体。",
+        "en": "The strokes were made with a centred brush, thick and thin — not a printed font."
+      },
+      {
+        "zh": "某处有飞白或枯笔，手的速度被留在纸上。",
+        "en": "Somewhere there is flying white or a dry brush: the speed of the hand is left on the paper."
+      },
+      {
+        "zh": "一方朱红印章压在角落，红和黑互相证明「这是完成的」。",
+        "en": "A vermilion seal is pressed in the corner; red and black prove together that this is finished."
+      },
+      {
+        "zh": "纸被水撑起细褶皱，宣纸在呼吸。",
+        "en": "Water has lifted fine wrinkles; the xuan paper is breathing."
+      },
+      {
+        "zh": "图里没有手——人已经离开，字自己站着。",
+        "en": "There is no hand in the picture — the person has left; the character stands on its own."
+      },
+      {
+        "zh": "纸是浅米色，不是手机那种刺眼的白。",
+        "en": "The paper is pale beige, not the harsh white of a phone screen."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "这张图里没有人，只有还没干的字。宣纸的纤维吸住墨，笔画中间浓、边上淡，某处有飞白，说明笔走得快；朱红印章像一句盖章的「到此为止」。纸被水撑出细褶皱，浅米色，不是屏幕白。对中文 B 学生，这不是「中国很有文化」的壁纸，是一种把意义画下来的工程：每一个汉字都曾是一幅被简化过的画，现在仍要靠手或键盘把它再造一次。",
+        "en": "There is no person in this picture, only characters that have not yet dried. Xuan paper fibres hold the ink; strokes are dark in the middle and pale at the edge; somewhere there is flying white, which means the brush moved fast. A vermilion seal is like a stamped “this far and no further”. Water has lifted fine wrinkles in the paper; it is pale beige, not screen-white. For a Chinese B student this is not wallpaper that says “China is cultured”; it is an engineering of drawing meaning: every character was once a picture that has been simplified, and it still has to be remade by a hand or a keyboard."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "汉字是少数仍在大规模使用的语素文字。它让说不同方言的人看同一张报纸，也让书法成为一门艺术。会意、形声、通假，是语言的工程学：「休」是人靠树，「河」用三点水加上可发音的那一半。它到底在解决谁的问题？解决的是「口说的话太容易散、口音太容易把人分开」——用同一套可见的结构，把南边和北边的人按在同一张纸上。认一个字，就多一条进入文化的小路。",
+        "en": "Chinese characters are among the few logosyllabic scripts still used at scale. They let people who speak different dialects read the same newspaper, and they make calligraphy an art. Ideographic compounds, phono-semantic compounds and phonetic loans are the engineering of a language: 休 is a person leaning on a tree; 河 is three drops of water plus the half that can be pronounced. Whose problem did they solve? That spoken words scatter too easily, and accents split people too easily — one visible structure pins south and north onto the same sheet. Learn one character, and you gain another small path into the culture."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "孩子从笔画和笔顺开始，老师数格子；成人用拼音输入法，会认、会打，却常常写不好。1956 年起大陆推行简化字，识字率上去了，两岸字形也变成身份标记：香港、台湾街上仍是繁体。春联、招牌、护照姓名，是汉字离开书桌之后的生活。网络流行语是新的造字运动——不是新部首，而是新用法，「给力」「内卷」把旧字重新接线。规则是：学校考手写，社会用打字，艺术留宣纸。",
+        "en": "Children start from strokes and stroke order; teachers count the squares. Adults use pinyin input: they recognise and type, yet often cannot write well. From 1956 the mainland promoted simplified characters; literacy rose, and the two sides of the Strait also turned glyph-form into an identity mark: Hong Kong and Taiwan streets are still traditional. New-year couplets, shop signs, names on passports — that is characters after they leave the desk. Internet slang is a new character-making movement: not new radicals, but new wiring — 给力 and 内卷 reconnect old graphs. The rule is: school examines handwriting, society uses typing, art keeps xuan paper."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：手被笔顺训练出一种慢，写对一个难字会有具体的成就，眼睛也学会在偏旁里找线索，认路时一块招牌就能把人稳住。家庭：名字、春联、祖辈留下的字，是家里最便宜的文物，一封手写的信比转账备注更像人还在，孩子的作业本仍是父母最肯停下来看的纸。社会：跨方言的书面语让巨大的国家可以共用新闻、合同和考试；书法把识字抬成审美，让不会说同样话的人仍能看同一面墙。",
+        "en": "Personal: the hand is trained into a kind of slowness by stroke order; writing a hard character correctly is a concrete achievement; the eye learns to hunt clues in radicals, and a shop sign can steady you when you are finding the way. Family: names, couplets, and a character left by grandparents are the cheapest heirlooms in the house; a handwritten letter feels more like a person still being there than a transfer note; a child’s exercise book is still the paper parents will stop to look at. Society: a written language across dialects lets a huge country share news, contracts and exams; calligraphy lifts literacy into aesthetics, so people who do not speak the same can still look at the same wall."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：提笔忘字已经普通，签名歪了会不好意思，输入法的错别字会变成笑话。结构：简化提高了识字率，也让繁简成为政治和身份；若把中文改成纯拼音，跨方言的那张报纸会裂开，古典文本的字形线索也会断。被排除的是没上过学的人、以及只会被输入法带着走、一旦没有手机就不会写自己名字的人——字还在，手不在。",
+        "en": "Everyday: forgetting a character the moment the pen is lifted is already ordinary; a crooked signature is embarrassing; input-method typos become jokes. Structural: simplification raised literacy and also made traditional versus simplified a matter of politics and identity; if Chinese were switched to pure pinyin, that cross-dialect newspaper would split, and the graphic clues of classical texts would break. The excluded are those who never went to school, and those who can only be led by an input method — people who, without a phone, cannot write their own name. The character is still there; the hand is not."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "字辈把家族秩序写进名字中间那一个字；城市招牌用繁体装古，菜单却是简体；表情符号和颜文字像新的会意，一张脸比一个形容词更快。AI 已经能代写作业，学生的手更少落到纸上，提案里那一站会专写这件事，这里只先记住：机器会写，不等于你会认。行书、楷书、篆书是同一套字的不同速度。字典从纸本变成 App，查字不再翻页，也更少看见相邻的那个字。口语里拆一个字，比空谈「汉字优美」有力。",
+        "en": "Generational name-markers write family order into the middle character of a name. City shop signs wear traditional graphs as “ancient”; menus are simplified. Emoji and kaomoji are like new ideographs: a face is faster than an adjective. AI can already write homework; students’ hands fall on paper even less. Remember this first: a machine that can write is not the same as you being able to recognise. Running, regular and seal scripts are the same set of characters at different speeds. Dictionaries moved from paper to apps; looking up a character no longer means turning a page, and you see the neighbouring character less. In the oral, taking one character apart is stronger than calling characters “beautiful”."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙孩子先把二十六字母排成一条线，不是先拆部首；一封手写信仍比 WhatsApp 更像郑重。意大利手作里的书写和皮革压印，是另一套让字停在物件上的手艺，慢是卖点。Instagram 的字幕和 emoji 则少笔画、快识别，几乎没有结构可拆。挂钩：汉字改关系，让口音不同的人仍能同读；改时间，一笔一画把思考拉慢，输入法则缩成一秒；改身体，从腕和肘变成拇指点选。可以打字，但不能把「会拆一个字」删掉。",
+        "en": "Spanish children first line up twenty-six letters; they do not first take a radical apart. A handwritten letter still feels more serious than a WhatsApp. Handwriting and leather stamping in Italian craft are another way of making a word stay on an object; slowness is the selling point. Instagram captions and emoji take the opposite road — few strokes, fast recognition, almost no structure to take apart. The hook: characters change relations, so people with different accents can still read together; they change time, stroke by stroke slowing thought, while input methods shrink the same sentence to a second; they change the body, from wrist and elbow to a thumb tapping glass. You may type; you may not delete “being able to take a character apart” from learning."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "湿墨、纤维、印章、褶皱；「人离开了，字还在」。",
+        "en": "Wet ink, fibre, seal, wrinkles; “the person left, the character remains”."
+      },
+      {
+        "time": "0:30",
+        "zh": "语素文字；跨方言；休＝人靠树。",
+        "en": "A logosyllabic script; across dialects; 休 is a person by a tree."
+      },
+      {
+        "time": "0:55",
+        "zh": "笔顺／输入法；一九五六简化；繁简当身份；网络新用法。",
+        "en": "Stroke order / input method; 1956 simplification; traditional vs simplified as identity; new net uses."
+      },
+      {
+        "time": "1:35",
+        "zh": "手的慢／春联与家书／一张报纸跨口音。",
+        "en": "The hand’s slowness / couplets and letters / one newspaper across accents."
+      },
+      {
+        "time": "2:15",
+        "zh": "提笔忘字；拼音化会裂开；没手写就会丢名字的人。",
+        "en": "Forgetting when the pen lifts; pinyin would split the paper; people who lose their name without handwriting."
+      },
+      {
+        "time": "3:00",
+        "zh": "意大利手作书写或压印；Instagram 字幕＋emoji。挂钩关系、时间、身体。",
+        "en": "Italian handwriting or stamping; Instagram captions and emoji. Hook: relations, time, body."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "请当场拆一个字。你选哪一个，结构怎么帮你记住？",
+        "en": "Take a character apart now. Which one, and how does the structure help you remember it?"
+      },
+      {
+        "zh": "如果明天起中文只准拼音，课堂、报纸、你的名字各会失去什么？",
+        "en": "If from tomorrow Chinese allowed only pinyin, what would class, newspapers and your name lose?"
+      },
+      {
+        "zh": "输入法让写字变差，你认为这是进步、退步，还是分工？",
+        "en": "If input methods worsen handwriting, is that progress, decline, or a division of labour?"
+      },
+      {
+        "zh": "意大利菜单上的手写，和宣纸上的字，慢在卖什么？",
+        "en": "Handwriting on an Italian menu and characters on xuan paper: what is slowness selling?"
+      },
+      {
+        "zh": "Instagram 的 emoji 算不算一种新的会意？",
+        "en": "Do Instagram emoji count as a new kind of ideograph?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "请当场拆一个字。你选哪一个，结构怎么帮你记住？",
+        "en": "Take a character apart now. Which one, and how does its structure help you remember?"
+      },
+      {
+        "zh": "如果明天起中文只准拼音，课堂、报纸、你的名字各会失去什么？",
+        "en": "If from tomorrow Chinese allowed only pinyin, what would class, newspapers and your name lose?"
+      },
+      {
+        "zh": "输入法让写字变差，你认为这是进步、退步，还是分工？",
+        "en": "If input methods worsen handwriting, is that progress, decline, or a division of labour?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "汉字",
+        "pinyin": "hànzì",
+        "pos": "名",
+        "en": "Chinese character",
+        "example": "每个汉字都有自己的故事。",
+        "exampleEn": "Every character has its own story."
+      },
+      {
+        "hanzi": "书法",
+        "pinyin": "shūfǎ",
+        "pos": "名",
+        "en": "calligraphy",
+        "example": "他每天练习书法。",
+        "exampleEn": "He practises calligraphy every day."
+      },
+      {
+        "hanzi": "笔画",
+        "pinyin": "bǐhuà",
+        "pos": "名",
+        "en": "stroke",
+        "example": "这个字有十二画。",
+        "exampleEn": "This character has twelve strokes."
+      },
+      {
+        "hanzi": "偏旁",
+        "pinyin": "piānpáng",
+        "pos": "名",
+        "en": "radical / component",
+        "example": "三点水的偏旁多与水有关。",
+        "exampleEn": "The three-drop radical often relates to water."
+      },
+      {
+        "hanzi": "识字",
+        "pinyin": "shízì",
+        "pos": "动",
+        "en": "to be literate / recognise characters",
+        "example": "识字率的提高改变了社会。",
+        "exampleEn": "Higher literacy changed society."
+      },
+      {
+        "hanzi": "繁体字",
+        "pinyin": "fántǐzì",
+        "pos": "名",
+        "en": "traditional characters",
+        "example": "香港仍常用繁体字。",
+        "exampleEn": "Hong Kong still commonly uses traditional characters."
+      },
+      {
+        "hanzi": "简化",
+        "pinyin": "jiǎnhuà",
+        "pos": "动",
+        "en": "to simplify",
+        "example": "简化汉字是为了让更多人会写。",
+        "exampleEn": "Characters were simplified so more people could write them."
+      },
+      {
+        "hanzi": "输入法",
+        "pinyin": "shūrùfǎ",
+        "pos": "名",
+        "en": "input method",
+        "example": "拼音输入法让打字变得很快。",
+        "exampleEn": "Pinyin input makes typing fast."
+      },
+      {
+        "hanzi": "语素文字",
+        "pinyin": "yǔsù wénzì",
+        "pos": "名",
+        "en": "logosyllabic writing",
+        "example": "汉字是仍在大规模使用的语素文字。",
+        "exampleEn": "Chinese characters are a logosyllabic script still used at scale."
+      },
+      {
+        "hanzi": "会意",
+        "pinyin": "huìyì",
+        "pos": "名",
+        "en": "ideographic compound",
+        "example": "「休」是会意：人靠着树。",
+        "exampleEn": "休 is an ideograph: a person leaning on a tree."
+      },
+      {
+        "hanzi": "形声",
+        "pinyin": "xíngshēng",
+        "pos": "名",
+        "en": "phono-semantic compound",
+        "example": "形声字一边表意，一边表音。",
+        "exampleEn": "A phono-semantic character shows meaning on one side and sound on the other."
+      },
+      {
+        "hanzi": "宣纸",
+        "pinyin": "xuānzhǐ",
+        "pos": "名",
+        "en": "xuan paper",
+        "example": "墨在宣纸上会慢慢洇开。",
+        "exampleEn": "Ink slowly bleeds on xuan paper."
+      },
+      {
+        "hanzi": "印章",
+        "pinyin": "yìnzhāng",
+        "pos": "名",
+        "en": "seal / chop",
+        "example": "一幅字常常用印章收尾。",
+        "exampleEn": "A piece of calligraphy often ends with a seal."
+      },
+      {
+        "hanzi": "跨方言",
+        "pinyin": "kuà fāngyán",
+        "pos": "名/副",
+        "en": "across dialects",
+        "example": "汉字让跨方言阅读成为可能。",
+        "exampleEn": "Characters make reading across dialects possible."
+      },
+      {
+        "hanzi": "手写",
+        "pinyin": "shǒuxiě",
+        "pos": "动/名",
+        "en": "handwriting",
+        "example": "很多人会打字，却怕手写。",
+        "exampleEn": "Many people can type, yet fear handwriting."
+      },
+      {
+        "hanzi": "流行语",
+        "pinyin": "liúxíngyǔ",
+        "pos": "名",
+        "en": "slang / buzzword",
+        "example": "网络流行语是新的造字运动。",
+        "exampleEn": "Internet slang is a new character-making movement."
+      }
+    ]
+  },
+  {
+    "slug": "chuantong-yishu",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一张脸被红和白的油彩分成区域，黑线描到眼角。",
+        "en": "A face is divided into zones of red and white greasepaint, black lines drawn to the corners of the eyes."
+      },
+      {
+        "zh": "头面上的绒球和珠子还没完全戴稳，能看见重量。",
+        "en": "The pom-poms and beads on the headdress are not yet fully settled; you can see their weight."
+      },
+      {
+        "zh": "一只手正把妆补上，艺术先发生在化妆桌，不是舞台。",
+        "en": "A hand is still adding makeup: the art happens first at the dressing table, not on stage."
+      },
+      {
+        "zh": "脸只完成了一半，另一半还是皮肤，过程被拍下来。",
+        "en": "Only half the face is done; the other half is still skin — the process has been photographed."
+      },
+      {
+        "zh": "镜子一定在附近，即使镜头没给它正面。",
+        "en": "A mirror must be nearby, even if the lens does not give it a front view."
+      },
+      {
+        "zh": "戏服的一角或领口露出绣线，颜色比妆更暗。",
+        "en": "A corner of costume or a collar shows embroidery, darker than the makeup."
+      },
+      {
+        "zh": "光是后台的近光，不是追光，阴影贴在腮边。",
+        "en": "The light is backstage close-light, not a follow-spot; shadow sits along the cheek."
+      },
+      {
+        "zh": "人还没开口——唱腔和身段都还关在这张未完成的脸后面。",
+        "en": "The person has not yet opened their mouth — voice and movement are still locked behind this unfinished face."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "镜头停在化妆，不停在亮相。红与白的油彩把一张脸分区，黑线拉到眼角，头面上的绒球还在微微晃；手比脸更忙，镜子就在旁边。这是后台，不是明信片上的舞台。京剧把脸谱、唱腔和身段练成高度编码的表演；旁边未出现的，是水墨的留白、窗上的红剪纸、灯下的皮影、出海的瓷器。传统艺术不是一种气氛，是一套被身体记住的手续。",
+        "en": "The lens stops at makeup, not at the flourish. Red and white greasepaint zone a face; a black line is pulled to the eye corner; pom-poms on the headdress still sway a little. The hand is busier than the face; a mirror is right there. This is backstage, not the postcard stage. Peking opera trains face-paint, vocal style and movement into a highly coded performance; what does not appear beside it is the empty space of ink painting, red paper-cuts on a window, shadow puppets under a lamp, porcelain that went to sea. Traditional art is not an atmosphere; it is a set of procedures the body remembers."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "这些门类都在做同一件事：把复杂的情感和故事，编成可以重复、可以传下去的形式。脸谱用颜色说忠奸，水墨用空白当一部分画，剪纸和皮影用刀与光讲民间的夜，瓷器把土烧成可以漂洋的软力量。它到底在解决谁的问题？解决的是「美和记忆太容易随人死去」——用师徒、谱式、窑火，让下一双手还能把同一出戏、同一片蓝再做一遍。创造力在这里很慢，也因此很硬。",
+        "en": "These genres are doing the same thing: encoding complex feeling and story into a form that can be repeated and passed on. Face-paint uses colour to say loyalty or treachery; ink painting uses blankness as part of the picture; paper-cut and shadow play use knife and light to tell folk nights; porcelain fires earth into a soft power that can float across an ocean. Whose problem does it solve? That beauty and memory die too easily with a person — using master and apprentice, scores, and kiln-fire so the next pair of hands can still make the same play, the same blue, once more. Ingenuity here is slow, and therefore hard."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "科班和戏校练童子功；民间是外婆教剪纸、窑工看火候、书法老师按着腕。谁买票、谁进博物馆、谁在短视频里看三十秒亮相，已经不是同一群人。钱的流向从票房和润笔，转向文创、直播打赏和非遗项目经费。规则仍旧很老：先模仿，再被允许一点个人；先材料，再意义。年轻人未必听整出《霸王别姬》，却可能把一段起霸存进收藏夹。传，不再只靠台上的那四个小时。",
+        "en": "Opera schools drill childhood technique; in folk life a grandmother teaches paper-cutting, a kiln worker watches the fire, a calligraphy teacher holds the wrist. Who buys a ticket, who enters a museum, who watches a thirty-second flourish on short video — these are no longer the same people. Money has shifted from box office and writing fees toward cultural products, livestream tips and intangible-heritage grants. The rule is still old: imitate first, then a little of the personal is allowed; materials first, then meaning. The young may not sit through Farewell My Concubine, yet they may save a flourish into Favourites. Transmission no longer depends only on those four hours on stage."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：身体被训练出另一种时间，腰、腕、气息都要听话，自己也终于能在镜子里认出那张不是日常的脸。家庭：过年的窗花、堂屋里的字、一套传下来的碗，是不必买票的艺术课。社会：瓷器和京剧曾经是国家送出去的名片，让远方的人先认识一种颜色、一种嗓音，再决定要不要认识这个地方。留白教人看「没画的那一块」，这是审美，也是一种思考方式。",
+        "en": "Personal: the body is trained into another kind of time; waist, wrist and breath must obey; you finally recognise in the mirror a face that is not everyday. Family: New-year window flowers, calligraphy in the hall, a set of bowls handed down — an art class that needs no ticket. Society: porcelain and opera were once name-cards a country sent out, so people far away met a colour and a voice before they decided whether to meet the place. Empty space teaches you to look at “the part not painted”; that is aesthetics, and also a way of thinking."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：票贵、词听不懂、坐不住两个小时，很多人只在旅游区看一场压缩版。结构：危机不是「没人爱」，而是「只剩下符号」——冰箱贴比师徒多，滤镜比身段熟；行当里的性别规定、窑火对身体的消耗、城市租金把工作室挤走。被排除的是请不起课的孩子、以及一辈子做手艺却进不了非遗名录的人。短视频能救人气，也能把一出戏剁成三秒的眼波。",
+        "en": "Everyday: tickets are expensive, the words unintelligible, two hours too long to sit; many people only watch a compressed version in a tourist zone. Structural: the crisis is not “nobody loves this”, but “only the symbol is left” — fridge magnets outnumber apprentices, filters are more familiar than movement; gender rules inside role-types, the kiln’s cost to the body, city rents squeezing workshops out. The excluded are children who cannot afford lessons, and people who worked a craft all their lives yet never entered a heritage list. Short video can save popularity; it can also chop a play into three seconds of eye-light."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "联合国非遗名录让地方为牌子竞争，一个县可以为「剪纸之乡」吵三年。男旦把性别做成技术，也做成争议。博物馆的灯光让瓷器更像珠宝，更不像曾经盛饭的器。文创把纹样印上帆布袋，传播变宽，手感变薄。皮影要暗，商场要亮，场地本身在跟艺术作对。水墨进入当代艺术馆，留白有时被解释成极简，有时只是还没画完的借口。短视频里的亮相能救人气，却也可能让孩子以为学会一个眼神就是学会了一门手艺。",
+        "en": "The UNESCO heritage list makes localities compete for a plaque; a county can quarrel for three years over being “the hometown of paper-cut”. The male dan turns gender into technique, and also into controversy. Museum lighting makes porcelain look more like jewellery, less like a vessel that once held rice. Cultural products print patterns onto tote bags: circulation widens, the feel of the hand thins. Shadow puppetry needs dark; malls need light — the venue itself fights the art. Ink painting enters contemporary galleries; emptiness is sometimes read as minimalism, sometimes only an excuse for not having finished. A flourish on short video can save fame, and can also make a child think that learning one glance is learning a craft."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "弗拉门戈是西班牙的对应物：cante、baile、guitarra 一样靠师徒、年岁和身体，一样怕被剪成十五秒的纪念品。意大利手作是另一条南欧线：穆拉诺的玻璃、佛罗伦萨的皮、德鲁塔的陶，一样靠火候和慢。Instagram 把亮相当成十五秒的产品，点赞代替叫好。挂钩：脸谱改关系，让观众和角色隔一层可阅读的颜色；改时间，一出戏按场次走，学一门手艺按年走；改身体，油彩贴在皮肤上，唱腔改声带。短视频能当门口，不能当全部的屋子。",
+        "en": "Flamenco is Spain’s counterpart: cante, baile, guitarra also depend on master and apprentice, years and the body, and also fear being cut into a fifteen-second souvenir. Italian craft is another Southern-European line: Murano glass, Florentine leather, Deruta ceramics — the same dependence on fire and slowness. Instagram turns the flourish into a fifteen-second product; likes replace applause. The hook: face-paint changes relations, putting a readable colour between audience and role; it changes time — a play moves by scenes, a craft is learned by years; it changes the body — greasepaint on skin, vocal style on the cords. Short video can be a doorway; it cannot be the whole house."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "油彩分区、绒球、半张脸、后台光；「手比脸忙」。",
+        "en": "Painted zones, pom-poms, a half-done face, backstage light; “the hand is busier than the face”."
+      },
+      {
+        "time": "0:30",
+        "zh": "把情感编成可重复的代码；防美随人死。",
+        "en": "Encoding feeling into repeatable code; stopping beauty from dying with a person."
+      },
+      {
+        "time": "0:55",
+        "zh": "科班／外婆／窑工；票房变文创；先模仿再个人。",
+        "en": "Opera school / grandmother / kiln worker; box office to cultural products; imitate first, then the personal."
+      },
+      {
+        "time": "1:35",
+        "zh": "腰腕气息／窗花与碗／出海的名片与留白。",
+        "en": "Waist, wrist, breath / window flowers and bowls / a name-card that went to sea, and empty space."
+      },
+      {
+        "time": "2:15",
+        "zh": "坐不住；只剩符号；进不了名录的手。",
+        "en": "Cannot sit through it; only the symbol left; hands that never enter the list."
+      },
+      {
+        "time": "3:00",
+        "zh": "意大利手作（玻璃／皮／陶）；Instagram 十五秒。挂钩关系、时间、身体。",
+        "en": "Italian craft (glass / leather / ceramic); Instagram’s fifteen seconds. Hook: relations, time, body."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "只选一门：京剧、书法或瓷器。材料是什么，手续的第一步是什么？",
+        "en": "Pick only one: opera, calligraphy or porcelain. What is the material, and what is the first step of the procedure?"
+      },
+      {
+        "zh": "短视频让更多人看见亮相，会不会让更少人坐完整出戏？",
+        "en": "If short video lets more people see a flourish, will fewer sit through a whole play?"
+      },
+      {
+        "zh": "意大利手作和中国手艺，哪一句共同的话你愿意带进口试？",
+        "en": "Italian craft and a Chinese craft: which shared sentence would you bring into the oral?"
+      },
+      {
+        "zh": "传统艺术应该原样保存，还是必须创新？",
+        "en": "Should traditional arts be frozen as they are, or must they innovate?"
+      },
+      {
+        "zh": "你愿意花几年时间学一门手艺吗？为什么？",
+        "en": "Would you spend years learning a craft? Why?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "只选一门：京剧、书法或瓷器。材料是什么，手续的第一步是什么？",
+        "en": "Pick only one: opera, calligraphy or porcelain. What is the material, and what is step one?"
+      },
+      {
+        "zh": "短视频让更多人看见亮相，会不会让更少人坐完整出戏？",
+        "en": "If short video lets more people see a flourish, will fewer sit through a whole play?"
+      },
+      {
+        "zh": "意大利手作和中国手艺，哪一句共同的话你愿意带进口试？",
+        "en": "Italian craft and a Chinese craft: which shared sentence would you bring into the oral?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "京剧",
+        "pinyin": "jīngjù",
+        "pos": "名",
+        "en": "Peking opera",
+        "example": "京剧的脸谱很有象征意义。",
+        "exampleEn": "Opera face paint is highly symbolic."
+      },
+      {
+        "hanzi": "水墨画",
+        "pinyin": "shuǐmòhuà",
+        "pos": "名",
+        "en": "ink wash painting",
+        "example": "水墨画善于留白。",
+        "exampleEn": "Ink painting is skilled at leaving emptiness."
+      },
+      {
+        "hanzi": "剪纸",
+        "pinyin": "jiǎnzhǐ",
+        "pos": "名",
+        "en": "paper-cutting",
+        "example": "窗上贴着红色的剪纸。",
+        "exampleEn": "Red paper-cuts are pasted on the window."
+      },
+      {
+        "hanzi": "瓷器",
+        "pinyin": "cíqì",
+        "pos": "名",
+        "en": "porcelain",
+        "example": "青花瓷曾经通过海上丝绸之路运往世界。",
+        "exampleEn": "Blue-and-white porcelain once travelled the maritime silk road."
+      },
+      {
+        "hanzi": "皮影戏",
+        "pinyin": "píyǐngxì",
+        "pos": "名",
+        "en": "shadow puppetry",
+        "example": "皮影戏靠灯光和兽皮完成故事。",
+        "exampleEn": "Shadow plays tell stories with light and hide."
+      },
+      {
+        "hanzi": "脸谱",
+        "pinyin": "liǎnpǔ",
+        "pos": "名",
+        "en": "painted opera face",
+        "example": "不同颜色的脸谱代表不同性格。",
+        "exampleEn": "Different face colours stand for different characters."
+      },
+      {
+        "hanzi": "手艺",
+        "pinyin": "shǒuyì",
+        "pos": "名",
+        "en": "craft skill",
+        "example": "这门手艺快要失传了。",
+        "exampleEn": "This craft is close to dying out."
+      },
+      {
+        "hanzi": "欣赏",
+        "pinyin": "xīnshǎng",
+        "pos": "动",
+        "en": "to appreciate",
+        "example": "欣赏传统艺术需要一点耐心。",
+        "exampleEn": "Appreciating traditional art takes a little patience."
+      },
+      {
+        "hanzi": "唱腔",
+        "pinyin": "chàngqiāng",
+        "pos": "名",
+        "en": "vocal style (opera)",
+        "example": "听不懂唱腔，也可以先看身段。",
+        "exampleEn": "If you cannot follow the vocal style, watch the movement first."
+      },
+      {
+        "hanzi": "身段",
+        "pinyin": "shēnduàn",
+        "pos": "名",
+        "en": "stylised movement",
+        "example": "京剧的身段是高度编码的。",
+        "exampleEn": "Opera movement is highly coded."
+      },
+      {
+        "hanzi": "留白",
+        "pinyin": "liúbái",
+        "pos": "名",
+        "en": "empty space in painting",
+        "example": "水墨画里，留白跟墨一样重要。",
+        "exampleEn": "In ink painting, empty space matters as much as ink."
+      },
+      {
+        "hanzi": "亮相",
+        "pinyin": "liàngxiàng",
+        "pos": "名/动",
+        "en": "dramatic pose / reveal",
+        "example": "短视频最爱截一段亮相。",
+        "exampleEn": "Short video loves to cut a flourish."
+      },
+      {
+        "hanzi": "师徒",
+        "pinyin": "shītú",
+        "pos": "名",
+        "en": "master and apprentice",
+        "example": "这门手艺还靠师徒口传。",
+        "exampleEn": "This craft still travels by master and apprentice, mouth to ear."
+      },
+      {
+        "hanzi": "非遗",
+        "pinyin": "fēiyí",
+        "pos": "名",
+        "en": "intangible cultural heritage",
+        "example": "非遗名录救得了牌子，救不了一定救得了手。",
+        "exampleEn": "A heritage list can save a plaque; it may not save the hand."
+      },
+      {
+        "hanzi": "符号",
+        "pinyin": "fúhào",
+        "pos": "名",
+        "en": "symbol",
+        "example": "传统艺术最怕只剩下符号。",
+        "exampleEn": "Traditional art’s worst fear is being left as a symbol."
+      },
+      {
+        "hanzi": "失传",
+        "pinyin": "shīchuán",
+        "pos": "动",
+        "en": "to be lost (of a craft)",
+        "example": "没有孩子学，手艺就会失传。",
+        "exampleEn": "If no child learns it, the craft will be lost."
+      }
+    ]
+  },
+  {
+    "slug": "yidong-zhifu",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "夜市的灯是暖的，摊位上方挂着食物，蒸汽往上走。",
+        "en": "The night-market lights are warm; food hangs above the stall and steam rises."
+      },
+      {
+        "zh": "一个人举起手机，屏幕亮着，动作像拍照，其实是在付款。",
+        "en": "Someone lifts a phone, the screen glowing; the gesture looks like taking a photo, but it is paying."
+      },
+      {
+        "zh": "码在摊主那边或在桌上，镜头不一定给清，但手的方向说明了一切。",
+        "en": "The code is on the vendor’s side or on the table; the lens may not show it clearly, but the direction of the hand explains everything."
+      },
+      {
+        "zh": "看不见钱包、看不见纸币、看不见找零的抽屉。",
+        "en": "No wallet in sight, no banknotes, no change drawer."
+      },
+      {
+        "zh": "摊主的眼睛看着自己的手机，等「到账」两个字或一声提示音。",
+        "en": "The stallholder watches their own phone, waiting for the two characters “arrived” or a beep."
+      },
+      {
+        "zh": "周围还有人在等，队伍的节奏由扫码的快慢决定。",
+        "en": "Others are still waiting; the queue’s rhythm is set by how fast the codes scan."
+      },
+      {
+        "zh": "地上可能有塑料凳和油渍，生活比广告脏一点。",
+        "en": "There may be plastic stools and oil stains on the ground — life is a little dirtier than the advert."
+      },
+      {
+        "zh": "完成交易的是一只手和一块玻璃，不是一次点头加一叠硬币。",
+        "en": "What completes the trade is a hand and a pane of glass, not a nod plus a stack of coins."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "夜市里最亮的往往不是灯，是屏幕。挂着的食物还在滴油，蒸汽挡住半张脸，一个人把手机举到摊主眼前——像拍照，其实在付钱。钱包不在画面里，找零的抽屉也不在。摊主盯着自己那部手机，等「到账」或一声滴。在中国许多城市，买菜、坐公交、给街头艺人打赏，一部手机就够。二维码把现金变成一种怀旧：你还能用，但别人开始用眼神问你为什么还要用。",
+        "en": "In a night market the brightest thing is often not the lamp, but the screen. Food still drips oil; steam hides half a face; someone lifts a phone to a stallholder’s eyes — like taking a photo, but paying. No wallet is in the frame, and neither is a change drawer. The stallholder stares at their own phone, waiting for “arrived” or a beep. In many Chinese cities, buying vegetables, taking a bus, tipping a street musician — one phone is enough. The QR code has turned cash into a kind of nostalgia: you can still use it, but other people start asking with their eyes why you still would."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "微信支付、支付宝和二维码，组成一种几乎无现金的日常。支付宝从网上把支付搬进手机，微信在 2013 年前后把支付嵌进聊天——钱走在熟人和陌生人都会看的那条对话框里。它到底在解决谁的问题？表面解决找零、假钞、小额交易的慢；底下还在解决平台想记住你买了什么、去了哪。创造力在这里很薄：一块黑白方块，却把钱包、钥匙和一点面子收进同一块玻璃。",
+        "en": "WeChat Pay, Alipay and the QR code make an almost cashless everyday. Alipay moved payment from the web into the phone; around 2013 WeChat nested payment inside chat — money walking the same thread friends and strangers both look at. Whose problem does it solve? On the surface, change, counterfeit notes, the slowness of small trades; underneath, a platform that wants to remember what you bought and where you went. Ingenuity here is thin: one black-and-white square that gathers wallet, keys and a little face into the same pane of glass."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "顾客扫商家的码，或让商家扫自己的码；小摊把码塑封、挂在油腻的柱子上；餐厅把码印在桌上，点餐和付款并成一次。钱从银行卡或余额划走，到账几乎是瞬间，提示音代替了点钞票。红包在春节和日常里同时发生，付钱变成一种社交。规则是：有本地账户的人像会生活，没有的人像突然文盲。游客、老人、手机没电的人，要靠别人的码或桌上那一叠渐渐被嫌弃的现金。",
+        "en": "The customer scans the merchant’s code, or lets the merchant scan theirs. Small stalls laminate the code and hang it on a greasy post; restaurants print it on the table, folding order and payment into one gesture. Money leaves a bank card or a balance; arrival is almost instant; a beep replaces counting notes. Red packets happen at Spring Festival and on ordinary days; paying becomes a social act. The rule is: people with a local account look as if they know how to live; people without one look suddenly illiterate. Tourists, elders, anyone whose phone is dead, have to rely on someone else’s code or on that stack of cash that is increasingly resented."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：手不再数硬币，几秒就能离开队伍，自己也习惯了「没带钱包也没关系」，口袋轻了，心里却多了一点对电池的怕。摊主和家庭小店：少了假钞和找零的争吵，晚上对账看屏幕，不用把一天的铜板倒在桌上。社会：现金的印刷、押运和保管变少，城市的交易速度被统一成一种滴声；乘车码让公交不必备零钱。方便是真的，而且已经长进肌肉。",
+        "en": "Personal: the hand no longer counts coins; a few seconds and you leave the queue; you get used to “no wallet, no problem”; pockets are lighter, and the mind a little more afraid of the battery. Stallholders and family shops: fewer fights over fakes and change; evening accounts are a screen, not a day’s coppers poured on the table. Society: less printing, escorting and storing of cash; a city’s trading speed is unified into a beep; a transit code means buses need not keep small change. The convenience is real, and it has already grown into muscle."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：码花了、网断了、手机没电，整个人会停在摊前不会生活；外国人举着国际卡，像在说一种过时的方言。结构：无现金把数据集中到少数平台，每一次买菜都可能被写成画像；老人和偏远地区若被甩出去，效率就越像排斥。被排除的不是「不懂科技的人」这种骂法，是系统只为已经会用的人设计。创造力如果只服务圈内，社会意义就要打折。",
+        "en": "Everyday: a smudged code, a dead network, a dead phone — a person stops in front of the stall and no longer knows how to live; a foreigner holding an international card looks as if they were speaking an outdated dialect. Structural: cashless life concentrates data in a few platforms; every vegetable purchase can be written into a portrait; if elders and remote places are thrown off, efficiency starts to look like exclusion. The excluded are not “people who don’t get tech” as an insult; they are people a system designed only for those who already know how. If ingenuity serves only those already inside the circle, its social meaning should be discounted."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "微信红包把钱重新变成面子和游戏，拼手气是一种新的劝酒。乘车码、健康码曾经把支付的手势扩成通行的手势。数字人民币是官方想留下的另一条轨道，和平台钱包并存。停电或系统故障的晚上，现金会短暂地从怀旧变回工具。隐私政策写在谁也不读的长页里，真正的选择发生在「扫还是不扫」的两秒。小摊拒绝现金，有时是怕假钞，有时只是抽屉已经撤了。",
+        "en": "WeChat red packets turn money back into face and a game; a lucky-draw packet is a new way of pressing a drink. Transit codes and health codes once stretched the payment gesture into a passage gesture. Digital RMB is the official attempt to keep another track, running beside platform wallets. On a night of power cut or system failure, cash briefly stops being nostalgia and becomes a tool again. Privacy policies sit on a long page nobody reads; the real choice happens in the two seconds of scan or not. A stall that refuses cash may fear fakes, or may simply have taken the drawer away."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "Bizum 是西班牙最该点名的对应物：熟人转账极快，菜市场和酒吧却仍常见现金。它说明「移动」不必等于「无现金」。挂钩：扫码改关系，钱不再从一只手交到另一只手；改时间，找零的三十秒消失；改身体，钱包从后袋搬走，脖子低下去看方块。方便值得留，现金当备份；被记住每一次购买，不该是默认门票。",
+        "en": "Bizum is the Spanish counterpart that should be named: bank-joint transfers, extremely fast among acquaintances, yet cash and cards are still common in markets and bars. It shows that “mobile” need not mean “cashless”. The hook: scanning changes relations — money no longer passes from one hand to another; it changes time — the thirty seconds of change vanish; it changes the body — the wallet leaves the back pocket, the neck bends, the eyes are given to a square on glass. Keep the convenience; keep cash as backup. Being remembered for every purchase should not be the default ticket to using an invention."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "蒸汽、举起的手机、没有钱包；「到账的一声」。",
+        "en": "Steam, a raised phone, no wallet; “the beep of arrival”."
+      },
+      {
+        "time": "0:30",
+        "zh": "无现金日常；解决找零，也解决平台要记住你。",
+        "en": "A cashless day; solving change, and a platform’s wish to remember you."
+      },
+      {
+        "time": "0:55",
+        "zh": "扫谁的码；红包；没有本地账户就像文盲。",
+        "en": "Whose code you scan; red packets; without a local account you look illiterate."
+      },
+      {
+        "time": "1:35",
+        "zh": "不数硬币／小店少假钞／城市统一成滴声。",
+        "en": "No counting coins / shops lose fake notes / a city unified into a beep."
+      },
+      {
+        "time": "2:15",
+        "zh": "没电就不会生活；数据画像；老人和游客。",
+        "en": "Dead battery, cannot live; data portraits; elders and tourists."
+      },
+      {
+        "time": "3:00",
+        "zh": "点名 Bizum：移动不必等于无现金。挂钩关系、时间、身体。",
+        "en": "Name Bizum: mobile need not mean cashless. Hook: relations, time, body."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "讲一次你扫码失败或成功的经历。失败的那十秒，系统把你变成了谁？",
+        "en": "Tell a scan that failed or worked. In those ten seconds of failure, who did the system turn you into?"
+      },
+      {
+        "zh": "Bizum 和微信／支付宝最大的不同，是速度，还是它有没有吃掉现金？",
+        "en": "The biggest difference between Bizum and WeChat / Alipay: speed, or whether it has eaten cash?"
+      },
+      {
+        "zh": "如果方便必须以「被记住每一次购买」为门票，你还用吗？",
+        "en": "If convenience’s ticket is “being remembered for every purchase”, would you still use it?"
+      },
+      {
+        "zh": "如果一个城市完全没有现金，老人和游客会遇到什么？",
+        "en": "If a city had no cash at all, what would elders and tourists meet?"
+      },
+      {
+        "zh": "比较夜市扫码和你家附近菜市场怎么付钱。",
+        "en": "Compare scanning at a night market with how people pay at a market near you."
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "讲一次你扫码失败或成功的经历。失败的那十秒，系统把你变成了谁？",
+        "en": "Tell a scan that failed or worked. In those ten seconds of failure, who did the system turn you into?"
+      },
+      {
+        "zh": "Bizum 和微信／支付宝最大的不同，是速度，还是它有没有吃掉现金？",
+        "en": "Bizum versus WeChat / Alipay: is the biggest difference speed, or whether cash was eaten?"
+      },
+      {
+        "zh": "如果方便必须以「被记住每一次购买」为门票，你还用吗？",
+        "en": "If convenience’s ticket is being remembered for every purchase, would you still use it?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "移动支付",
+        "pinyin": "yídòng zhīfù",
+        "pos": "名",
+        "en": "mobile payment",
+        "example": "移动支付在中国非常普及。",
+        "exampleEn": "Mobile payment is extremely widespread in China."
+      },
+      {
+        "hanzi": "二维码",
+        "pinyin": "èrwéimǎ",
+        "pos": "名",
+        "en": "QR code",
+        "example": "请扫描桌上的二维码点餐。",
+        "exampleEn": "Please scan the QR code on the table to order."
+      },
+      {
+        "hanzi": "现金",
+        "pinyin": "xiànjīn",
+        "pos": "名",
+        "en": "cash",
+        "example": "有的小店已经不收现金。",
+        "exampleEn": "Some small shops no longer take cash."
+      },
+      {
+        "hanzi": "方便",
+        "pinyin": "fāngbiàn",
+        "pos": "形",
+        "en": "convenient",
+        "example": "扫码确实很方便。",
+        "exampleEn": "Scanning a code is truly convenient."
+      },
+      {
+        "hanzi": "隐私",
+        "pinyin": "yǐnsī",
+        "pos": "名",
+        "en": "privacy",
+        "example": "支付记录可能涉及隐私。",
+        "exampleEn": "Payment records may involve privacy."
+      },
+      {
+        "hanzi": "依赖",
+        "pinyin": "yīlài",
+        "pos": "动/名",
+        "en": "to depend on / dependence",
+        "example": "我们不能过度依赖一部手机。",
+        "exampleEn": "We should not depend too much on one phone."
+      },
+      {
+        "hanzi": "普及",
+        "pinyin": "pǔjí",
+        "pos": "动",
+        "en": "to become widespread",
+        "example": "智能手机已经非常普及。",
+        "exampleEn": "Smartphones are already very widespread."
+      },
+      {
+        "hanzi": "交易",
+        "pinyin": "jiāoyì",
+        "pos": "名/动",
+        "en": "transaction / to trade",
+        "example": "一笔交易只需要几秒钟。",
+        "exampleEn": "A transaction takes only a few seconds."
+      },
+      {
+        "hanzi": "扫码",
+        "pinyin": "sǎomǎ",
+        "pos": "动",
+        "en": "to scan a QR code",
+        "example": "买一杯奶茶也要扫码。",
+        "exampleEn": "Even a cup of milk tea needs a scan."
+      },
+      {
+        "hanzi": "到账",
+        "pinyin": "dàozhàng",
+        "pos": "动",
+        "en": "to arrive in the account",
+        "example": "摊主听见到账的提示音才开始装袋。",
+        "exampleEn": "The stallholder only starts bagging when the arrival beep sounds."
+      },
+      {
+        "hanzi": "无现金",
+        "pinyin": "wúxiànjīn",
+        "pos": "形/名",
+        "en": "cashless",
+        "example": "无现金城市对游客并不友好。",
+        "exampleEn": "A cashless city is not friendly to visitors."
+      },
+      {
+        "hanzi": "数字鸿沟",
+        "pinyin": "shùzì hónggōu",
+        "pos": "名",
+        "en": "digital divide",
+        "example": "数字鸿沟先出现在菜市场，不是在实验室。",
+        "exampleEn": "The digital divide appears first in the market, not in the lab."
+      },
+      {
+        "hanzi": "追踪",
+        "pinyin": "zhuīzōng",
+        "pos": "动",
+        "en": "to track",
+        "example": "每一笔支付都可能被追踪。",
+        "exampleEn": "Every payment may be tracked."
+      },
+      {
+        "hanzi": "打赏",
+        "pinyin": "dǎshǎng",
+        "pos": "动",
+        "en": "to tip (digitally)",
+        "example": "路过的人用扫码给街头艺人打赏。",
+        "exampleEn": "Passers-by tip a street musician by scanning."
+      },
+      {
+        "hanzi": "排外",
+        "pinyin": "páiwài",
+        "pos": "形/动",
+        "en": "exclusionary",
+        "example": "一种只认本地码的系统，对游客是排外的。",
+        "exampleEn": "A system that only accepts a local code is exclusionary to visitors."
+      },
+      {
+        "hanzi": "零钱",
+        "pinyin": "língqián",
+        "pos": "名",
+        "en": "small change",
+        "example": "没有零钱的晚上，现金也会不够用。",
+        "exampleEn": "On a night without small change, even cash may not be enough."
+      }
+    ]
+  },
+  {
+    "slug": "zhibo",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一部手机被支架固定，镜头比人的眼睛更正。",
+        "en": "A phone is fixed on a stand; the lens is more upright than the person’s eyes."
+      },
+      {
+        "zh": "旁边有灯，水果或货物被照得比房间其余部分更亮。",
+        "en": "There is a lamp beside it; fruit or goods are lit brighter than the rest of the room."
+      },
+      {
+        "zh": "一筐柑橘或土货占据前景，叶子还在，像刚从地里来。",
+        "en": "A basket of oranges or farm goods fills the foreground; the leaves are still on, as if just from the field."
+      },
+      {
+        "zh": "一只手托起果实给镜头看，比给旁边的人看更认真。",
+        "en": "A hand holds a fruit up to the lens, more carefully than it would for the person next to them."
+      },
+      {
+        "zh": "背景简陋：墙、棚、田间或卧室，不是商场的天花板。",
+        "en": "The background is bare: a wall, a shed, a field or a bedroom — not a mall ceiling."
+      },
+      {
+        "zh": "屏幕里可能有倒计时、价格和购物车，即使照片没写出来。",
+        "en": "On the screen there may be a countdown, a price and a shopping cart, even if the photo does not write them out."
+      },
+      {
+        "zh": "说话的人比货更靠近灯——这场买卖先卖的是语气。",
+        "en": "The speaker is closer to the lamp than the goods — this sale first sells a tone of voice."
+      },
+      {
+        "zh": "没有顾客的身体在场，顾客在很远的床上或地铁里。",
+        "en": "No customer’s body is present; the customers are far away, in bed or on the metro."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "支架上的手机比人的眼睛更正。灯把一筐水果照得比房间更亮，叶子还在，像刚从地里来；一只手把果实托给镜头，比托给旁边的人更认真。背景是墙、棚或田，不是商场。顾客不在场，他们在很远的床上。直播带货把摊位搬进卧室，也把果园搬进城市人的拇指。助农那一类更具体：货走不掉时，镜头对准树，下一单，少一层中间商。",
+        "en": "The phone on the stand is more upright than the person’s eyes. A lamp lights a basket of fruit brighter than the room; leaves are still on, as if just from the field; a hand holds a fruit up to the lens more carefully than to the person beside them. The background is a wall, a shed or a field, not a mall. Customers are not present; they are far away in bed. Livestream selling moves the stall into a bedroom, and the orchard into a city thumb. The farm-aid kind is more specific: when goods will not move, the lens faces the tree; the next order skips a layer of middlemen."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "电商让小城市能买到和大城市一样的货；直播把购买做成一场限时表演：介绍、倒计时、优惠券、口头禅。它到底在解决谁的问题？农户要解决滞销和被压价；平台要解决你多停留一分钟；主播要解决这个月的提成。创造力在这里不抽象：会说话、会把灯打在果皮的亮处，就能改一条供应链的长短。屏幕上的摊位，是新的市集，也是新的话术车间。",
+        "en": "E-commerce lets a small city buy the same goods as a big one; livestream turns buying into a timed performance: introduction, countdown, coupon, catchphrase. Whose problem does it solve? Farmers need to solve unsold stock and being underpaid; the platform needs you to stay one more minute; the host needs this month’s commission. Ingenuity here is not abstract: being able to talk, being able to put the lamp on the bright side of a peel, can change the length of a supply chain. The stall on the screen is a new market, and a new workshop of talk."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "货从仓库或地里来，经过平台的物流，退货再原路或就近销毁。主播可能是网红、县长、农民自己，或公司雇的嘴。倒计时把「再想想」收走，优惠券把「现在」写得像恩惠。助农直播常在地里支灯，城市观众以为自己跳过了中间商，中间其实还有平台抽成、包装和运费。规则是：留得住你的眼睛，才留得住订单；话术比产地介绍更贵。钱的流向在购物车里看不清，在对账单里才清楚。",
+        "en": "Goods come from a warehouse or the field, pass through the platform’s logistics, and returns go back or are destroyed nearby. The host may be an influencer, a county head, a farmer, or a mouth hired by a company. The countdown takes away “let me think”; the coupon writes “now” as if it were a favour. Farm-aid streams often plant lights in the field; city viewers think they have skipped the middleman, yet there is still the platform cut, packaging and freight. The rule is: keep the eyes, then you keep the order; talk costs more than a description of origin. Money’s path is unclear in the cart; it is clear on the statement."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：躺着就能逛完一条街，下单的快感具体到倒计时的最后两秒，自己也短暂地觉得帮上了忙，冰箱里多出一种以前买不到的味道。农户和家庭作坊：滞销的水果有了一条不经过批发市场的出口，现金来得比往年那个收购商快，孩子也许第一次看见自家的果出现在陌生人的评论里。社会：供应链被说短了，偏远的土货能进城市冰箱，消费被写成一种可以表演的善。会说话成为一种新的基础设施。",
+        "en": "Personal: you can walk a whole street lying down; the pleasure of ordering is as concrete as the last two seconds of a countdown; you briefly feel you have helped; the fridge holds a flavour you could not buy before. Farm households and family workshops: unsold fruit finds an exit that does not go through the wholesale market; cash arrives faster than last year’s buyer; a child may see the family’s fruit in a stranger’s comments for the first time. Society: the supply chain is said to be shorter; remote produce can enter a city fridge; consumption is written as a goodness that can be performed. Being able to talk becomes a new kind of infrastructure."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：「不买就亏」循环播放，冲动订单第二天变成嫌弃，退货要拍照、要等。结构：夸张宣传和假货透支信任；助农热度退去，树还在，订单不在；主播的过劳是这场表演看不见的成本。被排除的是不会说话、没有灯、拍不出「真实感」的生产者——货可能更好，镜头不会站在他们那边。实体店被问还有没有必要，店员的身体却仍比主播更会量你的尺码。",
+        "en": "Everyday: “you’ll lose if you don’t buy” loops; an impulse order becomes dislike the next day; returns need photos and waiting. Structural: hype and fakes overdraw trust; when the farm-aid heat cools, the tree is still there and the orders are not; the host’s overwork is the cost this performance does not show. The excluded are producers who cannot talk, have no lamp, cannot shoot a sense of “the real” — their goods may be better; the lens will not stand on their side. Physical shops are asked whether they are still needed, yet a shop assistant’s body is still better at measuring your size than a host is."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "选品官在镜头后面决定今晚卖什么；剧本把口语写到第三遍；数据可以刷，热度可以买。深夜档对着失眠的人，语气更软，折扣更大。退货制造一箱箱拆过的垃圾，包装比果子更远。县长直播是政治，也是营销，口试里两边都要会说。意大利手作店把一件皮具卖很慢，直播把一筐橙卖很快，两种时间在抢同一种「真实」。假的果园布景一旦被拆穿，真的助农也会被连坐。",
+        "en": "A buyer behind the lens decides what to sell tonight; a script writes spoken lines to the third draft; data can be faked, heat can be bought. The late-night slot speaks more softly to insomniacs, with bigger discounts. Returns make boxes of already-opened rubbish; packaging travels farther than fruit. A county head’s stream is politics and marketing — the oral must be able to say both. An Italian craft shop sells a piece of leather slowly; a livestream sells a basket of oranges fast; two kinds of time compete for the same “real”. Once a fake orchard set is exposed, real farm-aid is punished with it."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙不是没有带货：Instagram 小店、周日 Mercadillo、El Corte Inglés 的柜员，仍要求你看清货、摸得到退。直播购物把观看变成结账，中国的倒计时更密、货架更大。意大利手作店是反例：你要推门、要摸、要等。挂钩：直播改关系，双方不再共用一张桌，主播用语气假装在场；改时间，把犹豫收进倒计时；改身体，主播的嗓子按小时消耗，观众的拇指和胃在床上同时工作。下单以前，至少要说出货从哪来、退了去哪。",
+        "en": "Spain is not without selling-by-looking: Instagram shops, Sunday mercadillos, a clerk at El Corte Inglés still expect you to see the goods and know where a return goes. Livestream shopping turns watching into checkout; China’s countdowns are denser and the catalogue larger. An Italian craft shop is the counter-example: you push a door, you touch, you wait. The hook: livestreams change relations — buyer and seller no longer share a table, the host fakes presence with tone; they change time, folding hesitation into a countdown, turning night into a shelf; they change the body — the host’s voice and stance are spent by the hour, the viewer’s thumb and stomach work together in bed. Before I order, I should at least be able to say where the goods came from, and where a return goes."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "支架、灯、一筐果、托给镜头的手；顾客不在场。",
+        "en": "Stand, lamp, a basket of fruit, a hand held to the lens; customers not present."
+      },
+      {
+        "time": "0:30",
+        "zh": "限时表演；解决滞销，也解决平台要你停留。",
+        "en": "A timed show; solving unsold stock, and a platform’s need for you to stay."
+      },
+      {
+        "time": "0:55",
+        "zh": "倒计时＋券；谁当中间商；地里支灯。",
+        "en": "Countdown plus coupon; who is the middleman; lights planted in the field."
+      },
+      {
+        "time": "1:35",
+        "zh": "躺着逛街／农户回款／土货进冰箱。",
+        "en": "Shopping while lying down / farmers getting paid / farm goods entering a fridge."
+      },
+      {
+        "time": "2:15",
+        "zh": "不买就亏；热度退去；不会说话的生产者。",
+        "en": "“Lose if you don’t buy”; heat fading; producers who cannot talk."
+      },
+      {
+        "time": "3:00",
+        "zh": "Instagram 直播／购物标签；意大利手作店的慢。挂钩关系、时间、身体。",
+        "en": "Instagram Live / shopping tags; the slowness of an Italian craft shop. Hook: relations, time, body."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述一场你看过的直播：灯、语气、你为什么下单或不下单。",
+        "en": "Describe a stream you watched: the lamp, the tone, why you ordered or did not."
+      },
+      {
+        "zh": "助农直播里，农民、平台、观众，谁付出最多，谁最容易先离开？",
+        "en": "In a farm-aid stream, who pays most — farmer, platform, viewer — and who leaves first?"
+      },
+      {
+        "zh": "实体店还剩下什么是镜头给不了的？量尺码算不算一种发明？",
+        "en": "What does a physical shop still have that a lens cannot give? Is measuring a size an invention?"
+      },
+      {
+        "zh": "Instagram 购物标签和中国的倒计时，哪一种更难「再想想」？",
+        "en": "Instagram shopping tags and a Chinese countdown: which makes “let me think” harder?"
+      },
+      {
+        "zh": "意大利手作店把一件皮具卖很慢，直播把一筐橙卖很快。你站在哪一种时间？",
+        "en": "An Italian shop sells leather slowly; a stream sells oranges fast. Which time do you stand in?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "描述一场你看过的直播：灯、语气、你为什么下单或不下单。",
+        "en": "Describe a stream you watched: lamp, tone, why you ordered or did not."
+      },
+      {
+        "zh": "助农直播里，农民、平台、观众，谁付出最多，谁最容易先离开？",
+        "en": "In a farm-aid stream, who pays most, and who leaves first — farmer, platform, or viewer?"
+      },
+      {
+        "zh": "实体店还剩下什么是镜头给不了的？量尺码算不算一种发明？",
+        "en": "What does a shop still have that a lens cannot give? Is measuring a size an invention?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "直播",
+        "pinyin": "zhíbō",
+        "pos": "名/动",
+        "en": "livestream",
+        "example": "她靠直播介绍家乡的水果。",
+        "exampleEn": "She introduces hometown fruit through livestreams."
+      },
+      {
+        "hanzi": "带货",
+        "pinyin": "dàihuò",
+        "pos": "动",
+        "en": "to sell goods on stream",
+        "example": "带货主播需要很会说话。",
+        "exampleEn": "A selling host needs to be a good talker."
+      },
+      {
+        "hanzi": "电商",
+        "pinyin": "diànshāng",
+        "pos": "名",
+        "en": "e-commerce",
+        "example": "电商让小城市也能买到同样的货。",
+        "exampleEn": "E-commerce lets small cities buy the same goods."
+      },
+      {
+        "hanzi": "助农",
+        "pinyin": "zhùnóng",
+        "pos": "动",
+        "en": "to help farmers",
+        "example": "这场直播的目的是助农。",
+        "exampleEn": "The aim of this stream is to help farmers."
+      },
+      {
+        "hanzi": "消费者",
+        "pinyin": "xiāofèizhě",
+        "pos": "名",
+        "en": "consumer",
+        "example": "消费者需要辨别广告和事实。",
+        "exampleEn": "Consumers need to tell ads from facts."
+      },
+      {
+        "hanzi": "冲动",
+        "pinyin": "chōngdòng",
+        "pos": "名/形",
+        "en": "impulse / impulsive",
+        "example": "倒计时让人容易冲动下单。",
+        "exampleEn": "A countdown makes impulse orders easy."
+      },
+      {
+        "hanzi": "信任",
+        "pinyin": "xìnrèn",
+        "pos": "名/动",
+        "en": "trust / to trust",
+        "example": "没有信任，直播卖货走不远。",
+        "exampleEn": "Without trust, livestream selling does not go far."
+      },
+      {
+        "hanzi": "供应链",
+        "pinyin": "gōngyìngliàn",
+        "pos": "名",
+        "en": "supply chain",
+        "example": "短视频正在改变农产品的供应链。",
+        "exampleEn": "Short video is changing the farm supply chain."
+      },
+      {
+        "hanzi": "倒计时",
+        "pinyin": "dàojìshí",
+        "pos": "名",
+        "en": "countdown",
+        "example": "倒计时把「再想想」收走了。",
+        "exampleEn": "The countdown takes away “let me think”."
+      },
+      {
+        "hanzi": "优惠券",
+        "pinyin": "yōuhuìquàn",
+        "pos": "名",
+        "en": "coupon",
+        "example": "优惠券让「现在」看起来像恩惠。",
+        "exampleEn": "A coupon makes “now” look like a favour."
+      },
+      {
+        "hanzi": "滞销",
+        "pinyin": "zhìxiāo",
+        "pos": "动/名",
+        "en": "unmarketable / unsold stock",
+        "example": "水果滞销时，有人把镜头对准果园。",
+        "exampleEn": "When fruit will not sell, someone points a camera at the orchard."
+      },
+      {
+        "hanzi": "中间商",
+        "pinyin": "zhōngjiānshāng",
+        "pos": "名",
+        "en": "middleman",
+        "example": "少一层中间商，不等于没有平台抽成。",
+        "exampleEn": "One fewer middleman is not the same as no platform cut."
+      },
+      {
+        "hanzi": "主播",
+        "pinyin": "zhǔbō",
+        "pos": "名",
+        "en": "livestream host",
+        "example": "主播卖的首先是语气。",
+        "exampleEn": "What a host sells first is tone of voice."
+      },
+      {
+        "hanzi": "过劳",
+        "pinyin": "guòláo",
+        "pos": "名",
+        "en": "overwork",
+        "example": "主播的过劳是这场表演看不见的成本。",
+        "exampleEn": "A host’s overwork is the cost this show does not show."
+      },
+      {
+        "hanzi": "假货",
+        "pinyin": "jiǎhuò",
+        "pos": "名",
+        "en": "counterfeit goods",
+        "example": "一次假货能毁掉整场助农的信任。",
+        "exampleEn": "One fake can destroy a whole farm-aid’s trust."
+      },
+      {
+        "hanzi": "流量",
+        "pinyin": "liúliàng",
+        "pos": "名",
+        "en": "traffic / views",
+        "example": "没有流量，土货还是土货。",
+        "exampleEn": "Without traffic, farm goods stay farm goods."
+      }
+    ]
+  },
+  {
+    "slug": "shejiao",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一个人低头写字，宣纸和木头把室内放得很慢。",
+        "en": "Someone looks down writing; xuan paper and wood slow the room."
+      },
+      {
+        "zh": "墨和笔在手里，旧媒介的全部工具不超过一张桌。",
+        "en": "Ink and brush are in the hand; the whole toolkit of the old medium fits on one desk."
+      },
+      {
+        "zh": "窗外或画面另一侧，一列高铁横穿，金属和速度突然进来。",
+        "en": "Outside the window or on the other side of the frame, a high-speed train cuts across; metal and speed suddenly enter."
+      },
+      {
+        "zh": "两种时间挤在同一张图里：一笔一画，和一小时三百公里。",
+        "en": "Two kinds of time are squeezed into one picture: stroke by stroke, and three hundred kilometres an hour."
+      },
+      {
+        "zh": "写字的人未必在看列车，列车也未必为他停。",
+        "en": "The writer may not be watching the train, and the train will not stop for them."
+      },
+      {
+        "zh": "没有手机被画在正中，但当代观众会自动把「刷」补进去。",
+        "en": "No phone is drawn at the centre, but a contemporary viewer will automatically fill in “scrolling”."
+      },
+      {
+        "zh": "木头暖、车身冷，材料自己在比较。",
+        "en": "Wood is warm, the train body is cold; the materials compare themselves."
+      },
+      {
+        "zh": "新旧媒介没有互相取消——它们只是被迫合影。",
+        "en": "Old and new media have not cancelled each other — they have only been forced into a group photo."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "这张图把两种速度按在一起：室内，人低头写字，宣纸和木头把时间放慢；窗外或对面，一列高铁横穿，金属把风景切成条。书法是旧媒介，列车是新基础设施，中间缺席的是手机——当代观众却会自动把「刷」补进画面。微信、微博、抖音、小红书，是四种说话的房间。同一件事，进不同的门，会变成四种语气。媒介不只是管道，它训练你怎么当一个人。",
+        "en": "This picture pins two speeds together. Indoors, a person looks down writing; xuan paper and wood slow time. Outside or opposite, a high-speed train cuts across; metal slices the view into strips. Calligraphy is the old medium, the train a new infrastructure; what is missing in the middle is the phone — yet a contemporary viewer will automatically fill “scrolling” into the frame. WeChat, Weibo, Douyin, Xiaohongshu: four rooms for speaking. The same event, entering different doors, becomes four tones. Media are not pipes; they train you how to be a person."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "微信像家庭客厅，消息要回，红包会响；微博像广场，声音大，人也杂；抖音像夜市，灯亮、摊密、你很难只看一个；小红书像一本互相抄的生活手册，美和教程写在一起。它到底在解决谁的问题？让分散的人被看见、被找到；也让平台把你的注意力卖给下一条。创造力在这里发明的不是电缆，是房间的规矩：谁能进、谁能删、什么算一句完整的话。",
+        "en": "WeChat is a family living room: messages must be answered, red packets ring. Weibo is a square: voices are loud, people mixed. Douyin is a night market: lights on, stalls dense, hard to watch only one. Xiaohongshu is a lifestyle handbook people copy from each other, beauty and tutorials written together. Whose problem does it solve? Letting scattered people be seen and found; and letting a platform sell your attention to the next item. What ingenuity invents here is not the cable, but the room’s rules: who may enter, who may delete, what counts as a complete sentence."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "谁发、谁点赞、谁被算法推到你面前，决定今晚的心情。家庭群用微信维持「还在」，朋友用限时动态维持「还酷」，陌生人在广场和夜市里练习勇敢或残忍。通知开着，房间就随时推门；通知关着，才有一点当代的修养。钱的流向是广告和直播，规则写在你看不见的排序里。用中文软件时，有的学生会变成另一个自己：更客气，或更敢骂，或只会发表情。",
+        "en": "Who posts, who likes, who is pushed in front of you by an algorithm, decides tonight’s mood. Family groups use WeChat to keep “still here”; friends use stories to keep “still cool”; strangers practise courage or cruelty in the square and the night market. Notifications on, and the room can push the door at any time; notifications off, and there is a little contemporary self-cultivation. Money flows as ads and livestreams; the rules are written in a ranking you cannot see. On Chinese apps, some students become someone else: more polite, or ruder, or only able to send stickers."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：远方的朋友变得很近，一句语音比信快，自己也有了不必当面开口的表达出口，胆小的人先在房间里练习说话。家庭：群把分散的子女按回同一面墙，病、票、照片在里面流转，老人学会发语音就算进了客厅，不会打字的人用语音占一张沙发。社会：公共讨论有了广场，科普和谣言用同一套转发键；网络流行语成为新的口语教材，也成为新的代沟。连接是真的，房间的回声也是真的。",
+        "en": "Personal: distant friends feel close; a voice note is faster than a letter; you have an outlet that does not need to speak face to face; the timid practise talking in a room first. Family: a group pins scattered children back onto one wall; illness, tickets, photos circulate inside; an elder who learns to send voice notes has entered the living room; someone who cannot type takes a sofa with a voice message. Society: public talk has a square; science explainers and rumours share the same forward button; internet slang becomes a new oral textbook, and a new generation gap. The connection is real; so is the room’s echo."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：刷到半夜，比较别人的旅行和皮肤，焦虑具体到拇指发酸，下一早还要装作睡得很好。结构：「必须被看见」变成一种新的礼貌，不被点赞就像当众沉默；谣言比更正跑得快；父母要密码，孩子用小号。被排除的是不上网的人，以及上网却不会表演的人——他们不是没有生活，是没有房间认可的那种生活。短视频让世界变宽，也让注意变碎。",
+        "en": "Everyday: scrolling until midnight, comparing other people’s travel and skin; anxiety as concrete as an aching thumb; the next morning you pretend you slept well. Structural: “must be seen” becomes a new politeness; no likes feels like public silence; rumours outrun corrections; parents want passwords, children keep a second account. The excluded are people not online, and people online who cannot perform — they do not lack a life; they lack the kind of life a room will recognise. Short video widens the world and shatters attention."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "数字排毒被写成周末作业，关通知像一种修行，有人把手机放进另一间屋，才发现晚上原来有声音。中文软件和外文软件里，同一个人的面子策略不同。父母看孩子账号，是保护还是入侵，口试里可以两边走。算法已经在发明审美：什么滤镜算干净，什么背景音乐算懂——提案里那一站专写这件事。图里的高铁提醒你：新媒介会改距离，就像 AVE 改西班牙的周末；旧媒介的那支笔，仍在训练另一种停顿。",
+        "en": "Digital detox is written as weekend homework; turning off notifications is like a practice; some people put the phone in another room and discover that night has a sound. In Chinese apps and foreign ones, the same person’s face-strategy differs. Whether parents watching a child’s account is protection or invasion — the oral can walk both sides. Algorithms are already inventing taste: which filter counts as clean, which background track counts as knowing. The train in the picture reminds you: new media change distance, as AVE changes a Spanish weekend; the old medium’s brush still trains another kind of pause."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "Instagram 是最该点名的对应物：故事像夜市，贴文像手册，私信有一点客厅。WhatsApp 更接近微信家庭群。AVE 像图里的列车——速度把人送走，屏幕再把人拉回。挂钩：房间改关系，你在客厅是子女，在广场是观众；改时间，无限下拉把夜晚切成「再一条」；改身体，颈部下弯，拇指代说话。可以留下两个房间；关通知是自己发明的边界。",
+        "en": "Instagram is the counterpart that should be named: four functions squeezed into one app — stories like a night market, posts like a handbook, DMs with a little of the living room. WhatsApp is closer to WeChat’s family group. AVE sits in this picture’s metaphor — speed sends people away, the screen pulls them back. The hook: rooms change relations — in the living room you are a child, in the square an audience, in the night market a pair of eyes being sold to; they change time, infinite scroll cutting night into a never-ending “one more”; they change the body, neck bent, thumb speaking, sleep bitten by a notification. Keep two rooms; you need not live in all of them. Turning off notifications is not outdated; it is a boundary you invent for yourself."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "写字的手＋横穿的列车；两种速度合影。",
+        "en": "A writing hand plus a train cutting across; two speeds in one photo."
+      },
+      {
+        "time": "0:30",
+        "zh": "四种房间；解决被看见，也训练你怎么做人。",
+        "en": "Four rooms; solving being seen, and training how to be a person."
+      },
+      {
+        "time": "0:55",
+        "zh": "谁发谁推送；通知开关；中文软件里的另一个自己。",
+        "en": "Who posts, who is pushed; notification on or off; another self inside a Chinese app."
+      },
+      {
+        "time": "1:35",
+        "zh": "语音出口／家庭群／广场与新口语。",
+        "en": "A voice-note exit / the family group / the square and a new spoken language."
+      },
+      {
+        "time": "2:15",
+        "zh": "拇指发酸；必须被看见；不会表演的人。",
+        "en": "An aching thumb; the duty to be seen; people who cannot perform."
+      },
+      {
+        "time": "3:00",
+        "zh": "Instagram 四功能；WhatsApp≈客厅；列车对 AVE。挂钩关系、时间、身体。",
+        "en": "Instagram’s four functions; WhatsApp ≈ living room; the train versus AVE. Hook: relations, time, body."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "只比较两个软件。同一条坏消息，你为什么发给这个，不发给那个？",
+        "en": "Compare only two apps. Why send the same piece of bad news to this one, not that one?"
+      },
+      {
+        "zh": "如果一周不用社交媒体，你的身体哪一部分会先抗议：拇指、脖子，还是睡眠？",
+        "en": "A week without social media: which part of the body protests first — thumb, neck, or sleep?"
+      },
+      {
+        "zh": "父母应该看孩子的账号吗？保护的是安全，还是父母自己的焦虑？",
+        "en": "Should parents look at a child’s account? Is that protecting safety, or the parents’ own anxiety?"
+      },
+      {
+        "zh": "微信客厅、微博广场、抖音夜市、小红书手册：你住进了几间？",
+        "en": "WeChat living room, Weibo square, Douyin night market, Xiaohongshu handbook: how many rooms do you live in?"
+      },
+      {
+        "zh": "AVE 把人送走，屏幕再把人拉回。速度和刷，哪一种更改你的周末？",
+        "en": "AVE sends people away; a screen pulls them back. Which changes your weekend more, speed or scrolling?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "只比较两个软件。同一条坏消息，你为什么发给这个，不发给那个？",
+        "en": "Compare only two apps. Why this one for the same bad news, not that one?"
+      },
+      {
+        "zh": "如果一周不用社交媒体，你的身体哪一部分会先抗议：拇指、脖子，还是睡眠？",
+        "en": "A week without social media: thumb, neck or sleep — which protests first?"
+      },
+      {
+        "zh": "父母应该看孩子的账号吗？保护的是安全，还是父母自己的焦虑？",
+        "en": "Should parents look at a child’s account? Safety, or their own anxiety?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "社交媒体",
+        "pinyin": "shèjiāo méitǐ",
+        "pos": "名",
+        "en": "social media",
+        "example": "社交媒体让远方的朋友变得很近。",
+        "exampleEn": "Social media makes distant friends feel close."
+      },
+      {
+        "hanzi": "刷",
+        "pinyin": "shuā",
+        "pos": "动",
+        "en": "to scroll / refresh",
+        "example": "他一晚上都在刷短视频。",
+        "exampleEn": "He spent the whole evening scrolling short videos."
+      },
+      {
+        "hanzi": "点赞",
+        "pinyin": "diǎnzàn",
+        "pos": "动",
+        "en": "to like",
+        "example": "她不求火，只想要几个真心的点赞。",
+        "exampleEn": "She does not want fame, only a few sincere likes."
+      },
+      {
+        "hanzi": "关注",
+        "pinyin": "guānzhù",
+        "pos": "动",
+        "en": "to follow / pay attention",
+        "example": "我关注了几位科普博主。",
+        "exampleEn": "I follow several science explainers."
+      },
+      {
+        "hanzi": "焦虑",
+        "pinyin": "jiāolǜ",
+        "pos": "名/形",
+        "en": "anxiety / anxious",
+        "example": "看别人的生活容易让人焦虑。",
+        "exampleEn": "Watching other people’s lives easily makes one anxious."
+      },
+      {
+        "hanzi": "表达",
+        "pinyin": "biǎodá",
+        "pos": "动",
+        "en": "to express",
+        "example": "年轻人在网上更敢表达。",
+        "exampleEn": "Young people dare more to express themselves online."
+      },
+      {
+        "hanzi": "谣言",
+        "pinyin": "yáoyán",
+        "pos": "名",
+        "en": "rumour",
+        "example": "谣言在社交平台上传得很快。",
+        "exampleEn": "Rumours travel fast on social platforms."
+      },
+      {
+        "hanzi": "数字",
+        "pinyin": "shùzì",
+        "pos": "名/形",
+        "en": "digital / number",
+        "example": "数字生活需要边界。",
+        "exampleEn": "Digital life needs boundaries."
+      },
+      {
+        "hanzi": "客厅",
+        "pinyin": "kètīng",
+        "pos": "名",
+        "en": "living room",
+        "example": "微信像家庭客厅，消息不能不回。",
+        "exampleEn": "WeChat is like a family living room; messages must be answered."
+      },
+      {
+        "hanzi": "广场",
+        "pinyin": "guǎngchǎng",
+        "pos": "名",
+        "en": "public square",
+        "example": "微博像广场，声音很大，人也很杂。",
+        "exampleEn": "Weibo is like a square: loud, mixed."
+      },
+      {
+        "hanzi": "夜市",
+        "pinyin": "yèshì",
+        "pos": "名",
+        "en": "night market",
+        "example": "抖音像夜市，你很难只看一个摊。",
+        "exampleEn": "Douyin is like a night market; it is hard to watch only one stall."
+      },
+      {
+        "hanzi": "小红书",
+        "pinyin": "Xiǎohóngshū",
+        "pos": "名",
+        "en": "Xiaohongshu (RED)",
+        "example": "小红书像一本互相抄的生活手册。",
+        "exampleEn": "Xiaohongshu is like a lifestyle handbook people copy from each other."
+      },
+      {
+        "hanzi": "代沟",
+        "pinyin": "dàigōu",
+        "pos": "名",
+        "en": "generation gap",
+        "example": "网络流行语本身就是一条代沟。",
+        "exampleEn": "Internet slang is itself a generation gap."
+      },
+      {
+        "hanzi": "排毒",
+        "pinyin": "páidú",
+        "pos": "动/名",
+        "en": "detox",
+        "example": "数字排毒从关掉通知开始。",
+        "exampleEn": "Digital detox starts by turning off notifications."
+      },
+      {
+        "hanzi": "滤镜",
+        "pinyin": "lǜjìng",
+        "pos": "名",
+        "en": "filter",
+        "example": "滤镜先发明审美，再发明自卑。",
+        "exampleEn": "Filters invent taste first, then invent inferiority."
+      },
+      {
+        "hanzi": "通知",
+        "pinyin": "tōngzhī",
+        "pos": "名",
+        "en": "notification",
+        "example": "关通知，是一种当代的修养。",
+        "exampleEn": "Turning off notifications is a contemporary self-cultivation."
+      }
+    ]
+  },
+  {
+    "slug": "gaotie",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "白色或银色的列车贴在高架上，窗几乎连成一条线。",
+        "en": "A white or silver train is stuck to the viaduct; the windows almost form a single line."
+      },
+      {
+        "zh": "桥在山谷或田野上方，桥墩一根一根重复。",
+        "en": "The bridge runs above a valley or fields; the piers repeat one after another."
+      },
+      {
+        "zh": "下面有河或田，生活的尺度比车小很多。",
+        "en": "Below there is a river or farmland; the scale of living is much smaller than the train."
+      },
+      {
+        "zh": "山在远处，隧道的黑口也许刚被车甩在身后。",
+        "en": "Mountains in the distance; the black mouth of a tunnel may have just been thrown behind the train."
+      },
+      {
+        "zh": "车厢里的人小到看不见，发明把人收进速度里。",
+        "en": "People in the carriages are too small to see; the invention has folded bodies into speed."
+      },
+      {
+        "zh": "天空很大，车却只占一条细线——基建的自信写在线条上。",
+        "en": "The sky is huge, the train only a thin line — infrastructure’s confidence is written in that line."
+      },
+      {
+        "zh": "没有站台，没有票，没有脸：这是被设计成风景的工程。",
+        "en": "No platform, no ticket, no face: this is engineering designed to look like landscape."
+      },
+      {
+        "zh": "如果有声音，应是很轻的风声，不是旧火车的撞击。",
+        "en": "If there is sound, it should be a light wind, not the clank of an old train."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "白色列车贴在高架上，窗连成一条细线。桥墩重复着穿过山谷，下面是田或河，山在远处，人已经小到看不见。这不是明信片上的风景，是当代中国最容易被看见的创造力：把一千公里压成四个小时的午饭。桥梁、隧道、调度系统是看不见的另一半发明。车身干净，声音轻，加速时身体先于风景知道自己在被运送——耳压一变，窗外的树就变成了线。",
+        "en": "A white train is stuck to the viaduct; windows join into a thin line. Piers repeat through a valley; below are fields or a river, mountains in the distance, people already too small to see. This is not postcard scenery; it is the easiest contemporary Chinese ingenuity to see: a thousand kilometres pressed into a four-hour lunch. Bridges, tunnels, dispatch systems are the invisible other half of the invention. The body of the train is clean, the sound light; when it accelerates the body knows it is being carried before the landscape does — ear pressure shifts, and the trees outside become lines."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "高铁是基础设施，也是一种国家被看见的方式。它压缩距离，让周末去另一座城市吃饭成为可能，也让春运的「回不去」少了一些。它到底在解决谁的问题？解决旅客要在一天里抵达的身体；解决家庭被工作地拆开之后，必须靠速度才能团圆的账；也解决「现代化要长什么样子」的展示。发明在这里是混凝土、电力和时刻表，不是一个可以放进橱窗的物件。",
+        "en": "High-speed rail is infrastructure, and a way a country is seen. It compresses distance, makes a weekend meal in another city possible, and eases a little of Chunyun’s “cannot go home”. Whose problem does it solve? The traveller’s body that needs to arrive in a day; the family account that, once work has split people, can only reunite by speed; and the display of “what modernisation is supposed to look like”. Invention here is concrete, electricity and a timetable, not an object you can put in a glass case."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "线路谁来画，谁的地被占，谁的村子被搬，决定之后几十年谁在网上。票在应用里放、候补、黄牛；准点被写成品德，晚点要解释。坐车的人有周末情侣、出差的合同、回家的学生，也有只把小站当成路过的人。钱花在建设、维护和那张票上；规则是：大城市先被连上，小城盼一个站，站来了也不保证繁荣。调度把成千上万的人按分钟排好，像把春运写成可以计算的方程。",
+        "en": "Who draws the line, whose land is taken, whose village is moved, decides who is on the network for decades after. Tickets are released, waitlisted, scalped in an app; punctuality is written as virtue, delay must be explained. Riders include weekend couples, contracts on a work trip, students going home, and people for whom a small station is only something passed. Money is spent on building, upkeep and that ticket. The rule is: big cities are connected first; a small city hopes for a station; a station does not guarantee prosperity. Dispatch lines up tens of thousands by the minute, as if writing Chunyun as an equation that can be calculated."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：身体记得加速、耳压、窗外被切成条的田，自己也敢把「去另一座城吃午饭」说成计划，而不是冒险。家庭：见面的频率上升，有的人开始跨城上班、跨城恋爱，年不再是唯一必须到场的理由。社会：城市被重新联网，物流和人才跟着时刻表走，国家把准点、干净、可到达写成一种公共产品。效率是真的，而且已经改了地图在心里的比例。",
+        "en": "Personal: the body remembers acceleration, ear pressure, fields cut into strips outside the window; you dare to call “lunch in another city” a plan, not an adventure. Family: meetings become more frequent; some people start commuting and dating across cities; the New Year is no longer the only reason you must appear. Society: cities are re-networked; goods and talent follow the timetable; the country writes punctuality, cleanliness and reachability as a public good. The efficiency is real, and it has already changed the proportions of the map in the mind."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：热门时段买不到票，车站仍大得像考试；行李、儿童、不熟悉应用的老人会在闸机前卡住。结构：债务和占地是长账单；不是每座小站城市都因高铁自动繁荣，有的只剩下「路过」。被排除的是票价仍贵的人、线路不经过的人、以及为了桥和洞搬走的人——车从他们曾经的屋顶上过去。基建是政治，也是能不能买到周五晚上那张座。",
+        "en": "Everyday: at peak times you cannot get a ticket; stations are still as large as an exam; luggage, children, elders unused to the app get stuck at the gates. Structural: debt and land-take are a long bill; not every small-station city automatically prospers from high-speed rail — some are left only as “passed through”. The excluded are people for whom the fare is still high, people the line does not go near, and people moved for a bridge or a tunnel — the train passing over what used to be their roof. Infrastructure is politics, and whether you can buy Friday evening’s seat."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "夜间高铁把硬座的苦换成靠椅上的睡。站城一体把商场砌进车站，下车就是消费。和飞机比：短途高铁更准点、更进城，长途仍是飞机的；安检和去机场的时间要算进身体。沿线噪声和分割的农田是风景明信片不写的。春运临客、临时停站，证明调度仍要为人情让路。票价分层让同样的速度里坐着不一样的钱包。有人在车上开会，有人在车上补一夜没写完的作业，车厢变成一种临时的房间。",
+        "en": "Night trains swap the bitterness of hard seats for sleep in a reclining chair. Station-city integration builds a mall into the station; getting off is already consumption. Versus the plane: on short runs high-speed rail is more punctual and more into the city; on long runs the plane still wins; security and the trip to the airport must be counted into the body. Noise along the line and split farmland are what the postcard does not write. Chunyun extras and unscheduled stops prove that dispatch still yields to human feeling. Layered fares put different wallets in the same speed. Some people hold meetings on the train; some finish homework they did not write at night; the carriage becomes a temporary room."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "AVE 是必须点名的对应物：1992 年马德里到塞维利亚开通，同样用速度改周末、改谁还愿意住在哪。规模不同，逻辑同类。挂钩：高铁改关系，让跨城的爱和照料不必等一个长假；改时间，把「远」从过夜变成下午；改身体，人从颠簸和等待里被接出来，耳压提醒你发明正穿过内耳。速度值得要，线路凭什么先通到这里，必须能被问。",
+        "en": "AVE is the counterpart that must be named: Madrid to Seville in 1992, the same use of speed to change weekends and who is still willing to live where. Different scale, same logic. The hook: high-speed rail changes relations, so cross-city love and care need not wait for a long holiday; it changes time, turning “far” from an overnight into an afternoon; it changes the body, lifting people out of jolts and waiting into sitting quietly, ear pressure reminding you that an invention is passing through your inner ear. Speed is worth wanting; why a line reaches here first must be askable."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "高架、白车、山谷、桥墩；人被收进速度。",
+        "en": "Viaduct, white train, valley, piers; people folded into speed."
+      },
+      {
+        "time": "0:30",
+        "zh": "压缩距离；春运账＋现代化长什么样。",
+        "en": "Compressing distance; the Chunyun account plus what modernisation looks like."
+      },
+      {
+        "time": "0:55",
+        "zh": "谁的地被占；抢票；大城市先连。",
+        "en": "Whose land is taken; grabbing tickets; big cities connected first."
+      },
+      {
+        "time": "1:35",
+        "zh": "加速的身体／跨城见面／心里的地图改比例。",
+        "en": "The accelerating body / meeting across cities / the map in the mind changes scale."
+      },
+      {
+        "time": "2:15",
+        "zh": "买不到票；小站不自动繁荣；屋顶上过车的人。",
+        "en": "No ticket; small stations do not automatically prosper; people the train passes over."
+      },
+      {
+        "time": "3:00",
+        "zh": "点名 AVE 1992；同样改周末和居住。挂钩关系、时间、身体。",
+        "en": "Name AVE 1992; the same change to weekends and living. Hook: relations, time, body."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "讲一次坐高铁的身体感受：加速、声音、窗外。再连到你怎么计划旅行。",
+        "en": "Tell the bodily feel of one high-speed ride: acceleration, sound, the window. Then connect it to how you plan travel."
+      },
+      {
+        "zh": "AVE 和中国高铁，除了长短，还差在谁先被连上、谁被路过？",
+        "en": "AVE and Chinese high-speed rail: besides length, who is connected first, and who is only passed?"
+      },
+      {
+        "zh": "基建应该先到大城市，还是先到偏远地区？理由不能只是「效率」。",
+        "en": "Should infrastructure reach big cities first, or remote places? Your reason cannot be only “efficiency”."
+      },
+      {
+        "zh": "比较高铁和飞机：什么时候选哪一种？把去机场的时间算进身体。",
+        "en": "Compare rail and air: when would you choose which? Count the trip to the airport into the body."
+      },
+      {
+        "zh": "准点是公共产品，还是一种品德？买不到票的人该被羞辱吗？",
+        "en": "Is punctuality a public good, or a virtue? Should people who cannot get a ticket be shamed?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "讲一次坐高铁的身体感受：加速、声音、窗外。再连到你怎么计划旅行。",
+        "en": "The bodily feel of one ride: acceleration, sound, the window. Then how you plan travel."
+      },
+      {
+        "zh": "AVE 和中国高铁，除了长短，还差在谁先被连上、谁被路过？",
+        "en": "AVE and Chinese high-speed rail: besides length, who is connected first, who is only passed?"
+      },
+      {
+        "zh": "基建应该先到大城市，还是先到偏远地区？你的理由不能只是「效率」。",
+        "en": "Infrastructure first to big cities, or to remote places? Not only “efficiency”."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "高铁",
+        "pinyin": "gāotiě",
+        "pos": "名",
+        "en": "high-speed rail",
+        "example": "坐高铁去邻省只需要两小时。",
+        "exampleEn": "The neighbouring province is only two hours by high-speed rail."
+      },
+      {
+        "hanzi": "基础设施",
+        "pinyin": "jīchǔ shèshī",
+        "pos": "名",
+        "en": "infrastructure",
+        "example": "基础设施决定一个城市好不好住。",
+        "exampleEn": "Infrastructure decides how liveable a city is."
+      },
+      {
+        "hanzi": "准点",
+        "pinyin": "zhǔndiǎn",
+        "pos": "形",
+        "en": "on time",
+        "example": "这趟车非常准点。",
+        "exampleEn": "This train is extremely punctual."
+      },
+      {
+        "hanzi": "压缩",
+        "pinyin": "yāsuō",
+        "pos": "动",
+        "en": "to compress",
+        "example": "高铁压缩了城市之间的距离。",
+        "exampleEn": "High-speed rail compressed the distance between cities."
+      },
+      {
+        "hanzi": "隧道",
+        "pinyin": "suìdào",
+        "pos": "名",
+        "en": "tunnel",
+        "example": "列车钻进一条很长的隧道。",
+        "exampleEn": "The train entered a long tunnel."
+      },
+      {
+        "hanzi": "出行",
+        "pinyin": "chūxíng",
+        "pos": "动/名",
+        "en": "to travel / trip",
+        "example": "出行选择比十年前多很多。",
+        "exampleEn": "There are far more travel options than a decade ago."
+      },
+      {
+        "hanzi": "效率",
+        "pinyin": "xiàolǜ",
+        "pos": "名",
+        "en": "efficiency",
+        "example": "人们喜欢高铁，是因为它效率高。",
+        "exampleEn": "People like high-speed rail because it is efficient."
+      },
+      {
+        "hanzi": "连通",
+        "pinyin": "liántōng",
+        "pos": "动",
+        "en": "to connect",
+        "example": "新线路连通了两个县城。",
+        "exampleEn": "The new line connected two counties."
+      },
+      {
+        "hanzi": "高架",
+        "pinyin": "gāojià",
+        "pos": "名",
+        "en": "viaduct / elevated track",
+        "example": "列车在高架上穿过山谷。",
+        "exampleEn": "The train crosses the valley on a viaduct."
+      },
+      {
+        "hanzi": "调度",
+        "pinyin": "diàodù",
+        "pos": "名/动",
+        "en": "dispatch / control",
+        "example": "调度把上万人按分钟排好。",
+        "exampleEn": "Dispatch lines up tens of thousands by the minute."
+      },
+      {
+        "hanzi": "春运",
+        "pinyin": "chūnyùn",
+        "pos": "名",
+        "en": "Chunyun / Spring Festival travel",
+        "example": "高铁让春运的「回不去」少了一些。",
+        "exampleEn": "High-speed rail eases a little of Chunyun’s “cannot go home”."
+      },
+      {
+        "hanzi": "占地",
+        "pinyin": "zhàndì",
+        "pos": "动",
+        "en": "to occupy land",
+        "example": "一条新线的占地会改一个村子的命运。",
+        "exampleEn": "The land a new line takes can change a village’s fate."
+      },
+      {
+        "hanzi": "债务",
+        "pinyin": "zhàiwù",
+        "pos": "名",
+        "en": "debt",
+        "example": "巨大工程的债务是长账单。",
+        "exampleEn": "The debt of a huge project is a long bill."
+      },
+      {
+        "hanzi": "跨城",
+        "pinyin": "kuàchéng",
+        "pos": "形/动",
+        "en": "cross-city",
+        "example": "有人开始跨城上班、跨城恋爱。",
+        "exampleEn": "Some people have started commuting and dating across cities."
+      },
+      {
+        "hanzi": "桥墩",
+        "pinyin": "qiáodūn",
+        "pos": "名",
+        "en": "pier / pillar of a bridge",
+        "example": "桥墩一根一根重复，像在数公里。",
+        "exampleEn": "Piers repeat one after another, as if counting kilometres."
+      },
+      {
+        "hanzi": "洗牌",
+        "pinyin": "xǐpái",
+        "pos": "动/名",
+        "en": "reshuffle",
+        "example": "小站城市会被重新洗牌，不保证赢。",
+        "exampleEn": "Small-station cities get reshuffled; winning is not guaranteed."
+      }
+    ]
+  },
+  {
+    "slug": "waimai",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "外卖箱的黄或蓝是城市里新的制服色。",
+        "en": "The yellow or blue of the delivery box is a new uniform colour in the city."
+      },
+      {
+        "zh": "骑手头盔还戴着，下巴的带子说明他不会久停。",
+        "en": "The rider still has a helmet on; the strap under the chin says they will not stay long."
+      },
+      {
+        "zh": "车把上固定着手机，地图比路牌更有权力。",
+        "en": "A phone is fixed to the handlebars; the map has more power than street signs."
+      },
+      {
+        "zh": "电单车或摩托车占着马路牙子，和行人抢边。",
+        "en": "An e-bike or motorbike occupies the kerb, competing with pedestrians for the edge."
+      },
+      {
+        "zh": "旁边可能有一排共享单车，车筐和二维码是另一套调用。",
+        "en": "Beside them there may be a row of shared bikes; baskets and QR codes are another system of calling things up."
+      },
+      {
+        "zh": "塑料袋的提手勒在箱盖上，包装已经比饭先到达。",
+        "en": "Plastic-bag handles cut into the box lid; the packaging has arrived before the meal."
+      },
+      {
+        "zh": "骑手的姿势是等人：看门禁、打电话、准备上楼。",
+        "en": "The rider’s posture is waiting: checking the door code, phoning, about to go upstairs."
+      },
+      {
+        "zh": "膝盖对着马路——便利的身体账，写在这个弯曲的角度里。",
+        "en": "The knees face the road — the bodily bill of convenience is written in that bent angle."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "黄箱或蓝箱是城市里新的制服色。骑手头盔还戴着，车把上的手机比路牌更有权力；塑料袋勒在箱盖上，包装比饭先到达。旁边一排共享单车，车筐和二维码是另一套「调用」。人的姿势是等人：看门禁、打电话、准备上楼。膝盖对着马路。外卖、共享单车、共享充电宝，把「拥有」改成「打开软件」。便利是真的，天气和膝盖也是真的。图里没有顾客的脸，方便把接受的人藏进了楼上。",
+        "en": "Yellow or blue boxes are a new uniform colour in the city. The rider still has a helmet on; the phone on the handlebars has more power than street signs; plastic bags cut into the lid, packaging arriving before the meal. Beside them a row of shared bikes; baskets and QR codes are another system of “calling up”. The posture is waiting: checking the door, phoning, about to go upstairs. Knees face the road. Delivery, shared bikes, shared power banks change owning into opening an app. The convenience is real; so are the weather and the knees. No customer’s face is in the picture; convenience has hidden the receiver upstairs."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "饿了点一下，大约一刻钟内敲门；走两步扫一辆车；手机没电就租一块电池。它到底在解决谁的问题？解决忙和不想开火的人；解决城市最后一公里没地铁的那截；也解决平台要把订单密度写进地图。共享经济承诺少浪费，少买闲置。创造力在这里非常日常：发明不是新机器，是一套能把陌生人的劳动，按分钟租给你的系统。",
+        "en": "Hungry — tap, a knock in about a quarter of an hour; walk two steps and scan a bike; phone dead, rent a battery. Whose problem does it solve? People who are busy and do not want to light a stove; the last kilometre of a city that the metro does not cover; and a platform that wants order-density written onto a map. The sharing economy promised less waste, fewer idle purchases. Ingenuity here is extremely everyday: the invention is not a new machine, but a system that can rent a stranger’s labour to you by the minute."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "顾客在软件里选、付、催；骑手在超时的倒计时里选路线、闯不闯灯、打不打那通「请下楼」。下雨天的伦理最清楚：你要不要下楼，还是让他湿着等电梯。共享单车扫码计时，坏了谁修、扔到河边谁捞，常常没有人。充电宝的租金可以高过一顿面。钱从餐费和配送费里走，罚金从骑手的口袋走。规则是：平台的钟比客人的胃口更准，也更不原谅。",
+        "en": "The customer chooses, pays, chases in an app; the rider, inside a late-countdown, chooses a route, whether to run a light, whether to make that call: “please come down”. Rain makes the ethics clearest: will you go downstairs, or leave them wet waiting for the lift. Shared bikes start a timer when scanned; who repairs a broken one, who fishes one out of the river, often nobody. A power-bank’s rent can cost more than a bowl of noodles. Money moves through meal price and delivery fee; fines move through the rider’s pocket. The rule is: the platform’s clock is more punctual than a guest’s appetite, and less forgiving."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：省下一场开火和洗碗，夜晚可以被工作或懒正当占用，自己也习惯了「饿是可以立刻被回答的」，舌头却渐渐记不住自家锅的味道。家庭：家里的厨房有时只剩早餐，团圆变成一起等门铃，孩子先认识骑手的颜色，后认识炒菜的烟。社会：最后一公里被填上，少一些停车位和闲置的车，城市表面上更顺。调用比拥有轻，这是真的进步，只要不假装劳动消失了。",
+        "en": "Personal: you save lighting a stove and washing up; night can be occupied by work or by legitimate laziness; you get used to hunger being answerable at once, while the tongue slowly forgets the taste of your own pan. Family: the kitchen at home is sometimes only breakfast; reunion becomes waiting for the doorbell together; a child learns the rider’s colours before the smoke of stir-fry. Society: the last kilometre is filled in; fewer parking spaces and idle cars; the city looks smoother on the surface. Calling up is lighter than owning — that is real progress, so long as we do not pretend labour has vanished."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：超时电话、冷掉的汤、走廊里的塑料山，便利转头就是垃圾。结构：速度压力把风险从软件转移到骑手的膝盖和雨天的刹车；过度包装让一顿饭的壳比饭更长久；满街破车说明「共享」若没人维修，就只是把私人浪费改成公共浪费。被排除的是不能下楼的人、信号不好的人、以及被算法罚到不敢停下来喝水的人。",
+        "en": "Everyday: overtime calls, soup gone cold, a plastic mountain in the corridor; convenience turns its head and is rubbish. Structural: speed-pressure moves risk from software onto a rider’s knees and rainy brakes; over-packaging makes a meal’s shell last longer than the meal; streets of broken bikes show that “sharing” without repair is only private waste rewritten as public waste. The excluded are people who cannot go downstairs, people with a bad signal, and people fined by an algorithm until they dare not stop for water."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "共享充电宝把「绿色」写成广告，租金却常常不绿。平台罚单训练骑手和训练狗的方式很像：快，就有下一单。夜晚的门禁和电话，是顾客少有的、必须做道德决定的十秒。Instagram 上的食物照片把包装拍成生活方式，看不见送它来的人。意大利手作和慢食是反例：一顿饭按小时，不按倒计时，手的痕迹留在盘子里，不留在塑料盒的封口上。",
+        "en": "Shared power banks write “green” as an advert; the rent is often not green. Platform fines train riders in a way that looks like training a dog: be fast, and there is a next order. A night door-code and a phone call are the ten seconds when a customer rarely has to make a moral decision. Instagram food photos shoot packaging as a lifestyle, and do not show the person who brought it. Italian craft and slow food are the counter-example: a meal by the hour, not by countdown; the trace of a hand stays on the plate, not on the seal of a plastic box."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "Bizum 可付一笔小钱，却很少把晚饭连同一个人的膝盖送到门口。Instagram 把食物变成被看的东西。意大利手作和慢食提醒：不是所有便利都该赢过手续。挂钩：外卖改关系，陌生人在雨里成了你的厨房；改时间，饥饿从「该开火」变成「还剩八分钟」；改身体，你的手离开锅，骑手的膝盖接过劳动。可以点，下雨请下楼。三问少一问就还没说完。",
+        "en": "Bizum can pay a small sum, yet it rarely packs an evening meal together with a person’s knees to your door — in Spain it is more common to fetch it yourself, or use a little delivery. Instagram is in charge of turning food into something to be looked at. Italian craft reminds you: not every convenience should beat a procedure. The hook: delivery changes relations — a stranger in the rain becomes your kitchen, and you share only an order number; it changes time — hunger goes from “should light the stove” to “eight minutes left”; it changes the body — your hand leaves the pan, the rider’s knees and wrists take over that stretch of labour. You may order; in the rain, please go downstairs. Who is helped, who is tired, where the rubbish goes — miss one of the three questions, and this stop is not finished."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "黄箱、头盔、车把手机、膝盖对着马路。",
+        "en": "Yellow box, helmet, phone on the bars, knees facing the road."
+      },
+      {
+        "time": "0:30",
+        "zh": "拥有改成调用；解决忙，也解决订单密度。",
+        "en": "Owning becomes calling up; solving busyness, and order density."
+      },
+      {
+        "time": "0:55",
+        "zh": "超时倒计时；下雨下不下楼；坏车谁捞。",
+        "en": "A late countdown; in rain, downstairs or not; who fishes up a broken bike."
+      },
+      {
+        "time": "1:35",
+        "zh": "省开火／门铃团圆／最后一公里。",
+        "en": "Saving lighting a stove / reunion at the doorbell / the last kilometre."
+      },
+      {
+        "time": "2:15",
+        "zh": "塑料山；膝盖和刹车；没人修就不是共享。",
+        "en": "A plastic mountain; knees and brakes; without repair it is not sharing."
+      },
+      {
+        "time": "3:00",
+        "zh": "意大利手作／慢食；Instagram 食物照；Bizum 不包膝盖。挂钩关系、时间、身体。",
+        "en": "Italian craft / slow food; Instagram food shots; Bizum does not pack a knee. Hook: relations, time, body."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "从一个下雨的晚上讲起：骑手打电话，你下不下去？为什么？",
+        "en": "Start from a rainy night: the rider calls. Do you go downstairs? Why?"
+      },
+      {
+        "zh": "共享单车解决了最后一公里，又制造了哪一公里的垃圾和挡路？",
+        "en": "Shared bikes solve the last kilometre; which kilometre of rubbish and blockage do they make?"
+      },
+      {
+        "zh": "如果没有外卖，你的一天哪一段会变慢？变慢一定是坏事吗？",
+        "en": "Without delivery, which part of your day would slow? Is slowing always bad?"
+      },
+      {
+        "zh": "Bizum 能付小钱，为什么很少把一个人的膝盖打包送到门口？",
+        "en": "Bizum can pay a small sum; why does it rarely pack a person’s knees to your door?"
+      },
+      {
+        "zh": "Instagram 上的食物照看不见骑手。你怎么把那个人说回画面里？",
+        "en": "Instagram food photos hide the rider. How do you talk that person back into the frame?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "从一个下雨的晚上讲起：骑手打电话，你下不下去？为什么？",
+        "en": "A rainy night: the rider calls. Downstairs or not? Why?"
+      },
+      {
+        "zh": "共享单车解决了最后一公里，又制造了哪一公里的垃圾和挡路？",
+        "en": "Shared bikes solve the last kilometre; which kilometre of rubbish and blockage do they make?"
+      },
+      {
+        "zh": "如果没有外卖，你的一天哪一段会变慢？变慢一定是坏事吗？",
+        "en": "Without delivery, which part of your day slows? Is slowing always bad?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "外卖",
+        "pinyin": "wàimài",
+        "pos": "名",
+        "en": "food delivery / takeaway",
+        "example": "他一周有四天吃外卖。",
+        "exampleEn": "He eats delivery four days a week."
+      },
+      {
+        "hanzi": "骑手",
+        "pinyin": "qíshǒu",
+        "pos": "名",
+        "en": "delivery rider",
+        "example": "雨天骑手的工作更危险。",
+        "exampleEn": "A rider’s work is more dangerous in the rain."
+      },
+      {
+        "hanzi": "共享单车",
+        "pinyin": "gòngxiǎng dānchē",
+        "pos": "名",
+        "en": "shared bike",
+        "example": "共享单车解决了最后一公里。",
+        "exampleEn": "Shared bikes solve the last kilometre."
+      },
+      {
+        "hanzi": "便利",
+        "pinyin": "biànlì",
+        "pos": "名/形",
+        "en": "convenience / convenient",
+        "example": "便利的背后是别人的劳动。",
+        "exampleEn": "Behind convenience is someone else’s labour."
+      },
+      {
+        "hanzi": "包装",
+        "pinyin": "bāozhuāng",
+        "pos": "名",
+        "en": "packaging",
+        "example": "外卖包装造成大量垃圾。",
+        "exampleEn": "Delivery packaging creates a lot of rubbish."
+      },
+      {
+        "hanzi": "超时",
+        "pinyin": "cháoshí",
+        "pos": "动",
+        "en": "to run overtime / be late",
+        "example": "骑手最怕订单超时。",
+        "exampleEn": "Riders fear an order running late."
+      },
+      {
+        "hanzi": "劳动",
+        "pinyin": "láodòng",
+        "pos": "名/动",
+        "en": "labour / to labour",
+        "example": "我们应尊重快递劳动。",
+        "exampleEn": "We should respect delivery labour."
+      },
+      {
+        "hanzi": "习惯",
+        "pinyin": "xíguàn",
+        "pos": "名",
+        "en": "habit",
+        "example": "便利很容易变成习惯。",
+        "exampleEn": "Convenience easily becomes habit."
+      },
+      {
+        "hanzi": "调用",
+        "pinyin": "diàoyòng",
+        "pos": "动",
+        "en": "to call up / invoke",
+        "example": "共享把拥有改成调用。",
+        "exampleEn": "Sharing changes owning into calling up."
+      },
+      {
+        "hanzi": "膝盖",
+        "pinyin": "xīgài",
+        "pos": "名",
+        "en": "knee",
+        "example": "便利的账单有一截写在骑手的膝盖上。",
+        "exampleEn": "Part of convenience’s bill is written on a rider’s knees."
+      },
+      {
+        "hanzi": "共享充电宝",
+        "pinyin": "gòngxiǎng chōngdiànbǎo",
+        "pos": "名",
+        "en": "shared power bank",
+        "example": "共享充电宝的租金可以高过一顿面。",
+        "exampleEn": "A shared power bank’s rent can cost more than a bowl of noodles."
+      },
+      {
+        "hanzi": "最后一公里",
+        "pinyin": "zuìhòu yī gōnglǐ",
+        "pos": "名",
+        "en": "the last kilometre",
+        "example": "共享单车声称要解决最后一公里。",
+        "exampleEn": "Shared bikes claim to solve the last kilometre."
+      },
+      {
+        "hanzi": "过度包装",
+        "pinyin": "guòdù bāozhuāng",
+        "pos": "名",
+        "en": "over-packaging",
+        "example": "一顿饭的过度包装，可能比饭更长久。",
+        "exampleEn": "A meal’s over-packaging may last longer than the meal."
+      },
+      {
+        "hanzi": "下楼",
+        "pinyin": "xiàlóu",
+        "pos": "动",
+        "en": "to go downstairs",
+        "example": "下雨天，下楼是一种伦理。",
+        "exampleEn": "On a rainy day, going downstairs is an ethics."
+      },
+      {
+        "hanzi": "平台",
+        "pinyin": "píngtái",
+        "pos": "名",
+        "en": "platform",
+        "example": "平台的钟比客人的胃口更不原谅。",
+        "exampleEn": "The platform’s clock is less forgiving than a guest’s appetite."
+      },
+      {
+        "hanzi": "伦理",
+        "pinyin": "lúnlǐ",
+        "pos": "名",
+        "en": "ethics",
+        "example": "细节里有伦理：你要不要下楼。",
+        "exampleEn": "Ethics lives in the detail: will you go downstairs."
+      }
+    ]
+  }
+]

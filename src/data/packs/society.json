@@ -1,0 +1,2330 @@
+[
+  {
+    "slug": "gaokao",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "夜里，窗外全黑，只剩教室这一块亮。",
+        "en": "Night: outside is black; only this classroom is still lit."
+      },
+      {
+        "zh": "顶上的白灯管把每张脸照得没有影子。",
+        "en": "Fluorescent tubes overhead wash every face of its shadow."
+      },
+      {
+        "zh": "一排排学生低头写字，几乎没有抬头交谈。",
+        "en": "Rows of students write with heads down; almost no one looks up to talk."
+      },
+      {
+        "zh": "木头课桌连成直线，间距很窄，像被编排过的工位。",
+        "en": "Wooden desks form a straight line, spaced like assigned workstations."
+      },
+      {
+        "zh": "打开的练习册或试卷、铅笔袋、一瓶矿泉水。",
+        "en": "An open workbook or exam paper, a pencil case, a bottle of water."
+      },
+      {
+        "zh": "有人还戴着耳机；图上看不见老师，也看不见家长。",
+        "en": "Someone still wears earphones; neither teacher nor parent is in the frame."
+      },
+      {
+        "zh": "声音要自己补：翻纸、写字、偶尔有人咳，没有笑。",
+        "en": "You have to add the sound: turning paper, writing, a cough, no laughter."
+      },
+      {
+        "zh": "可说的一句：这不是自学的夜晚，是一套全国节奏在一间教室里的缩影。",
+        "en": "One line: this is not a night of self-study; it is a national rhythm shrunk into one room."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "图上的夜不是假期的夜。白灯管把一排排课桌照成同一颜色，练习册摊开，矿泉水立在袋边，窗外是彻底的黑。没有人抬头聊天，铅笔的声音比说话大。有人戴着耳机，桌距很窄，像被编排过的工位。这就是高考前最普通的组织画面：人被排进格子，时间被切成模拟考和倒计时。家长此刻多半在校门外或厨房，灯却和教室里的是同一种白。学生容易说「好努力」；考官要听的是——谁规定了这一夜必须这样过。看不见老师站在讲台，组织已经内化进身体。先点名灯和格子，再上判断。",
+        "en": "The night in the picture is not a holiday night. White tubes paint the rows of desks one colour; workbooks lie open, a water bottle stands by a bag, and outside is total black. No one looks up to chat; pencils are louder than voices. Someone wears earphones; the desks sit as close as assigned stations. This is the ordinary organising image before the gaokao: people slotted into a grid, time sliced into mocks and countdowns. Parents are probably at the school gate or in a kitchen, under the same white light. Students like to say “they work so hard”; the examiner wants to hear who decided this night had to be lived this way. The teacher is not at the podium. The organisation has already moved into the body. Name the lights and the grid first, then judge."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "高考是国家用一天，给一千多万人安排位子的装置。2024 年报名约 1342 万，2025 年约 1335 万，2026 年约 1290 万，人数开始回落，竞争逻辑没有回落。它相对公平：同一张卷子、同一套分数，不看你叔叔是谁。它也极度集中：六月那两天，十二年被压成总分。它到底在解决谁的问题？解决的是「好大学太少、想上去的人太多」——用可公开的分，代替不可公开的出身。应试教育训练在标准任务里活下来；素质教育谈人格与创造。学校、家长、培训班把两者撕成一张网。同一张卷并不等于同一条起跑线。",
+        "en": "The gaokao is the state’s device for assigning more than ten million people a place in a single day. About 13.42 million registered in 2024, 13.35 million in 2025, 12.90 million in 2026: the headcount has begun to fall, the competitive logic has not. It is relatively fair: the same paper, the same scores, no uncle to inspect. It is also extremely concentrated: those two June days compress twelve years into a total. Whose problem does it solve? Too few good universities, too many people who want in — a public number in place of a private pedigree. Exam schooling trains survival inside a standard task; “quality education” talks character and creation. Schools, parents and cram shops tear the two into one net. The same paper is not the same starting line."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么组织",
+        "titleEn": "Who lives it, and how it is organised",
+        "zh": "谁在过？高三学生、复读生、被陪读的家长、按省命题或全国卷阅卷的人。怎么组织？三年模拟考、月考排名、晚自习到十点；志愿按「冲稳保」填，一分对应一座城。钱花在教辅、住宿、培训班——「双减」之后课内作业少了，有的家庭把钱转到一对一。规则很硬：迟到几分钟可能进不了场，手机是违禁品，省控线决定你能不能填某所学校。谁付钱，谁就买到更厚的同一张卷：有人只做学校发的卷，有人周末还在名师直播里买讲解。铃、答题卡和排名墙，把人编进同一天。组织从晚自习就开始。",
+        "en": "Who lives it? Final-year students, repeaters, parents who have moved to accompany them, markers of provincial or national papers. How is it organised? Three years of mocks, monthly rankings, evening study until ten; choices filled as stretch–steady–safe, one mark mapping onto a city. Money goes to workbooks, boarding and cram shops — after the “double reduction”, in-class homework shrank and some families moved the cash to one-to-one tutoring. The rules are hard: a few minutes late and you may not enter; phones are contraband; the provincial cut-off decides whether you may even name a university. Whoever pays buys a thicker version of the same paper: some do only school worksheets, others buy weekend livestreams from famous teachers. The bell, the answer sheet and the ranking wall organise people into the same day. Organisation starts with evening study."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "好处要分三层说，不能只停在「公平」。个人：一条被全国承认的出路，农村孩子尤其把它当成可走的桥，分比推荐信更不看脸。家庭：孩子的分是全家的流动计划，房子、户口、婚事都会跟着录取通知书改地址。社会：国家用两天完成大规模筛选，学校按升学率被看见，城市按名校密度被比较。三种好处叠在一起，才解释得清为什么整座城在考试日为考生让路——那不是温情，是系统在保护自己的仪式。筛子能运转，是因为这三层都需要它。口试里把三层都点到，才不像在背「公平」。",
+        "en": "Name the good in three layers; do not stop at “fair”. Personally: a nationally recognised way out, a bridge rural children can still walk, a score that looks at a face less than a recommendation letter does. For the family: the child’s marks are a mobility plan; house, hukou and marriage may all change address with the offer letter. For society: the state finishes a mass sort in two days; schools are seen by their progression rates, cities compared by the density of famous universities. Stacked together, the three layers explain why a whole city makes way on exam day — not tenderness, but a system protecting its own ritual. The sieve works because all three layers need it. In the oral, touch all three layers or you will sound as if you are reciting “fairness”."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：排名贴在墙上，失眠和胃病被写成「正常」，同学变成同分对手，早餐是豆浆和一粒感冒药。结构：各省试卷与录取率并不真正同一；户口把「在哪考」变成资源；补习把公平买出厚度。被排除的是请不起复读和培训的人，也是偏科、焦虑到无法应试、却可能更会提问的人。规则对谁有利？对能在压力下完成标准任务的人有利，对能把十二年买成更密训练的家庭有利；对提问型大脑、对跨省流动的弱户口不利。「同一张卷」在补习市场里，已经不是同一张卷。",
+        "en": "Everyday: rankings taped to the wall, insomnia and stomach trouble written down as “normal”, classmates turned into same-score rivals, breakfast soy milk and a cold pill. Structural: papers and admission rates are not truly the same across provinces; hukou turns “where you sit the exam” into a resource; tutoring buys thickness onto fairness. Who is left out? Those who cannot pay for a repeat year or extra classes, and those who are uneven, too anxious to sit a standard paper, yet perhaps better at asking. Whom do the rules favour? People who can finish a standard task under pressure, families who can buy twelve years of denser training; not question-shaped minds, not a weak hukou that has to move provinces. In the cram market, “the same paper” is already not the same paper."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "侧面可以换着说，避免全班只骂「一考定终身」。超级中学把全县尖子吸走，普通高中变成陪跑。艺体、高职、春季高考是另一扇门，口试里提一扇就比重复残酷更厚。复读是第二次购买同一套规则。国际部、中外合作把有钱的人送出这套筛子。高考移民是用迁移去买更好的录取率。2024 到 2026 报名从约 1342 万落到约 1290 万，有人说「终于没那么卷」，教室里的灯并没有提前关。选一条侧面，比堆形容词更像读过结构。报名回落没有关掉灯，说明组织比人数更硬。国际部是有钱人的另一扇门，提一句就比骂残酷厚。",
+        "en": "Swap in a side-angle so the whole class does not only curse “one exam, one life”. Super-high-schools vacuum the county’s top students; ordinary schools become the supporting cast. Arts, vocational routes and the spring gaokao are another door — naming one in the oral is thicker than repeating “cruel”. Repeating a year is buying the same rules a second time. International streams and joint programmes send those who can pay out of the sieve. Gaokao migration is moving house to buy a better admission rate. From 2024 to 2026 registrations fell from about 13.42 million to about 12.90 million; some say “at last it is less involuted”, yet the classroom lights do not go off earlier. One side-angle sounds more like having read the structure than a pile of adjectives. Registrations falling have not switched the lights off: organisation is harder than headcount. An international stream is another door for those who can pay — naming it once is thicker than cursing cruelty."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙 EBAU（Selectividad）也是筛选，但是多科成绩加权、还有高中平时分，不是两天吞掉十二年。更通用的锚是任何「用一次标准考试分配稀缺位子」的制度。IB 更会提问，高考更会在倒计时里交卷——两种组织培养不同的人。人如何被组织？用全国同一天的铃、同一张答题卡、同一套省控线。规则对谁有利？对能忍受标准任务的人、对买得起训练厚度的家庭有利；对弱户口和偏科的人，公平只薄薄一层。我的立场——筛子还该在，因为推荐信更易被关系污染；但「一天定城」太重，平时成绩和多元的门应占更大一块。",
+        "en": "Spain’s EBAU (Selectividad) is also a filter, but subjects are weighted and schoolwork counts; two days do not swallow twelve years. A more general anchor is any system that assigns scarce places with one standard exam. IB trains asking; the gaokao trains handing in under a countdown — two organisations grow different people. How are people organised? By a national bell on the same day, the same answer sheet, the same provincial cut-off. Whom do the rules favour? Those who can endure a standard task, families who can buy training thickness; for a weak hukou and an uneven mind, fairness is only a thin layer. My stance: the sieve should stay, because recommendation letters are easier to stain with connections; but “one day decides the city” is too heavy. Coursework and other doors should take a larger share."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "白灯、成排课桌、卷子、矿泉水、窗外黑。说：这是全国节奏的缩影。",
+        "en": "White lights, rows of desks, papers, water, black windows. Say: this is a national rhythm in miniature."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "一天安排一千多万人的位子。钉数字：2024 约 1342 万，2026 约 1290 万。",
+        "en": "One day assigns more than ten million a place. Pin the numbers: about 13.42 million in 2024, 12.90 million in 2026."
+      },
+      {
+        "time": "0:55–1:35",
+        "zh": "模拟考、排名、志愿冲稳保。点一次钱花在教辅还是一对一。",
+        "en": "Mocks, rankings, stretch–steady–safe choices. Name once where the money goes: workbooks or one-to-one."
+      },
+      {
+        "time": "1:35–2:20",
+        "zh": "三层好处：个人出路、全家流动、国家两天完成筛选。",
+        "en": "Three layers of good: a personal way out, family mobility, the state finishing a mass sort in two days."
+      },
+      {
+        "time": "2:20–3:05",
+        "zh": "两层问题：排名墙与失眠；省际不均，补习把公平买出厚度。",
+        "en": "Two layers of trouble: the ranking wall and insomnia; provincial unevenness, tutoring buying thickness onto fairness."
+      },
+      {
+        "time": "3:05–4:15",
+        "zh": "比较 EBAU 多科加权，禁止只说压力大。收束：人被铃和答题卡组织；筛子要，一天定城可以改。",
+        "en": "Compare EBAU’s weighted subjects; do not only say “pressure”. Close: people are organised by bells and answer sheets; keep the sieve, change “one day, one city”."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "高考对一个家庭意味着什么？",
+        "en": "What does the gaokao mean to a family?"
+      },
+      {
+        "zh": "应试教育和素质教育，你更支持哪一种？",
+        "en": "Which do you support more, exam schooling or quality education?"
+      },
+      {
+        "zh": "比较 IB、EBAU 和高考：哪一种筛选对谁更有利？",
+        "en": "Compare IB, EBAU and the gaokao: which filter favours whom?"
+      },
+      {
+        "zh": "如果取消全省排名，只保留总分，学校的组织方式会怎样变？",
+        "en": "If provincial rankings vanished and only totals remained, how would schools reorganise?"
+      },
+      {
+        "zh": "「同一张卷子」在补习市场里还算不算公平？请用一个家庭的账说。",
+        "en": "In the tutoring market, is “the same paper” still fair? Answer with one family’s bill."
+      },
+      {
+        "zh": "你更愿意被高考这样组织，还是被推荐信和面试组织？",
+        "en": "Would you rather be organised by the gaokao, or by letters and interviews?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "如果取消全省排名，只保留总分，学校的组织方式会怎样变？",
+        "en": "If provincial rankings vanished and only totals remained, how would schools reorganise?"
+      },
+      {
+        "zh": "「同一张卷子」在补习市场里还算不算公平？请用一个家庭的账说。",
+        "en": "In the tutoring market, is “the same paper” still fair? Tell it through one family’s accounts."
+      },
+      {
+        "zh": "你更愿意被高考这样组织，还是被推荐信和面试组织？规则分别对谁有利？",
+        "en": "Would you rather be organised by the gaokao, or by letters and interviews? Whom does each rule set favour?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "高考",
+        "pinyin": "gāokǎo",
+        "pos": "名",
+        "en": "national college entrance exam",
+        "example": "高考那天整座城为考生让路。",
+        "exampleEn": "On gaokao day the whole city makes way for candidates."
+      },
+      {
+        "hanzi": "应试教育",
+        "pinyin": "yìngshì jiàoyù",
+        "pos": "名",
+        "en": "exam-oriented schooling",
+        "example": "应试教育把人训练成交卷的人。",
+        "exampleEn": "Exam schooling trains people to hand in papers."
+      },
+      {
+        "hanzi": "素质教育",
+        "pinyin": "sùzhì jiàoyù",
+        "pos": "名",
+        "en": "whole-person education",
+        "example": "素质教育常停在口号里。",
+        "exampleEn": "Quality education often stops at the slogan."
+      },
+      {
+        "hanzi": "压力",
+        "pinyin": "yālì",
+        "pos": "名",
+        "en": "pressure",
+        "example": "排名给学生很大压力。",
+        "exampleEn": "Rankings put great pressure on students."
+      },
+      {
+        "hanzi": "公平",
+        "pinyin": "gōngpíng",
+        "pos": "形/名",
+        "en": "fair / fairness",
+        "example": "相对公平，不是绝对同一。",
+        "exampleEn": "Relatively fair is not absolutely the same."
+      },
+      {
+        "hanzi": "排名",
+        "pinyin": "páimíng",
+        "pos": "名",
+        "en": "ranking",
+        "example": "排名一贴上墙，同学就变成对手。",
+        "exampleEn": "Once rankings hit the wall, classmates become rivals."
+      },
+      {
+        "hanzi": "补习",
+        "pinyin": "bǔxí",
+        "pos": "动/名",
+        "en": "cram / extra tutoring",
+        "example": "同一张卷，补习能买出不同厚度。",
+        "exampleEn": "Tutoring can buy different thickness onto the same paper."
+      },
+      {
+        "hanzi": "出路",
+        "pinyin": "chūlù",
+        "pos": "名",
+        "en": "way out / path",
+        "example": "对一些人，高考仍是最硬的出路。",
+        "exampleEn": "For some, the gaokao is still the hardest way out."
+      },
+      {
+        "hanzi": "模拟考",
+        "pinyin": "mónǐkǎo",
+        "pos": "名",
+        "en": "mock exam",
+        "example": "每月一次模拟考，比节日更准时。",
+        "exampleEn": "A monthly mock is more punctual than a festival."
+      },
+      {
+        "hanzi": "省控线",
+        "pinyin": "shěng kòngxiàn",
+        "pos": "名",
+        "en": "provincial cut-off score",
+        "example": "差一分就过不了省控线。",
+        "exampleEn": "One mark short and you miss the provincial cut-off."
+      },
+      {
+        "hanzi": "录取",
+        "pinyin": "lùqǔ",
+        "pos": "动/名",
+        "en": "admission / to admit",
+        "example": "录取通知书会改一家的地址。",
+        "exampleEn": "An offer letter can change a family’s address."
+      },
+      {
+        "hanzi": "复读",
+        "pinyin": "fùdú",
+        "pos": "动",
+        "en": "to repeat a year for the exam",
+        "example": "复读是第二次购买同一套规则。",
+        "exampleEn": "Repeating a year is buying the same rules a second time."
+      },
+      {
+        "hanzi": "志愿",
+        "pinyin": "zhìyuàn",
+        "pos": "名",
+        "en": "university choice / preference",
+        "example": "志愿按冲稳保来填。",
+        "exampleEn": "Choices are filled as stretch, steady and safe."
+      },
+      {
+        "hanzi": "双减",
+        "pinyin": "shuāngjiǎn",
+        "pos": "名",
+        "en": "double reduction (homework and tutoring)",
+        "example": "双减之后，有的钱转到了一对一。",
+        "exampleEn": "After the double reduction, some money moved to one-to-one tutoring."
+      },
+      {
+        "hanzi": "晚自习",
+        "pinyin": "wǎn zìxí",
+        "pos": "名",
+        "en": "evening self-study session",
+        "example": "晚自习常常到十点。",
+        "exampleEn": "Evening study often runs until ten."
+      },
+      {
+        "hanzi": "答题卡",
+        "pinyin": "dátí kǎ",
+        "pos": "名",
+        "en": "answer sheet",
+        "example": "人被同一张答题卡组织进同一天。",
+        "exampleEn": "People are organised into the same day by the same answer sheet."
+      }
+    ]
+  },
+  {
+    "slug": "wangzi",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "早晨，校门还没完全打开。",
+        "en": "Morning: the school gate is not fully open yet."
+      },
+      {
+        "zh": "孩子蓝校服、黄帽、红领巾，书包在肩上，人还没完全醒。",
+        "en": "Blue uniform, yellow cap, red scarf, bag on the shoulder; the child is not fully awake."
+      },
+      {
+        "zh": "母亲或父亲蹲下，两只手在整理领口或帽子，脸比孩子更紧张。",
+        "en": "A mother or father squats, both hands straightening a collar or cap; the face is tenser than the child’s."
+      },
+      {
+        "zh": "绿色栏杆、校门、已经排起来的接送人群。",
+        "en": "Green railings, the gate, a wall of people already lined up for drop-off."
+      },
+      {
+        "zh": "整理、叮嘱、再看一眼书包拉链——爱做成了质检。",
+        "en": "Straighten, remind, check the zip again — love performed as quality control."
+      },
+      {
+        "zh": "声音要补：「作业带了吗」「过马路看车」，同一套句子每天重复。",
+        "en": "Add the sound: “Got your homework?” “Watch the cars.” The same sentences, every day."
+      },
+      {
+        "zh": "图上很少看见孩子自己选路线，路线是被送到的。",
+        "en": "The picture rarely shows a child choosing the route; the route is delivered."
+      },
+      {
+        "zh": "可说的一句：龙还没开始飞，帽子已经被扶正了。",
+        "en": "One line: the dragon has not started to fly, and the cap has already been set straight."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "校门口的早晨比课堂更像组织。黄帽、红领巾、蓝校服，孩子还没完全醒，大人已经蹲下来把领子抚平。栏杆外是一条接送的人墙，书包拉链被检查第二次。图上的手不在拥抱，在质检。叮嘱每天重复：「作业带了吗」「过马路看车」。这一刻的名字不叫「关心」，叫望子成龙：家庭把向上的那口气，先喷在一个还要被牵着手过马路的人身上。龙还没开始飞，帽子已经被扶正了。路线很少是孩子自己选的，是被送到的。接送的人墙本身就是组织：谁被送到、谁被检查、谁没有资格迟到。",
+        "en": "The morning at the school gate looks more like organisation than the classroom does. Yellow cap, red scarf, blue uniform: the child is not fully awake, and an adult has already squatted to smooth the collar. Beyond the railings, a wall of drop-off; the bag zip is checked a second time. The hands in the picture are not hugging; they are inspecting. The same reminders every day: homework, the road, the cars. This moment is not called “care”. It is called hoping the child becomes a dragon: the family blows its upward breath onto someone still led across the street by the hand. The dragon has not begun to fly; the cap is already straight. The route is seldom chosen. It is delivered. The drop-off wall is itself organisation: who is delivered, who is inspected, who has no right to be late."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "「望子成龙，望女成凤」不是一句夸小孩的成语。它是家庭作为最小社会组织的工作说明书：孩子负责成为龙，父母负责提供训练，祖辈负责接送和加餐。补习、择校、钢琴或奥数，常常不是兴趣，是焦虑的管理技术。它到底在解决谁的问题？解决的是「我们这代没上去、下一代必须上去」——房价、户口、名校把放松变成奢侈，于是期待被写成爱。爱是真的，控制也可以是真的，两者叠在同一只扶帽子的手上。家庭在替国家完成向上流动，孩子是最小的执行单位。龙是剧本，不是性格。",
+        "en": "“Hope the son becomes a dragon, the daughter a phoenix” is not a compliment-idiom. It is the work-sheet of the family as the smallest social organisation: the child must become the dragon, parents supply the training, grandparents do drop-off and extra meals. Tutoring, school choice, piano or olympiad maths are often not interests; they are techniques for managing anxiety. Whose problem does it solve? “Our generation did not go up; the next one must” — housing prices, hukou and famous schools make relaxation a luxury, so expectation is written as love. The love is real; so can the control be. Both sit on the same hand that straightens a cap. The family finishes upward mobility for the state; the child is the smallest unit of execution. Dragon is a script, not a personality."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么组织",
+        "titleEn": "Who lives it, and how it is organised",
+        "zh": "谁在过？城市中产最密，农村家庭把赌注押在能考走的那一个。怎么组织？时间表从放学排到九点：作业、网课、兴趣班、打卡。钱从谁的口袋出，谁就有权定学什么——妈妈辞职陪读，是把一份工资换成孩子的日程表。规则是「为你好」无法被孩子投票否决；拒绝兴趣班，会被说不懂事。也有家庭开始说「健康就好」，可邻居的孩子一获奖，那句话就会抖。培训机构、学区房中介、学校公众号，都靠这套期待吃饭。谁付钱，谁就握着课表。课表比校规更日常，也更难上诉。谁付钱，谁就定班。",
+        "en": "Who lives it? Urban middle class most densely; rural families stake everything on the one who can exam their way out. How is it organised? A timetable from school-out to nine: homework, livestream classes, hobby classes, check-ins. Whoever pays decides what is studied — a mother quitting to accompany study is swapping a wage for a child’s calendar. The rule is that “it’s for your own good” cannot be voted down; refusing a class is called not knowing how to behave. Some families now say “health is enough”, yet the sentence shakes when a neighbour’s child wins a prize. Cram shops, catchment-flat agents and school WeChat accounts all eat from this expectation. Whoever pays holds the timetable. The timetable is more everyday than school rules, and harder to appeal. Whoever pays chooses the class."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "好处分三层，不能只说「为了孩子好」。个人：被盯着的孩子其实也被看见，有人因期待真的走进更好的教室，龙的故事不全是假的。家庭：三代人围着一张课桌结盟，流动有了共同项目，吵架也有了共同语言。社会：学校和培训业获得稳定需求，城市用「教育氛围」给自己打分。三种好处解释了它为什么停不下来——停下来像对全家违约。期待能把人组织进同一张课表，是因为它同时养活孩子、家族和一整条产业链。口试里承认龙的故事不全是假的，再拆控制，才不像批判稿。",
+        "en": "Split the good into three layers; do not only say “for the child’s sake”. Personally: a watched child is also a seen child; some really do walk into better classrooms because of expectation, and the dragon story is not all false. For the family: three generations ally around one desk; mobility gets a shared project, quarrels a shared language. For society: schools and the tutoring industry get stable demand; cities score themselves on “education atmosphere”. The three layers explain why it cannot stop — stopping feels like defaulting on the whole house. Expectation can organise people onto one timetable because it feeds the child, the clan and a whole industrial chain at once. In the oral, admit the dragon story is not all false, then take the control apart, or you will sound like a critique."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：「为你好」让反驳变成不孝，孩子的周末比上班还满，兴趣变成考级，拒绝权很贵。结构：名校学位稀缺，户口和房价把起跑线焊死；放松的家庭要承受「你不负责」的道德指控。被排除的是不想当龙的孩子，也是请不起兴趣班、却仍被同一套话术审判的家庭。规则对谁有利？对能把期待兑换成分数的父母有利，对卖课和卖学区的人有利；对孩子的拒绝权不利。无法上诉的爱，是家庭这套组织最硬的规则。周末被买走之后，孩子的拒绝权只剩胃病和沉默。",
+        "en": "Everyday: “it’s for your own good” turns a reply into unfilialness; a child’s weekend is fuller than a job, interests become graded certificates, the right to refuse is expensive. Structural: famous-school places are scarce; hukou and house prices weld the starting line shut; families who relax are charged with “being irresponsible”. Who is left out? Children who do not want to be dragons, and families who cannot buy hobby classes yet are still judged by the same script. Whom do the rules favour? Parents who can cash expectation into marks, people who sell classes and catchment flats; not a child’s right to refuse. Love that cannot be appealed is the hardest rule in this family organisation. Once the weekend is bought out, a child’s right to refuse is left with a stomach-ache and silence."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "侧面别只说鸡娃。隔代带养：爷爷奶奶负责接送，父母负责焦虑远程下达，育儿观念在同一张桌上打架。性别：男孩被说成龙，女孩被说成凤，凤有时更被要求听话、更早学会让。留学是另一种龙，用出国躲开国内排名。也有家庭真的停了——孩子抑郁之后，钢琴班第一次被取消。口试里选一条侧面，比重复「压力大」更能让考官听见你读过结构。龙和凤的剧本不同，组织方式也就不同。口试里选隔代、性别或留学其中一条，比重复「压力大」更能让考官听见结构。鸡娃停下来的那一次，往往已经晚了。",
+        "en": "Do not only talk “chicken-children”. Skip-generation care: grandparents do drop-off, parents send anxiety down the line, and two theories of raising a child fight on the same table. Gender: boys are spoken as dragons, girls as phoenixes; the phoenix is sometimes asked to be more obedient, to learn yielding earlier. Study abroad is another dragon, using exit to dodge domestic rankings. Some families really do stop — after a child is depressed, the piano class is cancelled for the first time. Pick one side-angle in the oral; it lets the examiner hear that you have read the structure, not just “so much pressure”. Dragon and phoenix have different scripts, so they organise differently. In the oral, pick skip-generation, gender or study-abroad; it lets the examiner hear structure more than repeating “so much pressure”. The time pushing a child stops is often already late."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙家庭也会把期待压进足球队、英语课外班、医学专业，只是较少把全家命运写进一次小学入学。更通用的锚是任何「孩子等于家族流动工具」的组织法。人如何被组织？用校门口的人墙、课表和「为你好」。规则对谁有利？对需要管理自己失败感的成年人有利，对培训市场有利；对不想当龙的小孩不利。我的立场——期待可以有，龙的定义必须允许快乐和普通；扶正帽子可以，把孩子的周末全部买走不行。比较时禁止只说「西方更放松」：要说出他们把期待压在哪一项上。",
+        "en": "Spanish families also press expectation into football teams, extra English, a medical degree; they less often write the whole family’s fate into one primary-school entrance. A more general anchor is any organisation that treats the child as the clan’s mobility tool. How are people organised? By the wall of adults at the gate, the timetable, and “it’s for your own good”. Whom do the rules favour? Adults who need to manage their own sense of failure, the tutoring market; not children who do not want to be dragons. My stance: expectation may exist, but “dragon” must be allowed to mean happy and ordinary; straightening a cap is fine, buying out the whole weekend is not. Do not only say “the West is more relaxed”: name the one item they press expectation into."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "黄帽、红领巾、蹲着的母亲、栏杆、人墙。说：爱做成了质检。",
+        "en": "Yellow cap, red scarf, a squatting mother, railings, a wall of people. Say: love is performed as quality control."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "家庭流动说明书；爱和控制叠在同一只扶帽子的手上。",
+        "en": "The family’s mobility work-sheet; love and control stacked on the same hand that straightens a cap."
+      },
+      {
+        "time": "0:55–1:35",
+        "zh": "课表从放学到九点；谁付钱谁定班；「为你好」不能投票否决。",
+        "en": "Timetable from school-out to nine; whoever pays chooses the class; “for your own good” cannot be voted down."
+      },
+      {
+        "time": "1:35–2:15",
+        "zh": "三层好处：被看见、三代结盟、培训业与学校靠期待运转。",
+        "en": "Three layers of good: being seen, three generations allied, schools and tutoring running on expectation."
+      },
+      {
+        "time": "2:15–3:00",
+        "zh": "无法反驳的爱；户口房价把放松变成道德问题。",
+        "en": "Love you cannot answer back; hukou and house prices turn relaxation into a moral charge."
+      },
+      {
+        "time": "3:00–4:15",
+        "zh": "西班牙也卷足球和英语，但较少全家赌一次小学。收束：家庭是最小组织单位；龙可以普通，周末不能全卖。",
+        "en": "Spain also involutes football and English, but less often bets the whole house on one primary entrance. Close: the family is the smallest unit; a dragon may be ordinary; weekends cannot all be sold."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "父母的期待对你是动力还是负担？",
+        "en": "Are your parents’ expectations fuel or a burden?"
+      },
+      {
+        "zh": "「为你好」在什么情况下变成一种无法上诉的权力？",
+        "en": "When does “it’s for your own good” become a power that cannot be appealed?"
+      },
+      {
+        "zh": "孩子应不应该有拒绝兴趣班的权利？",
+        "en": "Should a child have the right to refuse extra classes?"
+      },
+      {
+        "zh": "如果把「龙」定义成稳定和健康，你家的时间表会删掉哪几项？",
+        "en": "If “dragon” meant stability and health, which items would your timetable delete?"
+      },
+      {
+        "zh": "比较：西班牙父母的期待通常压在哪一项上？那也是社会组织吗？",
+        "en": "Compare: on which item do Spanish parents usually press expectation? Is that social organisation too?"
+      },
+      {
+        "zh": "隔代带养怎样改变「谁有权定课表」？",
+        "en": "How does skip-generation care change who has the right to set the timetable?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "如果把「龙」定义成稳定和健康，你家的时间表会删掉哪几项？",
+        "en": "If “dragon” meant stability and health, which items would your timetable delete?"
+      },
+      {
+        "zh": "「为你好」在什么情况下变成一种无法上诉的权力？",
+        "en": "When does “it’s for your own good” become a power with no appeal?"
+      },
+      {
+        "zh": "比较：西班牙父母的期待通常压在哪一项上？那也是社会组织吗？",
+        "en": "Compare: on which item do Spanish parents usually press expectation? Is that also social organisation?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "期待",
+        "pinyin": "qīdài",
+        "pos": "动/名",
+        "en": "to expect / expectation",
+        "example": "过高的期待会把爱说成命令。",
+        "exampleEn": "Excessive expectation can turn love into an order."
+      },
+      {
+        "hanzi": "出息",
+        "pinyin": "chūxi",
+        "pos": "名",
+        "en": "prospects / making it",
+        "example": "长辈说的出息，常常只有一种样子。",
+        "exampleEn": "The “making it” elders name often has only one look."
+      },
+      {
+        "hanzi": "择校",
+        "pinyin": "zéxiào",
+        "pos": "动",
+        "en": "to choose a school",
+        "example": "择校让房价和教育绑在一起。",
+        "exampleEn": "School choice binds house prices to education."
+      },
+      {
+        "hanzi": "兴趣班",
+        "pinyin": "xìngqùbān",
+        "pos": "名",
+        "en": "extracurricular class",
+        "example": "兴趣班里的兴趣，常常是父母的。",
+        "exampleEn": "The interest in a hobby class is often the parents’."
+      },
+      {
+        "hanzi": "焦虑",
+        "pinyin": "jiāolǜ",
+        "pos": "名",
+        "en": "anxiety",
+        "example": "教育焦虑靠邻居的奖状续命。",
+        "exampleEn": "Education anxiety lives on a neighbour’s certificates."
+      },
+      {
+        "hanzi": "独立",
+        "pinyin": "dúlì",
+        "pos": "形/动",
+        "en": "independent / independence",
+        "example": "独立不该等到考上大学才被允许。",
+        "exampleEn": "Independence should not wait for a university offer to be allowed."
+      },
+      {
+        "hanzi": "成就",
+        "pinyin": "chéngjiù",
+        "pos": "名",
+        "en": "achievement",
+        "example": "成就如果只剩名校，家庭就会很窄。",
+        "exampleEn": "If achievement is only a famous school, the family becomes narrow."
+      },
+      {
+        "hanzi": "理解",
+        "pinyin": "lǐjiě",
+        "pos": "动",
+        "en": "to understand",
+        "example": "两代人需要互相理解。",
+        "exampleEn": "The two generations need to understand each other."
+      },
+      {
+        "hanzi": "望子成龙",
+        "pinyin": "wàng zǐ chéng lóng",
+        "pos": "习语",
+        "en": "hoping the son becomes a dragon",
+        "example": "望子成龙把全家的气压在一个孩子身上。",
+        "exampleEn": "Hoping for a dragon loads the whole house’s pressure onto one child."
+      },
+      {
+        "hanzi": "鸡娃",
+        "pinyin": "jīwá",
+        "pos": "名/动",
+        "en": "pushing a child to compete",
+        "example": "鸡娃不是性格，是一种家庭组织法。",
+        "exampleEn": "Pushing a child is not a personality; it is a way of organising a family."
+      },
+      {
+        "hanzi": "为你好",
+        "pinyin": "wèi nǐ hǎo",
+        "pos": "习语",
+        "en": "for your own good",
+        "example": "为你好三个字，让拒绝变得很贵。",
+        "exampleEn": "Those three words make refusal expensive."
+      },
+      {
+        "hanzi": "陪读",
+        "pinyin": "péidú",
+        "pos": "动",
+        "en": "to accompany a child in study",
+        "example": "妈妈辞职陪读，是把工资换成课表。",
+        "exampleEn": "A mother who quits to accompany study swaps a wage for a timetable."
+      },
+      {
+        "hanzi": "学区房",
+        "pinyin": "xuéqū fáng",
+        "pos": "名",
+        "en": "catchment-area housing",
+        "example": "学区房把起跑线焊在房价上。",
+        "exampleEn": "Catchment housing welds the starting line to the house price."
+      },
+      {
+        "hanzi": "隔代",
+        "pinyin": "gé dài",
+        "pos": "形",
+        "en": "skip-generation (care)",
+        "example": "隔代接送让焦虑可以远程下达。",
+        "exampleEn": "Skip-generation drop-off lets anxiety be issued from a distance."
+      },
+      {
+        "hanzi": "红领巾",
+        "pinyin": "hónglǐngjīn",
+        "pos": "名",
+        "en": "red scarf (Young Pioneer)",
+        "example": "红领巾被扶正的那一刻，质检就开始了。",
+        "exampleEn": "The moment the red scarf is straightened, inspection has begun."
+      },
+      {
+        "hanzi": "时间表",
+        "pinyin": "shíjiānbiǎo",
+        "pos": "名",
+        "en": "timetable / schedule",
+        "example": "谁付钱，谁就握着时间表。",
+        "exampleEn": "Whoever pays holds the timetable."
+      }
+    ]
+  },
+  {
+    "slug": "jiating",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "空间是小厨房，不是客厅合影。",
+        "en": "The space is a small kitchen, not a living-room portrait."
+      },
+      {
+        "zh": "不锈钢锅、煤气灶、油烟机、窗台上的绿植、墙上的瓷砖。",
+        "en": "A stainless pot, a gas stove, a cooker hood, plants on the sill, tiles on the wall."
+      },
+      {
+        "zh": "老人在灶边，中年人在旁边，小孩伸手——三代都在干活的半径里。",
+        "en": "An elder at the stove, a middle-aged adult beside, a child reaching — three generations inside a working radius."
+      },
+      {
+        "zh": "从窗子进来的早晨，普通、挤、热。",
+        "en": "Morning light from the window: ordinary, crowded, warm."
+      },
+      {
+        "zh": "没有人摆姿势，家是被做出来的，不是被拍出来的。",
+        "en": "No one poses; the home is being made, not photographed."
+      },
+      {
+        "zh": "房子不大，人很多，功能叠在同一间。",
+        "en": "The flat is not large, people are many, functions stacked in one room."
+      },
+      {
+        "zh": "看不见另一位大人，缺席的人可能在外地打工。",
+        "en": "Another adult is missing; the absent person may be working in another province."
+      },
+      {
+        "zh": "可说的一句：家的形状先写在灶台上，再写在户口本上。",
+        "en": "One line: the shape of home is written first on the stove, then in the hukou book."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "图不是全家福，是一间正在冒热气的厨房。不锈钢锅、煤气灶、油烟机、窗台上的植物，老人看着炉子，小孩伸手，中年人在一臂远的地方。三代人挤在同一套动作里：不是过节，是早晨。光从窗子进来，普通、挤、热。中国城市家庭常常这样被看见——房子不大，功能叠在厨房，缺席的那个人可能在另一个省。没有人摆姿势，家是被做出来的。要讲结构，先别讲政策名词，先讲这间屋子能站下几个人。家的形状先写在灶台上，再写在户口本上。先数这间厨房能站下几个人，再谈政策。",
+        "en": "The picture is not a family portrait; it is a kitchen giving off steam. Stainless pot, gas stove, hood, plants on the sill; an elder watches the burner, a child reaches, a middle-aged adult stands an arm away. Three generations squeezed into one set of motions: not a festival, a morning. Light comes through the window — ordinary, crowded, warm. Urban Chinese families are often seen this way: a small flat, functions stacked in the kitchen, the missing person perhaps in another province. No one poses. Home is being made. To talk structure, do not start with policy nouns; start with how many people this room can hold. The shape of home is written first on the stove, then in the hukou book. Count how many people this kitchen can hold before talking policy."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "独生子女政策塑造了一代童年：六个大人看着一个孩子。后来政策改到二孩、三孩，养育成本让很多家庭仍然只生一个。421——四个老人、一对夫妻、一个孩子——把养老和育儿叠在同一代中年人身上。它到底在解决谁的问题？政策曾解决「人太多」；现在要解决「人太少、老得太快」。可家庭不是旋钮，出生率不会因为文件立刻回头。空巢、进城务工、推迟结婚，让「家」变成春节才完整的形状。政策改家庭形状，成本改生育意愿，两股力同时作用。家不是旋钮，文件拧了，出生率不一定回头。",
+        "en": "The one-child policy shaped a generation’s childhood: six adults watching one child. Policy later moved to two and three children; the cost of raising still keeps many families at one. 4-2-1 — four elders, one couple, one child — stacks care of the old and the young on the same middle generation. Whose problem does it solve? Policy once solved “too many people”; now it must solve “too few, ageing too fast”. A family is not a knob; the birth rate does not turn around because a document says so. Empty nests, migrant work, later marriage make “home” a shape that is complete only at Spring Festival. Policy rewrites the household’s shape; cost rewrites the wish to give birth. Both forces act at once. A family is not a knob; twist the document and the birth rate may not turn back."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么组织",
+        "titleEn": "Who lives it, and how it is organised",
+        "zh": "谁在过？城市双职工最典型：白天把孩子交给老人或托班，晚上把父母的体检报告带回家。农村是另一种组织：青壮年出去，孩子和老人留在村里。钱的流向很清楚——打工的人寄钱，带孩子的人出时间，医院和学区出规则。怎么加入一个家？结婚、生育、户口迁入；不婚、不育的人会被问「你什么时候补上」。规则是：能生的被鼓励，能养的被默认，能走的人走了，留下的人把两头扛上。春运的一张票，常常是这套组织一年里唯一完整的时刻。谁出时间，谁就在组织这个家。",
+        "en": "Who lives it? Urban dual-income households are typical: the child goes to grandparents or a day-care by day; at night the parents’ medical reports come home. The countryside organises differently: working-age people leave, children and elders stay in the village. Money’s direction is clear — those who work away send cash, those who mind children spend time, hospitals and school districts issue the rules. How do you join a household? Marriage, birth, moving hukou in; those who do not marry or bear children are asked when they will “make it up”. The rule: those who can give birth are encouraged, those who can raise are assumed to, those who can leave leave, and those who stay carry both ends. A Chunyun ticket is often this organisation’s only complete moment in the year. Whoever spends the time is organising this household."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "三层好处要分开说。个人：独生子女曾被集中全部资源，钢琴和英语都堆在一个人身上，那也是一种被爱，被看见的密度很高。家庭：多代同堂让托育和晚饭有人接，孩子听得到方言和旧故事，老人也不是对着墙壁吃饭。社会：国家一度用少生完成积累，学校和医院按「一对夫妻一个孩」来建；现在要反过来求人多生，结构却还卡在旧尺寸里。好处能解释政策为什么曾经有效，也能解释它为什么现在转不过弯。被爱的密度很高，不等于中年人有三双手。",
+        "en": "Name the three layers of good separately. Personally: only children once had all resources piled on them — piano and English on one body — which is also a form of being loved, a high density of being seen. For the family: several generations under one roof mean childcare and dinner have a pair of hands; children hear a dialect and old stories, elders do not eat facing a wall. For society: the state once used fewer births to accumulate; schools and hospitals were built for “one couple, one child”; now it asks people to have more, while the structure is still stuck at the old size. The good explains why the policy once worked, and why it cannot turn the corner now. A high density of being loved does not mean the middle generation has three pairs of hands."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：中年人的日历被撕成两半，一边是孩子的家长会，一边是父母的复诊，请假条比旅行多。结构：三孩口号碰到房价、教育和托育，意愿不走；421 把风险集中，一个劳动力倒下，两头同时空。被排除的是不婚者——他们在春运的桌子上没有固定碗；也被排除的是农村留守的老人和儿童，家在政策里完整，在日历上分开。规则对谁有利？对曾经需要控制人口的国家有利，对能买到托育和护工的城市家庭有利；对夹心一代和留守的两端不利。口号改得快，托育搬得慢。",
+        "en": "Everyday: a middle-aged calendar is torn in two — a parents’ meeting on one side, a follow-up visit on the other; leave notes outnumber trips. Structural: the three-child slogan hits housing prices, schooling and childcare, and the wish does not move; 4-2-1 concentrates risk, so if one worker falls both ends empty at once. Who is left out? People who do not marry — they have no fixed bowl on the Chunyun table — and rural left-behind elders and children, whose home is complete in policy and split on the calendar. Whom do the rules favour? A state that once needed to control population, urban families who can buy childcare and carers; not the sandwich generation, not the two left-behind ends. Slogans change fast; childcare moves slowly."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "侧面可转：推迟结婚与丁克，是用「不组队」逃避 421；隔代抚养让育儿观念打架，奶粉和中药在同一张桌上；春节家庭是一种季节性完整；离婚率上升让孩子在两套房子间分配自己；农村「三留守」和城市「六人围一个」是同一政策的两张脸。口试里画两张人口图——你家的，中国同学的——比背「三孩政策」四个字更像社会组织。谁被组织进同一套房子，谁只在节日出现，才是结构。两张人口图并排放，就是一篇口试：谁被组织进同一套房子，谁只在节日出现，比背政策四个字更像结构。丁克和推迟结婚，是同一套账的拒绝。",
+        "en": "Side-angles you can turn to: delayed marriage and DINK as “not forming a team” to escape 4-2-1; skip-generation care putting two theories of raising a child on the same table, milk powder and Chinese medicine together; the Spring Festival family as a seasonal completeness; rising divorce making a child divide themselves between two flats; rural “three left-behind” and urban “six around one” as two faces of the same policy. In the oral, draw two population diagrams — yours, a Chinese classmate’s — and you sound more like social organisation than reciting “three-child policy”. Who is organised into the same flat, who only appears on a festival: that is the structure. Two population diagrams side by side are already an oral: who is organised into the same flat, who only appears on a festival, sounds more like structure than reciting four policy characters. DINK and delayed marriage are refusals of the same accounts."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "南欧也有多代同堂和极低生育：西班牙的祖父母接孩子放学，是他们的隔代抚养；住房贵、工作不稳，让年轻人晚走或晚生，和 421 是同一类账。更通用的锚是任何「政策改家庭形状、成本改生育意愿」的社会。人如何被组织？用生育政策、户口本和春运的一张票。规则对谁有利？对能把两头外包出去的人有利；对必须亲自扛养老和育儿的中年人不利。我的立场——家可以小，制度不能假装中年人有三双手；鼓励生育之前，先把托育和护理从口号里搬进社区。先把托育搬进社区，再谈多生。",
+        "en": "Southern Europe also has multi-generation homes and very low fertility: Spanish abuelos collecting children from school is their skip-generation care; expensive housing and unstable work make the young leave late or give birth late — the same kind of accounts as 4-2-1. A more general anchor is any society where policy rewrites the household’s shape and cost rewrites the wish to give birth. How are people organised? By fertility policy, the hukou book, and one Chunyun ticket. Whom do the rules favour? Those who can outsource both ends; not middle-aged people who must carry eldercare and childcare themselves. My stance: a home may be small; the system must not pretend the middle generation has three pairs of hands. Before encouraging births, move childcare and nursing from slogans into the neighbourhood. Move childcare into the neighbourhood before talking more births."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "厨房、锅、窗台、三代人的手。说：家写在灶台上。",
+        "en": "Kitchen, pot, windowsill, three generations’ hands. Say: home is written on the stove."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "421；政策改形状，成本改意愿。",
+        "en": "4-2-1: policy rewrites the shape, cost rewrites the wish."
+      },
+      {
+        "time": "0:55–1:40",
+        "zh": "谁寄钱、谁带孩子、谁请假；春运才完整。",
+        "en": "Who sends money, who minds the child, who takes leave; complete only at Chunyun."
+      },
+      {
+        "time": "1:40–2:20",
+        "zh": "三层好处：资源集中、多代互助、国家一度完成少生。",
+        "en": "Three layers of good: resources concentrated, generations helping, the state once finishing fewer births."
+      },
+      {
+        "time": "2:20–3:05",
+        "zh": "日历被撕开；口号碰到房价托育。夹心一代和留守两端。",
+        "en": "The calendar torn; slogans hitting housing and childcare. Sandwich generation and the two left-behind ends."
+      },
+      {
+        "time": "3:05–4:20",
+        "zh": "比较西班牙祖父母加低生育。收束：家庭被政策和成本组织；先把托育搬进社区。",
+        "en": "Compare Spanish grandparents plus low fertility. Close: households organised by policy and cost; move childcare into the neighbourhood first."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "独生子女的童年有什么好处和坏处？",
+        "en": "What are the gains and costs of a one-child childhood?"
+      },
+      {
+        "zh": "为什么政策从一孩改到三孩，很多家庭仍然只生一个？请用成本而不是「观念」回答。",
+        "en": "Why do many families still have one child after policy moved from one to three? Answer with cost, not “values”."
+      },
+      {
+        "zh": "中年人同时养孩子和父母，社会应该怎样支持？",
+        "en": "How should society support people raising children and parents at once?"
+      },
+      {
+        "zh": "夹心一代如果倒下，养老和育儿分别会崩在哪一层？",
+        "en": "If the sandwich generation falls, at which layer do eldercare and childcare each collapse?"
+      },
+      {
+        "zh": "比较你家的人口图和 421：谁被组织进同一套房子，谁只在节日出现？",
+        "en": "Compare your household diagram with 4-2-1: who is organised into the same flat, who only appears on festivals?"
+      },
+      {
+        "zh": "不婚者在春运的桌子上没有固定碗，这是私事还是组织问题？",
+        "en": "People who do not marry have no fixed bowl on the Chunyun table — a private matter, or an organisation problem?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "为什么政策从一孩改到三孩，很多家庭仍然只生一个？请用成本而不是「观念」回答。",
+        "en": "Why do many families still have one child after the shift from one to three? Answer with cost, not “values”."
+      },
+      {
+        "zh": "夹心一代如果倒下，养老和育儿分别会崩在哪一层？",
+        "en": "If the sandwich generation falls, at which layer do eldercare and childcare each collapse?"
+      },
+      {
+        "zh": "比较你家的人口图和 421：谁被组织进同一套房子，谁只在节日出现？",
+        "en": "Compare your household diagram with 4-2-1: who is organised into the same flat, who only appears on festivals?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "独生子女",
+        "pinyin": "dúshēng zǐnǚ",
+        "pos": "名",
+        "en": "only child",
+        "example": "独生子女的童年是六个大人围着一张桌。",
+        "exampleEn": "An only child’s childhood is six adults around one table."
+      },
+      {
+        "hanzi": "三孩政策",
+        "pinyin": "sānhái zhèngcè",
+        "pos": "名",
+        "en": "three-child policy",
+        "example": "三孩政策改了文件，没立刻改意愿。",
+        "exampleEn": "The three-child policy changed the document, not the wish at once."
+      },
+      {
+        "hanzi": "空巢",
+        "pinyin": "kōngcháo",
+        "pos": "名/形",
+        "en": "empty nest",
+        "example": "空巢不是风景，是子女在另一座城。",
+        "exampleEn": "An empty nest is not scenery; it is children in another city."
+      },
+      {
+        "hanzi": "养育",
+        "pinyin": "yǎngyù",
+        "pos": "动",
+        "en": "to raise a child",
+        "example": "养育成本让很多家庭停在一个孩子。",
+        "exampleEn": "The cost of raising keeps many families at one child."
+      },
+      {
+        "hanzi": "负担",
+        "pinyin": "fùdān",
+        "pos": "名",
+        "en": "burden",
+        "example": "房贷和托育是一笔叠在一起的负担。",
+        "exampleEn": "The mortgage and childcare are one stacked burden."
+      },
+      {
+        "hanzi": "结构",
+        "pinyin": "jiégòu",
+        "pos": "名",
+        "en": "structure",
+        "example": "家庭结构正在被政策和成本一起改写。",
+        "exampleEn": "Household structure is being rewritten by policy and cost together."
+      },
+      {
+        "hanzi": "照顾",
+        "pinyin": "zhàogù",
+        "pos": "动",
+        "en": "to look after",
+        "example": "谁来照顾失能老人，已经不是家务。",
+        "exampleEn": "Who looks after a disabled elder is no longer housework."
+      },
+      {
+        "hanzi": "生育",
+        "pinyin": "shēngyù",
+        "pos": "动/名",
+        "en": "fertility / giving birth",
+        "example": "生育被写成私事，账单却是公共的。",
+        "exampleEn": "Giving birth is written as private; the bill is public."
+      },
+      {
+        "hanzi": "四二一",
+        "pinyin": "sì èr yī",
+        "pos": "名",
+        "en": "4-2-1 household",
+        "example": "四二一把两头叠在同一代中年人身上。",
+        "exampleEn": "4-2-1 stacks both ends on the same middle generation."
+      },
+      {
+        "hanzi": "夹心一代",
+        "pinyin": "jiāxīn yídài",
+        "pos": "名",
+        "en": "sandwich generation",
+        "example": "夹心一代的请假条比旅行多。",
+        "exampleEn": "The sandwich generation has more leave notes than trips."
+      },
+      {
+        "hanzi": "隔代",
+        "pinyin": "gé dài",
+        "pos": "形",
+        "en": "skip-generation (care)",
+        "example": "隔代抚养让奶粉和旧规矩坐同一张桌。",
+        "exampleEn": "Skip-generation care seats milk powder and old rules at one table."
+      },
+      {
+        "hanzi": "托育",
+        "pinyin": "tuōyù",
+        "pos": "名",
+        "en": "childcare / day care",
+        "example": "鼓励生育之前，先把托育搬进社区。",
+        "exampleEn": "Before encouraging births, move childcare into the neighbourhood."
+      },
+      {
+        "hanzi": "不婚",
+        "pinyin": "bùhūn",
+        "pos": "动",
+        "en": "to remain unmarried",
+        "example": "不婚者在春运的桌子上没有固定碗。",
+        "exampleEn": "Those who do not marry have no fixed bowl on the Chunyun table."
+      },
+      {
+        "hanzi": "留守",
+        "pinyin": "liúshǒu",
+        "pos": "动",
+        "en": "to be left behind",
+        "example": "农村留守的老人和儿童，家在日历上分开。",
+        "exampleEn": "Left-behind elders and children in the countryside have a home that splits on the calendar."
+      },
+      {
+        "hanzi": "春运",
+        "pinyin": "chūnyùn",
+        "pos": "名",
+        "en": "Chunyun / Spring Festival travel rush",
+        "example": "春运的一张票，常常是家一年里唯一完整的时刻。",
+        "exampleEn": "A Chunyun ticket is often the household’s only complete moment in the year."
+      },
+      {
+        "hanzi": "丁克",
+        "pinyin": "dīngkè",
+        "pos": "名",
+        "en": "DINK (dual income, no kids)",
+        "example": "丁克有时是用「不组队」逃避四二一。",
+        "exampleEn": "DINK is sometimes “not forming a team” to escape 4-2-1."
+      }
+    ]
+  },
+  {
+    "slug": "neijuan",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "夜里。窗外是城市灯火，里面是另一座不睡觉的城。",
+        "en": "Night. City lights outside; inside, another city that will not sleep."
+      },
+      {
+        "zh": "玻璃幕墙、格子间，人被玻璃和隔板同时装进去。",
+        "en": "Glass curtain wall, cubicles: people packed in by glass and partitions at once."
+      },
+      {
+        "zh": "显示器的蓝白比顶灯更亮，脸被屏幕照着。",
+        "en": "The blue-white of the monitor is brighter than the ceiling light; faces are lit by the screen."
+      },
+      {
+        "zh": "有人还坐着，没人聊天，身体对着键盘。",
+        "en": "Someone is still sitting; no one chats; bodies face the keyboard."
+      },
+      {
+        "zh": "水瓶、文件、耳机，没有晚餐的盘子——饭已经在工位上解决了。",
+        "en": "Water bottle, files, earphones, no dinner plate — the meal was already finished at the desk."
+      },
+      {
+        "zh": "看不见钟，也不需要钟，走的人会先被看见。",
+        "en": "No clock in the frame, and none is needed: whoever leaves first will be seen."
+      },
+      {
+        "zh": "加班餐的盒子或许还在桌角，证明这一顿没有离开工位。",
+        "en": "A takeaway box may still sit at the corner of the desk, proof the meal never left the station."
+      },
+      {
+        "zh": "可说的一句：这不是加班的偶然，是工位把昼夜拉平之后的风景。",
+        "en": "One line: this is not accidental overtime; it is the landscape after the desk has flattened day and night."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "窗外是城市的夜，窗内是不肯熄的屏。玻璃幕墙把格子间照成一块块发光的矩形，水瓶和文件挤在键盘边，没有人把晚餐摆成一顿饭。显示器的蓝白比顶灯更亮，脸被屏幕照着。图上看不见钟。走得早的人会被记住，留下来的人也不一定被看见，只是没被写成不努力。这就是九九六最普通的画面：九点到九点、一周六天，工位把昼夜拉成同一种白。这不是加班的偶然，是时间被当成忠诚之后的风景。先点名玻璃、蓝屏和看不见的钟，再上判断。走得早会被记住。",
+        "en": "Outside, the city’s night; inside, screens that will not go out. The glass wall turns cubicles into glowing rectangles; water and files crowd the keyboard; no one lays dinner out as a meal. Monitor blue-white is brighter than the ceiling; faces are lit by the screen. There is no clock in the picture. Whoever leaves early will be remembered; whoever stays is not necessarily seen, only not written down as un-hardworking. This is 996’s ordinary image: nine to nine, six days a week, the desk pulling day and night into the same white. Not accidental overtime: the landscape after time has been treated as loyalty. Name the glass, the blue screen and the missing clock first, then judge. Leaving early will be remembered."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "九九六是时间表：早上九点到晚上九点，一周六天。内卷是更狠的判断：大家都更努力，蛋糕没有变大，只是更累。躺平是拒绝为无意义比较燃烧。铁饭碗是另一种梦：编制、稳定、少被末位淘汰。四个词画出工作的地图。它到底在解决谁的问题？公司用时长表达忠诚，好在对手没下班之前把人留住；年轻人用躺平或考公，回答「这份努力还能不能兑换房子」。不要把它们当网络梗，它们是组织法。蛋糕不变时，努力会互相抵消。四个词不是梗，是工位的组织法。",
+        "en": "996 is a timetable: nine in the morning to nine at night, six days a week. Involution is a harsher judgement: everyone tries harder, the cake does not grow, only the tiredness does. Lying flat is a refusal to burn for empty comparison. The iron rice bowl is another dream: a quota post, stability, less last-place elimination. Four words draw a map of work. Whose problem do they solve? Firms use hours to show loyalty, keeping people until the rival has not yet left; the young answer with lying flat or the civil-service exam: can this effort still be cashed into a flat? Do not leave them as internet memes. They are methods of organisation. When the cake does not grow, effort cancels effort. The four words are not memes; they are the desk’s method of organisation."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么组织",
+        "titleEn": "Who lives it, and how it is organised",
+        "zh": "谁在过？互联网和大厂最出名，医院、律所、教培、外卖超时，是同一套逻辑的不同工装。怎么组织？打卡软件、加班餐、通宵项目群、竞业协议；劳动法写着每周四十小时，工位写着「再改一版」。钱：加班费常常没有，换来的是年终和「表现」。铁饭碗另一条路——公务员、事业编考试把稳定变成另一种内卷，报录比比高考更难看。规则是：能熬的人留下，问意义的人被说不懂事。谁先走，会被目光组织进「不努力」那一栏。劳动法写在纸上，真正的规则写在谁先走的目光里。能熬的人留下。",
+        "en": "Who lives it? The internet and big tech are the famous cases; hospitals, law firms, tutoring and delivery timeouts are the same logic in different uniforms. How is it organised? Clock-in apps, overtime meals, all-night project chats, non-compete clauses; labour law writes forty hours a week, the desk writes “one more version”. Money: overtime pay is often missing, swapped for a year-end bonus and “performance”. The iron bowl is another road — civil-service and public-institution exams turn stability into another involution, with worse applicant-to-post ratios than the gaokao. The rule: those who can endure stay; those who ask about meaning are told they do not understand. Whoever leaves first is organised by glances into the “not working hard” column. Labour law is written on paper; the real rule is written in the glance at whoever leaves first. Those who can endure stay."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "三层好处让九九六不容易被一句「不人道」砍断。个人：高强度能让人很快上手，简历上的项目是真的，有人因此跳到更好的位子。家庭：一份高薪撑住房贷，父母才肯说「你总算安定了」。社会：公司用时长换速度，城市用灯火证明自己还在增长。它确实给过一些人台阶。口试里要承认这一点，再往下拆问题，否则会像在背批判稿。好处解释的是它为什么停不下来，不是它为什么必须留下。承认台阶是真的，再问蛋糕在哪，口试才不像在背「不人道」。高薪换来的安定，也可能是一份透支的睡眠。",
+        "en": "Three layers of good make 996 hard to cut down with one word, “inhuman”. Personally: high intensity can make someone useful fast; the projects on a CV are real; some jump to a better seat because of it. For the family: one high salary holds up a mortgage, and parents will finally say “you have settled”. For society: firms swap hours for speed; cities use lights to prove they are still growing. It has genuinely given some people a step. In the oral, admit this before taking the problems apart, or you will sound as if you are reciting a critique. The good explains why it does not stop — not why it must stay. Admit the step is real, then ask where the cake is, or the oral will sound like reciting “inhuman”. The settling a high salary buys may also be a sleep that has been spent in advance."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：末班地铁、加班餐、周末还在回消息，朋友的婚礼要请假。结构：蛋糕不增大时，努力变成互相抵消；三十五岁被看成过期，女性还要额外证明自己不会「因生育离开」。被排除的是身体先撑不住的人，也是选择躺平就被写成懒的人。规则对谁有利？对能把人时延长、却不必做大蛋糕的公司有利；对已经拿到编制、可以不玩这套时长游戏的人有利；对只靠出卖清醒的人不利。劳动法写在纸上，工位写在九点以后。工位不中性：三十五岁和生育假先把人分成两种。",
+        "en": "Everyday: the last metro, an overtime meal, still answering messages at the weekend, needing leave for a friend’s wedding. Structural: when the cake does not grow, effort cancels effort; thirty-five is read as expired; women must extra-prove they will not “leave because of childbirth”. Who is left out? People whose bodies give out first, and people who choose to lie flat and are then written as lazy. Whom do the rules favour? Firms that can stretch person-hours without enlarging the cake; people who already hold a quota post and need not play the hours game; not those who only have their waking hours to sell. Labour law is written on paper; the desk is written after nine. The desk is not neutral: thirty-five and maternity leave first split people into two kinds."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "侧面可换。公务员热是内卷的反向出口，稳定本身被炒成稀缺品。大厂裁员证明加班换不来永久工位。外卖和小店把九九六翻译成超时扣款。远程办公看起来自由，已读不回仍被记。女性和三十五岁危机说明工位并不中性：请假条和生育假先把人分成两种可雇用性。口试里请一个具体的人——实习学长、考公的表姐、开店的朋友——工作主题有了面孔才不会飘。请一个具体的人来到口试里：实习学长、考公的表姐、开店的朋友。没有面孔，工作主题会飘。裁员证明加班买不来永久工位。",
+        "en": "Side-angles you can swap. The civil-service craze is involution’s reverse exit: stability itself is traded as a scarce good. Big-tech layoffs prove overtime does not buy a permanent desk. Delivery and small shops translate 996 into timeout deductions. Remote work looks free; an unread reply is still counted. Women and the age-thirty-five crisis show the desk is not neutral: leave notes and maternity leave first split people into two employabilities. In the oral, invite one concrete person — an intern a year ahead, a cousin sitting the civil-service exam, a friend with a shop — or talk of work will float. Invite one concrete person into the oral: an intern a year ahead, a cousin sitting the civil-service exam, a friend with a shop. Without a face, talk of work floats. Layoffs prove overtime cannot buy a permanent desk."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙的工作日和仍被提起的午睡，是另一种时间政治：下午可以慢，并不等于不工作；无偿加班更难被写成美德。更通用的锚是任何「用在场时长代替产出」的组织。人如何被组织？用打卡、群消息和谁先走的目光。规则对谁有利？对延长工时的公司有利，对能逃进编制的人有利；对问「蛋糕在哪」的人不利。我的立场——努力可以敬，时长不能当忠诚的唯一单位；躺平不是懒，是蛋糕不做大时的合理拒绝。比较禁止只说「欧洲更会生活」，要说出工作日如何给时间立法。",
+        "en": "Spain’s jornada and the siesta still mentioned are another politics of time: the afternoon may be slow without meaning not working; unpaid overtime is harder to write as a virtue. A more general anchor is any organisation that substitutes hours present for output. How are people organised? By clock-ins, group messages, and the glance at whoever leaves first. Whom do the rules favour? Firms that stretch hours, people who can escape into a quota post; not those who ask where the cake is. My stance: effort can be honoured; hours cannot be loyalty’s only unit. Lying flat is not laziness; it is a reasonable refusal when the cake is not made larger. Do not only say “Europe knows how to live”: say how the working day legislates time."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "玻璃幕墙、格子间、蓝屏、夜。说：工位把昼夜拉平。",
+        "en": "Glass wall, cubicles, blue screens, night. Say: the desk has flattened day and night."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "九九六是时间表；内卷是蛋糕不变；躺平和铁饭碗是回答。",
+        "en": "996 is a timetable; involution is an unchanged cake; lying flat and the iron bowl are answers."
+      },
+      {
+        "time": "0:55–1:40",
+        "zh": "打卡、加班餐、竞业；劳动法对工位；点一次考公那条路。",
+        "en": "Clock-in, overtime meals, non-competes; labour law versus the desk; name once the civil-service road."
+      },
+      {
+        "time": "1:40–2:20",
+        "zh": "三层好处：上手快、房贷、公司用时长赢速度。",
+        "en": "Three layers of good: getting useful fast, the mortgage, firms winning speed with hours."
+      },
+      {
+        "time": "2:20–3:05",
+        "zh": "末班地铁；三十五岁和生育惩罚；蛋糕不增大。",
+        "en": "Last metro; age thirty-five and the maternity penalty; the cake does not grow."
+      },
+      {
+        "time": "3:05–4:20",
+        "zh": "比较工作日与午睡残留，或任何反无偿加班。收束：人被打卡组织；时长不是忠诚；躺平可以是拒绝。",
+        "en": "Compare the working day and leftover siesta, or any refusal of unpaid overtime. Close: people organised by clock-in; hours are not loyalty; lying flat can be a refusal."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "你能接受九九六吗？在什么条件下？",
+        "en": "Could you accept 996, and on what conditions?"
+      },
+      {
+        "zh": "躺平是对个人的放弃，还是对「蛋糕不变」的集体诊断？",
+        "en": "Is lying flat a personal giving-up, or a collective diagnosis that the cake does not grow?"
+      },
+      {
+        "zh": "稳定的工作和热爱的工作，你选哪一个？",
+        "en": "Would you choose a stable job or a job you love?"
+      },
+      {
+        "zh": "如果加班费按法律发足，九九六还会被当成「企业文化」吗？",
+        "en": "If overtime were paid in full as the law says, would 996 still be sold as “company culture”?"
+      },
+      {
+        "zh": "铁饭碗和九九六，哪一种规则对年轻人更有利？请点名受益者。",
+        "en": "Iron rice bowl or 996: which rule set favours the young more? Name the beneficiaries."
+      },
+      {
+        "zh": "工位看起来中性，请假条和生育假怎样把人分成两种可雇用性？",
+        "en": "The desk looks neutral; how do leave notes and maternity leave split people into two employabilities?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "如果加班费按法律发足，九九六还会被当成「企业文化」吗？",
+        "en": "If overtime were paid in full as the law says, would 996 still count as “company culture”?"
+      },
+      {
+        "zh": "躺平是对个人的放弃，还是对「蛋糕不变」的集体诊断？",
+        "en": "Is lying flat a personal giving-up, or a collective diagnosis that the cake stays the same?"
+      },
+      {
+        "zh": "铁饭碗和九九六，哪一种规则对年轻人更有利？请点名受益者。",
+        "en": "Iron rice bowl or 996: which rules favour the young more? Name who benefits."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "内卷",
+        "pinyin": "nèijuǎn",
+        "pos": "名",
+        "en": "involution / rat race",
+        "example": "内卷是蛋糕不变，努力互相抵消。",
+        "exampleEn": "Involution is an unchanged cake, effort cancelling effort."
+      },
+      {
+        "hanzi": "加班",
+        "pinyin": "jiābān",
+        "pos": "动",
+        "en": "to work overtime",
+        "example": "加班餐不能把一顿饭还给人。",
+        "exampleEn": "An overtime meal cannot give a person back a meal."
+      },
+      {
+        "hanzi": "躺平",
+        "pinyin": "tǎngpíng",
+        "pos": "动",
+        "en": "to lie flat / opt out",
+        "example": "躺平是拒绝为无意义比较燃烧。",
+        "exampleEn": "Lying flat is refusing to burn for empty comparison."
+      },
+      {
+        "hanzi": "铁饭碗",
+        "pinyin": "tiě fànwǎn",
+        "pos": "名",
+        "en": "iron rice bowl / secure post",
+        "example": "铁饭碗把稳定变成另一种考试。",
+        "exampleEn": "The iron rice bowl turns stability into another exam."
+      },
+      {
+        "hanzi": "编制",
+        "pinyin": "biānzhì",
+        "pos": "名",
+        "en": "official staffing quota",
+        "example": "进入编制，意味着可以少玩时长游戏。",
+        "exampleEn": "Entering the quota means playing the hours game less."
+      },
+      {
+        "hanzi": "竞争",
+        "pinyin": "jìngzhēng",
+        "pos": "名/动",
+        "en": "competition / to compete",
+        "example": "竞争如果只比谁更晚走，产出不会变大。",
+        "exampleEn": "If competition is only who leaves later, output does not grow."
+      },
+      {
+        "hanzi": "意义",
+        "pinyin": "yìyì",
+        "pos": "名",
+        "en": "meaning",
+        "example": "问工作的意义，不该被写成不懂事。",
+        "exampleEn": "Asking what the work means should not be written as not knowing how to behave."
+      },
+      {
+        "hanzi": "平衡",
+        "pinyin": "pínghéng",
+        "pos": "名/动",
+        "en": "balance / to balance",
+        "example": "平衡不是周末补觉，是下班真的能走。",
+        "exampleEn": "Balance is not catching up on sleep at the weekend; it is being able to leave when work ends."
+      },
+      {
+        "hanzi": "九九六",
+        "pinyin": "jiǔjiǔliù",
+        "pos": "名",
+        "en": "996 schedule",
+        "example": "九九六把昼夜写成同一种白。",
+        "exampleEn": "996 writes day and night as the same white."
+      },
+      {
+        "hanzi": "劳动法",
+        "pinyin": "láodòngfǎ",
+        "pos": "名",
+        "en": "labour law",
+        "example": "劳动法写着四十小时，工位写着九点以后。",
+        "exampleEn": "Labour law writes forty hours; the desk writes after nine."
+      },
+      {
+        "hanzi": "打卡",
+        "pinyin": "dǎkǎ",
+        "pos": "动",
+        "en": "to clock in / out",
+        "example": "人被打卡和谁先走的目光组织。",
+        "exampleEn": "People are organised by clock-ins and the glance at whoever leaves first."
+      },
+      {
+        "hanzi": "竞业",
+        "pinyin": "jìngyè",
+        "pos": "名",
+        "en": "non-compete (agreement)",
+        "example": "竞业协议把离开也变成一种惩罚。",
+        "exampleEn": "A non-compete turns leaving itself into a penalty."
+      },
+      {
+        "hanzi": "考公",
+        "pinyin": "kǎogōng",
+        "pos": "动",
+        "en": "to sit the civil-service exam",
+        "example": "考公把稳定变成另一种内卷。",
+        "exampleEn": "The civil-service exam turns stability into another involution."
+      },
+      {
+        "hanzi": "加班餐",
+        "pinyin": "jiābān cān",
+        "pos": "名",
+        "en": "overtime meal",
+        "example": "加班餐证明这一顿没有离开工位。",
+        "exampleEn": "An overtime meal proves this meal never left the desk."
+      },
+      {
+        "hanzi": "裁员",
+        "pinyin": "cáiyuán",
+        "pos": "动",
+        "en": "to lay off staff",
+        "example": "大厂裁员证明加班换不来永久工位。",
+        "exampleEn": "Big-tech layoffs prove overtime does not buy a permanent desk."
+      },
+      {
+        "hanzi": "忠诚",
+        "pinyin": "zhōngchéng",
+        "pos": "名",
+        "en": "loyalty",
+        "example": "时长不能当忠诚的唯一单位。",
+        "exampleEn": "Hours cannot be loyalty’s only unit."
+      }
+    ]
+  },
+  {
+    "slug": "shequ",
+    "minutes": 12,
+    "lookFor": [
+      {
+        "zh": "黄昏，天还没全黑，路灯刚亮，地面有一层薄反光。",
+        "en": "Dusk: the sky is not fully dark, street lamps just on, a thin sheen on the ground."
+      },
+      {
+        "zh": "很大的广场，地上有红色跑道线，说明这地白天可能给跑步、晚上被舞队征用。",
+        "en": "A wide plaza with red track lines: by day perhaps for running, by night requisitioned by a dance team."
+      },
+      {
+        "zh": "十几人成排，间隔均匀，动作一致——侧平举，重心在两脚之间。",
+        "en": "A dozen or so in rows, even spacing, the same motion — arms out to the side, weight between both feet."
+      },
+      {
+        "zh": "浅色短袖、深色裤子、旅游鞋，有一点统一，又不是演出服。",
+        "en": "Pale short sleeves, dark trousers, trainers: a little unified, not quite costumes."
+      },
+      {
+        "zh": "以中老年女性为主；领舞更靠近音箱，手势比别人大一拍。",
+        "en": "Mostly middle-aged and older women; the lead dancer stands closer to the speaker, gestures a beat larger."
+      },
+      {
+        "zh": "远处居民楼、刚亮的窗，提醒这是社区空地，不是景区。",
+        "en": "Residential blocks in the distance, windows just lighting: community ground, not a scenic spot."
+      },
+      {
+        "zh": "声音必须补：音箱的鼓点有点破、有点近，比音乐厅更像占领。",
+        "en": "You must add the sound: the speaker’s beat is a little broken, a little close — more occupation than a concert hall."
+      },
+      {
+        "zh": "几乎没有年轻人的队形，没有教练工牌，没有售票处。可说：一块空地在七点换了主人。",
+        "en": "Almost no young formation, no coach badge, no ticket office. One line: at seven the empty ground changes owner."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "黄昏把广场染成一层薄橘。地上的红线还在，那是白天跑步的痕迹；现在站上去的是另一群人。路灯刚亮，浅色短袖、深色裤子、旅游鞋，十几个人间隔均匀，手臂同时侧平举，像被一首歌卡住。领舞更靠近那个方盒子——音箱——手势比别人大一拍。包放在花坛边，有人把孙子的滑板车靠在灯柱上。路过的人减速，有人掏手机，有人皱眉加快脚步。图上没有售票处，也没有教练工牌，几乎没有年轻人的队形。这不是课。这是一块空地在七点换了主人。先点名音箱和队形，再上判断。",
+        "en": "Dusk dyes the plaza a thin orange. The red lines are still there — traces of daytime running; another group now stands on them. Lamps just on: pale short sleeves, dark trousers, trainers; a dozen people evenly spaced, arms lifting to the side together, as if a song had caught them. The lead dancer stands closer to that square box — the speaker — her gesture a beat larger than the rest. Bags sit by the planter; a grandchild’s scooter leans on a lamp-post. Passers-by slow down; some take out a phone, some frown and speed up. There is no ticket office in the picture, no coach’s badge, almost no young formation. This is not a class. At seven, an empty piece of ground changes owner. Name the speaker and the formation first, then judge."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "广场舞常被开玩笑，它却是中国城市社区最成功的自发组织之一。不是「老年人喜欢运动」这么薄。它是退休之后，把被单位拆掉的日常重新编进一套动作：七点到、站进熟悉的位置、跟着同一首歌。队伍以中老年女性为主——丈夫或许还在应酬或已坐下看电视，子女在别的城市，自己的名字从「某工」「某妈」变成「广场舞那一队的」。它到底在解决谁的问题？解决的是从工位和灶台退下来之后，人还怎么被看见。看起来像休闲，学生容易把它说成经历体验。真正的名字是社区自组织：谁占用这块地、谁决定音量、谁能加入，全是规则。",
+        "en": "Square dancing is joked about, yet it is one of urban China’s most successful self-organisations. Not as thin as “old people like exercise”. After retirement it re-forms into a set of movements the daily life that the work-unit took apart: arrive at seven, stand in a familiar place, follow the same song. Teams are mostly middle-aged and older women — husbands perhaps still at a banquet or already in front of the television, children in another city, one’s own name shifted from “so-and-so at work”, “so-and-so’s mum”, to “that square-dance team”. Whose problem does it solve? How a person is still seen after stepping down from desk and stove. It looks like leisure; students easily file it under Experiences. Its real name is neighbourhood self-organisation: who occupies this ground, who sets the volume, who may join — all rules."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么组织",
+        "titleEn": "Who lives it, and how it is organised",
+        "zh": "谁发起？常常是一个会跳舞、肯先买音箱的人，或居委会点头的「文体队」。谁付钱？音箱、U盘、统一的短袖，多半队员AA，偶尔居委会补贴电费或借场地。怎么加入？表面写着「谁来谁跳」，底下是熟人网络：你被邻居拉一把，才知道站哪一排、跟哪一首、一个月出多少钱。没人介绍的人可以站在外圈比划，那一圈不算「队里的」。规则写在音箱旋钮上——音量多大、占到几点、雨天改去哪栋楼的中庭。近年有的队伍改用无线耳机：舞者听自己的鼓点，路人少一层吵，是噪音投诉逼出来的妥协。钱不多，权力却具体：领舞定曲目，居委会定这块地还能不能继续占。",
+        "en": "Who starts it? Often someone who can dance and will buy the speaker first, or a “culture-and-sport team” the residents’ committee has nodded at. Who pays? Speaker, USB stick, matching T-shirts — mostly split among members; sometimes the committee subsidises electricity or lends the ground. How do you join? On the surface, “whoever comes, dances”; underneath, a network of acquaintances: a neighbour pulls you in before you know which row, which song, how much to pay a month. Someone with no introduction may mime on the outer ring; that ring does not count as “in the team”. Rules are written on the speaker knob — how loud, until what time, which building atrium when it rains. Some teams have switched to wireless earphones: dancers hear their own beat, passers-by get one less layer of noise, a compromise squeezed out by complaints. Little money, concrete power: the lead dancer sets the playlist; the residents’ committee decides whether this ground may still be held."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：出汗、睡眠、血压，比「对健康好」更具体的是——明天还有一个必须到场的理由，日历上重新出现不属于子女的一格。家庭：有人去跳舞，家里少一个对着墙壁的老人；队里会传药品信息、会帮着带一会儿孙子，子女不在的日子被补上。社会：这是基层最便宜的组织，不用门票、不用教练证，一块空地就能把人编进队形。居委会乐见：比办晚会便宜，还显得社区「有活力」，照片可以贴上公示栏。对城市，晚上七点的广场证明公共空间还在被生活使用，而不只是被路过。要走到「退休后的社交替代」这一层，不要停在个人健康。",
+        "en": "Personally: sweat, sleep, blood pressure — more concrete than “good for health” is this: tomorrow there is still a reason one must show up, a square on the calendar that does not belong to the children. For the family: someone goes dancing, so the house has one fewer elder facing a wall; the team passes on medicine tips, minds a grandchild for a while, fills the days when children are away. For society: this is the cheapest grassroots organisation — no ticket, no coach’s licence; one empty patch can form people into ranks. The residents’ committee is glad: cheaper than a gala, and the neighbourhood looks “alive”, a photo for the noticeboard. For the city, the plaza at seven proves public space is still used by living, not only passed through. Go as far as “a social substitute after retirement”; do not stop at personal health."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常摩擦先从耳朵开始。音箱扰民是真的。楼上有人要写作业、有人上夜班、有人刚把婴儿哄睡，鼓点穿过窗户像没人问过许可。两队抢同一块地，曲目打架，比微笑更先发生。有人报警，有人把旋钮再拧大一格。结构上，熟人网络就是门槛——没朋友的人、新搬来的人、口音不同的人、男的、年轻的，站在外圈会更孤独。活动越好，挤不进圈子的人越像局外人。公共空间默认被中老年女性占领，小孩轮滑、年轻人打球、遛狗的人，都要让路或吵架。规则对谁有利？对已经在队里的人有利，对需要「社区有活动」照片的居委会有利；对要睡觉的邻里、对挤不进圈子的人不利。无线耳机能减噪，减不掉「这块地归谁」。",
+        "en": "Everyday friction starts at the ear. Speaker noise disturbing residents is real. Upstairs someone has homework, someone is on a night shift, someone has just got a baby to sleep; the beat comes through the window as if no one asked permission. Two teams fight for the same ground, playlists clash, before anyone smiles. Some call the police; some turn the knob one more click. Structurally, the acquaintance network is the threshold — people with no friends, newcomers, different accents, men, the young, stand on the outer ring and feel lonelier. The better the activity, the more those who cannot squeeze into the circle look like outsiders. Public space is by default occupied by middle-aged and older women; children on scooters, young people playing ball, dog-walkers must give way or quarrel. Whom do the rules favour? Those already in the team, the committee that needs a photo of “the community is active”; not neighbours who need sleep, not people who cannot get into the circle. Wireless earphones can cut noise; they cannot cut “whose ground is this”."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "性别必须说。队伍以中老年女性为主，男性更常在旁边看棋或走步；舞被写成「大妈的」，笑声里有贬低，也有人因此不敢加入。代际：年轻人很少进队，不是不会跳，是怕被写成「和妈妈一队」。城乡：县城广场更密、更早，大城市改去商场中庭，或被物业用「扰民」清场。商业：统一服装、比赛、直播打卡，自发开始像演出。治理：有的城市划「静音时段」，有的装音量监测，有的直接禁音箱。疫情年停过，人发现广场空了比吵更可怕——组织一撤，孤独回到没有队形的晚上。社区的质量不看地标，看七点谁被编进去、谁被留在外圈。",
+        "en": "Gender must be said. Teams are mostly middle-aged and older women; men more often watch chess or walk nearby. The dance is written as “aunties’”; there is contempt in the laugh, and some dare not join because of it. Generation: the young rarely enter, not because they cannot dance, but because they fear being written as “in mum’s team”. Urban and rural: county plazas are denser and earlier; big cities move into mall atriums, or property managers clear the ground as “disturbing residents”. Commerce: matching kits, competitions, livestream check-ins — the self-organised begins to look like a show. Governance: some cities mark “quiet hours”, some install volume monitors, some ban speakers outright. In the pandemic year it stopped, and people found an empty plaza more frightening than the noise — once the organisation withdraws, loneliness returns to an evening with no formation. A neighbourhood’s quality is not its landmarks; it is who is formed in at seven, and who is left on the outer ring."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙不是「没有这种活动」。看电影、男人看足球，那是消费和观看，不是占领一块地、共用一首歌。对应物是 paseo（傍晚散步）：把身体交还给街道，人走出来、被看见，却不设领舞、不占死一块地。peña 更像熟人队——足球、节日、家乡——加入也要有人带，门槛和广场舞的微信群是同一类组织法。所以它算 Social Organization（社会组织），不是 Experiences（经历体验）。经历体验问人如何过一个晚上；这里问谁有权把空地编成队、音量旋钮在谁手里。人如何被组织？用音箱、队形、AA 和居委会的默许。规则对谁有利？对占到地、已在圈里的中老年女性有利，对要「活力照片」的基层有利；对要安静的邻里、对没人拉一把的孤独者不利。我的立场——舞可以继续，音量必须谈判；孤独该被看见，但不能用噪音当入场券。",
+        "en": "Spain is not “without this kind of activity”. Cinema, men watching football: that is consumption and spectatorship, not occupying a patch of ground and sharing one song. The real counterpart is the paseo: giving the body back to the street at dusk, coming out to be seen, with no lead dancer and no ground held to the death. A peña is closer to an acquaintance team — football, fiesta, hometown — you also need someone to bring you in; the threshold is the same kind of organisation as the square-dance WeChat group. So this counts as Social Organization, not Experiences. Experiences ask how a person spends an evening; here the question is who has the right to form empty ground into a team, and whose hand is on the volume knob. How are people organised? By speaker, formation, splitting the bill, and the residents’ committee’s tacit nod. Whom do the rules favour? Middle-aged and older women who have taken the ground and are already in the circle; grassroots offices that need a photo of “vitality”; not neighbours who want quiet, not the lonely person no one pulls in. My stance: the dance can continue, volume must be negotiated; loneliness should be seen, but noise cannot be the ticket in."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "黄昏、红线、浅色短袖、侧平举、音箱、远处楼。说：七点换了主人。",
+        "en": "Dusk, red lines, pale T-shirts, arms out, the speaker, towers behind. Say: at seven the ground changes owner."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "退休后重新编队；中老年女性；解决「还怎么被看见」。看起来像休闲，名字是社区自组织。",
+        "en": "Re-forming after retirement; middle-aged and older women; solving “how to still be seen”. Looks like leisure; the name is neighbourhood self-organisation."
+      },
+      {
+        "time": "0:55–1:40",
+        "zh": "谁买音箱、AA 短袖、熟人拉进队、居委会默许、无线耳机改规则。",
+        "en": "Who buys the speaker, T-shirts split among members, an acquaintance pulling you in, the committee’s tacit nod, wireless earphones rewriting the rule."
+      },
+      {
+        "time": "1:40–2:20",
+        "zh": "三层好处：明天还有理由出门、队里补位、基层最便宜的组织。",
+        "en": "Three layers of good: a reason to go out tomorrow, the team filling in, the cheapest grassroots organisation."
+      },
+      {
+        "time": "2:20–3:10",
+        "zh": "噪音扰民加抢地；熟人网络门槛让没朋友的人更孤独。",
+        "en": "Noise disturbing residents plus fighting for ground; the acquaintance-network threshold makes people with no friends lonelier."
+      },
+      {
+        "time": "3:10–4:25",
+        "zh": "比较 paseo 和 peña，不是「西班牙没有」。点明：为何不是 Experiences——谁有权编队；音量要谈，孤独要请进圈。",
+        "en": "Compare paseo and peña, not “Spain hasn’t got this”. Why not Experiences: who has the right to form a team; negotiate volume, invite loneliness into the circle."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "广场舞应该被限制音量，还是被保护？",
+        "en": "Should square dancing be volume-limited, or protected?"
+      },
+      {
+        "zh": "如果把音箱换成无线耳机，广场舞还算不算「占领公共空间」？",
+        "en": "If speakers were swapped for wireless earphones, would square dancing still count as occupying public space?"
+      },
+      {
+        "zh": "没人拉你进队的人，为什么会更孤独？请把这说成结构，而不是同情。",
+        "en": "Why are people no one pulls into the team lonelier? Speak it as structure, not pity."
+      },
+      {
+        "zh": "为什么这道题在社会组织，不在经历体验？请用「谁有权决定这块地」回答。",
+        "en": "Why is this stop under Social Organization, not Experiences? Answer with who has the right to decide this ground."
+      },
+      {
+        "zh": "邻里关系在高楼里还能存在吗？七点的空地说明了什么？",
+        "en": "Can neighbourliness survive in high-rises? What does the empty ground at seven show?"
+      },
+      {
+        "zh": "比较你家附近的公共空间和中国的社区广场：谁被编进去，谁被留在外圈？",
+        "en": "Compare public space near your home with a Chinese community plaza: who is formed in, who is left on the outer ring?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "如果把音箱换成无线耳机，广场舞还算不算「占领公共空间」？组织会变松还是变密？",
+        "en": "If speakers were swapped for wireless earphones, would square dancing still count as occupying public space? Would the organisation loosen or tighten?"
+      },
+      {
+        "zh": "没人拉你进队的人，为什么会更孤独？请把判断说成结构，而不是同情。",
+        "en": "Why are people no one pulls into the team lonelier? Speak the judgement as structure, not pity."
+      },
+      {
+        "zh": "为什么这道题在社会组织，不在经历体验？请用「谁有权决定这块地」回答。",
+        "en": "Why is this question in Social Organization, not Experiences? Answer with who has the right to decide this ground."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "社区",
+        "pinyin": "shèqū",
+        "pos": "名",
+        "en": "community / neighbourhood",
+        "example": "社区的质量看晚上七点的空地。",
+        "exampleEn": "A neighbourhood’s quality is the empty ground at seven in the evening."
+      },
+      {
+        "hanzi": "广场舞",
+        "pinyin": "guǎngchǎngwǔ",
+        "pos": "名",
+        "en": "square dancing",
+        "example": "晚饭后她们下楼跳广场舞。",
+        "exampleEn": "After dinner they go downstairs to square-dance."
+      },
+      {
+        "hanzi": "邻里",
+        "pinyin": "línlǐ",
+        "pos": "名",
+        "en": "neighbours / neighbourhood",
+        "example": "邻里微信群和广场舞是同一张网。",
+        "exampleEn": "The neighbours’ WeChat group and square dancing are the same net."
+      },
+      {
+        "hanzi": "居委会",
+        "pinyin": "jūwěihuì",
+        "pos": "名",
+        "en": "residents’ committee",
+        "example": "音箱能不能继续响，有时居委会说了算。",
+        "exampleEn": "Whether the speaker may keep sounding is sometimes the residents’ committee’s call."
+      },
+      {
+        "hanzi": "公共空间",
+        "pinyin": "gōnggòng kōngjiān",
+        "pos": "名",
+        "en": "public space",
+        "example": "公共空间为谁服务，要看谁能占住它。",
+        "exampleEn": "Whom public space serves depends on who can hold it."
+      },
+      {
+        "hanzi": "噪音",
+        "pinyin": "zàoyīn",
+        "pos": "名",
+        "en": "noise",
+        "example": "音箱的噪音引起了投诉。",
+        "exampleEn": "Speaker noise led to complaints."
+      },
+      {
+        "hanzi": "自发",
+        "pinyin": "zìfā",
+        "pos": "形",
+        "en": "self-organised / spontaneous",
+        "example": "自发不等于没有门槛。",
+        "exampleEn": "Self-organised does not mean there is no threshold."
+      },
+      {
+        "hanzi": "归属感",
+        "pinyin": "guīshǔgǎn",
+        "pos": "名",
+        "en": "sense of belonging",
+        "example": "归属感有时要先被熟人拉一把。",
+        "exampleEn": "A sense of belonging sometimes needs an acquaintance to pull you in first."
+      },
+      {
+        "hanzi": "音箱",
+        "pinyin": "yīnxiāng",
+        "pos": "名",
+        "en": "loudspeaker",
+        "example": "规则写在音箱的旋钮上。",
+        "exampleEn": "The rules are written on the speaker’s knob."
+      },
+      {
+        "hanzi": "扰民",
+        "pinyin": "rǎomín",
+        "pos": "动",
+        "en": "to disturb residents",
+        "example": "扰民是真问题，孤独也是真问题。",
+        "exampleEn": "Disturbing residents is a real problem; so is loneliness."
+      },
+      {
+        "hanzi": "门槛",
+        "pinyin": "ménkǎn",
+        "pos": "名",
+        "en": "threshold / barrier",
+        "example": "熟人网络就是这支舞队的门槛。",
+        "exampleEn": "The acquaintance network is this dance team’s threshold."
+      },
+      {
+        "hanzi": "领舞",
+        "pinyin": "lǐngwǔ",
+        "pos": "名",
+        "en": "lead dancer",
+        "example": "领舞更靠近音箱，也更有权定曲目。",
+        "exampleEn": "The lead dancer stands closer to the speaker and has more say over the playlist."
+      },
+      {
+        "hanzi": "无线耳机",
+        "pinyin": "wúxiàn ěrjī",
+        "pos": "名",
+        "en": "wireless earphones",
+        "example": "无线耳机能减噪，减不掉这块地归谁。",
+        "exampleEn": "Wireless earphones can cut noise; they cannot cut whose ground this is."
+      },
+      {
+        "hanzi": "熟人",
+        "pinyin": "shúrén",
+        "pos": "名",
+        "en": "someone one knows",
+        "example": "没熟人介绍，你只能站在外圈比划。",
+        "exampleEn": "With no acquaintance to introduce you, you can only mime on the outer ring."
+      },
+      {
+        "hanzi": "队形",
+        "pinyin": "duìxíng",
+        "pos": "名",
+        "en": "formation",
+        "example": "一块空地就能把人编进队形。",
+        "exampleEn": "One empty patch can form people into ranks."
+      },
+      {
+        "hanzi": "默许",
+        "pinyin": "mòxǔ",
+        "pos": "动",
+        "en": "to tacitly allow",
+        "example": "这块地能不能占，靠居委会的默许。",
+        "exampleEn": "Whether this ground may be held depends on the committee’s tacit nod."
+      }
+    ]
+  },
+  {
+    "slug": "yanglao",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "空间是家里的院子或过道，绿植贴墙，不是病房。",
+        "en": "The space is a courtyard or corridor at home, plants against the wall — not a ward."
+      },
+      {
+        "zh": "老人坐着，身体前倾或手被握住，脸在光里。",
+        "en": "An elder sits, body leaning or a hand held, the face in the light."
+      },
+      {
+        "zh": "中年女性在身后或身侧，动作很近、很细——剪指甲、理衣领、扶着。",
+        "en": "A middle-aged woman behind or beside, the motion close and fine — cutting nails, smoothing a collar, steadying."
+      },
+      {
+        "zh": "两代人之间几乎没有空隙，照料是身体接触，不是远程转账。",
+        "en": "Almost no gap between the two generations: care is body contact, not a remote transfer."
+      },
+      {
+        "zh": "日常的椅子、叶子、家里的光。",
+        "en": "An ordinary chair, leaves, the light of a house."
+      },
+      {
+        "zh": "看不见儿子、看不见护工工牌——默认的手常常是女儿或儿媳的。",
+        "en": "No son in the frame, no carer’s badge — the default hands are often a daughter’s or daughter-in-law’s."
+      },
+      {
+        "zh": "宣传画是红缎和寿桃；图上是不拍照的接触。",
+        "en": "Posters are red satin and longevity peaches; the picture is contact that is not photographed."
+      },
+      {
+        "zh": "可说的一句：敬老可以登高，养老发生在这双手上。",
+        "en": "One line: honouring elders can climb a height; elderly care happens on these hands."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "图发生在家里，不是医院。老人坐着，中年女人在她身后做一件很细的事：剪指甲，或理平衣领。绿植贴着墙，光是院子里的光。两代人之间几乎没有空隙。敬老的宣传画通常是红缎和寿桃；真正的养老是这种不拍照的接触。谁的手在场，谁就在组织这件事。图上缺席的人——儿子、护工、社区医生——同样是结构的一部分。默认的手常常是女儿或儿媳的。敬老可以登高，养老发生在这双手上。先看谁的手在场，再看谁缺席：儿子、护工、社区医生都是结构。宣传画解决面子，剪指甲解决身体。",
+        "en": "The picture happens at home, not in a hospital. An elder sits; a middle-aged woman behind her does something very fine: cutting nails, or smoothing a collar. Plants against the wall; the light is courtyard light. Almost no gap between the two generations. Posters of honouring the aged are usually red satin and longevity peaches; real elderly care is this unphotographed contact. Whose hands are present is who is organising the thing. The absences in the picture — a son, a carer’s badge, a community doctor — are also part of the structure. The default hands are often a daughter’s or daughter-in-law’s. Honouring elders can climb a height; elderly care happens on these hands. Look first whose hands are present, then who is absent: a son, a carer, a community doctor are all structure. The poster solves face; cutting nails solves the body."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "中国正在快速变老：六十岁及以上约 3.1 亿，占百分之二十二；六十五岁及以上约 2.2 亿，占百分之十五点六。传统答案是子女养老；现实是子女在别的城市，退休金和社区服务必须补位。重阳登高、寿宴、给老人让座，是文化上的敬老；床边的长期护理，才是组织上的养老。两者不是一回事。它到底在解决谁的问题？解决的是人活得比过去长、子女却比过去远——荣誉填不满一张空床。把老人只写成「需要被照顾」也不公平：广场舞、大学旁听、带孙子，许多老人仍是社区的发动机。",
+        "en": "China is ageing fast: about 310 million people are 60 and over, some 22 percent; about 220 million are 65 and over, some 15.6 percent. The traditional answer is children providing; the reality is children in another city, so pensions and neighbourhood services must step in. Climbing heights at Chongyang, longevity feasts, giving up a seat: cultural honour. Long-term nursing at the bedside is organisational elderly care. They are not the same thing. Whose problem does it solve? People live longer than before, children live farther than before — honour cannot fill an empty bed. Writing elders only as “people to be cared for” is also unfair: square dancing, sitting in on university classes, raising grandchildren — many elders are still the neighbourhood’s engine."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么组织",
+        "titleEn": "Who lives it, and how it is organised",
+        "zh": "谁在过？城市有退休金的人，和农村主要靠土地与子女的人，过的是两种老。怎么组织？居家是主流：女儿或儿媳请假陪诊，儿子更常寄钱；请护工按小时；社区有日间照料和助餐，覆盖很不均。养老院仍让一些人犹豫——不是卫生，是「把父母送走」的道德指控。钱从养老金、子女和积蓄里出；农村更薄。规则是：有子女的人被默认有人管，有城保的人被默认有钱管；两边都缺的人，靠邻居和运气。长期护理和居家床位，是制度想补上的手。谁请假陪诊，谁就在组织养老。",
+        "en": "Who lives it? Urban people with a pension, and rural people who mainly rely on land and children, live two kinds of old age. How is it organised? Home is the mainstream: a daughter or daughter-in-law takes leave to accompany a clinic visit, a son more often sends money; a carer is hired by the hour; neighbourhoods have day care and meal help, coverage very uneven. Nursing homes still make some hesitate — not hygiene, the moral charge of “sending parents away”. Money comes from pensions, children and savings; the countryside is thinner. The rule: those with children are assumed to have someone; those with urban employee insurance are assumed to have money; those missing both rely on neighbours and luck. Long-term nursing and home beds are the hands the system wants to add. Whoever takes leave to accompany a visit is organising elderly care."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "三层好处要从身体说起。个人：被剪指甲、被扶着走路，是具体的尊严，比「尊老」两个字先到身体。家庭：孝的故事得以续上，春节的那碗面有人坐在上座。社会：三点一亿人如果只靠口号，医院和街道都会堵；把老人组织进社区活动，比把他们组织进病房便宜。好的制度让他们能出力，而不是只能等待被孝顺。广场舞和老年大学说明：组织如果只把人写成负担，就浪费了一整代人的白天。让老人出力，比让他们等待被孝顺更像尊重。三点一亿人如果只进病房，街道会先堵。",
+        "en": "The three layers of good start at the body. Personally: nails cut, being steadied walking — a concrete dignity that reaches the body before the two characters “honour the aged”. For the family: the story of filialness can continue; someone sits in the upper seat at the Spring Festival bowl of noodles. For society: if 310 million people rely only on slogans, hospitals and streets will jam; organising elders into neighbourhood activity is cheaper than organising them into wards. A good system lets them contribute, not only wait to be filial-ed. Square dancing and universities for the aged show: if organisation writes people only as a burden, it wastes a whole generation’s daytime. Letting elders contribute looks more like respect than making them wait to be filial-ed. If 310 million people only enter wards, streets will jam first."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：陪一次复诊要请一天假，护工难找，老人不愿给子女添麻烦于是不说疼。结构：养老金双轨，机关和国企更厚，灵活就业和农村更薄；照料的性别账很清楚——到场的手更多是女性的。被排除的是无子女或子女失联的人，也是被写成「就该在家」而不敢进养老院的人。规则对谁有利？对有本地子女、有城镇职工养老的人有利；对空巢、农村、只有女儿却被说「终究要嫁走」的家庭不利。荣誉解决面子，填不满夜班。到场的手更多是女性的，这已经不是家务，是组织原则。",
+        "en": "Everyday: one clinic follow-up costs a day’s leave, carers are hard to find, elders will not say they hurt so as not to trouble their children. Structural: a dual-track pension, thicker for agencies and state firms, thinner for flexible work and the countryside; the gender accounts of care are clear — the hands that show up are more often women’s. Who is left out? People with no children or children out of contact, and people written as “ought to stay at home” who dare not enter a nursing home. Whom do the rules favour? Those with local children and urban employee pensions; not empty-nesters, the countryside, families with only daughters who are still told “she will marry out in the end”. Honour solves face; it cannot fill a night shift. The hands that show up are more often women’s: this is no longer housework, it is a principle of organisation."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "侧面可转：重阳是节日版敬老，登高和海报解决不了夜尿和防摔；以房养老争议大，因为房子还要留给下一代；大学旁听和老年大学把人重新编进课表；护工多来自更年轻的流动女性，照料链从农村接到城市；临终病房和社区安宁疗护才刚被说出口。口试里谈你家里的老人：谁住在一起，谁寄钱，谁打电话。有面孔，养老才不是新闻标题。节日和床边，是两条必须分开的线。口试里谈你家里的老人：谁住在一起，谁寄钱，谁打电话。有面孔，养老才不是新闻标题。重阳解决节日，填不满夜班。",
+        "en": "Side-angles you can turn to: Chongyang is honouring elders in festival form — climbing a height and a poster cannot solve night urination and fall-prevention; using the house to fund old age is controversial because the house is still meant for the next generation; sitting in on university and colleges for the aged re-form people into a timetable; carers often come from younger migrant women, a care chain from countryside to city; end-of-life wards and neighbourhood palliative care have only just been spoken aloud. In the oral, talk the elders in your house: who lives together, who sends money, who calls. With a face, elderly care is not a headline. Festival and bedside are two lines that must be kept apart. In the oral, talk the elders in your house: who lives together, who sends money, who calls. With a face, elderly care is not a headline. Chongyang solves the festival; it cannot fill a night shift."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙的退休金和养老院把老更早写成公共账户：退休金是权利，进院不完全等于不孝。南欧子女仍常同住或住得很近，祖父母带孩子，是双向的组织，不只是单向赡养。更通用的锚是任何「文化荣誉对床边人手」分开的社会。人如何被组织？用子女义务、养老金账户和社区助餐。规则对谁有利？对城保厚、子女近的人有利；对只有口号没有手的人不利。我的立场——敬老可以留在节日，养老必须留在编制和预算里；让老人出力，比让他们等待被孝顺更像尊重。",
+        "en": "Spain’s pensión and residencia write old age earlier as a public account: a pension is a right; entering a home is not entirely equal to being unfilial. Southern European children still often live together or close by; grandparents minding children is two-way organisation, not only one-way support. A more general anchor is any society that separates cultural honour from hands at the bedside. How are people organised? By children’s duty, pension accounts, and neighbourhood meal help. Whom do the rules favour? Those with a thick urban insurance and nearby children; not those who have slogans and no hands. My stance: honouring elders may stay in the festival; elderly care must stay in staffing and budgets. Letting elders contribute looks more like respect than making them wait to be filial-ed."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "院子、坐着的老人、身后的手、绿植。说：养老发生在手上。",
+        "en": "Courtyard, a seated elder, hands behind, plants. Say: elderly care happens on the hands."
+      },
+      {
+        "time": "0:30–1:00",
+        "zh": "三点一亿、百分之二十二；敬老不等于养老；老人仍是发动机。",
+        "en": "310 million, 22 percent; honouring is not caring; elders are still an engine."
+      },
+      {
+        "time": "1:00–1:40",
+        "zh": "居家、寄钱、护工、养老院的道德犹豫。点一次谁请假陪诊。",
+        "en": "Home care, sending money, a hired carer, moral hesitation about nursing homes. Name once who takes leave to accompany a visit."
+      },
+      {
+        "time": "1:40–2:20",
+        "zh": "三层好处：被触摸的尊严、孝的故事、社区比病房便宜。",
+        "en": "Three layers of good: dignity you can touch, the story of filialness, neighbourhood cheaper than a ward."
+      },
+      {
+        "time": "2:20–3:05",
+        "zh": "请假陪诊；养老金双轨加照料的性别账。",
+        "en": "A day’s leave for a clinic visit; dual-track pensions plus the gender accounts of care."
+      },
+      {
+        "time": "3:05–4:20",
+        "zh": "比较退休金与养老院，南欧同住；荣誉不等于人手。收束：敬老留节日，养老留预算。",
+        "en": "Compare pensión and residencia, Southern European co-residence; honour is not hands. Close: honour stays in the festival, care stays in the budget."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "子女必须和父母住在一起吗？",
+        "en": "Must children live with their parents?"
+      },
+      {
+        "zh": "为什么「送去养老院」在中国仍可能被写成不孝？这套规则对谁有利？",
+        "en": "Why can “sending someone to a nursing home” still be written as unfilial in China? Whom do these rules favour?"
+      },
+      {
+        "zh": "社会怎样才能既敬老又尊重老人的独立？",
+        "en": "How can a society honour elders and still respect their independence?"
+      },
+      {
+        "zh": "养老金更厚的人和主要靠子女的人，老的方式差在哪一层组织？",
+        "en": "People with a thicker pension and people who mainly rely on children: at which layer of organisation does the way of growing old differ?"
+      },
+      {
+        "zh": "比较退休金和「养儿防老」：哪一种让老人更能拒绝不想要的安排？",
+        "en": "Compare a pensión with “raise sons against old age”: which lets an elder refuse an arrangement they do not want?"
+      },
+      {
+        "zh": "到场的手更多是女性的，这是家务还是组织原则？",
+        "en": "The hands that show up are more often women’s — housework, or a principle of organisation?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "为什么「送去养老院」在中国仍可能被写成不孝？这套规则对谁有利？",
+        "en": "Why can “sending someone to a nursing home” still be written as unfilial in China? Whom do these rules favour?"
+      },
+      {
+        "zh": "养老金更厚的人和主要靠子女的人，老的方式差在哪一层组织？",
+        "en": "People with a thicker pension and people who mainly rely on children: at which organisational layer does ageing differ?"
+      },
+      {
+        "zh": "比较退休金和「养儿防老」：哪一种让老人更能拒绝不想要的安排？",
+        "en": "Compare a pensión with “raise sons against old age”: which lets an elder refuse an unwanted arrangement?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "养老",
+        "pinyin": "yǎnglǎo",
+        "pos": "动/名",
+        "en": "elderly care / to provide for old age",
+        "example": "养老不能只靠一句孝顺。",
+        "exampleEn": "Elderly care cannot rest on one word, filialness."
+      },
+      {
+        "hanzi": "退休",
+        "pinyin": "tuìxiū",
+        "pos": "动",
+        "en": "to retire",
+        "example": "从工位退下来之后，人还怎么被看见。",
+        "exampleEn": "After stepping down from the desk, how is a person still seen."
+      },
+      {
+        "hanzi": "退休金",
+        "pinyin": "tuìxiūjīn",
+        "pos": "名",
+        "en": "pension",
+        "example": "退休金够不够，先问你曾在哪一类单位。",
+        "exampleEn": "Whether the pension is enough: first ask what kind of work-unit you were in."
+      },
+      {
+        "hanzi": "敬老",
+        "pinyin": "jìnglǎo",
+        "pos": "动",
+        "en": "to honour the aged",
+        "example": "敬老可以登高，养老在床边。",
+        "exampleEn": "Honouring elders can climb a height; elderly care is at the bedside."
+      },
+      {
+        "hanzi": "护理",
+        "pinyin": "hùlǐ",
+        "pos": "名/动",
+        "en": "nursing / to nurse",
+        "example": "长期护理需要专业，不只是孝心。",
+        "exampleEn": "Long-term nursing needs a profession, not only a filial heart."
+      },
+      {
+        "hanzi": "孤独",
+        "pinyin": "gūdú",
+        "pos": "形/名",
+        "en": "lonely / loneliness",
+        "example": "孤独是组织撤走之后剩下的晚上。",
+        "exampleEn": "Loneliness is the evening left after organisation withdraws."
+      },
+      {
+        "hanzi": "陪伴",
+        "pinyin": "péibàn",
+        "pos": "动/名",
+        "en": "to accompany / company",
+        "example": "陪伴有时比汇款更难组织。",
+        "exampleEn": "Company is sometimes harder to organise than a remittance."
+      },
+      {
+        "hanzi": "老龄化",
+        "pinyin": "lǎolínghuà",
+        "pos": "名",
+        "en": "population ageing",
+        "example": "老龄化已经改写了社区的晚上。",
+        "exampleEn": "Ageing has already rewritten the neighbourhood’s evening."
+      },
+      {
+        "hanzi": "养老院",
+        "pinyin": "yǎnglǎoyuàn",
+        "pos": "名",
+        "en": "nursing home",
+        "example": "送进养老院，在一些家里仍像道德失败。",
+        "exampleEn": "Sending someone to a nursing home still looks, in some families, like a moral failure."
+      },
+      {
+        "hanzi": "重阳",
+        "pinyin": "chóngyáng",
+        "pos": "名",
+        "en": "Double Ninth Festival",
+        "example": "重阳解决节日，解决不了夜班护理。",
+        "exampleEn": "Chongyang solves the festival; it cannot solve night-shift nursing."
+      },
+      {
+        "hanzi": "空巢",
+        "pinyin": "kōngcháo",
+        "pos": "名",
+        "en": "empty nest",
+        "example": "空巢老人最怕的不是穷，是没人问疼。",
+        "exampleEn": "What empty-nest elders fear most is not poverty, but no one asking where it hurts."
+      },
+      {
+        "hanzi": "护工",
+        "pinyin": "hùgōng",
+        "pos": "名",
+        "en": "care worker",
+        "example": "护工多来自更年轻的流动女性。",
+        "exampleEn": "Care workers often come from younger migrant women."
+      },
+      {
+        "hanzi": "陪诊",
+        "pinyin": "péizhěn",
+        "pos": "动",
+        "en": "to accompany someone to a clinic",
+        "example": "陪一次复诊要请一天假。",
+        "exampleEn": "Accompanying one follow-up visit costs a day’s leave."
+      },
+      {
+        "hanzi": "孝顺",
+        "pinyin": "xiàoshùn",
+        "pos": "动/形",
+        "en": "filial / to be filial",
+        "example": "等待被孝顺，不如让老人还能出力。",
+        "exampleEn": "Better to let elders still contribute than to make them wait to be filial-ed."
+      },
+      {
+        "hanzi": "居家",
+        "pinyin": "jūjiā",
+        "pos": "动/形",
+        "en": "to stay at home / home-based",
+        "example": "居家养老是主流，可覆盖很不均。",
+        "exampleEn": "Home-based elderly care is the mainstream, but coverage is very uneven."
+      },
+      {
+        "hanzi": "养老金",
+        "pinyin": "yǎnglǎojīn",
+        "pos": "名",
+        "en": "old-age pension",
+        "example": "养老金双轨，机关更厚，农村更薄。",
+        "exampleEn": "A dual-track pension: thicker for agencies, thinner in the countryside."
+      }
+    ]
+  },
+  {
+    "slug": "renqing",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "双手递上——不是随手一塞，身体在说尊重。",
+        "en": "Both hands holding it out — not a casual shove; the body is saying respect."
+      },
+      {
+        "zh": "红金包装、蝴蝶结，体积不小，分量被设计过。",
+        "en": "Red-and-gold wrapping, a bow, not a small volume; the weight has been designed."
+      },
+      {
+        "zh": "茶几、茶具，是拜访，不是生日派对。",
+        "en": "A tea table, tea things: a visit, not a birthday party."
+      },
+      {
+        "zh": "图往往只给手和礼物，脸被虚化——关系比个人更清楚。",
+        "en": "The picture often gives only hands and a gift; faces are blurred — the relation is clearer than the person."
+      },
+      {
+        "zh": "红与金是节日和吉利的颜色，不是商务灰。",
+        "en": "Red and gold are festival and lucky colours, not business grey."
+      },
+      {
+        "zh": "来之前买过、包过、选过价钱。",
+        "en": "Before arriving: bought, wrapped, a price chosen."
+      },
+      {
+        "zh": "身体微微前倾，人还没坐下，关系已经先被续上一截。",
+        "en": "The body leans slightly; the person has not sat down, and the relation has already been continued a length."
+      },
+      {
+        "zh": "可说的一句：合同还没打开，关系先被一只盒子续上。",
+        "en": "One line: the contract has not been opened; the relation is first continued by a box."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "图上最清楚的不是脸，是一双手和一只盒子。红金包装、蝴蝶结，茶几上还有茶具。礼物被双手递出，身体微微前倾。这不是生日派对的拆礼物，是拜访：人还没坐下，关系已经先被续上一截。红与金是节日和吉利的颜色，不是商务灰。来之前买过、包过、选过价钱。合同、号、学位，往往在盒子之后才出现。要讲人情，先讲这双手为什么不能改为「放到桌上就走」。合同还没打开，关系先被一只盒子续上。先讲这双手为什么不能改为放到桌上就走，分量是被设计过的。",
+        "en": "What is clearest in the picture is not a face: a pair of hands and a box. Red-and-gold wrapping, a bow, tea things still on the table. The gift is held out with both hands, the body leaning slightly. This is not present-opening at a birthday; it is a visit: the person has not sat down, and the relation has already been continued a length. Red and gold are festival and lucky colours, not business grey. Before arriving: bought, wrapped, a price chosen. Contracts, numbers, degrees often appear after the box. To talk renqing, first talk why these hands cannot be changed to “put it on the table and go”. The contract has not been opened; the relation is first continued by a box. First say why these hands cannot be changed to putting it on the table and going; the weight has been designed."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "人情是中国社交的货币：你帮我一次，我记着；逢年过节送礼，不是买卖，是把关系续上。关系写进无数教材，生活里它更像一张看不见的网——介绍工作、看病挂号、孩子入学，有时走正式程序，有时走熟人。它到底在解决谁的问题？解决的是「窗口太慢、规则太硬、陌生人不被信任」——用一本记在心里的账，让事在法律到达之前先转动。没有人情，社会会硬；人情过大，规则会软。正式程序不够用时，熟人网把事办成，账不写合同。账记在心里，不写合同，所以窗口不够用时熟人先转。",
+        "en": "Renqing is the currency of Chinese social life: you help me once, I keep it; gifts at festivals are not a purchase, they continue a relation. Guanxi fills textbooks; in life it is more like an invisible net — a job introduction, a hospital number, a school place; sometimes the formal route, sometimes someone you know. Whose problem does it solve? “The window is too slow, the rules too hard, strangers not trusted” — a ledger kept in the mind, so things turn before the law arrives. Without renqing a society turns hard; with too much, rules turn soft. When formal procedure is not enough, an acquaintance net gets the thing done; the ledger is not written as a contract. The ledger is kept in the mind, not written as a contract, so when the window is not enough acquaintances turn first."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么组织",
+        "titleEn": "Who lives it, and how it is organised",
+        "zh": "谁在过？几乎所有要办事的人，只是厚度不同。怎么组织？先找中间人，再决定礼的分量：太轻像敷衍，太重像行贿。饭局是另一张桌子上的账，谁买单、先敬谁，都在给面子。家庭内部用礼金簿：今天你随我的满月，明年我随你的婚礼，不还可以让关系冷一截。公务有禁令，私人局换地方继续。规则是：能托人就先托，完全靠窗口排队的人，要准备更长的时间。分量、场合、是否还有公开程序，是人情和贿赂之间那条不写在门上的线。能托人就先托，这是不写在门上的规矩。",
+        "en": "Who lives it? Almost anyone who has a thing to get done, only the thickness differs. How is it organised? Find a go-between first, then decide the gift’s weight: too light looks like neglect, too heavy like a bribe. A banquet is another ledger on another table — who pays, whom you toast first, all giving face. Inside families a gift-money book: today you contribute to my full-month, next year I contribute to your wedding; not returning it can cool the relation a length. Public office has bans; private tables move venue and continue. The rule: if you can ask someone to pull strings, do that first; people who only queue at the window should prepare more time. Weight, occasion, and whether a public procedure still exists: the line between renqing and bribery that is not written on the door. If you can ask someone to pull strings, do that first: a rule not written on the door."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "三层好处解释了它为什么骂不走。个人：少碰几次壁，难事有人给一句「我问问」，孤立感会下降。家庭：互助被礼物和礼金可视化，账本就是亲情的备忘录。社会：在正式制度覆盖不均的地方，熟人网让医院、学校、工地先转起来。骂走之后，窗口不会自动变快。口试里要承认润滑是真的，再谈腐蚀，否则会像在用道德口号代替观察。人情能让事转动，是因为它先组织了信任。润滑是真的，窗口不会因为你骂走人情就自动变快。口试里先承认互助，再谈腐蚀，才不像道德口号。",
+        "en": "Three layers of good explain why it cannot be cursed away. Personally: fewer walls hit; for a hard thing someone says “I’ll ask”; isolation falls. For the family: mutual help is made visible in gifts and gift-money; the ledger is kinship’s memo. For society: where formal institutions cover unevenly, an acquaintance net lets hospitals, schools and building sites turn first. After you curse it away, the window does not automatically speed up. In the oral, admit the lubrication is real before talking corrosion, or you will sound as if moral slogans had replaced observation. Renqing can make things turn because it first organises trust. The lubrication is real; the window will not speed up because you cursed renqing away. In the oral, admit mutual help first, then talk corrosion, or you will sound like a moral slogan."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：欠一笔人情比欠一笔钱更难睡，节日的礼盒越来越像考核。结构：网厚的人把正式程序变成走个过场；没有熟人的人，同样的号、同样的学位，要更慢、更硬。被排除的是外地人、外国人、不会演戏的人，也是坚持只走窗口就被说「不懂事」的人。规则对谁有利？对家里已经有医生、老师、官员的人有利；对只有身份证没有介绍人的人不利。送礼和贿赂的界限，往往不写在刑法第一页，写在场合和分量里。网的厚度决定排队的长度，这是组织问题，不只是品德。",
+        "en": "Everyday: owing a favour is harder to sleep on than owing money; festival gift-boxes look more and more like an assessment. Structural: people with a thick net turn formal procedure into going through the motions; people with no acquaintances wait longer and harder for the same number, the same degree. Who is left out? Outsiders, foreigners, people who cannot act a part, and people who insist on the window only and are then told they do not understand. Whom do the rules favour? Those whose families already have a doctor, a teacher, an official; not those who have an ID card and no introducer. The line between a gift and a bribe is often not written on the first page of the criminal code; it is written in occasion and weight. The thickness of the net decides the length of the queue: an organisation problem, not only character."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "侧面可转：医院黄牛把人情做成生意；求职内推在哪都有，中国更常先问「你认识谁」；节日礼盒从茶叶到茅台，公司把人情外包给采购；公务禁令让发票消失，并不总让请托消失。看病挂号、入学、求职，是同一张网的三个窗口。口试里用一次你经历过的托人或还人情，讲当时舒服还是不安。态度比背定义值钱。网的厚度，决定你排队的长度。用一次你经历过的托人或还人情，讲当时舒服还是不安。态度比背定义值钱。挂号、入学、求职，是同一张网的三个窗口，黄牛只是把网做成了生意。",
+        "en": "Side-angles you can turn to: hospital touts turning renqing into a business; job referrals exist everywhere, China more often asks first “whom do you know”; festival boxes from tea to baijiu, companies outsourcing renqing to procurement; public-office bans make invoices vanish and do not always make requests vanish. Getting a hospital number, entering school, finding a job: three windows of the same net. In the oral, use one time you asked someone to pull strings or repaid a favour; say whether you felt at ease or uneasy. Attitude is worth more than reciting a definition. The thickness of the net decides the length of your queue. Use one time you asked a favour or repaid one; say whether you felt at ease or uneasy. Attitude is worth more than reciting a definition. A hospital number, entering school, finding a job: three windows of the same net. Touts only turned the net into a business."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙有走后门、有人脉，教父母把私事织进公共事务的网；职业人脉更常被写成技能，少一层道德暧昧。更通用的锚是任何「正式规则不够用时，熟人先转」的社会。人如何被组织？用礼物、饭局和一本不公开的账。规则对谁有利？对网厚的人有利，对只有窗口的人不利。我的立场——人情可以润滑邻里，不能替代挂号和录取；太轻的礼可以不送，太重的礼应该被叫停。比较时要说出人脉如何分配机会，而不是只说「我们国家也靠关系」。太轻的礼可以不送，太重的礼应该被叫停。",
+        "en": "Spain has enchufe, has connections; godparenthood also weaves private matters into a public net. Networking is more often written as a professional skill, with one less layer of moral ambiguity. A more general anchor is any society where, when formal rules are not enough, acquaintances turn first. How are people organised? By gifts, banquets, and a ledger that is not public. Whom do the rules favour? People with a thick net; not people who only have the window. My stance: renqing may lubricate neighbours; it cannot replace a hospital number and an admission. A gift too light need not be sent; a gift too heavy should be stopped. In comparison, say how connections allocate chances — not only “in our country we also rely on guanxi”. A gift too light need not be sent; a gift too heavy should be stopped."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "双手递、红金盒、茶具。说：关系先被盒子续上。",
+        "en": "Both hands holding it out, a red-and-gold box, tea things. Say: the relation is first continued by a box."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "心里的账；窗口太慢时熟人先转。",
+        "en": "A ledger in the mind; when the window is too slow, acquaintances turn first."
+      },
+      {
+        "time": "0:55–1:35",
+        "zh": "托人、分量、饭局买单、礼金簿。太轻敷衍，太重像行贿。",
+        "en": "Asking someone to pull strings, weight, who pays at the banquet, the gift-money book. Too light is neglect; too heavy looks like a bribe."
+      },
+      {
+        "time": "1:35–2:15",
+        "zh": "三层好处：少碰壁、互助可见、制度未到之处先运转。",
+        "en": "Three layers of good: fewer walls, mutual help made visible, things turning where institutions have not yet arrived."
+      },
+      {
+        "time": "2:15–3:00",
+        "zh": "人情还不清；网厚的人把程序变成过场。",
+        "en": "A favour harder to repay than money; people with a thick net turn procedure into going through the motions."
+      },
+      {
+        "time": "3:00–4:15",
+        "zh": "比较走后门和职业人脉。收束：用礼物和账组织；润滑可以，替代窗口不行。",
+        "en": "Compare enchufe and networking. Close: organised by gifts and a ledger; lubrication yes, replacing the window no."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "送礼和贿赂的界限在哪里？场合、分量，还是有没有公开程序？",
+        "en": "Where is the line between a gift and a bribe — occasion, weight, or whether a public procedure still exists?"
+      },
+      {
+        "zh": "没有关系，一个人还能把事情办成吗？",
+        "en": "Can someone get things done with no guanxi?"
+      },
+      {
+        "zh": "人情社会公平吗？",
+        "en": "Is a society of renqing fair?"
+      },
+      {
+        "zh": "比较关系和你文化里的职业人脉：哪一种更愿意承认自己在分配机会？",
+        "en": "Compare guanxi with networking in your culture: which is more willing to admit it is allocating chances?"
+      },
+      {
+        "zh": "没有关系的人，正式窗口会不会故意更慢？这是个人品德问题，还是组织问题？",
+        "en": "For people with no connections, is the formal window deliberately slower? A matter of character, or of organisation?"
+      },
+      {
+        "zh": "一次托人让你舒服还是不安？态度比背定义值钱。",
+        "en": "Did one time you asked a favour leave you at ease or uneasy? Attitude is worth more than a definition."
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "一次托人和一次贿赂，你用什么标准分开？场合、分量，还是有没有公开程序？",
+        "en": "What standard do you use to separate asking a favour from a bribe — occasion, weight, or whether a public procedure exists?"
+      },
+      {
+        "zh": "没有关系的人，正式窗口会不会故意更慢？这是个人品德问题，还是组织问题？",
+        "en": "For people with no connections, is the formal window deliberately slower? Character, or organisation?"
+      },
+      {
+        "zh": "比较关系和职业人脉：哪一种更愿意承认自己在分配机会？",
+        "en": "Compare guanxi and networking: which is more willing to admit it allocates chances?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "人情",
+        "pinyin": "rénqíng",
+        "pos": "名",
+        "en": "social favour / human feeling",
+        "example": "人情有时比合同更难拒绝。",
+        "exampleEn": "Renqing is sometimes harder to refuse than a contract."
+      },
+      {
+        "hanzi": "关系",
+        "pinyin": "guānxi",
+        "pos": "名",
+        "en": "guanxi / connections",
+        "example": "办事不能只靠关系，可很多人先靠它。",
+        "exampleEn": "You cannot get things done by guanxi alone, yet many people start with it."
+      },
+      {
+        "hanzi": "送礼",
+        "pinyin": "sònglǐ",
+        "pos": "动",
+        "en": "to give a gift",
+        "example": "送礼要看场合，也要看分量。",
+        "exampleEn": "Gift-giving has to look at occasion, and at weight."
+      },
+      {
+        "hanzi": "面子",
+        "pinyin": "miànzi",
+        "pos": "名",
+        "en": "face / social dignity",
+        "example": "当众拒绝会让双方都没面子。",
+        "exampleEn": "A public refusal makes both sides lose face."
+      },
+      {
+        "hanzi": "熟人",
+        "pinyin": "shúrén",
+        "pos": "名",
+        "en": "someone one knows",
+        "example": "有熟人介绍，窗口会短一截。",
+        "exampleEn": "An introduction from someone you know shortens the window a length."
+      },
+      {
+        "hanzi": "规矩",
+        "pinyin": "guīju",
+        "pos": "名",
+        "en": "unwritten rules / proper way",
+        "example": "每个圈子的规矩都不写在门上。",
+        "exampleEn": "Every circle’s rules are not written on the door."
+      },
+      {
+        "hanzi": "报答",
+        "pinyin": "bàodá",
+        "pos": "动",
+        "en": "to repay a kindness",
+        "example": "报答可以是还礼，也可以是下次出力。",
+        "exampleEn": "Repaying can be a return gift, or contributing next time."
+      },
+      {
+        "hanzi": "分寸",
+        "pinyin": "fēncun",
+        "pos": "名",
+        "en": "tact / sense of proportion",
+        "example": "分寸是人情和贿赂之间的那条线。",
+        "exampleEn": "A sense of proportion is the line between renqing and a bribe."
+      },
+      {
+        "hanzi": "托人",
+        "pinyin": "tuōrén",
+        "pos": "动",
+        "en": "to ask someone to pull strings",
+        "example": "托人之前，先问自己安不安定。",
+        "exampleEn": "Before asking someone to pull strings, first ask whether you yourself are at ease."
+      },
+      {
+        "hanzi": "礼尚往来",
+        "pinyin": "lǐ shàng wǎng lái",
+        "pos": "习语",
+        "en": "courtesy demands reciprocity",
+        "example": "礼尚往来让账不会只记一边。",
+        "exampleEn": "Reciprocal courtesy keeps the ledger from being kept on one side only."
+      },
+      {
+        "hanzi": "饭局",
+        "pinyin": "fànjú",
+        "pos": "名",
+        "en": "banquet / dinner engagement",
+        "example": "饭局上谁买单、先敬谁，都在给面子。",
+        "exampleEn": "At a banquet, who pays and whom you toast first are both giving face."
+      },
+      {
+        "hanzi": "礼金",
+        "pinyin": "lǐjīn",
+        "pos": "名",
+        "en": "gift money",
+        "example": "礼金簿把互助写成看得见的账。",
+        "exampleEn": "A gift-money book writes mutual help as a visible ledger."
+      },
+      {
+        "hanzi": "行贿",
+        "pinyin": "xínghuì",
+        "pos": "动",
+        "en": "to bribe",
+        "example": "太重的礼看起来像行贿。",
+        "exampleEn": "A gift too heavy looks like a bribe."
+      },
+      {
+        "hanzi": "窗口",
+        "pinyin": "chuāngkǒu",
+        "pos": "名",
+        "en": "service window / formal counter",
+        "example": "完全靠窗口排队的人，要准备更长的时间。",
+        "exampleEn": "People who only queue at the window should prepare more time."
+      },
+      {
+        "hanzi": "内推",
+        "pinyin": "nèituī",
+        "pos": "名/动",
+        "en": "internal referral",
+        "example": "求职内推在哪都有，这里更常先问你认识谁。",
+        "exampleEn": "Job referrals exist everywhere; here one more often asks whom you know first."
+      },
+      {
+        "hanzi": "黄牛",
+        "pinyin": "huángniú",
+        "pos": "名",
+        "en": "tout / scalper",
+        "example": "医院黄牛把人情做成生意。",
+        "exampleEn": "Hospital touts turn renqing into a business."
+      }
+    ]
+  },
+  {
+    "slug": "hukou",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "黄昏，楼和巷都在收光。",
+        "en": "Dusk: buildings and lanes are gathering in the light."
+      },
+      {
+        "zh": "近处是多层老楼、防盗窗、交织的电线、窄巷、晾出的衣服。",
+        "en": "Near: walk-up blocks, security bars, tangled wires, a narrow lane, laundry hung out."
+      },
+      {
+        "zh": "远处是更高、更新的玻璃楼，两种城市叠在同一帧。",
+        "en": "Far: taller, newer glass towers — two cities stacked in one frame."
+      },
+      {
+        "zh": "窗户很密，生活很挤，路不是大街是缝。",
+        "en": "Windows dense, life crowded; the road is not a street, it is a seam."
+      },
+      {
+        "zh": "图上可能看不见清晰的脸，人在密度里。",
+        "en": "There may be no clear face in the picture; people are inside the density."
+      },
+      {
+        "zh": "这是城中村或老社区，干活的人住这，学位和医保不一定在这。",
+        "en": "An urban village or old neighbourhood: the people who work live here; school places and health insurance may not."
+      },
+      {
+        "zh": "衣服晾在窗和窗之间。",
+        "en": "Clothes hang between window and window."
+      },
+      {
+        "zh": "可说的一句：人已经在城里了，本地人的那张纸还在别处。",
+        "en": "One line: the person is already in the city; the paper that says “local” is still somewhere else."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "黄昏里有两座城。近处是多层老楼、防盗窗、电线和窄巷，衣服晾在窗和窗之间；远处是玻璃更高的楼。人走在缝一样的路上。窗户很密，生活很挤。这不是旅游的江南，是许多外来务工者真正住下的城市：身体已经在这，学位、医保和「本地人」三个字，可能还钉在另一张纸上。图上不一定有清晰的脸，人在密度里。要讲户口，先讲这种看得见的分层。人已经在城里了，本地人的那张纸还在别处。两种城市叠在同一帧，分层不用名词也能看见。人在密度里，纸在别处。",
+        "en": "At dusk there are two cities. Near: walk-up blocks, security bars, wires and a narrow lane, clothes hung between windows; far: taller glass. People walk a road like a seam. Windows dense, life crowded. This is not tourist Jiangnan; it is the city many migrant workers actually live in: the body is already here, a school place, health insurance and the three characters “local person” perhaps still nailed to another paper. There may be no clear face in the picture; people are inside the density. To talk hukou, first talk this visible stratification. The person is already in the city; the paper that says local is still somewhere else. Two cities stacked in one frame: the stratification can be seen without a noun. People are inside the density; the paper is somewhere else."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "户口把人登记在一个地方，并长期影响教育、医保和买房。城市户口曾是稀缺资源；农村户口连着承包地。千百万人在城市工作，孩子却可能留在老家，成为留守儿童。城乡差异不只是风景不同，是权利的地理。它到底在解决谁的问题？国家曾用它管理流动、分配短缺的公共服务；城市用它决定谁能排队进好学校。改革在进行，壁垒在降低，可「外地人」的感觉仍在地铁和小学门口出现。人可以在这生活，不一定在这属于。改革在进行，可外地人的感觉仍在小学门口出现。",
+        "en": "Hukou registers a person to a place and has long shaped schooling, health insurance and buying a home. Urban hukou was once a scarce resource; rural hukou is tied to contracted land. Tens of millions work in cities while children may stay in the home village as left-behind children. The urban–rural gap is not only different scenery; it is a geography of rights. Whose problem does it solve? The state once used it to manage mobility and allocate scarce public services; cities use it to decide who may queue for a good school. Reform is underway, barriers are falling, yet the feeling of being an outsider still appears on the metro and at primary-school gates. A person may live here without belonging here. Reform is underway, yet the feeling of being an outsider still appears at the primary-school gate."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么组织",
+        "titleEn": "Who lives it, and how it is organised",
+        "zh": "谁在过？农民工、大学毕业留城的人、想给孩子换一座城的家长。怎么组织？居住证、社保年限、积分落户、学区房和借读证明。钱买得到靠近学校的床，不一定买得到报名资格。孩子随迁，要准备一摞材料；孩子留守，春运才见到父母。规则是：你在哪工作，不等于你在哪算居民。高考在哪报名，常常比你在哪上课更决定命运。一张登记纸，把教育、医保、购房权钉在地理上。积分把人翻译成表格。你在哪工作，不等于你在哪算居民；积分把人翻译成表格。高考报名地往往更硬。",
+        "en": "Who lives it? Migrant workers, graduates who stay in the city, parents who want to change their child’s city. How is it organised? Residence permits, years of social insurance, points-based settlement, catchment flats and proofs for attending school as a non-local. Money can buy a bed near a school; it may not buy the right to register. If the child moves with you, prepare a stack of papers; if the child is left behind, you meet at Chunyun. The rule: where you work is not where you count as a resident. Where you sit the gaokao often decides fate more than where you attend class. One registration paper nails education, health insurance and the right to buy a home onto geography. Points translate a person into a form. Where you work is not where you count as a resident; points translate a person into a form. Where you sit the gaokao is often harder still."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "三层好处让这张纸骂不走。个人：有户口就有一条可依的线，看病和入学少撞一次墙。家庭：农村户口连着地，进退之间还有老家；城市户口曾是嫁娶和安家的砝码。社会：大城市用门槛把学位和病床管住，避免「来了就能排」。完全打开的那一天，谁来扩学校和医院，仍要有人回答。好处不是替门槛辩护，是解释它为什么还能运转：它在管理稀缺，也在生产「本地人」。骂不走这张纸，是因为完全打开的那天，谁来扩学校和医院仍要有人回答。门槛管理稀缺，也生产本地人。",
+        "en": "Three layers of good keep this paper from being cursed away. Personally: hukou is a line you can lean on; seeing a doctor and entering school hit one fewer wall. For the family: rural hukou is tied to land, so there is still a home village between advancing and retreating; urban hukou was once a weight in marriage and settling. For society: big cities use the threshold to hold school places and hospital beds, avoiding “arrive and you may queue”. The day it opens fully, who expands schools and hospitals still needs an answer. The good is not a defence of the threshold; it explains why it still runs: it manages scarcity, and it also produces “locals”. The paper cannot be cursed away because the day it opens fully, who expands schools and hospitals still needs an answer. The threshold manages scarcity, and it also produces locals."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：租房要备案，看病报销来回跑，孩子开学前证明比作业厚。结构：留守儿童用童年支付父母的工位；本地学位墙把同龄人分成两种排队。被排除的是在这纳税、在这加班、却在门口被问「你户口在哪」的人。规则对谁有利？对富裕城市已经持有本地户口的人有利；对土地将失、公共服务未到手的流动家庭不利。公平如果只写在城市内部，农村孩子的机会会先被地理吃掉。纸组织权利，也组织缺席。在这纳税、在这加班，仍可能在门口被问户口在哪。纸组织权利，也组织缺席。",
+        "en": "Everyday: a rental must be filed, reimbursing a clinic visit means running back and forth, proofs before term starts are thicker than homework. Structural: left-behind children pay for their parents’ desk with a childhood; a local school-place wall splits peers into two queues. Who is left out? People who pay tax here, work overtime here, and are still asked at the gate “where is your hukou”. Whom do the rules favour? People who already hold local hukou in a rich city; not mobile families whose land is about to go and whose public services have not arrived. If fairness is written only inside the city, a rural child’s chance is eaten first by geography. Paper organises rights; it also organises absence. Paying tax here, working overtime here, you may still be asked at the gate where your hukou is. Paper organises rights; it also organises absence."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "侧面可转：城中村是户口制度看得见的风景；春运是户口把家和工作拆开之后的交通后果；积分落户把人变成表格；高考报名地争议每年都有；「新市民」是政策想换的称呼，地铁里的口音还在被听。口试里比较迁徙：你换过城市吗，需要许可证吗？把户口翻译成居住登记或移民身份，讨论会更锐。居住和成员资格分开，是这道题真正的结构。把户口翻译成居住登记或移民身份，讨论会更锐：你换过城市吗，需要许可证吗？城中村和春运，是这张纸看得见的两张脸。",
+        "en": "Side-angles you can turn to: the urban village is the hukou system’s visible landscape; Chunyun is the traffic consequence of hukou splitting home from work; points-based settlement turns a person into a form; where you may sit the gaokao is argued every year; “new citizen” is the name policy wants to swap in, while accents on the metro are still being listened to. In the oral, compare moving: have you changed cities, did you need a permit? Translate hukou into empadronamiento or an immigrant status and the discussion sharpens. Residence and membership held apart: that is this question’s real structure. Translate hukou into empadronamiento or an immigrant status and the talk sharpens: have you changed cities, did you need a permit? The urban village and Chunyun are two visible faces of this paper."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙的居住登记让你在居住地登记、接入部分公共服务，门槛比户口低，也不绑死土地。欧盟内部流动更接近「人在哪工作，权利跟到哪」。美国州内学费是另一种地方门槛。更通用的锚是任何「居住」和「成员资格」分开的制度。人如何被组织？用一张登记纸，把教育、医保、购房权钉在地理上。规则对谁有利？对先占到富裕城市户口的人有利；对在这生活却不能在这属于的人不利。我的立场——人应该在工作的城市获得基本公共服务；纸可以登记，不该把孩子的教室留在另一省。",
+        "en": "Spain’s empadronamiento lets you register where you live and plug into some public services; the threshold is lower than hukou, and it is not welded to land. Movement inside the EU is closer to “rights follow where a person works”. In-state tuition in the United States is another local threshold. A more general anchor is any system that holds “residence” and “membership” apart. How are people organised? By one registration paper, nailing education, health insurance and the right to buy a home onto geography. Whom do the rules favour? People who first occupied hukou in a rich city; not people who live here and cannot belong here. My stance: a person should get basic public services in the city where they work; paper may register, it should not leave a child’s classroom in another province."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "老楼、防盗窗、电线、远处玻璃楼。说：人在这，纸在别处。",
+        "en": "Old blocks, security bars, wires, glass towers far off. Say: the person is here, the paper is somewhere else."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "权利的地理；可以生活，不一定属于。",
+        "en": "A geography of rights; you may live here without belonging here."
+      },
+      {
+        "time": "0:55–1:40",
+        "zh": "居住证、积分、学区、留守或随迁。高考在哪报名常常更决定命运。",
+        "en": "Residence permit, points, catchment, left behind or moving with. Where you sit the gaokao often decides fate more."
+      },
+      {
+        "time": "1:40–2:20",
+        "zh": "三层好处：有线可依、地还在、城市管住学位病床。",
+        "en": "Three layers of good: a line to lean on, land still there, the city holding school places and beds."
+      },
+      {
+        "time": "2:20–3:05",
+        "zh": "证明比作业厚；留守儿童用童年支付工位。",
+        "en": "Proofs thicker than homework; left-behind children pay for a desk with a childhood."
+      },
+      {
+        "time": "3:05–4:20",
+        "zh": "比较居住登记或欧盟流动，不是「我们没有户口」。收束：纸组织权利；基本服务应跟工作地，教室不该留在另一省。",
+        "en": "Compare empadronamiento or EU movement, not “we haven’t got hukou”. Close: paper organises rights; basic services should follow the workplace; a classroom should not be left in another province."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "一个人应该在工作的城市享有同样的公共服务吗？",
+        "en": "Should someone have the same public services in the city where they work?"
+      },
+      {
+        "zh": "城乡差距会怎样影响一个孩子的机会？",
+        "en": "How can the urban–rural gap shape a child’s chances?"
+      },
+      {
+        "zh": "留守儿童是家庭选择，还是户口把「工位」和「学位」拆开之后的结果？",
+        "en": "Are left-behind children a family choice, or the result of hukou splitting a desk from a school place?"
+      },
+      {
+        "zh": "一个人在工作的城市纳税，却不能让孩子在这上学，这套规则在保护谁？",
+        "en": "Someone pays tax in the city where they work, yet cannot send a child to school here — whom do these rules protect?"
+      },
+      {
+        "zh": "把户口翻译成居住登记或移民身份：哪一层最像，哪一层完全不像？",
+        "en": "Translate hukou into empadronamiento or immigrant status: which layer is most alike, which is not alike at all?"
+      },
+      {
+        "zh": "住了十年仍不算本地人，归属是一张纸给的吗？",
+        "en": "Living ten years and still not counting as local — is belonging something a paper gives?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "一个人在工作的城市纳税，却不能让孩子在这上学，这套规则在保护谁？",
+        "en": "Someone pays tax in the city where they work, yet cannot send a child to school here — whom do these rules protect?"
+      },
+      {
+        "zh": "留守儿童是家庭选择，还是户口把「工位」和「学位」拆开之后的结果？",
+        "en": "Are left-behind children a family choice, or the result of hukou splitting a desk from a school place?"
+      },
+      {
+        "zh": "把户口翻译成居住登记或移民身份：哪一层最像，哪一层完全不像？",
+        "en": "Translate hukou into empadronamiento or immigrant status: which layer is most alike, which is not alike at all?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "户口",
+        "pinyin": "hùkǒu",
+        "pos": "名",
+        "en": "household registration",
+        "example": "没有本地户口，入学可能先撞墙。",
+        "exampleEn": "Without local hukou, entering school may hit a wall first."
+      },
+      {
+        "hanzi": "城乡",
+        "pinyin": "chéngxiāng",
+        "pos": "名",
+        "en": "urban and rural",
+        "example": "城乡差距是权利的地理，不只是风景。",
+        "exampleEn": "The urban–rural gap is a geography of rights, not only scenery."
+      },
+      {
+        "hanzi": "流动",
+        "pinyin": "liúdòng",
+        "pos": "动/名",
+        "en": "mobility / migration",
+        "example": "人口流动把家和工作拆进两座城。",
+        "exampleEn": "Population mobility splits home and work into two cities."
+      },
+      {
+        "hanzi": "留守儿童",
+        "pinyin": "liúshǒu értóng",
+        "pos": "名",
+        "en": "left-behind children",
+        "example": "留守儿童用童年支付父母的工位。",
+        "exampleEn": "Left-behind children pay for their parents’ desk with a childhood."
+      },
+      {
+        "hanzi": "本地人",
+        "pinyin": "běndìrén",
+        "pos": "名",
+        "en": "local",
+        "example": "住了十年，仍可能不算本地人。",
+        "exampleEn": "Ten years living here, and you may still not count as a local."
+      },
+      {
+        "hanzi": "资源",
+        "pinyin": "zīyuán",
+        "pos": "名",
+        "en": "resource",
+        "example": "学位和病床被当成本地资源来守。",
+        "exampleEn": "School places and hospital beds are guarded as local resources."
+      },
+      {
+        "hanzi": "公平",
+        "pinyin": "gōngpíng",
+        "pos": "名",
+        "en": "fairness",
+        "example": "公平如果只写在城市内部，农村会先被吃掉。",
+        "exampleEn": "If fairness is written only inside the city, the countryside is eaten first."
+      },
+      {
+        "hanzi": "归属",
+        "pinyin": "guīshǔ",
+        "pos": "名",
+        "en": "belonging",
+        "example": "归属不是一张纸自动给的，但没纸会更难。",
+        "exampleEn": "Belonging is not something a paper gives automatically, but without paper it is harder."
+      },
+      {
+        "hanzi": "积分落户",
+        "pinyin": "jīfēn luòhù",
+        "pos": "名",
+        "en": "points-based settlement",
+        "example": "积分落户把人翻译成一张表格。",
+        "exampleEn": "Points-based settlement translates a person into a form."
+      },
+      {
+        "hanzi": "居住证",
+        "pinyin": "jūzhùzhèng",
+        "pos": "名",
+        "en": "residence permit",
+        "example": "居住证能办事，不一定能属于。",
+        "exampleEn": "A residence permit can get things done; it may not let you belong."
+      },
+      {
+        "hanzi": "学区",
+        "pinyin": "xuéqū",
+        "pos": "名",
+        "en": "school catchment",
+        "example": "钱买得到靠近学区的床，不一定买得到报名资格。",
+        "exampleEn": "Money can buy a bed near the catchment; it may not buy the right to register."
+      },
+      {
+        "hanzi": "城中村",
+        "pinyin": "chéngzhōngcūn",
+        "pos": "名",
+        "en": "urban village",
+        "example": "城中村是户口制度看得见的风景。",
+        "exampleEn": "The urban village is the hukou system’s visible landscape."
+      },
+      {
+        "hanzi": "春运",
+        "pinyin": "chūnyùn",
+        "pos": "名",
+        "en": "Chunyun / Spring Festival travel rush",
+        "example": "春运是户口把家和工作拆开之后的交通后果。",
+        "exampleEn": "Chunyun is the traffic consequence of hukou splitting home from work."
+      },
+      {
+        "hanzi": "新市民",
+        "pinyin": "xīn shìmín",
+        "pos": "名",
+        "en": "new citizen / new urban resident",
+        "example": "新市民是政策想换的称呼，口音还在被听。",
+        "exampleEn": "“New citizen” is the name policy wants to swap in; accents are still being listened to."
+      },
+      {
+        "hanzi": "农民工",
+        "pinyin": "nóngmín gōng",
+        "pos": "名",
+        "en": "migrant worker",
+        "example": "农民工的身体在城里，纸还在别处。",
+        "exampleEn": "A migrant worker’s body is in the city; the paper is still somewhere else."
+      },
+      {
+        "hanzi": "借读",
+        "pinyin": "jièdú",
+        "pos": "动",
+        "en": "to attend school as a non-local",
+        "example": "借读证明比作业厚。",
+        "exampleEn": "Proofs for attending as a non-local are thicker than homework."
+      }
+    ]
+  }
+]

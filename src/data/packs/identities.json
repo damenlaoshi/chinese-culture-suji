@@ -1,0 +1,2585 @@
+[
+  {
+    "slug": "xiao-dao",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "穿红毛衣的小女孩，头低着，手指还不会自己擀皮",
+        "en": "A little girl in a red sweater, head down, fingers not yet able to roll the dough alone"
+      },
+      {
+        "zh": "花白头发、深蓝外套的祖母，身体侧过来包住孩子的手",
+        "en": "A grey-haired grandmother in a dark-blue coat, her body angled to enclose the child's hands"
+      },
+      {
+        "zh": "案板上的圆面皮、一撮馅、撒了干粉的木面",
+        "en": "Round wrappers on the board, a pinch of filling, wood dusted with dry flour"
+      },
+      {
+        "zh": "竹匾或笸箩里已经码好的一排饺子",
+        "en": "A row of finished dumplings already lined in a bamboo tray"
+      },
+      {
+        "zh": "窗外冬天的白光，玻璃上像有霜",
+        "en": "Winter white light outside; frost seems to sit on the glass"
+      },
+      {
+        "zh": "屋里偏黄的灯，和外面的冷色切开",
+        "en": "A yellowish lamp indoors, cut against the cold colour outside"
+      },
+      {
+        "zh": "两人的手叠在一起——力在祖母，形在孩子",
+        "en": "Two pairs of hands stacked: the force is the grandmother's, the shape is the child's"
+      },
+      {
+        "zh": "画面里没有父亲、没有手机：这是一堂只传给下一代的课",
+        "en": "No father, no phone in the frame: a lesson passed only to the next generation"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "案板上摊着还没捏完的饺子皮。红毛衣女孩低着头，花白头发的祖母把她的手按在面上。窗外是冬天的白光，屋里灯黄，竹匾里已经码了一排。这张图不是「亲情很暖」的广告，是一堂身体课：手要听长辈的，馅的咸淡也要听长辈的。孩子学的不是饺子，是谁先动筷、谁坐上座、谁有权说「够了」。缺席的那双手如果今年不在，这张桌子会换一种安静。",
+        "en": "Dumpling skins lie unfinished on the board. A girl in a red sweater keeps her head down; a grey-haired grandmother presses the child's hands into the dough. Winter light at the window, a yellow lamp inside, a row already stacked in the bamboo tray. This is not a warm-family advertisement. It is a lesson of the body: the hands obey the elder, and so does the salt in the filling. The child is not learning dumplings. She is learning who moves chopsticks first, who takes the high seat, who is allowed to say “enough.” If the missing pair of hands is gone this year, the table will keep a different silence."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "孝道不是一句「我爱我爸妈」。它是一套把「我是谁」写进家庭秩序的规矩。古语说「寻忠臣于孝子之家」：家里会尊重长辈的人，到了朝廷、公司、班里，也被默认更守规矩、负责任。它到底在解决谁的问题？解决的是「人老了以后，谁必须还记得你」——用从小练出来的回报，把养老从运气变成义务。孝是伦理，也是社会保险写在饭桌上的古代版。独立常常被要求建立在先照顾好家庭关系之上。",
+        "en": "Filial piety is not the sentence “I love my mum and dad.” It is a set of rules that writes “who I am” into the order of a household. The old saying runs: seek loyal officials in the homes of filial children. Someone who honours elders at home is assumed to be more reliable at court, in a company, in a class. Whose problem does it solve? The problem of “who must still remember you when you are old” — turning care in later life from luck into duty, by rehearsing repayment from childhood. Filial piety is ethics, and also social insurance written on the dinner table. Independence, in this culture, is often required to stand on family relations first."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "吃饭先让长辈动筷；周末回老家看爷爷奶奶；选专业、选对象、出国留学，先跟父母商量。城市年轻人更想要一把锁和一段不被询问的时间，于是代沟变成吵架：一方说「我为你好」，一方说「这是我的人生」。钱的流向很清楚——学费、房租、红包常常从父母口袋出，决定权也就容易留在同一只口袋里。规则写在动作里，不写在合同上：谁夹第一筷，谁有权在录取通知书上先皱眉。远走的人用视频通话补课，屏幕里那一声「吃了吗」仍是点名。",
+        "en": "Elders move their chopsticks first. Weekends mean a trip home to see grandparents. Choosing a major, a partner, study abroad — you talk it over with your parents first. City young people want a lock and an hour no one interrogates, so the generation gap turns into a quarrel: “I want what’s best for you” against “this is my life.” Money’s direction is clear — tuition, rent, red envelopes often leave the parents’ pocket, and so does the right to decide. The rules live in gestures, not contracts: who takes the first bite, who may frown first at an offer letter. Those who leave make up the lesson on video; the “have you eaten?” on screen is still a roll call."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：被叫乳名、被夹菜，确认自己在一张桌子上还有位置，失败了也有人给留门，不必把所有重量自己扛。家庭：赡养不只靠心情，靠一套大家都认的剧本，生病、过年、遗产才有人出面，兄弟姐妹知道该谁打电话。社会：把「负责」从家里练到公共场合——寻忠臣于孝子之家，说的就是这套迁移，国家也乐于看见家庭先把人稳住。好处不是盲目听话，是先承认：独立如果踩着家里的人走，那不叫独立，叫逃跑。",
+        "en": "For the person: being called by a childhood name, having food placed in your bowl, you still have a seat at a table; if you fail, someone leaves a door unlatched, and you need not carry every weight alone. For the family: care of the old does not rest on mood but on a script everyone recognises, so illness, New Year and inheritance have someone to step forward, and siblings know whose job it is to call. For society: responsibility is trained at home and then carried into public life — that is what “seek loyal officials in filial homes” means, and the state is glad to see the family steady a person first. The good is not blind obedience. It is admitting that independence which steps on the people at home is not independence. It is flight."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：催婚、比工资、否定你的专业，「商量」变成否决，视频通话变成点名，一句「为你好」能把整晚饭吃哑。结构：把养老和面子压在子女、尤其长子或独生子女肩上；同性恋、不婚、远走的人，容易被写成不孝。孝道一旦变成「听父母的才算人」，它就开始排斥那些必须离开家才能活的人。被排除的还有丧偶、失独、以及子女尽了礼却没人每天说话的老人——仪式在，陪伴不在。",
+        "en": "In daily life: pressure to marry, salary compared, a major dismissed; “discussion” becomes a veto, a video call becomes roll call, and one “for your own good” can silence a whole dinner. In structure: old-age care and face are loaded onto children, especially the eldest son or the only child; those who are gay, unmarried, or far away are easily written as unfilial. Once piety means “you count as a person only if you obey your parents,” it starts to shut out people who must leave home in order to live. Also left out: the widowed, those who have lost an only child, and elders whose children have performed every rite but no one speaks to them each day — ceremony present, company gone."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "独生子女把尽孝收成一个人的全职，两个老人、一份工资、一张机票，算不过来；农村留守老人靠汇款，城市老人靠保姆和社区，两种孝看起来不像同一件事。「孝顺 APP」、远程监控、智能手环把关心做成数据，绿点亮了，人却不在。影视里的孝子故事仍在教人哭，也在教人愧疚；女婿、儿媳的孝被写成附加题，血缘近的人先被点名。出国留学把尽孝缩成红包和视频，父母说「你去吧」，语气里仍有一张空椅子。",
+        "en": "An only child compresses piety into one person’s full-time job: two elders, one wage, one plane ticket — the sums do not work. Rural elders left behind live on remittances; urban elders live on carers and community. The two pieties barely look like the same thing. “Filial apps,” remote cameras and smart wristbands turn care into data: the green dot lights up, the person is not there. Film still teaches people to cry, and to feel guilty. A son-in-law’s or daughter-in-law’s piety is set as extra homework; blood is named first. Study abroad shrinks piety to a red envelope and a video. Parents say “go”; in the tone there is still an empty chair."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙也有 familia 和「先听爷爷奶奶的」：周日长桌、Nochebuena 必须到场、把老人送进养老院会被邻居用眼神问一句。更通用的锚是任何把「好孩子」定义成「不让家里丢脸」的文化——地中海、拉丁美洲、许多东亚家庭都认得这套。孝道塑造的不是你喜欢什么颜色，是你被允许成为谁：你是谁的孩子，往往先于你是谁。身份在这里不是单独的点，是一张网。我的立场——尊重可以留，否决权不该跟着学费走；独立不是删掉父母，是把商量从命令里救出来。",
+        "en": "Spain also has familia and “listen to the grandparents first”: the Sunday long table, Nochebuena you must attend, a neighbour’s look if you send an elder to a home. A wider anchor is any culture that defines a good child as one who does not shame the house — the Mediterranean, Latin America, many East Asian families know this set. Filial piety does not shape what colour you like. It shapes who you are allowed to become: whose child you are often comes before who you are. Identity here is not a single point. It is a net. My position: respect can stay; the veto should not travel with the tuition. Independence is not deleting your parents. It is rescuing discussion from command."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "红毛衣、祖母的手、饺子皮、窗外冷光；先点出谁在教、谁在学，不要一上来就说亲情。",
+        "en": "Red sweater, grandmother’s hands, skins, cold light at the window; name who is teaching, who is learning — do not start with “family love.”"
+      },
+      {
+        "time": "0:40",
+        "zh": "孝不是心情；寻忠臣于孝子之家；它解决的是「老了以后谁必须还记得你」。",
+        "en": "Piety is not a mood. “Seek loyal officials in filial homes.” It answers who must still remember you when you are old."
+      },
+      {
+        "time": "1:20",
+        "zh": "先动筷、先商量、钱从哪只口袋来；视频里那句「吃了吗」仍是点名。",
+        "en": "Chopsticks first, consult first, money from which pocket; “have you eaten?” on a screen is still a roll call."
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：桌上有位置；家里有剧本；负责被练到公共场合。",
+        "en": "Three goods: a seat at the table; a family script; responsibility trained into public life."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：催婚与否决；不婚、远走、失独被写成不孝。仪式在，陪伴可能不在。",
+        "en": "Two troubles: marriage pressure and veto; the unmarried, the faraway, the childless-by-loss written as unfilial. Rites remain; company may not."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较 familia 和 Nochebuena；禁止只说「我们更自由」。立场：商量留下，命令拿掉。",
+        "en": "Compare familia and Nochebuena; do not only say “we are freer.” Position: keep consultation, take the command away."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述这张包饺子的图：谁的手在用力？窗外是什么光？",
+        "en": "Describe this dumpling scene: whose hands are doing the work? What light is at the window?"
+      },
+      {
+        "zh": "你觉得孝顺和独立可以同时存在吗？",
+        "en": "Can being filial and being independent exist together?"
+      },
+      {
+        "zh": "比较你家和中国家庭在「听父母的话」这件事上的不同。",
+        "en": "Compare how your family and a Chinese family treat listening to parents."
+      },
+      {
+        "zh": "如果父母反对你的专业选择，你会怎么沟通？",
+        "en": "If your parents opposed your subject choice, how would you talk with them?"
+      },
+      {
+        "zh": "吃饭时谁先动筷、谁坐上座，说明了什么？",
+        "en": "Who eats first, who takes the high seat — what does that say?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "如果尽孝和你的专业、伴侣或性取向冲突，「不孝」这个词还成立吗？",
+        "en": "If piety collides with your major, partner or sexuality, does the word “unfilial” still hold?"
+      },
+      {
+        "zh": "「寻忠臣于孝子之家」把家里的听话迁移到公共领域，对公民社会是保护还是风险？",
+        "en": "Moving household obedience into public life: protection for civic society, or a risk?"
+      },
+      {
+        "zh": "你出国是谁的决定？钱从哪只口袋出，决定权就从哪只口袋来吗？",
+        "en": "Whose decision was going abroad? Does the pocket that pays keep the right to decide?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "孝道",
+        "pinyin": "xiàodào",
+        "pos": "名",
+        "en": "filial piety",
+        "example": "孝道是中国文化的核心价值之一。",
+        "exampleEn": "Filial piety is a core Chinese value."
+      },
+      {
+        "hanzi": "长辈",
+        "pinyin": "zhǎngbèi",
+        "pos": "名",
+        "en": "elder / senior relative",
+        "example": "吃饭时应该先给长辈夹菜。",
+        "exampleEn": "At meals you should serve the elders first."
+      },
+      {
+        "hanzi": "独立",
+        "pinyin": "dúlì",
+        "pos": "形/动",
+        "en": "independent",
+        "example": "她想独立生活，但每周仍回家看父母。",
+        "exampleEn": "She wants to live independently but still visits weekly."
+      },
+      {
+        "hanzi": "责任",
+        "pinyin": "zérèn",
+        "pos": "名",
+        "en": "responsibility",
+        "example": "照顾父母是一种责任，不只是感情。",
+        "exampleEn": "Caring for parents is a duty, not only a feeling."
+      },
+      {
+        "hanzi": "尊重",
+        "pinyin": "zūnzhòng",
+        "pos": "动",
+        "en": "to respect",
+        "example": "尊重长辈不等于什么都听他们的。",
+        "exampleEn": "Respecting elders is not the same as obeying everything."
+      },
+      {
+        "hanzi": "商量",
+        "pinyin": "shāngliang",
+        "pos": "动",
+        "en": "to discuss / consult",
+        "example": "选大学这件事，他先跟家里商量。",
+        "exampleEn": "He consulted his family before choosing a university."
+      },
+      {
+        "hanzi": "代沟",
+        "pinyin": "dàigōu",
+        "pos": "名",
+        "en": "generation gap",
+        "example": "代沟让两代人常常互相不理解。",
+        "exampleEn": "The generation gap makes mutual understanding hard."
+      },
+      {
+        "hanzi": "回报",
+        "pinyin": "huíbào",
+        "pos": "动/名",
+        "en": "to repay / return",
+        "example": "很多子女觉得应该回报父母的养育。",
+        "exampleEn": "Many children feel they should repay their parents’ care."
+      },
+      {
+        "hanzi": "尽孝",
+        "pinyin": "jìnxiào",
+        "pos": "动",
+        "en": "to fulfil filial duty",
+        "example": "尽孝不一定要住在同一座城市。",
+        "exampleEn": "You can fulfil filial duty without living in the same city."
+      },
+      {
+        "hanzi": "赡养",
+        "pinyin": "shànyǎng",
+        "pos": "动",
+        "en": "to support aged parents",
+        "example": "法律也写了子女有赡养义务。",
+        "exampleEn": "The law also writes that children have a duty to support aged parents."
+      },
+      {
+        "hanzi": "反哺",
+        "pinyin": "fǎnbǔ",
+        "pos": "动",
+        "en": "to repay parents as they age",
+        "example": "反哺是把小时候收下的照顾还回去。",
+        "exampleEn": "To repay as they age is to give back the care you took as a child."
+      },
+      {
+        "hanzi": "家训",
+        "pinyin": "jiāxùn",
+        "pos": "名",
+        "en": "family precepts",
+        "example": "有的家训写在墙上，有的只写在饭桌上。",
+        "exampleEn": "Some family precepts are written on the wall; some live only at the table."
+      },
+      {
+        "hanzi": "忤逆",
+        "pinyin": "wǔnì",
+        "pos": "形/动",
+        "en": "unfilial / to defy parents",
+        "example": "把独立说成忤逆，讨论就结束了。",
+        "exampleEn": "Call independence defiance, and the discussion is over."
+      },
+      {
+        "hanzi": "伦理",
+        "pinyin": "lúnlǐ",
+        "pos": "名",
+        "en": "ethics / moral order",
+        "example": "孝首先是伦理，然后才是感情。",
+        "exampleEn": "Filial piety is ethics first, and only then a feeling."
+      },
+      {
+        "hanzi": "顺从",
+        "pinyin": "shùncóng",
+        "pos": "动",
+        "en": "to obey / comply",
+        "example": "顺从能换来安静，也能换来怨气。",
+        "exampleEn": "Compliance can buy quiet; it can also buy resentment."
+      },
+      {
+        "hanzi": "养儿防老",
+        "pinyin": "yǎng ér fáng lǎo",
+        "pos": "习",
+        "en": "raise children as old-age insurance",
+        "example": "养儿防老把亲情写成了一份保险单。",
+        "exampleEn": "“Raise children against old age” writes affection as an insurance policy."
+      }
+    ]
+  },
+  {
+    "slug": "mianzi",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "红木圆桌，转盘上还有没动完的鱼和青菜",
+        "en": "A rosewood round table; fish and greens still unfinished on the lazy Susan"
+      },
+      {
+        "zh": "一圈人把小白酒杯举到同一高度",
+        "en": "A circle of people raising small baijiu cups to the same height"
+      },
+      {
+        "zh": "主位上穿深色西装的中年男人，杯沿对着全桌",
+        "en": "A middle-aged man in a dark suit at the seat of honour, cup-rim facing the table"
+      },
+      {
+        "zh": "穿红旗袍或深色礼服的人坐在侧位",
+        "en": "Someone in a red qipao or dark formal dress seated to the side"
+      },
+      {
+        "zh": "金色吊灯，红墙或屏风，光线偏暖、偏正式",
+        "en": "A gold chandelier, red wall or screen; the light warm and formal"
+      },
+      {
+        "zh": "白酒瓶的标签对着客人，像一件展品",
+        "en": "The baijiu label turned toward the guests, like an exhibit"
+      },
+      {
+        "zh": "有人杯已经碰到嘴唇，有人还在看主位的眼睛",
+        "en": "Some cups already at the lips; others still watching the host’s eyes"
+      },
+      {
+        "zh": "没人看菜单——这顿饭的主题不是味道，是位置",
+        "en": "No one looks at a menu: the subject of this meal is not flavour, but place"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "圆桌上的小酒杯一端齐。主位是深色西装，侧位有红衣服，转盘上的鱼还没吃完，吊灯把白酒瓶照得很亮。有人已经把杯送到嘴边，有人还在看主位的眼睛。这张图的声音是「干了」；真正的内容是：谁有权让别人喝，谁不敢先放下杯子。菜是道具，酒是考题。你要是只说「他们在吃饭」，四分钟会从第一分钟就空掉。",
+        "en": "Small cups on the round table line up as one. The seat of honour is a dark suit; red cloth sits to the side; fish on the turntable is not finished; the chandelier makes the baijiu bottle shine. Some have already brought the cup to the mouth; others still watch the host’s eyes. The sound of this picture is “ganbei.” The real content is: who has the right to make others drink, and who dares not set the cup down first. The dishes are props. The wine is the exam. If you only say “they are eating,” the four minutes empty out from the first."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "面子是中国社交里最难翻译的词之一。它接近名誉、体面，但比 reputation 更日常。老师原笔记就四个动词：有面子、没面子、丢面子、爱面子——请客买单、考试成绩、孩子的学校、酒桌上喝不喝酒，都可能让这四个字轮流转。谦虚是面子的另一面。别人说「你真棒」，很多人会回「哪里哪里」。这不是虚伪那么简单，而是「枪打出头鸟」：太张扬，容易被比较、被孤立。它到底在解决谁的问题？解决的是「我在别人眼里还站不站得住」——用一份可表演的尊严，降低当众崩盘的风险。",
+        "en": "Face is one of the hardest Chinese social words to translate. It neighbours honour and dignity, but is more daily than reputation. The teacher’s old notes give four verbs: to have face, to lack it, to lose it, to love it — picking up the bill, exam scores, a child’s school, whether you drink at table, can send the four circling. Humility is the other side. Praise is often answered with “not at all.” That is not simply false. “The bird that sticks out gets shot”: too much display, and you are compared, then isolated. Whose problem does it solve? Whether I still stand in other people’s eyes — a dignity you can perform, to lower the risk of collapsing in public."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "谁请客，谁就有权定主位；谁先敬酒，谁就在发考卷。劝酒有时是热情，有时是一种权力测试：你喝，就是给我面子；你不喝，就是当众拆我。有人明明不会喝，也要喝一点，因为拒绝可能让主人没面子。年轻人用「开车」「过敏」「明天考试」当通行证，灵不灵，取决于桌上谁更大。钱花在酒的牌子和空瓶的数量上；规则是能喝要喝，不能喝也要意思一下。完全滴酒不沾，除非理由够硬，否则像拒绝整张桌子。",
+        "en": "Whoever hosts names the seat of honour; whoever toasts first is handing out the exam paper. Pressing someone to drink can be warmth, and can be a test of power: if you drink, you give me face; if you refuse, you take me apart in public. Some people who cannot drink still take a sip, because refusal may leave the host without face. Young people use “I’m driving,” “I’m allergic,” “exam tomorrow” as a pass — whether it works depends on who is bigger at the table. Money is spent on the brand and the count of empty bottles. The rule: if you can drink, drink; if you cannot, make a gesture. To take none at all, unless the reason is hard enough, looks like refusing the whole table."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：面子让人把自己收拾整齐，考试、穿着、说话都多一层自重，不当众出丑变成一种自我保护。家庭：孩子的学校和成绩被写成全家的体面，一封录取通知书能让一桌人同时有面子。社会：用「给对方面子」维持合作，批评先放到私下，冲突不那么容易当众撕开。谦虚压住出头鸟，能让一个群体暂时少一点互相踩。好处不是虚荣本身，是人与人之间留了一层软垫，让尊严不必每次都用吵架来证明。",
+        "en": "For the person: face makes you keep yourself in order — exams, clothes, speech carry an extra layer of self-respect, and not making a fool of yourself in public becomes a kind of protection. For the family: a child’s school and scores are written as the household’s dignity; one offer letter can give a whole table face at once. For society: “giving the other face” keeps cooperation; criticism goes private first, so conflict is slower to tear open in public. Humility holds down the bird that sticks out, and a group can, for a while, step on one another a little less. The good is not vanity itself. It is a cushion left between people, so dignity need not be proved by a quarrel every time."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：为了看起来成功而买单、喝酒、发朋友圈，第二天胃和钱包一起疼；「哪里哪里」说多了，夸奖变成谁也不信的客套。结构：爱面子把身体和金钱交出去给别人的眼睛；不喝的人升迁变慢，爱面子的人可能借钱撑场面。劝酒作为权力测试，测的不是酒量，是谁必须服从。被排除的是肝炎患者、司机、公开说「我不喝」就被记一笔的人——他们不是扫兴，是这套剧本不容许清醒的人坐在主位旁边。",
+        "en": "In daily life: paying the bill, drinking, posting on WeChat to look successful — next day the stomach and the wallet hurt together; “not at all,” said too often, turns praise into courtesy no one believes. In structure: love of face hands body and money to other people’s eyes; those who do not drink rise more slowly, and those who love face may borrow to hold the scene. A toast as a power test does not measure how much you can drink. It measures who must obey. Shut out: people with hepatitis, drivers, anyone who says “I don’t drink” and is written down for it. They are not spoilsports. The script will not let a sober person sit beside the seat of honour."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "朋友圈精修是新面子，滤镜比酒桌更日常，点赞数能让人一晚上睡不着。职场批评必须私下给，当众指出错误等于当众打人；家长会把孩子的分数做成家庭荣誉，也做成家庭耻辱。网红炫富把「有面子」写成可购买的布景；女性在酒桌上被允许少喝，也常被关在真正做决定的那一圈外面。拒绝喝酒的新礼貌正在年轻人里长出来，可一回到长辈的包间，通行证又变薄。",
+        "en": "The retouched WeChat feed is the new face; a filter is more daily than the banquet table, and a like-count can keep someone awake all night. Workplace criticism must be given in private: to name an error in public is to strike someone in public. Parents’ evenings turn a child’s marks into family honour, and into family shame. Influencers flashing wealth write “having face” as a set you can buy. Women at table are allowed to drink less, and are often shut outside the circle where decisions are actually made. A new politeness of refusing drink is growing among the young; back in an elder’s private room, the pass grows thin again."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙也有 el qué dirán 和荣誉：邻里的眼睛、家族的姓、餐桌上再劝一杯酒，和面子不是同一词，却是同一层皮肤。南欧的 brindis 更常是欢乐，少一点效忠；但在正式的商务局里，谁先举杯、谁不能先放下，仍然能看见表演。更通用的锚是任何「别人眼里的我」——荣誉、羞耻、社交媒体现身。面子塑造的是对外营业的那一张脸。我的立场——可以要体面，不可以把拒绝当成失礼的唯一解释；「哪里哪里」可以是礼貌，但请给一句真话留位置。",
+        "en": "Spain also has el qué dirán and honour: neighbours’ eyes, a family name, one more glass pressed at table — not the same word as face, but the same layer of skin. A southern European brindis is more often joy, less often allegiance; yet in a formal business banquet, who lifts first and who may not set down still shows a performance. A wider anchor is any “me in other people’s eyes” — honour, shame, appearing on social media. Face shapes the face that is open for business. My position: dignity is allowed; refusal must not be the only reading of rudeness. “Not at all” can be courtesy, but leave a place for one true sentence."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "主位、小酒杯、红衣服、吊灯；点出谁不敢先放下杯子。",
+        "en": "Seat of honour, small cups, red cloth, chandelier; name who dares not set the cup down first."
+      },
+      {
+        "time": "0:40",
+        "zh": "有、没、丢、爱面子；哪里哪里；枪打出头鸟。面子解决的是别人眼里站不站得住。",
+        "en": "Have, lack, lose, love face; “not at all”; the bird that sticks out. Face answers whether you still stand in others’ eyes."
+      },
+      {
+        "time": "1:20",
+        "zh": "劝酒是权力测试；开车、过敏当通行证；完全不喝像拒绝整张桌子。",
+        "en": "Pressing a drink is a power test; driving or allergy as a pass; taking none looks like refusing the table."
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：自重；全家体面；私下批评留软垫。",
+        "en": "Three goods: self-respect; the whole family’s dignity; private criticism as a cushion."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：撑场面伤胃和钱包；不喝的人被记一笔，测的是服从。",
+        "en": "Two troubles: holding the scene hurts stomach and wallet; those who refuse are noted — the test is obedience."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较 el qué dirán 和 brindis。立场：可以要体面，拒绝不该等于失礼。",
+        "en": "Compare el qué dirán and brindis. Position: dignity yes; refusal must not equal rudeness."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述这张酒桌：谁坐主位？谁不敢先放下杯子？",
+        "en": "Describe this banquet table: who sits in the seat of honour? Who dares not set the cup down first?"
+      },
+      {
+        "zh": "别人夸你时，你通常怎么回答？为什么？",
+        "en": "When someone praises you, how do you usually reply, and why?"
+      },
+      {
+        "zh": "「爱面子」是优点还是负担？",
+        "en": "Is caring about face a strength or a burden?"
+      },
+      {
+        "zh": "如果主人劝你喝酒，而你不会喝，你会怎么说？",
+        "en": "If a host presses you to drink and you do not drink, what would you say?"
+      },
+      {
+        "zh": "比较谦虚在中国饭桌上和在你国家的不同表现。",
+        "en": "Compare how humility is shown at a Chinese table and in your country."
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "「哪里哪里」和「谢谢，我练了很久」哪一句更诚实？哪一句在中国饭桌上更安全？",
+        "en": "Which is more honest, “not at all” or “thank you, I practised a long time”? Which is safer at a Chinese table?"
+      },
+      {
+        "zh": "劝酒如果是权力测试，拒绝的人输掉的是酒，还是位置？",
+        "en": "If pressing a drink is a power test, does the person who refuses lose the wine, or the place?"
+      },
+      {
+        "zh": "爱面子保护的是谁的尊严，消费的是谁的身体和钱包？",
+        "en": "Whose dignity does love of face protect, and whose body and wallet does it spend?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "面子",
+        "pinyin": "miànzi",
+        "pos": "名",
+        "en": "face / social dignity",
+        "example": "当众批评他会让他很没面子。",
+        "exampleEn": "Criticising him in public would make him lose face."
+      },
+      {
+        "hanzi": "谦虚",
+        "pinyin": "qiānxū",
+        "pos": "形",
+        "en": "modest / humble",
+        "example": "中国人常常用谦虚的方式接受夸奖。",
+        "exampleEn": "Chinese people often accept praise modestly."
+      },
+      {
+        "hanzi": "虚荣",
+        "pinyin": "xūróng",
+        "pos": "名/形",
+        "en": "vanity",
+        "example": "为了虚荣买名牌，不一定让人更快乐。",
+        "exampleEn": "Buying luxury for vanity does not always make people happier."
+      },
+      {
+        "hanzi": "张扬",
+        "pinyin": "zhāngyáng",
+        "pos": "形/动",
+        "en": "to show off / high-profile",
+        "example": "她很优秀，但从不张扬。",
+        "exampleEn": "She is excellent but never shows off."
+      },
+      {
+        "hanzi": "劝酒",
+        "pinyin": "quànjiǔ",
+        "pos": "动",
+        "en": "to press someone to drink",
+        "example": "有些饭局上，劝酒会让人很尴尬。",
+        "exampleEn": "At some dinners, being pressed to drink is awkward."
+      },
+      {
+        "hanzi": "荣誉",
+        "pinyin": "róngyù",
+        "pos": "名",
+        "en": "honour / glory",
+        "example": "他为学校赢得了荣誉。",
+        "exampleEn": "He won honour for the school."
+      },
+      {
+        "hanzi": "低姿态",
+        "pinyin": "dī zītài",
+        "pos": "名",
+        "en": "low profile",
+        "example": "保持低姿态有时是一种自我保护。",
+        "exampleEn": "Staying low-profile can be a form of self-protection."
+      },
+      {
+        "hanzi": "体面",
+        "pinyin": "tǐmiàn",
+        "pos": "形/名",
+        "en": "dignified / respectable",
+        "example": "一份体面的工作对很多家庭很重要。",
+        "exampleEn": "A respectable job matters to many families."
+      },
+      {
+        "hanzi": "给面子",
+        "pinyin": "gěi miànzi",
+        "pos": "动",
+        "en": "to give someone face",
+        "example": "你去他的饭局，就是给他面子。",
+        "exampleEn": "Showing up at his dinner is giving him face."
+      },
+      {
+        "hanzi": "丢脸",
+        "pinyin": "diūliǎn",
+        "pos": "动",
+        "en": "to lose face",
+        "example": "当众被拒绝会让主人觉得丢脸。",
+        "exampleEn": "Being refused in public makes a host feel they have lost face."
+      },
+      {
+        "hanzi": "客套",
+        "pinyin": "kètào",
+        "pos": "名/动",
+        "en": "polite formula / to be ceremonious",
+        "example": "「哪里哪里」有时只是客套。",
+        "exampleEn": "“Not at all” is sometimes only courtesy."
+      },
+      {
+        "hanzi": "捧场",
+        "pinyin": "pěngchǎng",
+        "pos": "动",
+        "en": "to show up in support",
+        "example": "朋友开业，去捧场比送礼更重要。",
+        "exampleEn": "When a friend opens a shop, showing up matters more than a gift."
+      },
+      {
+        "hanzi": "出风头",
+        "pinyin": "chū fēngtou",
+        "pos": "动",
+        "en": "to seek the limelight",
+        "example": "枪打出头鸟，所以很少人愿意出风头。",
+        "exampleEn": "The bird that sticks out gets shot, so few people want the limelight."
+      },
+      {
+        "hanzi": "敬酒",
+        "pinyin": "jìngjiǔ",
+        "pos": "动",
+        "en": "to toast respectfully",
+        "example": "晚辈要先给长辈敬酒。",
+        "exampleEn": "The younger generation should toast the elders first."
+      },
+      {
+        "hanzi": "应酬",
+        "pinyin": "yìngchou",
+        "pos": "名/动",
+        "en": "social obligation drinking",
+        "example": "他不是爱喝，是应酬太多。",
+        "exampleEn": "He does not love drinking; he has too many social obligations."
+      },
+      {
+        "hanzi": "难堪",
+        "pinyin": "nánkān",
+        "pos": "形",
+        "en": "embarrassed / awkward",
+        "example": "全桌看你，那几秒非常难堪。",
+        "exampleEn": "When the whole table looks at you, those few seconds are painful."
+      }
+    ]
+  },
+  {
+    "slug": "jiti",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一排红校服、白边，领口和袖口几乎同一尺寸",
+        "en": "A row of red uniforms with white trim; collars and cuffs almost the same size"
+      },
+      {
+        "zh": "中间的孩子把奖杯举过肩，金属反光",
+        "en": "The child in the middle lifts the cup past the shoulder; metal catches the light"
+      },
+      {
+        "zh": "几条金色绶带斜挎在胸前，上面能看见「冠军」一类的字",
+        "en": "Gold sashes across chests, with words like “champion” still readable"
+      },
+      {
+        "zh": "后排有人把手指成 V，笑是统一的方向",
+        "en": "Someone in the back row makes a V; the smiles face one way"
+      },
+      {
+        "zh": "红色条幅或红墙当背景，像一块被规定的布",
+        "en": "A red banner or red wall as backdrop, like a cloth that has been decided"
+      },
+      {
+        "zh": "十几张脸挤在同一焦距里，没有谁被允许站开半步",
+        "en": "A dozen faces packed into one focal length; no one is allowed half a step out"
+      },
+      {
+        "zh": "衣服比脸更先说明：这是「我们」，不是「我」",
+        "en": "The clothes speak before the faces: this is “we,” not “I”"
+      },
+      {
+        "zh": "镜头对准集体，单人如果出画，这张照片就不算成功",
+        "en": "The lens is aimed at the group; if one person leaves the frame, the photo has failed"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "红校服一排，白边齐着，金色绶带斜挎，奖杯被举过肩。后排的手已经比成 V，背景是红的。镜头要的不是某张脸，是「我们赢了」这五个字能被一眼看懂。谁被挤到圆心，谁就必须笑；谁若站开半步，这张照片就不算成功。衣服比嘴巴先发言：在拍这张合影以前，身份已经被裁成同一号。你要是只说「他们是一个队」，还没碰到这张图真正在教的东西。",
+        "en": "A row of red uniforms, white trim aligned, gold sashes across the chest, the cup lifted past the shoulder. Hands in the back row already make a V; the backdrop is red. The lens does not want a face. It wants the five characters “we won” to be readable at a glance. Whoever is squeezed to the centre must smile; whoever steps half a pace out has failed the photograph. Clothes speak before mouths: before this group picture is taken, identity has already been cut to one size. If you only say “they are a team,” you have not yet touched what the picture is teaching."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "中国文化常被概括为集体主义：班、队、公司、国家，往往排在「我」前面。穿一样的校服、唱一样的班歌、强调「不要给集体丢脸」，都是这种身份训练。更准确的说法不是「中国人没有自我」，而是：自我常常通过集体来确认——我是这个学校的、这个家乡的、这个团队的。它到底在解决谁的问题？解决的是「一个人太容易散掉」——用合影、队服、口号，把分散的身体先编成可调用的一排。集体是归属，也是一种编队法。",
+        "en": "Chinese culture is often summed up as collectivist: class, team, company, country tend to stand in front of “I.” Matching uniforms, the same class song, the warning “don’t bring shame on the group” — all of it is identity training. The more accurate line is not “Chinese people have no self,” but that the self is often confirmed through a group: I am of this school, this hometown, this team. Whose problem does it solve? The problem of a person scattering too easily — group photos, team kits, slogans, braiding scattered bodies into a rank you can call on. The collective is belonging. It is also a method of forming ranks."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "学校用班集体管人：值日、课间操、比赛输了先检讨有没有给班丢脸。公司用团队和加班文化把个人目标收进项目名。运动会入场式、合唱比赛、军训方阵，是把步调练成同一厘米。谁当队长、谁举奖杯、谁只能在后排比 V，都有默认答案。钱和荣誉流向集体的账户：奖状写班级，奖金可能平分，出了事却常先找「那个不合群的」。规则是：先问我们，再问我；先道歉，再解释。",
+        "en": "School governs through the class: duty days, between-class calisthenics, and after a loss the first review is whether you shamed the class. Companies fold personal aims into a project name through teams and overtime. Sports-day entries, chorus contests, military-training squares drill the pace to the same centimetre. Who is captain, who lifts the cup, who may only make a V in the back row — there are default answers. Money and honour flow to the group account: the certificate names the class, the bonus may be split, but when something goes wrong the first person found is often “the one who doesn’t fit in.” The rule: ask “we” before “I”; apologise before you explain."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：被一排肩膀夹着，失败时不必单独站在空地上，胜利时也有人跟你一起举杯，孤独被编制暂时盖住。家庭：家长听得懂「别给班里抹黑」，教育有了一套和学校对接的语言，孩子回家仍在同一个队里。社会：救灾、防疫、大型工程能迅速动员，人被训练成可以一起转向的一群，效率有时高得惊人。归属感是真的——有人一辈子记得那条绶带，不是因为金属，是因为当时有人把胳膊搭在自己肩上。",
+        "en": "For the person: held between a row of shoulders, you need not stand alone on empty ground when you fail, and when you win someone lifts the cup with you; loneliness is, for a while, covered by the formation. For the family: parents understand “don’t stain the class,” so education has a language that docks with school, and the child is still on the same team at home. For society: disaster relief, epidemic response, large works can mobilise fast; people are trained as a flock that can turn together, and the efficiency is sometimes startling. Belonging is real. Some remember that sash for a lifetime, not for the metal, but because someone put an arm across their shoulder then."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：提出不同意见被看成「不合群」，玩笑先落到那个衣服穿得不一样的人身上，创新还没出口就被笑回去。结构：个性强的人在评优、选班长、进核心局时被挡住；为了集体荣誉，可以要求你牺牲睡眠、兴趣、甚至说实话的机会。被排除的是转学生、不合号的身体、公开说「我不想参加」的人——合影看起来温暖，入场券是顺从。集体一旦变成不能退出的房间，自我就只剩下一小块可以呼吸的角落。",
+        "en": "In daily life: a different opinion is read as “not fitting in”; the joke lands first on the person whose clothes are not the same; innovation is laughed back before it leaves the mouth. In structure: a strong personality is blocked from awards, from class monitor, from the inner room; for group honour you can be asked to sacrifice sleep, a hobby, even the chance to tell the truth. Shut out: the transfer student, the body that does not fit the size, anyone who says out loud “I don’t want to join.” The group photo looks warm; the ticket in is compliance. Once the collective becomes a room you cannot leave, the self is left with a corner just large enough to breathe."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "当代城市年轻人同时做两件事：穿统一校服上学，用穿搭、爱好、留学、个人品牌在校门外把自己拉开。互联网社群是新集体，饭圈和游戏公会的纪律有时比班委更严；「躺平」被写成对集体动员的拒绝，也被写成给集体丢脸。乡镇企业、国企、互联网大厂，三种集体的口号不一样，对加班的解释却很像。少数民族学校提醒我们：集体前面还有一个「哪一个集体」的问题；国际学校里的中国学生，常常要在「合群」和「做自己」之间每天切换一次语言。",
+        "en": "City young people now do two things at once: wear the same uniform to school, and pull themselves apart outside the gate with clothes, hobbies, study abroad, a personal brand. Online communities are a new collective; the discipline of a fan circle or a game guild can be stricter than a class committee. “Lying flat” is written as a refusal of mobilisation, and also as bringing shame on the group. Township firms, state enterprises, internet giants: three slogans, explanations of overtime that look alike. Minority schools remind us there is still the question “which collective?” Chinese students in international schools often switch language once a day between fitting in and being themselves."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙有 peña、cuadrilla、球队和合唱节：潘普洛纳的朋友会、学校的 equipo，也把人写成「我们」。南欧并不缺少集体，只是入口常常是广场和节日，不是校服和口号。更通用的锚是任何球队、教会、军队、公司——人用队服回答「我是谁」。集体主义塑造的是「我必须带着谁一起出现」，你的名字前面先写着班、队、家乡。我的立场——互助值得留，丢脸不该成为封口的理由；集体可以大于个人的任性，不可以大于个人的是非。",
+        "en": "Spain has the peña, the cuadrilla, the team and the choral festival: the Pamplona friends’ club, the school equipo, also write a person as “we.” Southern Europe does not lack the collective; the door is often a square and a feast day, not a uniform and a slogan. A wider anchor is any team, church, army, company — people answer “who am I?” with a kit. Collectivism shapes “who I must appear with”; before your name come class, team, hometown. My position: mutual help is worth keeping; shame should not be a reason to seal a mouth. The group may be larger than a person’s whim. It may not be larger than a person’s right and wrong."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "红校服、绶带、奖杯、V 手势；点出镜头要的是「我们」，不是某张脸。",
+        "en": "Red uniforms, sashes, cup, V-sign; the lens wants “we,” not a face."
+      },
+      {
+        "time": "0:40",
+        "zh": "自我通过集体确认；不要给集体丢脸。集体解决的是一个人太容易散掉。",
+        "en": "The self is confirmed through the group; don’t shame the collective. It solves a person scattering too easily."
+      },
+      {
+        "time": "1:20",
+        "zh": "课间操、合唱、谁举杯、谁检讨；先问我们，再问我。",
+        "en": "Calisthenics, chorus, who lifts the cup, who self-criticises; ask “we” before “I.”"
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：不单独失败；家校同一语言；能迅速动员。",
+        "en": "Three goods: you do not fail alone; home and school share a language; mobilisation is fast."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：不合群；个性被挡在核心局门外。合影的入场券是顺从。",
+        "en": "Two troubles: not fitting in; a strong self blocked from the inner room. The ticket into the photo is compliance."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较 peña 和 equipo。立场：互助留下，封口拿掉；集体不可大于是非。",
+        "en": "Compare peña and equipo. Position: keep mutual help, drop the sealed mouth; the group must not outrank right and wrong."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述这张合影：衣服一样吗？谁举着奖杯？",
+        "en": "Describe this group photo: are the clothes the same? Who is holding the cup?"
+      },
+      {
+        "zh": "你更喜欢团队合作还是单独完成任务？为什么？",
+        "en": "Do you prefer teamwork or working alone, and why?"
+      },
+      {
+        "zh": "「不要给集体丢脸」这句话，你同意吗？",
+        "en": "Do you agree with “don’t bring shame on the group”?"
+      },
+      {
+        "zh": "校服和球衣都在说「我属于谁」，你更愿意被哪一件代表？",
+        "en": "Uniform and team kit both say who you belong to. Which would you rather be represented by?"
+      },
+      {
+        "zh": "比较你们国家和中国对「合群」的看法。",
+        "en": "Compare views of “fitting in” in your country and in China."
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "比赛输了，你先想自己的失误，还是先想班级荣誉？这两种想法各保护了谁？",
+        "en": "After a loss, do you first replay your own mistake, or the class’s honour? Whom does each thought protect?"
+      },
+      {
+        "zh": "「不要给集体丢脸」如果用来阻止你说出真相，你还同意这句话吗？",
+        "en": "If “don’t shame the group” is used to stop you telling the truth, do you still agree with it?"
+      },
+      {
+        "zh": "校服和球衣都在说「我属于谁」，你更愿意被哪一件代表？",
+        "en": "School uniform and team jersey both name a belonging. Which would you rather wear as a name?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "集体",
+        "pinyin": "jítǐ",
+        "pos": "名",
+        "en": "collective / group",
+        "example": "他不愿意为了集体放弃自己的兴趣。",
+        "exampleEn": "He does not want to drop his interests for the group."
+      },
+      {
+        "hanzi": "合群",
+        "pinyin": "héqún",
+        "pos": "形",
+        "en": "sociable / fitting in",
+        "example": "老师常夸她很合群。",
+        "exampleEn": "Teachers often praise her for fitting in."
+      },
+      {
+        "hanzi": "归属感",
+        "pinyin": "guīshǔgǎn",
+        "pos": "名",
+        "en": "sense of belonging",
+        "example": "班集体给他很强的归属感。",
+        "exampleEn": "The class gave him a strong sense of belonging."
+      },
+      {
+        "hanzi": "个性",
+        "pinyin": "gèxìng",
+        "pos": "名",
+        "en": "individuality / personality",
+        "example": "现在的年轻人更敢于表现个性。",
+        "exampleEn": "Young people today dare more to show individuality."
+      },
+      {
+        "hanzi": "团结",
+        "pinyin": "tuánjié",
+        "pos": "形/动",
+        "en": "united / to unite",
+        "example": "比赛前教练强调团结。",
+        "exampleEn": "Before the match the coach stressed unity."
+      },
+      {
+        "hanzi": "牺牲",
+        "pinyin": "xīshēng",
+        "pos": "动",
+        "en": "to sacrifice",
+        "example": "她不愿意牺牲睡眠去加班。",
+        "exampleEn": "She is unwilling to sacrifice sleep for overtime."
+      },
+      {
+        "hanzi": "从众",
+        "pinyin": "cóngzhòng",
+        "pos": "动",
+        "en": "to follow the crowd",
+        "example": "从众让人安全，但也可能失去判断。",
+        "exampleEn": "Following the crowd feels safe but can dull judgement."
+      },
+      {
+        "hanzi": "荣誉",
+        "pinyin": "róngyù",
+        "pos": "名",
+        "en": "honour",
+        "example": "班级荣誉对很多学生很重要。",
+        "exampleEn": "Class honour matters to many students."
+      },
+      {
+        "hanzi": "班集体",
+        "pinyin": "bānjítǐ",
+        "pos": "名",
+        "en": "class as a collective",
+        "example": "奖状发给班集体，不发给某一个人。",
+        "exampleEn": "The certificate is given to the class, not to one person."
+      },
+      {
+        "hanzi": "校服",
+        "pinyin": "xiàofú",
+        "pos": "名",
+        "en": "school uniform",
+        "example": "校服把身体先训练成「我们」。",
+        "exampleEn": "The uniform trains the body into “we” first."
+      },
+      {
+        "hanzi": "大局",
+        "pinyin": "dàjú",
+        "pos": "名",
+        "en": "the larger picture",
+        "example": "老师会说：先看大局，再看你的想法。",
+        "exampleEn": "Teachers say: look at the larger picture before your own idea."
+      },
+      {
+        "hanzi": "步调",
+        "pinyin": "bùdiào",
+        "pos": "名",
+        "en": "pace / lockstep",
+        "example": "军训就是把步调练成同一厘米。",
+        "exampleEn": "Military training drills the pace to the same centimetre."
+      },
+      {
+        "hanzi": "出头",
+        "pinyin": "chūtóu",
+        "pos": "动",
+        "en": "to stick out / take the lead",
+        "example": "没人愿意先出头提反对意见。",
+        "exampleEn": "No one wants to stick out first with a dissenting view."
+      },
+      {
+        "hanzi": "抹黑",
+        "pinyin": "mǒhēi",
+        "pos": "动",
+        "en": "to tarnish / bring shame on",
+        "example": "作弊会被说成给全班抹黑。",
+        "exampleEn": "Cheating is said to stain the whole class."
+      },
+      {
+        "hanzi": "编队",
+        "pinyin": "biānduì",
+        "pos": "动/名",
+        "en": "to form ranks",
+        "example": "合影本身就是一次编队。",
+        "exampleEn": "The group photograph is itself a forming of ranks."
+      },
+      {
+        "hanzi": "个人主义",
+        "pinyin": "gèrén zhǔyì",
+        "pos": "名",
+        "en": "individualism",
+        "example": "不要把个性直接翻译成自私的个人主义。",
+        "exampleEn": "Do not translate individuality straight into selfish individualism."
+      }
+    ]
+  },
+  {
+    "slug": "shengxiao",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一整扇红窗花，剪成龙的形状",
+        "en": "A whole pane of red paper-cut, snipped into the shape of a dragon"
+      },
+      {
+        "zh": "龙的须、角、鳞片都是锯齿状的纸边",
+        "en": "The whiskers, horns and scales are all serrated paper edges"
+      },
+      {
+        "zh": "木头窗格把龙分成几块，像被框住的命运",
+        "en": "Wooden muntins divide the dragon into pieces, like a fate held in a frame"
+      },
+      {
+        "zh": "窗外雪光或冷白的天，红纸被衬得很烈",
+        "en": "Snow-light or a cold white sky outside, setting the red paper on fire"
+      },
+      {
+        "zh": "窗台上有一小盆绿植，生活还在龙的脚下",
+        "en": "A small green plant on the sill: life still sits at the dragon’s feet"
+      },
+      {
+        "zh": "屋里暖光从侧面过来，剪纸的影子投在地上",
+        "en": "Warm indoor light from the side; the cut-paper throws a shadow on the floor"
+      },
+      {
+        "zh": "龙不喷火，身子是盘着的、往上走的",
+        "en": "The dragon does not breathe fire; its body coils and climbs"
+      },
+      {
+        "zh": "没有人的脸——身份先被动物和年份替你说了",
+        "en": "No human face: identity has already been spoken for you by an animal and a year"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "窗上是一整条红龙。须、角、鳞都是剪出来的锯齿，木头窗格把它分成几块，窗外的白光把红纸衬得很烈。窗台上还有一小盆绿的。龙不喷火，身子盘着往上走。这张图里没有人的脸，可它已经在替人做自我介绍：我属龙，我这一年被纸和故事先写了一笔。窗花是装饰，也是一张贴在玻璃上的身份标签。你要是只说「很中国红」，还没碰到属相到底钉住了什么。",
+        "en": "A whole red dragon sits on the window. Whiskers, horns, scales are serrated cuts; wooden muntins divide it; white light outside makes the paper fierce. A small green pot still lives on the sill. The dragon does not breathe fire; it coils and climbs. There is no human face in this picture, and yet it is already introducing someone: I was born in a dragon year; this year of mine was written first in paper and story. The window-cut is decoration, and also an identity tag stuck to the glass. If you only say “very Chinese red,” you have not yet touched what the animal pins down."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "生肖是中国人最日常的身份标签之一。见面可以问「你属什么」，而不先问星座。十二种动物，十二年一轮，把所有人编进同一套可聊天的故事。龙年出生的孩子特别多，因为龙象征力量与好运；有的家庭会特意选龙年、避开自己觉得「不好」的年份。这是民俗，不是科学，但它仍然塑造自我想象。它到底在解决谁的问题？解决的是「陌生人要怎么开口」和「我生来有没有一个位置」——用一个动物，给人一顶不必自己设计的帽子。",
+        "en": "The zodiac is one of the most everyday Chinese identity tags. People may ask “what animal are you?” before they ask a star sign. Twelve animals, a twelve-year turn, braid everyone into one set of stories you can talk about. Dragon years see more births, because the dragon means power and luck; some families time a birth for a dragon year and avoid a year they call “bad.” This is folklore, not science, and it still shapes how people imagine themselves. Whose problem does it solve? How strangers begin a conversation, and whether you were born into a place — one animal, a hat you did not have to design."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "长辈用属相认人：同龄人一报属相，就知道谁大谁小。本命年要系红绳、穿红内衣，图的是避冲、求平安，超市在那一年会多出一堆红绳。媒人和亲戚有时还讲「合不合」，把属相当成婚姻的预审。语言里也有配方：属牛的人被说能吃苦，属猴的人被说聪明，属猪的人被说福气。钱会跟着年份走——龙年的婚礼、宴席、婴儿用品都会更紧。规则是：你可以不信，但过年时那句「你属什么」仍然要会答。",
+        "en": "Elders recognise people by the animal: once peers name their sign, they know who is older. In your birth-animal year you tie a red string, wear red underclothes, hoping to dodge a clash and keep peace; supermarkets that year pile up red cords. Matchmakers and relatives still sometimes ask whether two animals “fit,” using the sign as a pre-trial of marriage. Language has recipes: oxen work hard, monkeys are clever, pigs have luck. Money follows the year — dragon-year weddings, banquets, baby goods all tighten. The rule: you may not believe, but at New Year you still have to know how to answer “what are you?”"
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：生肖给人一句现成的自我介绍，内向的人也可以靠「我属虎」打开话题，觉得自己生来就有一个位置。家庭：选年、备红、给孩子讲故事，把不确定的出生写成可庆祝的计划，全家有了一套共同的隐喻。社会：十二年一轮的公共时间让全国同时换一种动物当主角，商店、邮票、春晚都跟着换皮，陌生人之间多了一种不涉及收入和学校的闲聊密码。民俗不必是科学，也能把人从「谁也不认识」里捞出来。",
+        "en": "For the person: the zodiac hands you a ready self-introduction; a shy person can open a talk with “I’m a tiger,” and feel born into a place. For the family: choosing a year, preparing red, telling the child a story, writes an uncertain birth as a plan you can celebrate; the whole house shares a metaphor. For society: a twelve-year public clock lets the country change its leading animal together; shops, stamps, the Spring Festival Gala change their skin, and strangers gain a small-talk code that does not touch income or school. Folklore need not be science to pull a person out of “no one knows anyone.”"
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：把性格完全交给属相当然太简单，准的时候人们记住，不准的时候说「那是个别」。结构：选「好年份」生孩子，会把医疗、教育和住房的压力叠在同一年级上；被写成「不好」的属相，可能让人从小就听到一句轻飘飘的判词。迷信和民俗的边界在这里最容易糊。被排除的是不信的人——他们不是没有属相，是拒绝用动物解释自己，却仍要在饭桌上被问一遍。本命年的红，有时是安慰，有时是一种温柔的绑架。",
+        "en": "In daily life: handing character wholly to an animal is too neat; when it fits, people remember; when it does not, they say “that one is an exception.” In structure: choosing a “good year” to have a child stacks medical, school and housing pressure on the same cohort; an animal written as “bad” may let a person hear a light, floating verdict from childhood. The line between folklore and superstition is easiest to blur here. Shut out: people who do not believe — they are not without a sign; they refuse to be explained by an animal, and still get asked at table. The red of a birth-animal year is sometimes comfort, sometimes a gentle kidnapping."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "生肖进入商标、电影、奥运和城市雕塑，龙年的礼物盒比龙本身更常见。海外华校用十二种动物教孩子认自己；星座在年轻人里更潮，两种先天故事开始抢同一张嘴。属相合婚在农村和长辈局还在，城市里更多被当成笑话；本命年的红绳做成了电商爆款，民俗被打包成 SKU。有人认真算「冲克」，有人只在过年时把它当游戏——同一套动物，两种信仰浓度。",
+        "en": "The animals enter trademarks, film, the Olympics, city sculpture; a dragon-year gift box is more common than the dragon itself. Overseas Chinese schools use the twelve to teach children to recognise themselves. Star signs are more fashionable among the young; two inborn stories begin to compete for the same mouth. Matching animals for marriage still lives in villages and elders’ rooms; in cities it is more often a joke. The red cord of a birth-animal year becomes an e-commerce hit; folklore is packed as an SKU. Some people seriously calculate a clash; some treat it as a game only at New Year — one set of animals, two densities of belief."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙更常先问星座：白羊、天蝎，和属虎、属龙是同一类「用出生时刻给人画像」的游戏。南欧的 horóscopo 上报纸，中国的生肖上窗花，都是把偶然的出生说成性格。更通用的锚是任何先天标签——血型性格、守护神、诞生石。生肖塑造的是「我尚未选择就被说成什么样」，它让你觉得自己生来有位置，也可能让你懒得再塑造自己。我的立场——可以当聊天和节日，不可以当选专业、选伴侣的理由；身体和运气或许是礼物，习惯是自己练出来的。",
+        "en": "Spain more often asks a star sign first: Aries, Scorpio — the same game as tiger and dragon, painting a person with the hour of birth. Southern Europe’s horóscopo sits in the paper; China’s zodiac sits on a window. Both turn a chance birth into character. A wider anchor is any inborn tag — blood-type personality, a guardian saint, a birthstone. The zodiac shapes “what I was said to be before I chose.” It lets you feel born into a place; it may also let you grow lazy about shaping yourself. My position: it may be talk and festival; it may not be a reason to choose a major or a partner. Body and luck may be gifts. Habit is something you train."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "红窗花、龙的须角、窗格、窗外白光；点出没有人脸，动物先替人介绍。",
+        "en": "Red paper-cut, dragon whiskers, muntins, white light; no human face — the animal introduces first."
+      },
+      {
+        "time": "0:40",
+        "zh": "你属什么；民俗不是科学，仍塑造想象。它给人一顶不必自己设计的帽子。",
+        "en": "“What animal are you?” Folklore is not science, and still shapes imagination. A hat you did not design."
+      },
+      {
+        "time": "1:20",
+        "zh": "本命年红绳；选龙年；属牛能吃苦。你可以不信，过年仍要会答。",
+        "en": "Red cord in your birth-animal year; choosing a dragon year; oxen work hard. You may not believe; at New Year you still answer."
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：有话题；有计划；全国同一套闲聊密码。",
+        "en": "Three goods: a topic; a plan; a national small-talk code."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：性格配方太简；坏年份把压力叠在同一级孩子上。红有时是温柔的绑架。",
+        "en": "Two troubles: character as a recipe is too simple; a “bad” year stacks pressure on one cohort. Red is sometimes a gentle kidnapping."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较 horóscopo 和星座。立场：当节日，不当判词；习惯是自己练的。",
+        "en": "Compare horóscopo and star signs. Position: festival, not verdict; habit is trained."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述这张窗花：你看见什么颜色、什么动物？",
+        "en": "Describe this window-cut: what colour, what animal do you see?"
+      },
+      {
+        "zh": "你属什么？你觉得它准吗？",
+        "en": "What is your zodiac animal? Do you think it fits?"
+      },
+      {
+        "zh": "为什么有的家庭会选「好年份」生孩子？",
+        "en": "Why do some families choose a “lucky year” to have a child?"
+      },
+      {
+        "zh": "生肖和星座，哪一种在你生活里更常见？",
+        "en": "Which is more common in your life, the Chinese zodiac or star signs?"
+      },
+      {
+        "zh": "性格是天生的，还是后来养成的？",
+        "en": "Is character inborn, or formed later?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "如果龙年的孩子特别多，这对他们长大后的高考和就业意味着什么？",
+        "en": "If a dragon year has far more children, what does that mean for their gaokao and jobs later?"
+      },
+      {
+        "zh": "你愿意用属相介绍自己，还是觉得这是把复杂的人说小了？",
+        "en": "Are you willing to introduce yourself by an animal, or does that shrink a complicated person?"
+      },
+      {
+        "zh": "民俗和迷信之间，你用什么标准划线？",
+        "en": "What standard do you use to draw the line between folklore and superstition?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "生肖",
+        "pinyin": "shēngxiào",
+        "pos": "名",
+        "en": "Chinese zodiac",
+        "example": "十二生肖十二年一轮回。",
+        "exampleEn": "The twelve animals cycle every twelve years."
+      },
+      {
+        "hanzi": "属",
+        "pinyin": "shǔ",
+        "pos": "动",
+        "en": "to be born in the year of",
+        "example": "我属虎。",
+        "exampleEn": "I was born in the Year of the Tiger."
+      },
+      {
+        "hanzi": "象征",
+        "pinyin": "xiàngzhēng",
+        "pos": "动/名",
+        "en": "to symbolise / symbol",
+        "example": "龙象征力量和权威。",
+        "exampleEn": "The dragon symbolises power and authority."
+      },
+      {
+        "hanzi": "运气",
+        "pinyin": "yùnqi",
+        "pos": "名",
+        "en": "luck",
+        "example": "不能把一切都交给运气。",
+        "exampleEn": "You cannot leave everything to luck."
+      },
+      {
+        "hanzi": "民俗",
+        "pinyin": "mínsú",
+        "pos": "名",
+        "en": "folk custom",
+        "example": "生肖是一种流传很久的民俗。",
+        "exampleEn": "The zodiac is a long-standing folk custom."
+      },
+      {
+        "hanzi": "性格",
+        "pinyin": "xìnggé",
+        "pos": "名",
+        "en": "personality",
+        "example": "不能只靠生肖判断一个人的性格。",
+        "exampleEn": "You cannot judge personality by the zodiac alone."
+      },
+      {
+        "hanzi": "轮回",
+        "pinyin": "lúnhuí",
+        "pos": "名",
+        "en": "cycle / reincarnation",
+        "example": "生肖十二年一轮回。",
+        "exampleEn": "The zodiac returns every twelve years."
+      },
+      {
+        "hanzi": "迷信",
+        "pinyin": "míxìn",
+        "pos": "名/动",
+        "en": "superstition / to be superstitious",
+        "example": "有人把生肖当成迷信，有人把它当成文化。",
+        "exampleEn": "Some call the zodiac superstition; others call it culture."
+      },
+      {
+        "hanzi": "属相",
+        "pinyin": "shǔxiàng",
+        "pos": "名",
+        "en": "zodiac animal sign",
+        "example": "报一下属相，长辈就知道你虚岁多大。",
+        "exampleEn": "Name your animal and an elder knows your nominal age."
+      },
+      {
+        "hanzi": "本命年",
+        "pinyin": "běnmìngnián",
+        "pos": "名",
+        "en": "one’s birth-animal year",
+        "example": "本命年有人会系红绳。",
+        "exampleEn": "In their birth-animal year some people tie a red string."
+      },
+      {
+        "hanzi": "红绳",
+        "pinyin": "hóngshéng",
+        "pos": "名",
+        "en": "red string for luck",
+        "example": "红绳是安慰，也可以是一种温柔的绑架。",
+        "exampleEn": "The red string is comfort; it can also be a gentle kidnapping."
+      },
+      {
+        "hanzi": "生辰",
+        "pinyin": "shēngchén",
+        "pos": "名",
+        "en": "date and hour of birth",
+        "example": "有人起名还要看生辰。",
+        "exampleEn": "Some people still look at the hour of birth before naming a child."
+      },
+      {
+        "hanzi": "冲克",
+        "pinyin": "chōngkè",
+        "pos": "动/名",
+        "en": "astrological clash",
+        "example": "把婚姻交给冲克，是把人交给故事。",
+        "exampleEn": "To hand a marriage to a clash is to hand a person to a story."
+      },
+      {
+        "hanzi": "命理",
+        "pinyin": "mìnglǐ",
+        "pos": "名",
+        "en": "fate calculation",
+        "example": "命理好听，科学它不是。",
+        "exampleEn": "Fate-calculation sounds fine; science it is not."
+      },
+      {
+        "hanzi": "图腾",
+        "pinyin": "túténg",
+        "pos": "名",
+        "en": "totem",
+        "example": "生肖像一种人人都能用的小图腾。",
+        "exampleEn": "The zodiac is a little totem anyone can use."
+      },
+      {
+        "hanzi": "虚岁",
+        "pinyin": "xūsuì",
+        "pos": "名",
+        "en": "nominal age",
+        "example": "按生肖算，虚岁常常比周岁大一岁。",
+        "exampleEn": "Counted by the animal, nominal age is often one year older."
+      }
+    ]
+  },
+  {
+    "slug": "qiming",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一张铺平的宣纸，纸边微微起毛",
+        "en": "A sheet of xuan paper laid flat, the edges slightly fluffed"
+      },
+      {
+        "zh": "毛笔锋还含着墨，停在一个未干的点上",
+        "en": "The brush tip still holds ink, paused on a point that has not dried"
+      },
+      {
+        "zh": "纸上能看见表扬、愿望一类的字，例如「嘉」「睿」",
+        "en": "On the paper, characters of praise and wish — Jia, Rui"
+      },
+      {
+        "zh": "砚台或墨碟在手边，墨色由浓到淡",
+        "en": "An inkstone or dish at hand, the ink running from dark to thin"
+      },
+      {
+        "zh": "镇纸压住纸角，防止名字自己跑掉",
+        "en": "A paperweight holds the corner, so the name cannot run away"
+      },
+      {
+        "zh": "写字人的袖口，动作慢，像怕写错一个愿望",
+        "en": "The writer’s cuff, the motion slow, as if afraid of writing a wish wrong"
+      },
+      {
+        "zh": "桌面是木头的，很旧，像这支笔不是第一次写家里的人",
+        "en": "The wooden desk is old, as if this brush has written the family before"
+      },
+      {
+        "zh": "没有键盘、没有拼音——名字先被当成一幅要被看的字",
+        "en": "No keyboard, no pinyin: the name is treated first as a character to be looked at"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "宣纸铺平，镇纸压着角，毛笔锋还含着墨，停在一个未干的点上。纸上是「嘉」或者「睿」这类带着愿望的字。砚台在手边，袖口很慢。没有键盘，没有拼音，名字先被当成一幅要被人看的字。写错一笔，不像改微信名那么便宜。这张图的声音是墨落纸的那一下；真正的内容是：有人在你还不会说话的时候，已经替你决定了别人怎么叫你。",
+        "en": "Xuan paper laid flat, a weight on the corner, the brush still holding ink, paused on a point not yet dry. On the paper, a character of wish — Jia, or Rui. The inkstone is at hand; the cuff is slow. No keyboard, no pinyin: the name is treated first as a character people will look at. A wrong stroke is not as cheap as changing a WeChat name. The sound of this picture is ink meeting paper. The real content: someone, before you could speak, had already decided how others would call you."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "中文姓名先姓后名。姓连接家族，名才是父母送给孩子的第一句话。很多人的名字里藏着愿望：嘉、睿、安、宁、博。有的家族按「字辈」取名，同一代人名字里共用一个字，打开族谱就能看见秩序——哪一辈是「永」，哪一辈是「德」，人还没出场，位置先排好了。它到底在解决谁的问题？解决的是「一个孩子要怎样被家族和陌生人同时认出来」——用两三个字，把血缘、期待和可呼叫性压进同一张门牌。",
+        "en": "A Chinese name puts the surname first. The surname ties you to a clan; the given name is the parents’ first sentence to the child. Many names hide a wish: excellence, wisdom, peace, breadth. Some families name by a generation character, so cousins share a word; open the genealogy and you see the order — this generation Yong, that generation De. The person has not yet appeared; the place is already ranked. Whose problem does it solve? How a child is recognised at once by family and by strangers — two or three characters pressing blood, expectation and callability onto one doorplate."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "起名要听声音、看笔画、避讳长辈的字，有的还看五行缺什么。乳名只给家里人叫，学名才上户口和护照。网络时代出现了更个性化的名字，也出现了「很难在银行系统里输入」的生僻字。外国人取中文名，常选好听又好写的字，因为要在课堂上被老师念出来。改名不是改昵称：户口、学历、银行卡要一起改，所以很多人一辈子不用自己选过的那个字。规则是：姓几乎不能动，名可以动，但代价很高。",
+        "en": "Naming listens to sound, watches stroke-count, avoids an elder’s character; some still look at which of the five phases is missing. A milk-name is only for the house; the school name goes on the household register and the passport. The internet brought more individual names — and rare characters a bank system cannot type. Foreigners picking a Chinese name often choose characters that sound well and write easily, because a teacher will have to read them aloud. Changing a name is not changing a nickname: register, diploma, bank card all have to move, so many people never use the character they would have chosen. The rule: the surname almost cannot move; the given name can, at a high price."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：一个好念、有寓意的名字，让人在点名、面试、加微信时少一层尴尬，自己也更容易接受「我就是被这样叫的人」。家庭：字辈和族谱把散开的亲戚重新编进可辨认的一代，清明和婚礼上，人一报名字就知道该叫叔还是该叫兄。社会：姓名是行政系统的钥匙，也是文化的最小诗——两个字就能让人猜到父母那一代信什么。门牌清楚，人就不那么容易在人群里变成一个号码。",
+        "en": "For the person: a name that is easy to say and carries a meaning saves a layer of awkwardness at roll call, at interview, adding WeChat; it is also easier to accept “I am the person called this.” For the family: generation characters and the genealogy braid scattered relatives back into a readable generation; at Qingming and at a wedding, one name tells you whether to say uncle or elder brother. For society: a name is a key to the administrative system, and culture’s smallest poem — two characters can let you guess what the parents’ generation believed. A clear doorplate makes it harder for a person to become a number in a crowd."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：被叫错、被取笑谐音、生僻字每次都要报笔画，自我介绍变成一场小型答辩。结构：系统输入不了的字，等于把人挡在银行、机票和学校门外；女性婚后随夫姓在中国不普遍，可孩子跟谁姓，仍能吵成家庭政治。被排除的是想改名却改不动的人，以及名字里被写进「必须优秀」的孩子——嘉、睿、博听起来美，活起来像一份合同。避讳保护长辈，也可能让一整代人少用一个好字。",
+        "en": "In daily life: being called wrong, teased for a homophone, having to spell a rare character by strokes every time — a self-introduction becomes a small defence. In structure: a character the system cannot type shuts a person out of the bank, the plane ticket, the school; a woman taking her husband’s surname is not common in China, yet whose surname a child takes can still become household politics. Shut out: people who want to change a name and cannot, and children who had “you must be excellent” written into two characters — Jia, Rui, Bo sound beautiful, and live like a contract. Avoiding an elder’s name protects the elder; it may also keep a whole generation from one good character."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "单名和双名的潮流在变，父母有时比孩子更在意好不好搜。网络ID、英文名、乳名三套并行，一个人在三个房间里是三个声音。明星和电竞的名字反向影响户口本；少数民族姓名的音译进汉字，常常被压扁。海外出生的孩子要同时应付护照上的拼音和家里的汉字；有人成年后自己取一个「用得顺」的名，法律名仍留在父母的愿望里，两套身份每天切换。",
+        "en": "Fashions in one-character and two-character names shift; parents sometimes care more than the child whether a name searches well. Online ID, English name, milk-name run in parallel: one person is three voices in three rooms. Celebrity and esports names feed back onto the household register; minority names transliterated into characters are often flattened. Children born overseas must handle pinyin on a passport and characters at home. Some, grown, take a name that sits well in the mouth; the legal name stays in the parents’ wish, and two identities switch every day."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙名字常是名＋父姓＋母姓，圣徒日历和祖父的名字会进来，和字辈不是同一套，却都在说：你不是独自开始的。南欧改名也麻烦，只是教堂和市政厅换成了户口本。更通用的锚是任何「谁有权给你取名」——教名、昵称、奴隶被改名、移民在边境被官员随便拼写。名字塑造的是别人叫你时你答应的那一声，你被怎样称呼，就会被怎样记住。我的立场——寓意可以收，合同不该写进两个字里；姓连着家族，名至少该留一点给自己长大后的人。",
+        "en": "A Spanish name is often given name plus father’s surname plus mother’s; a saint’s calendar and a grandfather’s name may enter. Not the same system as a generation character, yet both say: you did not begin alone. Changing a name in southern Europe is also hard; church and town hall stand where the household register stands. A wider anchor is any “who has the right to name you” — a baptismal name, a nickname, an enslaved person renamed, a migrant’s spelling decided by an official at a border. A name shapes the sound you answer to; how you are called is how you are remembered. My position: a wish may be kept; a contract should not be written into two characters. The surname ties the clan; the given name should leave a little for the person you grow into."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "宣纸、毛笔、未干的「嘉／睿」、镇纸；点出有人在你开口前已替你决定称呼。",
+        "en": "Xuan paper, brush, an undried Jia or Rui, a paperweight; someone named you before you could speak."
+      },
+      {
+        "time": "0:40",
+        "zh": "姓在前；字辈；父母的第一句话。两三个字把血缘和期待压进门牌。",
+        "en": "Surname first; generation character; the parents’ first sentence. Two or three characters press blood and wish onto a doorplate."
+      },
+      {
+        "time": "1:20",
+        "zh": "避讳、五行、乳名和学名；改名要改户口和银行卡，代价很高。",
+        "en": "Name-taboo, five phases, milk-name and school name; changing a name moves the register and the bank card — the price is high."
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：好念；族谱可认；最小的诗。",
+        "en": "Three goods: easy to say; a genealogy you can read; the smallest poem."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：谐音与生僻字；系统把门关上。嘉、睿听起来美，活起来像合同。",
+        "en": "Two troubles: homophones and rare characters; the system shuts the door. Jia and Rui sound beautiful, and live like a contract."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较名＋父姓＋母姓。立场：寓意可收，合同拿掉；名留一点给长大后的自己。",
+        "en": "Compare given name plus two surnames. Position: keep the wish, drop the contract; leave the given name a little for the grown self."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述这张写名字的图：笔停在哪一个字上？",
+        "en": "Describe this naming picture: on which character has the brush paused?"
+      },
+      {
+        "zh": "介绍你的中文名字：哪个字是声音，哪个字是愿望？",
+        "en": "Introduce your Chinese name: which character is sound, which is a wish?"
+      },
+      {
+        "zh": "姓和名，哪一个更像「我是谁」？哪一个更像「我属于谁」？",
+        "en": "Surname and given name: which is more “who I am,” which is more “who I belong to”?"
+      },
+      {
+        "zh": "如果父母给你取了一个你不喜欢的名字，你会改吗？",
+        "en": "If your parents gave you a name you disliked, would you change it?"
+      },
+      {
+        "zh": "比较中文名和西班牙名字（名＋父姓＋母姓）的结构。",
+        "en": "Compare the structure of a Chinese name and a Spanish name (given name plus two surnames)."
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "介绍你的中文名：哪个字是声音，哪个字是愿望，哪个字是家族？",
+        "en": "Introduce your Chinese name: which character is sound, which is a wish, which is the clan?"
+      },
+      {
+        "zh": "如果父母给你取了一个你不喜欢的名字，你改的是两个字，还是一段关系？",
+        "en": "If you change a name you dislike, are you changing two characters, or a relationship?"
+      },
+      {
+        "zh": "姓和名，哪一个更像「我是谁」？哪一个更像「我属于谁」？",
+        "en": "Which is more “who I am,” surname or given name? Which is more “who I belong to”?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "姓名",
+        "pinyin": "xìngmíng",
+        "pos": "名",
+        "en": "full name",
+        "example": "请在表格上填写你的姓名。",
+        "exampleEn": "Please write your full name on the form."
+      },
+      {
+        "hanzi": "姓",
+        "pinyin": "xìng",
+        "pos": "名",
+        "en": "surname",
+        "example": "中国人的姓放在名字前面。",
+        "exampleEn": "In Chinese the surname comes first."
+      },
+      {
+        "hanzi": "寓意",
+        "pinyin": "yùyì",
+        "pos": "名",
+        "en": "implied meaning",
+        "example": "这个名字的寓意是平安。",
+        "exampleEn": "This name implies peace."
+      },
+      {
+        "hanzi": "辈分",
+        "pinyin": "bèifen",
+        "pos": "名",
+        "en": "seniority in the clan",
+        "example": "按辈分，我应该叫他叔叔。",
+        "exampleEn": "By generation rank I should call him uncle."
+      },
+      {
+        "hanzi": "家族",
+        "pinyin": "jiāzú",
+        "pos": "名",
+        "en": "clan / extended family",
+        "example": "家族历史写在家谱里。",
+        "exampleEn": "Clan history is written in the genealogy book."
+      },
+      {
+        "hanzi": "避讳",
+        "pinyin": "bìhuì",
+        "pos": "动",
+        "en": "to avoid a taboo name",
+        "example": "取名时要避讳长辈的名字。",
+        "exampleEn": "When naming a child you avoid an elder’s given name."
+      },
+      {
+        "hanzi": "生僻字",
+        "pinyin": "shēngpìzì",
+        "pos": "名",
+        "en": "rare character",
+        "example": "名字里有生僻字，打字很不方便。",
+        "exampleEn": "A rare character in a name is hard to type."
+      },
+      {
+        "hanzi": "称呼",
+        "pinyin": "chēnghu",
+        "pos": "名/动",
+        "en": "form of address / to call",
+        "example": "你希望别人怎么称呼你？",
+        "exampleEn": "How do you want others to address you?"
+      },
+      {
+        "hanzi": "字辈",
+        "pinyin": "zìbèi",
+        "pos": "名",
+        "en": "generation character in a clan",
+        "example": "他们堂兄弟名字里都有同一个字辈。",
+        "exampleEn": "The cousins share one generation character in their names."
+      },
+      {
+        "hanzi": "族谱",
+        "pinyin": "zúpǔ",
+        "pos": "名",
+        "en": "genealogy book",
+        "example": "打开族谱，一代人共用一个字。",
+        "exampleEn": "Open the genealogy: one generation shares one character."
+      },
+      {
+        "hanzi": "乳名",
+        "pinyin": "rǔmíng",
+        "pos": "名",
+        "en": "childhood pet name",
+        "example": "乳名只有家里人能叫。",
+        "exampleEn": "Only the family may use the milk-name."
+      },
+      {
+        "hanzi": "学名",
+        "pinyin": "xuémíng",
+        "pos": "名",
+        "en": "formal given name",
+        "example": "学名上户口，乳名不上护照。",
+        "exampleEn": "The school name goes on the register; the milk-name does not go on a passport."
+      },
+      {
+        "hanzi": "谐音",
+        "pinyin": "xiéyīn",
+        "pos": "名",
+        "en": "homophone",
+        "example": "起名最怕谐音变成笑话。",
+        "exampleEn": "When naming, the fear is a homophone that becomes a joke."
+      },
+      {
+        "hanzi": "五行",
+        "pinyin": "wǔxíng",
+        "pos": "名",
+        "en": "five phases",
+        "example": "有人起名要先看五行缺什么。",
+        "exampleEn": "Some people look at which of the five phases is missing before they name a child."
+      },
+      {
+        "hanzi": "复姓",
+        "pinyin": "fùxìng",
+        "pos": "名",
+        "en": "two-character surname",
+        "example": "复姓会让人第一眼就记住。",
+        "exampleEn": "A two-character surname makes people remember you at first sight."
+      },
+      {
+        "hanzi": "户籍名",
+        "pinyin": "hùjí míng",
+        "pos": "名",
+        "en": "legal name on the household register",
+        "example": "户籍名改一次，银行卡都要跟着改。",
+        "exampleEn": "Change the legal name once, and the bank cards have to follow."
+      }
+    ]
+  },
+  {
+    "slug": "fangyan",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一条窄巷，青石板或旧水泥，光从巷口进来",
+        "en": "A narrow lane of slate or old cement; light comes in from the mouth of the alley"
+      },
+      {
+        "zh": "坐在小板凳或竹椅上的老人，身子往对方那边斜",
+        "en": "An elder on a low stool or bamboo chair, body leaning toward the other person"
+      },
+      {
+        "zh": "靠墙站着的中年人，手里可能有扇子或烟",
+        "en": "A middle-aged person standing against the wall, perhaps a fan or a cigarette in hand"
+      },
+      {
+        "zh": "墙皮剥落，墙根有盆花或一排晾着的衣服",
+        "en": "Plaster peeling; at the foot of the wall, a pot of flowers or a line of washing"
+      },
+      {
+        "zh": "有人侧耳，有人已经在笑，嘴型不像课堂普通话",
+        "en": "Someone tilts an ear; someone is already laughing; the mouth-shapes are not classroom Putonghua"
+      },
+      {
+        "zh": "巷子深处还有门洞，像话还能再往里走",
+        "en": "Doorways deeper in the lane, as if the talk could still walk further in"
+      },
+      {
+        "zh": "没有字幕、没有喇叭——这是只有在场的人才懂的声音",
+        "en": "No subtitles, no loudspeaker: a sound only those present understand"
+      },
+      {
+        "zh": "孩子如果在画面边角，多半一声不响，在听一种学校不教的话",
+        "en": "If a child is in the corner, they are mostly silent, listening to a tongue school does not teach"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "窄巷里，光从巷口进来。老人坐在小板凳上，中年人靠着剥落的墙，盆花和晾衣在脚边。有人侧耳，有人已经在笑，嘴型不像课堂上的普通话。没有字幕，没有喇叭。这张图的声音出了巷口可能就没人懂。孩子如果站在边角，多半一声不响——他在听一种学校不教、考试不用、可只有家里人才会心的话。你要是只说「他们在聊天」，等于把乡音听成了噪音。",
+        "en": "In a narrow lane, light comes in from the mouth. An elder sits on a low stool; a middle-aged person leans on peeling plaster; flowers and washing sit at their feet. Someone tilts an ear; someone is already laughing; the mouth-shapes are not classroom Putonghua. No subtitles, no loudspeaker. The sound of this picture may be understood by no one once it leaves the lane. If a child stands in the corner, they are mostly silent — listening to a tongue school does not teach, exams do not use, and only the family still meets with the heart. If you only say “they are chatting,” you have heard a hometown sound as noise."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "普通话让十几亿人能上课、考试、看电视。方言则把人钉在土地上：粤语、吴语、闽南语、四川话，一开口就是家乡。很多年轻人在学校说普通话，回家跟爷爷奶奶说方言。两种话，两种身份。保护方言不是反对普通话，而是承认：语言不仅是工具，也是记忆。它到底在解决谁的问题？普通话解决的是「全国要怎么上课」；方言解决的是「离开土地以后，还怎么证明自己是从那儿来的」。一句土话，往往比标准句子更像家。",
+        "en": "Putonghua lets more than a billion people share school, exams and television. A dialect pins a person to land: Cantonese, Wu, Minnan, Sichuanese — one sentence and you hear a hometown. Many young people speak Putonghua at school and a dialect with grandparents. Two tongues, two identities. Protecting a dialect is not rejecting the standard. It is admitting that language is memory, not only a tool. Whose problem does each solve? Putonghua: how a whole country goes to class. A dialect: after you leave the land, how you still prove you came from there. A phrase of local talk often feels more like home than a standard sentence."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "课堂上、新闻里、高铁广播里，是普通话。菜场、牌桌、厨房、骂人的时候，方言回来。父母觉得普通话「更有用」，孩子觉得方言「不够酷」，于是中间一代成了翻译：对上长辈说家乡话，对下孩子说标准音。口音会暴露籍贯，也会在求职和恋爱里被开玩笑。钱和机会流向能说标准音的人；规则是正式场合必须换舌头。会说两种话的人最累，也最富——他们每天在两种自我之间切换。",
+        "en": "In class, on the news, on the high-speed-rail announcement: Putonghua. In the market, at the mahjong table, in the kitchen, when someone is cursing: the dialect comes back. Parents call Putonghua “more useful”; children call dialect “not cool enough”; the generation in between becomes a translator — hometown speech upward to the elders, standard sound downward to the child. An accent gives away a native place, and is joked about in job-hunting and in love. Money and chance flow toward those who can speak the standard; the rule is that a formal occasion must change tongues. People who speak both are the most tired, and the richest — they switch every day between two selves."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：家乡话让人在异乡一秒钟被认出来，肩膀会松，不必把每个字都咬成课堂示范。家庭：只有家里人才懂的土话，是一把外人打不开的钥匙，秘密、玩笑、临终的那几句，常常只能用这种声音说。社会：普通话降低跨省沟通的成本，让人能为了工作离开村子而不至于完全失语。双语不是负担的全部，它也是一种能力：同一张嘴，能走进考场，也能走进巷子。",
+        "en": "For the person: hometown speech lets you be recognised in a second in a strange city; the shoulders drop; you need not bite every syllable into a classroom model. For the family: local talk only the house understands is a key outsiders cannot turn; secrets, jokes, the last few sentences, often can only be said in that sound. For society: Putonghua lowers the cost of talking across provinces, so a person can leave a village for work without going wholly speechless. Bilingualism is not only a burden. It is also a capacity: the same mouth can walk into an exam hall, and into a lane."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：方言被笑「土」，口音羞耻让人在学校里把舌头管住，回家又被爷爷说「连家乡话都不会」。结构：推广普通话的几十年里，很多孩子失去了母语级的方言；一种话消失，带走的不只是发音，还有一种看世界的分类法。被排除的是不会普通话的老人——医院、银行、车站的窗口如果只认一种舌头，他们就变成自己国家里的外国人。标准音方便了多数人，也让少数声音退出公共场合。",
+        "en": "In daily life: a dialect is laughed at as “rustic”; accent-shame makes a person hold the tongue at school, then go home to a grandfather who says “you cannot even speak the hometown tongue.” In structure: decades of promoting Putonghua have cost many children a mother-tongue dialect; when a speech dies it takes not only sounds, but a way of sorting the world. Shut out: elders who do not speak Putonghua — if the window at the hospital, the bank, the station recognises only one tongue, they become foreigners in their own country. The standard sound eases the majority, and ushers minority voices out of public space."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "粤语流行文化让一种方言比许多方言更有舞台；短视频让四川话、东北话变成全国都学着玩的笑点，热度高，尊严不一定高。城市里的新移民孩子既不会老家的话，普通话也带着父母的腔。民族语言——藏语、维吾尔语、蒙古语、朝鲜语——和「方言」不是同一层，却共享「会不会被下一代接住」的焦虑。方言进校园是选修还是课间悄悄说，政策各地不同；国际学生要记住：你听到的「中国话」只是最大的那一种。",
+        "en": "Cantonese pop culture gives one dialect more stage than many others. Short video turns Sichuanese and Northeastern speech into punchlines the whole country copies; heat is high, dignity not always. New-migrant children in cities speak neither the old home tongue nor a Putonghua without their parents’ lilt. National languages — Tibetan, Uyghur, Mongolian, Korean — are not the same layer as “dialect,” and they share the anxiety of whether the next generation will catch them. Whether a dialect enters school as an elective or as a whisper between classes depends on the place. International students should remember: the “Chinese” you hear is only the largest one."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙学生最硬的对应物是 castellano 和 català、euskera、galego：一种共同语上课，一种家乡话认人，巷子和学校不是同一张嘴。安达卢西亚口音被拿来开玩笑，也像中国各种「土」。更通用的锚是任何标准语对地方话的压力——法语对布列塔尼语，英语对苏格兰口音。你说哪种话最放松，那种话就更接近「我是谁」；考试用的那一种，更接近「我必须成为谁」。我的立场——普通话该会，方言不该死；保护乡音不是怀旧，是承认记忆也需要一条舌头。",
+        "en": "The hardest counterpart for a Spanish student is castellano against català, euskera, galego: one common tongue for class, one hometown tongue for recognition; the lane and the school are not the same mouth. An Andalusian accent used as a joke is like the many Chinese “rustic” tongues. A wider anchor is any standard pressing on a local speech — French on Breton, English on a Scottish accent. The tongue in which you most relax is closer to “who I am”; the one the exam uses is closer to “who I must become.” My position: Putonghua should be known; a dialect should not have to die. Protecting a hometown sound is not nostalgia. It is admitting that memory also needs a tongue."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "窄巷、小板凳、剥落的墙、只有在场的人才懂的嘴型。",
+        "en": "Narrow lane, low stool, peeling wall, mouth-shapes only those present understand."
+      },
+      {
+        "time": "0:40",
+        "zh": "普通话上课；方言钉在土地上；两种身份。一句土话往往更像家。",
+        "en": "Putonghua for class; dialect pinned to land; two identities. Local talk often feels more like home."
+      },
+      {
+        "time": "1:20",
+        "zh": "中间一代当翻译；正式场合换舌头；会两种话的人最累也最富。",
+        "en": "The middle generation translates; formal occasions change tongues; those who speak both are most tired and richest."
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：异乡被认出；家里的钥匙；全国能上课。",
+        "en": "Three goods: recognised in a strange city; a key only the family holds; a country that can go to class."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：口音羞耻；老人在窗口变成外国人。一种话消失，带走分类法。",
+        "en": "Two troubles: accent-shame; elders become foreigners at a window. When a speech dies it takes a way of sorting the world."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较 català、euskera、galego。立场：普通话会，方言留；禁止说「我们没有方言」。",
+        "en": "Compare català, euskera, galego. Position: know Putonghua, keep the dialect; do not say “we have no dialects.”"
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述这条巷子：谁坐着？嘴型为什么不像课堂普通话？",
+        "en": "Describe this lane: who is sitting? Why do the mouth-shapes not look like classroom Putonghua?"
+      },
+      {
+        "zh": "你在家说什么语言？在学校呢？哪一种让你最像你自己？",
+        "en": "What language do you speak at home? At school? Which makes you most like yourself?"
+      },
+      {
+        "zh": "应不应该在学校保护方言或加泰罗尼亚语？",
+        "en": "Should schools help protect a dialect — or Catalan?"
+      },
+      {
+        "zh": "一种家乡话消失，消失的只是发音，还是一种看世界的方式？",
+        "en": "If a hometown tongue dies, is it only a sound that vanishes — or a way of seeing?"
+      },
+      {
+        "zh": "比较普通话和 castellano：标准语方便了谁，省略了谁？",
+        "en": "Compare Putonghua and castellano: whom does a standard ease, and whom does it omit?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "你在家说什么语言、在学校说什么？哪一种让你最像你自己？",
+        "en": "What do you speak at home, and at school? Which makes you most yourself?"
+      },
+      {
+        "zh": "一种家乡话消失，消失的只是发音，还是一种看世界的方式？",
+        "en": "When a hometown speech disappears, is it only pronunciation that goes, or a way of seeing the world?"
+      },
+      {
+        "zh": "如果学校只准说普通话／只准说西班牙语，被保护的是沟通，还是某一种人？",
+        "en": "If a school allows only Putonghua — or only Spanish — is what is protected communication, or a certain kind of person?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "普通话",
+        "pinyin": "pǔtōnghuà",
+        "pos": "名",
+        "en": "Mandarin / Putonghua",
+        "example": "上课要用普通话。",
+        "exampleEn": "Class is conducted in Putonghua."
+      },
+      {
+        "hanzi": "方言",
+        "pinyin": "fāngyán",
+        "pos": "名",
+        "en": "dialect",
+        "example": "他一说方言，我就知道他是南方人。",
+        "exampleEn": "The moment he used dialect I knew he was from the south."
+      },
+      {
+        "hanzi": "口音",
+        "pinyin": "kǒuyīn",
+        "pos": "名",
+        "en": "accent",
+        "example": "她普通话说得很好，但还有一点口音。",
+        "exampleEn": "Her Putonghua is good, with a slight accent."
+      },
+      {
+        "hanzi": "母语",
+        "pinyin": "mǔyǔ",
+        "pos": "名",
+        "en": "mother tongue",
+        "example": "方言也可以是一个人的母语。",
+        "exampleEn": "A dialect can also be someone’s mother tongue."
+      },
+      {
+        "hanzi": "推广",
+        "pinyin": "tuīguǎng",
+        "pos": "动",
+        "en": "to promote / spread",
+        "example": "推广普通话方便了跨省交流。",
+        "exampleEn": "Promoting Putonghua made cross-province talk easier."
+      },
+      {
+        "hanzi": "消失",
+        "pinyin": "xiāoshī",
+        "pos": "动",
+        "en": "to disappear",
+        "example": "有些方言正慢慢消失。",
+        "exampleEn": "Some dialects are slowly disappearing."
+      },
+      {
+        "hanzi": "乡音",
+        "pinyin": "xiāngyīn",
+        "pos": "名",
+        "en": "hometown accent",
+        "example": "乡音难改。",
+        "exampleEn": "A hometown accent is hard to change."
+      },
+      {
+        "hanzi": "沟通",
+        "pinyin": "gōutōng",
+        "pos": "动/名",
+        "en": "to communicate / communication",
+        "example": "共同的语言让沟通更容易。",
+        "exampleEn": "A shared language makes communication easier."
+      },
+      {
+        "hanzi": "粤语",
+        "pinyin": "Yuèyǔ",
+        "pos": "名",
+        "en": "Cantonese",
+        "example": "粤语让一种方言比许多方言更有舞台。",
+        "exampleEn": "Cantonese gives one dialect more stage than many others."
+      },
+      {
+        "hanzi": "土话",
+        "pinyin": "tǔhuà",
+        "pos": "名",
+        "en": "local vernacular",
+        "example": "一句土话，往往比标准句子更像家。",
+        "exampleEn": "A phrase of local talk often feels more like home than a standard sentence."
+      },
+      {
+        "hanzi": "标准音",
+        "pinyin": "biāozhǔnyīn",
+        "pos": "名",
+        "en": "standard pronunciation",
+        "example": "新闻主播说的是标准音，菜场不是。",
+        "exampleEn": "Newsreaders speak the standard sound; the market does not."
+      },
+      {
+        "hanzi": "濒危",
+        "pinyin": "bīnwēi",
+        "pos": "形",
+        "en": "endangered",
+        "example": "有的方言已经进入濒危。",
+        "exampleEn": "Some dialects have already entered the endangered list."
+      },
+      {
+        "hanzi": "腔调",
+        "pinyin": "qiāngdiào",
+        "pos": "名",
+        "en": "intonation / lilt",
+        "example": "腔调改了，人好像也换了一个。",
+        "exampleEn": "Change the lilt, and the person seems changed too."
+      },
+      {
+        "hanzi": "家乡话",
+        "pinyin": "jiāxiānghuà",
+        "pos": "名",
+        "en": "hometown speech",
+        "example": "家乡话不会，回去像做客。",
+        "exampleEn": "Without the hometown tongue, going home feels like being a guest."
+      },
+      {
+        "hanzi": "语码转换",
+        "pinyin": "yǔmǎ zhuǎnhuàn",
+        "pos": "名",
+        "en": "code-switching",
+        "example": "一顿饭里语码转换好几次，是双语者的日常。",
+        "exampleEn": "Switching codes several times in one meal is a bilingual person’s ordinary day."
+      },
+      {
+        "hanzi": "口音羞耻",
+        "pinyin": "kǒuyīn xiūchǐ",
+        "pos": "名",
+        "en": "accent shame",
+        "example": "口音羞耻让人在学校里把舌头管住。",
+        "exampleEn": "Accent-shame makes a person hold the tongue at school."
+      }
+    ]
+  },
+  {
+    "slug": "fushi",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "两条交领长袍，一人偏月白，一人偏暖黄或浅褐",
+        "en": "Two crossed-collar robes, one moon-white, one warm yellow or pale brown"
+      },
+      {
+        "zh": "宽袖几乎垂到膝，走路时袖口自己会摆",
+        "en": "Wide sleeves almost to the knee; the cuffs swing by themselves as they walk"
+      },
+      {
+        "zh": "园林木廊、柱子、石板地面，光线从廊外的树缝进来",
+        "en": "A wooden garden corridor, pillars, stone flags; light comes through trees beyond the colonnade"
+      },
+      {
+        "zh": "没有双肩包，没有耳机，步子比日常上班慢",
+        "en": "No backpack, no earphones; the step is slower than a weekday commute"
+      },
+      {
+        "zh": "腰带或裙摆的层次能看见，说明衣服不是T恤改的",
+        "en": "Sash or skirt layers are visible: this is not a T-shirt altered"
+      },
+      {
+        "zh": "两人并肩，像专门来把这身衣服走完一段路",
+        "en": "Two people side by side, as if they came only to walk this cloth a certain distance"
+      },
+      {
+        "zh": "远处亭或漏窗，布景很「可拍照」",
+        "en": "A pavilion or lattice window in the distance; the set is made to be photographed"
+      },
+      {
+        "zh": "镜头在，生活不在——这更像一次被预约的身份",
+        "en": "The lens is here, daily life is not: this looks more like an identity with an appointment"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "园林廊道里，两条交领长袍并肩走。一个偏月白，一个偏暖黄，宽袖几乎垂到膝，石板和柱子把人衬得很慢。没有双肩包，没有耳机。远处有亭，光线从树缝进来，布景很适合拍照。这张图漂亮，也诚实：它更像一次被预约的身份，而不像上班路上的衣服。你要先报交领和袖，再问一句——离开镜头以后，这些布还留下什么。",
+        "en": "In a garden corridor, two crossed-collar robes walk side by side. One leans moon-white, one warm yellow; wide sleeves almost to the knee; stone flags and pillars make the people look slow. No backpack, no earphones. A pavilion in the distance, light through the trees, a set made for photographs. The picture is beautiful, and honest: it looks more like an identity with an appointment than like clothes on the way to work. Name the collar and the sleeve first, then ask — after the lens leaves, what do these cloths still leave behind?"
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "汉服在年轻人里重新流行，不是因为日常都要穿交领长袍，而是因为衣服能让人「看起来像自己想象中的中国」。旗袍则把身体曲线和民国城市记忆缝在一起。少数民族服饰——苗银、藏袍、维吾尔花帽——提醒我们：中国不是一种样子。老师原笔记写成 55＋1：汉族加上五十五个少数民族，合称五十六个民族。它到底在解决谁的问题？解决的是「我要怎样被看见是中国的、又是哪一种中国的」——用布料、银饰和领口，把抽象的认同做成可以出门的一层皮。",
+        "en": "Hanfu’s return among the young is not about wearing a crossed collar every day. Clothes let a person look like the China they imagine. The qipao sews a body’s line to Republican-era city memory. Minority dress — Miao silver, Tibetan robes, Uyghur flower caps — reminds us China is not one look. The teacher’s old notes write 55 + 1: the Han plus fifty-five minorities, called fifty-six peoples. Whose problem does it solve? How I am to be seen as Chinese, and as which kind of Chinese — cloth, silver and a collar making an abstract belonging into a skin you can walk out in."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "周末租一套汉服进古镇，是最常见的过法：店家帮你梳头、租配件，按小时计费，照片比衣服先发出去。旗袍更多出现在婚礼、演出和酒店门厅。民族服饰在节庆、旅游点和春晚舞台上被集中展示，日常街道上并不平均。谁付钱，谁就决定这身衣服是戏还是生活——游客买的是成片，绣娘卖的是工时。规则是：镜头前要完整，镜头后可以立刻换回运动鞋。校服、西装、球衣和汉服，其实都在做同一件事：宣布我今天属于谁。",
+        "en": "The commonest way is to rent a set of hanfu into an old town on a weekend: the shop dresses your hair, rents the pieces, charges by the hour; the photograph leaves before the clothes do. Qipao appears more at weddings, on stage, in hotel lobbies. Minority dress is shown in concentration at festivals, tourist sites and the Spring Festival Gala; it is not even on ordinary streets. Whoever pays decides whether the garment is a play or a life — the tourist buys a finished shot, the embroiderer sells hours. The rule: complete in front of the lens; trainers back on the moment the lens leaves. School uniform, suit, team kit and hanfu are doing the same work: announcing who I belong to today."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：穿上那一层领和袖，走路都会换节奏，几个小时里可以合法地不像日常的自己，自信有了一件可穿的外壳。家庭：婚礼和节日用衣服把世代接上，奶奶的开衩和孙女的马面裙可以出现在同一张合影里。社会：工艺被重新看见，绣、染、银饰从柜子里走到街道；五十六个民族的衣裳如果被认真对待，就能提醒国家叙事不要只剩一种领口。衣服是软的，可它能把「我属于谁」说得很硬。",
+        "en": "For the person: once the collar and sleeve are on, even the walk changes pace; for a few hours you may legally not resemble your weekday self; confidence has a shell you can wear. For the family: weddings and feast days join generations with cloth; a grandmother’s slit skirt and a granddaughter’s horse-face skirt can stand in one photograph. For society: craft is seen again — embroidery, dye, silver walk from a cupboard onto the street; if the dress of fifty-six peoples is taken seriously, it can remind a national story not to keep only one collar. Cloth is soft. It can say “who I belong to” very hard."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：租衣拍照把文化收成滤镜，景区一条街全是同一款「网红汉服」，绣线是机绣，故事是复制粘贴。结构：汉服热如果只放大汉族想象，55＋1 里那五十五种衣裳就变成点缀；原住民的节日盛装被搬上舞台，设计权却不一定在他们手里。被排除的是穿不起、租不起、以及「你穿这个是不是太戏」的人——入场券是钱，也是胆量。消费符号和自信可以同时成立，但只成立在镜头里，就还不算成立。",
+        "en": "In daily life: renting for a photo packs culture into a filter; a whole tourist street wears the same “influencer hanfu”; the thread is machine-made, the story is copy-paste. In structure: if the hanfu craze only enlarges a Han imagination, the other fifty-five garments in 55 + 1 become garnish; indigenous festival dress is carried onto a stage, and the right to design it may not sit in their hands. Shut out: those who cannot afford to wear or to rent, and those told “isn’t that a bit theatrical?” — the ticket in is money, and nerve. A consumer sign and confidence can both be true; if they are only true in front of the lens, they are not yet true."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "汉服复兴内部也有争论：形制派要考据交领右衽，旅游派只要好看。旗袍被写成女性曲线的时候，常把劳动的身体藏起来。校服作为日常制服，其实比汉服更能代表中国学生的身份；球衣和潮牌是另一套民族志，年轻人用它们加入全球集体。非遗工坊靠订单活，网红店靠周转活，两种「传统」的时间完全不同。性别也在场：男穿汉服、女穿甲，会比女穿裙、男穿袍收获更多目光，衣服在考谁更有权穿越。",
+        "en": "Inside the hanfu revival there is also a quarrel: the form school wants the crossed collar and the right lapel documented; the tourist school wants it to look good. When the qipao is written as a woman’s curve, a labouring body is often hidden. As daily uniform, the school outfit represents a Chinese student more than hanfu does; team kits and street brands are another ethnography, a way for the young to join a global collective. Heritage workshops live on orders; influencer shops live on turnover — two “traditions,” two clocks. Gender is in the room: a man in hanfu, a woman in armour, gathers more eyes than a woman in a skirt or a man in a robe. Cloth is examining who has more right to cross time."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙有 traje de flamenca、fallera、巴斯克的 txapela：不是天天穿，可一穿就在说「我从哪场节日里来」。南欧的节日盛装和中国的租汉服，都是把认同做成几小时的可见。更通用的锚是苏格兰裙、和服、印度纱丽——日常可退，仪式必须在。衣服塑造的是「我今天愿意被认成谁」，更衣室比护照更诚实。我的立场——拍照可以，滤镜不够；尊重工艺和 55＋1 的差别，比再发一张廊道合影更像文化自信。",
+        "en": "Spain has the traje de flamenca, the fallera, the Basque txapela: not worn every day, but once on they say “which feast I come from.” Southern European festival dress and Chinese rented hanfu both make belonging visible for a few hours. A wider anchor is the kilt, the kimono, the sari — daily life may step back; the rite must stay. Clothes shape “who I am willing to be taken for today”; a changing room is more honest than a passport. My position: photographs are allowed; a filter is not enough. Respect for craft and for the difference inside 55 + 1 looks more like cultural confidence than one more corridor photograph."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "交领、宽袖、木廊、没有包；点出这是被预约的身份，不像上班的衣服。",
+        "en": "Crossed collar, wide sleeves, wooden corridor, no bag; an identity with an appointment, not weekday clothes."
+      },
+      {
+        "time": "0:40",
+        "zh": "汉服、旗袍；55＋1。衣服让人被看见是哪一种中国。",
+        "en": "Hanfu, qipao; 55 + 1. Clothes make visible which China you are."
+      },
+      {
+        "time": "1:20",
+        "zh": "租衣打卡；婚礼旗袍；镜头后换运动鞋。谁付钱，谁决定是戏还是生活。",
+        "en": "Rent and check-in; wedding qipao; trainers after the lens. Whoever pays decides play or life."
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：换节奏；世代合影；工艺被看见。",
+        "en": "Three goods: a change of pace; generations in one frame; craft seen again."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：滤镜化；汉服热若只剩一种领口。入场券是钱，也是胆量。",
+        "en": "Two troubles: packed into a filter; a craze that leaves only one collar. The ticket is money, and nerve."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较 flamenca 和 fallera。立场：拍照可以，滤镜不够；更衣室比护照诚实。",
+        "en": "Compare flamenca and fallera. Position: photos yes, filter not enough; the changing room is more honest than a passport."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述这两身衣服：交领、袖子、他们走在哪里？",
+        "en": "Describe these two garments: collar, sleeves, where are they walking?"
+      },
+      {
+        "zh": "离开镜头以后，这身汉服还留下什么：工艺、知识，还是一张滤镜？",
+        "en": "After the lens leaves, what remains of this hanfu: craft, knowledge, or a filter?"
+      },
+      {
+        "zh": "校服、西装、汉服、球衣，哪一件最能代表你现在的身份？",
+        "en": "School uniform, suit, hanfu, team kit — which best represents who you are now?"
+      },
+      {
+        "zh": "为什么年轻人愿意花钱租汉服拍照？",
+        "en": "Why are young people willing to rent hanfu for photographs?"
+      },
+      {
+        "zh": "比较 flamenca 或 fallera 和汉服：都不是天天穿，一穿却在说「我从哪来」。",
+        "en": "Compare flamenca or fallera with hanfu: not daily wear, yet once on they say where you come from."
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "离开镜头以后，这身汉服还留下什么：工艺、知识，还是一张滤镜？",
+        "en": "After the camera, what does the hanfu leave: craft, knowledge, or a filter?"
+      },
+      {
+        "zh": "校服、西装、汉服、球衣，哪一件最能代表你现在的身份？",
+        "en": "Which garment most represents your present identity: uniform, suit, hanfu, or a jersey?"
+      },
+      {
+        "zh": "55＋1 里，如果舞台上只反复出现一种衣裳，被省略的是谁？",
+        "en": "In 55 + 1, if a stage keeps repeating one garment, who is being omitted?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "汉服",
+        "pinyin": "hànfú",
+        "pos": "名",
+        "en": "Han clothing",
+        "example": "很多年轻人周末会穿汉服去古镇。",
+        "exampleEn": "Many young people wear hanfu to old towns on weekends."
+      },
+      {
+        "hanzi": "旗袍",
+        "pinyin": "qípáo",
+        "pos": "名",
+        "en": "qipao / cheongsam",
+        "example": "旗袍常在正式场合出现。",
+        "exampleEn": "The qipao often appears on formal occasions."
+      },
+      {
+        "hanzi": "民族",
+        "pinyin": "mínzú",
+        "pos": "名",
+        "en": "ethnic group / nation",
+        "example": "中国有五十六个民族。",
+        "exampleEn": "China has fifty-six ethnic groups."
+      },
+      {
+        "hanzi": "传统",
+        "pinyin": "chuántǒng",
+        "pos": "名/形",
+        "en": "tradition / traditional",
+        "example": "传统不一定等于过时。",
+        "exampleEn": "Traditional is not the same as outdated."
+      },
+      {
+        "hanzi": "工艺",
+        "pinyin": "gōngyì",
+        "pos": "名",
+        "en": "craft / workmanship",
+        "example": "刺绣是一种需要时间的工艺。",
+        "exampleEn": "Embroidery is a craft that takes time."
+      },
+      {
+        "hanzi": "自信",
+        "pinyin": "zìxìn",
+        "pos": "名/形",
+        "en": "self-confidence / confident",
+        "example": "穿自己喜欢的衣服是一种自信。",
+        "exampleEn": "Wearing what you like is a kind of confidence."
+      },
+      {
+        "hanzi": "象征",
+        "pinyin": "xiàngzhēng",
+        "pos": "动",
+        "en": "to symbolise",
+        "example": "红色在婚礼上象征喜庆。",
+        "exampleEn": "Red at a wedding symbolises joy."
+      },
+      {
+        "hanzi": "日常",
+        "pinyin": "rìcháng",
+        "pos": "名/形",
+        "en": "everyday / daily",
+        "example": "这件衣服不适合日常上班。",
+        "exampleEn": "This garment is not for everyday office wear."
+      },
+      {
+        "hanzi": "交领",
+        "pinyin": "jiāolǐng",
+        "pos": "名",
+        "en": "crossed collar",
+        "example": "交领一穿，步子就会自己慢下来。",
+        "exampleEn": "Once the crossed collar is on, the step slows by itself."
+      },
+      {
+        "hanzi": "右衽",
+        "pinyin": "yòurèn",
+        "pos": "名",
+        "en": "left-over-right lapel",
+        "example": "形制派会先看是不是右衽。",
+        "exampleEn": "The form school looks first at whether the lapel is left-over-right."
+      },
+      {
+        "hanzi": "马面裙",
+        "pinyin": "mǎmiànqún",
+        "pos": "名",
+        "en": "horse-face pleated skirt",
+        "example": "马面裙是汉服里最容易上街的一件。",
+        "exampleEn": "The horse-face skirt is the hanfu piece most willing to go into the street."
+      },
+      {
+        "hanzi": "盘扣",
+        "pinyin": "pánkòu",
+        "pos": "名",
+        "en": "frog button on a qipao",
+        "example": "旗袍的盘扣比开衩更先说明这是礼服。",
+        "exampleEn": "The frog buttons on a qipao say “formal” before the slit does."
+      },
+      {
+        "hanzi": "苗银",
+        "pinyin": "Miáoyín",
+        "pos": "名",
+        "en": "Miao silver jewellery",
+        "example": "苗银不是装饰那么简单，是一整套身份。",
+        "exampleEn": "Miao silver is not merely decoration; it is a whole identity."
+      },
+      {
+        "hanzi": "藏袍",
+        "pinyin": "zàngpáo",
+        "pos": "名",
+        "en": "Tibetan robe",
+        "example": "藏袍提醒我们中国不是一种领口。",
+        "exampleEn": "A Tibetan robe reminds us China is not one collar."
+      },
+      {
+        "hanzi": "租借",
+        "pinyin": "zūjiè",
+        "pos": "动",
+        "en": "to rent (a costume)",
+        "example": "很多古镇的汉服是按小时租借的。",
+        "exampleEn": "In many old towns hanfu is rented by the hour."
+      },
+      {
+        "hanzi": "打卡",
+        "pinyin": "dǎkǎ",
+        "pos": "动",
+        "en": "to check in / photo-spot",
+        "example": "打卡结束，衣服就还回去了。",
+        "exampleEn": "Once the check-in shot is done, the clothes go back."
+      }
+    ]
+  },
+  {
+    "slug": "long-de-chuanren",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "汉白玉石阶，台阶一级一级往上",
+        "en": "White marble steps, rising one by one"
+      },
+      {
+        "zh": "浮雕龙纹贴着石面：须、鳞、爪都还在",
+        "en": "A carved dragon still on the stone: whiskers, scales, claws all there"
+      },
+      {
+        "zh": "龙身顺着台阶爬，不喷火，是盘着往上走",
+        "en": "The body climbs the steps; it does not breathe fire; it coils upward"
+      },
+      {
+        "zh": "栏杆上有云纹，像给龙留的天空",
+        "en": "Cloud patterns on the balustrade, like a sky left for the dragon"
+      },
+      {
+        "zh": "石面被无数鞋底磨出包浆，亮的地方是人走过的",
+        "en": "The stone is polished by countless soles; the bright places are where people have walked"
+      },
+      {
+        "zh": "远处可能有红墙或黄瓦的一角，宫殿被缩成一块颜色",
+        "en": "A corner of red wall or yellow tile in the distance; the palace shrunk to a block of colour"
+      },
+      {
+        "zh": "游客的脚如果出现，也只占边角——主体是龙，不是人",
+        "en": "If a tourist’s foot appears, it takes only a corner: the subject is the dragon, not the person"
+      },
+      {
+        "zh": "镜头仰拍，人要抬头：归属在这里先被做成一种高度",
+        "en": "The lens looks up; a person must lift the head: belonging here is first made into a height"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "汉白玉台阶一级一级往上，浮雕的龙贴着石面：须、鳞、爪都还在，身子盘着爬，不喷火。栏杆上是云纹。石面被鞋底磨亮的地方，是人走过的包浆。远处一角红墙或黄瓦。游客的脚只占边角，主体是龙。这张图要人抬头。归属在这里先被做成一种高度：你不是在看一只动物，是在被一条故事线接住。你要是把它说成西方那种恶龙，后面的四分钟会整段走错。",
+        "en": "White marble steps rise one by one; a carved dragon still holds the stone: whiskers, scales, claws, the body coiling upward, no fire. Clouds on the balustrade. Where soles have polished the stone, that is the patina of people walking. A corner of red wall or yellow tile far off. A tourist’s foot takes only the edge; the subject is the dragon. The picture asks you to look up. Belonging here is first made into a height: you are not looking at an animal; you are being caught by a storyline. If you call it the West’s villain-dragon, the next four minutes will walk the whole way wrong."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "「龙的传人」「炎黄子孙」把个人接到一条很长的故事线上。龙在中国不是西方那种喷火的恶兽，而是雨水、皇帝和民族想象的符号。唱这首歌、过春节、看故宫的龙纹，都在练习同一种归属。它到底在解决谁的问题？解决的是「人散得太远、历史太长，需要一个可呼叫的我们」——用一个谁都认得的形象，把护照不同、口音不同的人暂时叫到同一条河里。它是诗，也是一种集体称呼。",
+        "en": "“Descendants of the dragon” and “children of Yan and Huang” plug a person into a very long story. The Chinese dragon is not the West’s fire-breathing beast; it is rain, emperors, and a nation’s imagining. Singing the song, keeping Spring Festival, reading dragon patterns in the Forbidden City — all rehearse the same belonging. Whose problem does it solve? People scattered too far, history too long, needing a “we” you can call — one image everyone knows, summoning people of different passports and accents for a while into the same river. It is a poem. It is also a collective name."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "小学里会唱《龙的传人》；春节的舞龙把龙做成可以跟着走的身体；故宫、玉玺、龙舟、生肖龙年，把同一条形象印在不同的日子里。海外华校、春节巡游、唐人街的牌楼，让这首歌在异乡比在国内更像根。谁来解释这条龙，谁就有权定义「我们」：官方叙事、旅游文案、家庭故事，三种声音不一定一样。钱流向门票、纪念品和晚会；规则是：你可以不信传说，但很难在过年时完全躲开这条形象。",
+        "en": "Primary schools sing “Descendants of the Dragon.” The New Year dragon dance makes the dragon a body you can walk with. The Forbidden City, the imperial seal, the dragon boat, a dragon year in the zodiac — the same image stamped on different days. Overseas Chinese schools, New Year parades, the arch of a Chinatown, make the song feel more like a root far from home than it does inside the country. Whoever explains this dragon has the right to define “we”: official story, tourist copy, family tale — three voices that need not agree. Money flows to tickets, souvenirs, galas. The rule: you may not believe the legend; it is hard, at New Year, to dodge the image entirely."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：在国外听到熟悉的旋律或看见龙纹，身体会先认出来，孤独被暂时接住，自己也敢说「我从一条很长的线里来」。家庭：过年和祭祖用同一套符号，孩子不必先读完历史，就能加入一句「我们是……」。社会：集体称呼能把巨大的人群快速动员进同一情感，外交、体育、救灾里都听得见这股力。根如果只是诗，它仍然有用——人需要一句比身份证更老的话来站稳。",
+        "en": "For the person: abroad, a familiar melody or a dragon pattern is recognised first by the body; loneliness is caught for a moment, and you dare say “I come from a very long line.” For the family: New Year and ancestor rites share one set of signs; a child need not finish the history book before joining the sentence “we are…” For society: a collective name can move a huge crowd quickly into one feeling; diplomacy, sport, disaster relief all hear this force. If a root is only a poem, it is still of use — a person needs a sentence older than an ID card in order to stand."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：口号太熟，容易变成不用想的合唱，差异还没出口就被「我们都是龙」盖住。结构：炎黄子孙主要以中原和汉族传说为根，用它覆盖 55＋1，会把地方身份、少数民族身份说得太简单；海外华人内部的方言、籍贯、政治立场，也会被一条龙抹平。被排除的是听了这歌却不觉得自己在里面的人——他们不是没有根，是根不在这条官方的河里。集体称呼很有力量，也需要小心。",
+        "en": "In daily life: a slogan too well known becomes a chorus you need not think; difference is covered by “we are all the dragon” before it can leave the mouth. In structure: “children of Yan and Huang” roots itself mainly in Central Plains and Han legend; spread over 55 + 1, it makes local and minority identities too simple; inside overseas Chinese communities, dialect, native place and politics can also be flattened by one dragon. Shut out: people who hear the song and do not feel themselves inside it. They are not without roots; the roots are not in this official river. A collective name is powerful. It also needs care."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "生肖里的龙和宫殿上的龙不是同一只，一个给人性格，一个给人权力。体育赛场上的龙被画成肌肉，旅游品上的龙被画成可爱；现当代艺术常把龙拆开、反讽、再缝，年轻人不见得反感，只是不想只有一种画法。「支流」这个比喻很有用：中华文化是大河，里面有很多条不是黄色的水。入籍、混血、跨国婚姻让「传人」变成可以选择的动词，而不只是出生证明上的名词；龙年的生育潮说明象征会进入人口，不只进入诗歌。",
+        "en": "The dragon in the zodiac and the dragon on a palace are not the same animal: one gives a person character, one gives power. On a sports field the dragon is drawn as muscle; on a souvenir it is drawn as cute. Contemporary art often takes the dragon apart, ironises, sews it again; the young are not necessarily against it — they only do not want one way of drawing. “Tributary” is a useful image: Chinese culture is a great river, and inside it run many waters that are not yellow. Naturalisation, mixed blood, transnational marriage turn “descendant” into a verb you can choose, not only a noun on a birth certificate. A dragon-year birth wave shows that a symbol enters population, not only poetry."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙有 hispanidad、天主教符号、圣地亚哥的贝壳：一种把分散的人接到长故事上的称呼，能给人根，也能把巴斯克、加泰罗尼亚、拉丁美洲说得太整。南欧懂这种又暖又险的「我们」。更通用的锚是任何国族神话——高卢雄鸡、约翰牛、星条旗下的我们。龙的传人塑造的是「我被一条比寿命更长的线叫住」，你是谁，有一部分要回答「我接不接这首歌」。我的立场——龙可以不是恶龙，称呼也不该变成唯一的根；更成熟的说法是：大河里有很多支流，人可以同时站在几条水里。",
+        "en": "Spain has hispanidad, Catholic signs, the shell of Santiago: a name that plugs scattered people into a long story, able to give a root, and able to make Basque, Catalan, Latin America too whole. Southern Europe knows this “we” that is both warm and dangerous. A wider anchor is any national myth — the Gallic cock, John Bull, we under the Stars and Stripes. “Descendants of the dragon” shapes “I am called by a line longer than a lifespan”; part of who you are is whether you take up this song. My position: the dragon need not be a villain, and the name should not become the only root. A more grown sentence: a great river has many tributaries, and a person may stand in several waters at once."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "石阶、龙纹、往上爬、包浆；点明它不是喷火的恶兽。",
+        "en": "Stone steps, dragon pattern, climbing, patina; this is not a fire-breathing villain."
+      },
+      {
+        "time": "0:40",
+        "zh": "龙的传人、炎黄子孙：诗，也是集体称呼。解决的是可呼叫的「我们」。",
+        "en": "Descendants of the dragon, children of Yan and Huang: a poem, and a collective name. A “we” you can call."
+      },
+      {
+        "time": "1:20",
+        "zh": "唱歌、舞龙、故宫、唐人街；谁解释这条龙，谁就定义「我们」。",
+        "en": "The song, the dance, the Forbidden City, Chinatown; whoever explains the dragon defines “we.”"
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：异乡被接住；孩子能加入；能动员。根如果只是诗，仍然有用。",
+        "en": "Three goods: caught far from home; a child can join; mobilisation. A root that is only a poem is still of use."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：口号盖住差异；55＋1 被说太简单。有人听了歌却不在这条河里。",
+        "en": "Two troubles: slogans cover difference; 55 + 1 made too simple. Some hear the song and are not in this river."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较 hispanidad 和圣地亚哥。立场：大河有支流；人可以同时站在几条水里。",
+        "en": "Compare hispanidad and Santiago. Position: a great river has tributaries; a person may stand in several waters."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述石阶上的龙：它在喷火吗？人要抬头看什么？",
+        "en": "Describe the dragon on the steps: is it breathing fire? What must a person look up at?"
+      },
+      {
+        "zh": "「龙」在中国文化和西方文化里有什么不同？",
+        "en": "How does the dragon differ in Chinese and Western cultures?"
+      },
+      {
+        "zh": "一个人可以同时拥有几种文化身份吗？",
+        "en": "Can a person hold several cultural identities at once?"
+      },
+      {
+        "zh": "出国以后，什么最让你想起自己的根？",
+        "en": "After going abroad, what most reminds you of your roots?"
+      },
+      {
+        "zh": "比较 hispanidad 和「龙的传人」：根是诗，还是一种覆盖？",
+        "en": "Compare hispanidad and “descendants of the dragon”: is a root a poem, or a covering?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "一个人可以同时拥有几种文化身份吗？龙的传人留给「同时」多少空间？",
+        "en": "Can a person hold several cultural identities at once? How much room does “descendant of the dragon” leave for “at once”?"
+      },
+      {
+        "zh": "如果你不是汉族，听到「炎黄子孙」会觉得被接住，还是被省略？",
+        "en": "If you are not Han, does “children of Yan and Huang” catch you, or omit you?"
+      },
+      {
+        "zh": "归属感是选择，还是出生就决定的？你用护照、语言、食物还是节日来证明？",
+        "en": "Is belonging chosen, or decided at birth? Do you prove it with a passport, a language, food, or a feast day?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "传人",
+        "pinyin": "chuánrén",
+        "pos": "名",
+        "en": "inheritor / descendant",
+        "example": "他们自称是龙的传人。",
+        "exampleEn": "They call themselves descendants of the dragon."
+      },
+      {
+        "hanzi": "祖先",
+        "pinyin": "zǔxiān",
+        "pos": "名",
+        "en": "ancestor",
+        "example": "清明节是纪念祖先的日子。",
+        "exampleEn": "Qingming is a day to remember ancestors."
+      },
+      {
+        "hanzi": "归属",
+        "pinyin": "guīshǔ",
+        "pos": "名/动",
+        "en": "belonging",
+        "example": "文化归属不一定等于国籍。",
+        "exampleEn": "Cultural belonging is not always the same as nationality."
+      },
+      {
+        "hanzi": "象征",
+        "pinyin": "xiàngzhēng",
+        "pos": "名",
+        "en": "symbol",
+        "example": "龙是中华文化的重要象征。",
+        "exampleEn": "The dragon is an important symbol of Chinese culture."
+      },
+      {
+        "hanzi": "根",
+        "pinyin": "gēn",
+        "pos": "名",
+        "en": "roots",
+        "example": "很多人回老家是为了寻找根。",
+        "exampleEn": "Many people return to their hometown to find their roots."
+      },
+      {
+        "hanzi": "民族",
+        "pinyin": "mínzú",
+        "pos": "名",
+        "en": "nation / people",
+        "example": "文化认同可以是民族的，也可以是地方的。",
+        "exampleEn": "Identity can be national or local."
+      },
+      {
+        "hanzi": "传说",
+        "pinyin": "chuánshuō",
+        "pos": "名",
+        "en": "legend",
+        "example": "炎黄的故事属于远古传说。",
+        "exampleEn": "The story of Yan and Huang belongs to ancient legend."
+      },
+      {
+        "hanzi": "认同",
+        "pinyin": "rèntóng",
+        "pos": "动/名",
+        "en": "to identify with / identity",
+        "example": "文化认同需要时间培养。",
+        "exampleEn": "Cultural identification takes time to grow."
+      },
+      {
+        "hanzi": "炎黄子孙",
+        "pinyin": "Yán Huáng zǐsūn",
+        "pos": "名",
+        "en": "descendants of Yan and Huang",
+        "example": "炎黄子孙是诗，也是一种很强的称呼。",
+        "exampleEn": "“Children of Yan and Huang” is a poem, and also a very strong name."
+      },
+      {
+        "hanzi": "图腾",
+        "pinyin": "túténg",
+        "pos": "名",
+        "en": "totem",
+        "example": "龙在这里更像图腾，不像动物园的动物。",
+        "exampleEn": "The dragon here is more a totem than an animal in a zoo."
+      },
+      {
+        "hanzi": "龙纹",
+        "pinyin": "lóngwén",
+        "pos": "名",
+        "en": "dragon motif",
+        "example": "石阶上的龙纹要人抬头。",
+        "exampleEn": "The dragon pattern on the steps asks a person to look up."
+      },
+      {
+        "hanzi": "华裔",
+        "pinyin": "Huáyì",
+        "pos": "名",
+        "en": "person of Chinese descent",
+        "example": "华裔在异乡听到这首歌，会先身体认出来。",
+        "exampleEn": "A person of Chinese descent, far from home, recognises this song first with the body."
+      },
+      {
+        "hanzi": "支流",
+        "pinyin": "zhīliú",
+        "pos": "名",
+        "en": "tributary",
+        "example": "更成熟的说法是：大河里有很多支流。",
+        "exampleEn": "A more grown sentence: a great river has many tributaries."
+      },
+      {
+        "hanzi": "血脉",
+        "pinyin": "xuèmài",
+        "pos": "名",
+        "en": "bloodline (metaphorical)",
+        "example": "血脉听起来硬，生活里根常常是语言和食物。",
+        "exampleEn": "Bloodline sounds hard; in life a root is often language and food."
+      },
+      {
+        "hanzi": "海外华人",
+        "pinyin": "hǎiwài Huárén",
+        "pos": "名",
+        "en": "overseas Chinese",
+        "example": "海外华人内部的根，并不只有一条。",
+        "exampleEn": "Inside overseas Chinese communities, the root is not only one."
+      },
+      {
+        "hanzi": "舞龙",
+        "pinyin": "wǔlóng",
+        "pos": "动/名",
+        "en": "dragon dance",
+        "example": "舞龙把一条传说做成可以跟着走的身体。",
+        "exampleEn": "The dragon dance makes a legend into a body you can walk with."
+      }
+    ]
+  },
+  {
+    "slug": "zhongyi-shenti",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "老中医低头，三指按在患者腕上（寸、关、尺）",
+        "en": "An old doctor looks down, three fingers on the patient’s wrist (cun, guan, chi)"
+      },
+      {
+        "zh": "患者把一只手安静地递出去，袖口被挽起",
+        "en": "The patient holds out one hand, quiet, the cuff rolled back"
+      },
+      {
+        "zh": "身后一墙木抽屉药柜，每个小格有手写药名",
+        "en": "A wall of wooden drawers behind, each small cell with a handwritten herb name"
+      },
+      {
+        "zh": "柜上可能有药秤、瓷瓶或一摞纸",
+        "en": "On the cabinet perhaps a herb scale, porcelain jars, or a stack of paper"
+      },
+      {
+        "zh": "诊桌上的处方纸，字是竖的或草的，不像打印单",
+        "en": "A prescription on the desk, characters vertical or cursive, not a printout"
+      },
+      {
+        "zh": "房间光线偏暗，只有桌边一盏灯，时间被按慢了",
+        "en": "The room is rather dark, one lamp at the desk; time has been pressed slower"
+      },
+      {
+        "zh": "看不见针和火罐，可药柜已经在预告苦和热",
+        "en": "No needle or cup in sight, yet the cabinet already announces bitterness and heat"
+      },
+      {
+        "zh": "没有屏幕、没有血压计抢镜——先被读的是脉，不是数字",
+        "en": "No screen, no blood-pressure cuff stealing the shot: what is read first is the pulse, not a number"
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "老中医低头，三指按在腕上。患者把袖口挽起，手很安静。身后是一墙木抽屉，小格上写着药名。桌边一盏灯，处方纸不像打印单。看不见针，也看不见火罐，可药柜已经在预告苦和热。没有屏幕抢镜，先被读的是脉，不是数字。这张图的节奏是慢的。你要是只说「这是医生」，还没碰到它和修机器有什么不一样——它更像在看一碗天气。",
+        "en": "An old doctor looks down, three fingers on a wrist. The patient has rolled the cuff; the hand is quiet. Behind them a wall of wooden drawers, herb names on the small cells. One lamp at the desk; the prescription does not look like a printout. No needle in sight, no cupping jar, yet the cabinet already announces bitterness and heat. No screen steals the shot; what is read first is the pulse, not a number. The rhythm of this picture is slow. If you only say “this is a doctor,” you have not yet touched how it differs from repairing a machine — it is more like reading a bowl of weather."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "中医看身体，不像修机器，更像看天气：寒热、虚实、气顺不顺。针灸、拔罐、喝热水、喝苦药，对一些人是科学，对一些人是信仰，对更多人是习惯——从小被要求「别喝冰的」。药食同源的想法是：日常吃什么，就是在慢慢治或慢慢伤。它到底在解决谁的问题？解决的是「人还没坏到要开刀，可已经不舒服」——用饮食、热和针，把身体从故障模式里拉回可调的状态。身体在这里不是零件，是要配合的气候。",
+        "en": "Chinese medicine reads the body less like a machine than like weather: cold and heat, deficiency and excess, whether qi runs smooth. Acupuncture, cupping, hot water, bitter herbs are science to some, belief to others, and habit to more — “don’t drink ice,” learned young. Food and medicine share a source: what you eat every day is slowly healing or slowly harming. Whose problem does it solve? The person not yet broken enough for a knife, already uncomfortable — diet, heat and needle drawing the body back from fault-mode into a state you can tune. The body here is not a spare part. It is a climate you cooperate with."
+      },
+      {
+        "key": "how",
+        "title": "谁在过、怎么过",
+        "titleEn": "Who, and how",
+        "zh": "大医院查血、做手术；家里仍会用红糖姜茶发汗，喉咙痛就说「上火」，夏天不让小孩猛灌冰饮。诊所里把脉、开汤药，药方要自己回去熬，苦是仪式的一部分。拔罐留下的圆印会在社交网络上被展示，有人当疗效，有人当文化观光。年轻人进中医馆，有的调睡眠，有的只是被家人按来。钱花在草药、疗程和「养」这个字上；规则是：急病去西医，慢的、虚的、说不清的，才进入调理。双轨是当代中国的日常，不是口号。",
+        "en": "Large hospitals draw blood and operate; at home brown-sugar ginger tea still raises a sweat, a sore throat is “internal heat,” children in summer are not allowed to gulp ice. In the clinic the pulse is read, a decoction prescribed; you boil it yourself, and bitterness is part of the rite. The round marks of cupping are shown on social media — efficacy to some, cultural tourism to others. Young people enter a Chinese-medicine hall to tune sleep, or because the family pressed them. Money is spent on herbs, courses, and the character “nourish.” The rule: acute illness to biomedicine; the slow, the deficient, the hard to name, enter regulation. Two tracks are contemporary China’s ordinary day, not a slogan."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：被当成整碗天气来看，而不是一个坏掉的零件，焦虑会先降一档，热水和热汤给人一种「我还可以自己做点什么」的掌控。家庭：姜茶、红糖、不喝冰的，是奶奶那一代的语言，病还没确诊，关心已经出门。社会：药食同源让菜市场和药房之间的墙变薄，节气、饮食、睡眠被写成公共的养生话语，医院不够用的时候，家庭先把人稳住。安慰也是一种治疗，只要你不把它假装成所有病的答案。",
+        "en": "For the person: being read as a whole bowl of weather, not a broken part, drops anxiety a notch; hot water and hot soup give a sense that “I can still do something myself.” For the family: ginger tea, brown sugar, no ice — that is the grandmother generation’s language; the illness is not yet diagnosed, and care has already left the house. For society: food and medicine sharing a source thins the wall between market and pharmacy; solar terms, diet, sleep are written as public health-preserving talk; when hospitals are not enough, the family steadies a person first. Comfort is also a treatment, so long as you do not pretend it is the answer to every illness."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：「多喝热水」变成一句被开玩笑的口头禅，真正的不适被一句习惯打发；苦药、拔罐的印、长时间熬药，消耗的是时间和耐心。结构：把中医说成全对或全错都太粗；该用证据的地方如果只用文化挡箭，会耽误能被现代医学治好的病。被排除的是只信一种系统的人——拒绝中医的人在家里被说叛逆，拒绝检查的人把经验当成了盾。IB 更需要的能力是：区分安慰、经验和文化，同时承认现代医学的边界。",
+        "en": "In daily life: “drink more hot water” becomes a catchphrase people joke about, and a real discomfort is dismissed with a habit; bitter decoctions, cupping marks, long hours of boiling spend time and patience. In structure: calling Chinese medicine all true or all false is crude; if culture is used as a shield where evidence is needed, an illness modern medicine could treat is delayed. Shut out: people who trust only one system — those who refuse Chinese medicine are called rebellious at home; those who refuse tests treat experience as a shield. What IB needs is the capacity to separate comfort, experience and culture, and still admit the edge of modern medicine."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "气功、太极、城市公园里的养生是身体观的公共版。中药出海和「传统医学」进世卫文件，让辩论从家里吵到国际。女性的经期、坐月子、不能洗头，是性别化的身体规定，有人觉得被保护，有人觉得被关住。「上火」没有一一对应的西医名词，却能组织一整套饮食禁忌。疫情之后，家庭药箱里的连花清瘟和布洛芬可能并排放，双轨写进抽屉。国际学生最常碰到的不是理论，是室友说「你别喝冰的」——文化从一杯水开始。",
+        "en": "Qigong, tai chi, health-preserving in a city park are the public edition of a view of the body. Chinese herbs going overseas, “traditional medicine” entering WHO papers, take the quarrel from the house onto the international stage. A woman’s period, sitting the month, not washing the hair: gendered body rules — protection to some, a locked room to others. “Internal heat” has no one-to-one biomedical name, and still organises a whole set of food taboos. After the epidemic, Lianhua Qingwen and ibuprofen may sit side by side in the family box; two tracks written into a drawer. What international students meet first is not theory. It is a roommate saying “don’t drink ice.” Culture begins with a glass of water."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙家里也有 abuela 的热汤、草药茶、药房柜台的建议：不是中医，却是同一层「先用厨房，再去医院」。南欧的 siesta、少冰、饭后散步，和「身体要配合，不要硬来」很近。更通用的锚是任何传统医学对现代医院的补充——印度阿育吠陀、地中海饮食、祖母的土方。身体观就是身份观——你觉得人应该控制身体，还是配合身体，会决定你是一个怎样的「我」。我的立场——热水可以喝，检查也要做；药食同源是聪明的日常，不是所有病的终点。针、罐、热水，都可以留下，只要它们不挡住该去的那家医院。",
+        "en": "Spanish homes also have an abuela’s hot soup, herbal tea, advice from the pharmacy counter: not Chinese medicine, yet the same layer — kitchen first, hospital second. Southern Europe’s siesta, less ice, a walk after meals, sit close to “cooperate with the body, don’t force it.” A wider anchor is any traditional medicine beside the modern hospital — Ayurveda, the Mediterranean diet, a grandmother’s home remedy. A view of the body is a view of the self: whether you think a person should control the body or cooperate with it decides what kind of “I” you are. My position: hot water may be drunk, and tests should still be done. Food and medicine sharing a source is intelligent daily life, not the end of every illness. Needle, cup, hot water may all stay, so long as they do not block the hospital you ought to enter."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00",
+        "zh": "三指把脉、药柜、暗灯、没有屏幕；点出这不像修机器，更像看天气。",
+        "en": "Three fingers on the pulse, herb cabinet, dim lamp, no screen; not repairing a machine — reading weather."
+      },
+      {
+        "time": "0:40",
+        "zh": "寒热虚实；药食同源；拔罐针灸喝热水。解决的是还没坏到开刀、已经不舒服。",
+        "en": "Cold and heat, deficiency and excess; food and medicine share a source; cupping, needle, hot water. Not yet for a knife, already uncomfortable."
+      },
+      {
+        "time": "1:20",
+        "zh": "姜茶发汗；急病西医，慢的调理；双轨是日常，不是口号。",
+        "en": "Ginger tea to raise a sweat; acute illness to biomedicine, the slow to regulation; two tracks are ordinary, not a slogan."
+      },
+      {
+        "time": "2:10",
+        "zh": "三层好处：不被当成零件；奶奶的语言；家庭先稳住。安慰也是治疗。",
+        "en": "Three goods: not treated as a spare part; a grandmother’s language; the family steadies first. Comfort is also treatment."
+      },
+      {
+        "time": "2:50",
+        "zh": "两层问题：热水打发不适；该检查时用文化挡箭。要区分安慰、经验和文化。",
+        "en": "Two troubles: hot water dismissing discomfort; culture as a shield where a test is needed. Separate comfort, experience, culture."
+      },
+      {
+        "time": "3:30",
+        "zh": "比较 abuela 的汤和地中海饮食。立场：热水可以，检查也要；不挡住该去的医院。",
+        "en": "Compare an abuela’s soup and the Mediterranean diet. Position: hot water yes, tests also; do not block the hospital you should enter."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述这间诊室：三根手指按在哪里？背后是什么柜子？",
+        "en": "Describe this consulting room: where are the three fingers? What cabinet stands behind?"
+      },
+      {
+        "zh": "你生病时更相信医院，还是家里的土办法？",
+        "en": "When you are ill, do you trust the hospital or home remedies more?"
+      },
+      {
+        "zh": "「多喝热水」为什么会变成一句玩笑？",
+        "en": "Why did “drink more hot water” become a joke?"
+      },
+      {
+        "zh": "身体观如何塑造「我是谁」：你该控制身体，还是配合身体？",
+        "en": "How does a view of the body shape who you are: should you control the body, or cooperate with it?"
+      },
+      {
+        "zh": "比较 abuela 的热汤和姜茶：都是先用厨房，再去医院吗？",
+        "en": "Compare an abuela’s hot soup and ginger tea: kitchen first, hospital second?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "你生病时更相信医院，还是家里的土办法？这两种信任各保护了什么？",
+        "en": "When ill, do you trust the hospital or home remedies more? What does each trust protect?"
+      },
+      {
+        "zh": "「上火」如果找不到西医名词，它还算一种真的不舒服吗？",
+        "en": "If “internal heat” has no biomedical name, is it still a real discomfort?"
+      },
+      {
+        "zh": "身体观如何塑造「我是谁」：你是该控制身体的人，还是该配合身体的人？",
+        "en": "How does a view of the body shape “who I am”: are you someone who should control the body, or cooperate with it?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "中医",
+        "pinyin": "zhōngyī",
+        "pos": "名",
+        "en": "Chinese medicine",
+        "example": "她去看中医调理睡眠。",
+        "exampleEn": "She saw a Chinese-medicine doctor about sleep."
+      },
+      {
+        "hanzi": "针灸",
+        "pinyin": "zhēnjiǔ",
+        "pos": "名",
+        "en": "acupuncture",
+        "example": "针灸被一些人用来缓解疼痛。",
+        "exampleEn": "Some people use acupuncture for pain."
+      },
+      {
+        "hanzi": "调理",
+        "pinyin": "tiáolǐ",
+        "pos": "动",
+        "en": "to regulate / nurse back",
+        "example": "冬天适合用食物调理身体。",
+        "exampleEn": "Winter is a time to regulate the body with food."
+      },
+      {
+        "hanzi": "上火",
+        "pinyin": "shànghuǒ",
+        "pos": "动",
+        "en": "to suffer internal heat",
+        "example": "他嘴角起泡，说自己上火了。",
+        "exampleEn": "He got a mouth ulcer and said he had internal heat."
+      },
+      {
+        "hanzi": "草药",
+        "pinyin": "cǎoyào",
+        "pos": "名",
+        "en": "herbal medicine",
+        "example": "这碗汤药很苦，但她还是喝完了。",
+        "exampleEn": "The herbal decoction was bitter, but she finished it."
+      },
+      {
+        "hanzi": "养生",
+        "pinyin": "yǎngshēng",
+        "pos": "动",
+        "en": "to preserve health",
+        "example": "养生在年轻人里也越来越流行。",
+        "exampleEn": "Health-preserving habits are fashionable among the young too."
+      },
+      {
+        "hanzi": "安慰",
+        "pinyin": "ānwèi",
+        "pos": "动/名",
+        "en": "to comfort / comfort",
+        "example": "有时热汤的作用首先是安慰。",
+        "exampleEn": "Sometimes a hot soup comforts before it cures."
+      },
+      {
+        "hanzi": "科学",
+        "pinyin": "kēxué",
+        "pos": "名/形",
+        "en": "science / scientific",
+        "example": "我们需要用科学方法检验传统疗法。",
+        "exampleEn": "Traditional therapies need scientific testing."
+      },
+      {
+        "hanzi": "药食同源",
+        "pinyin": "yào shí tóng yuán",
+        "pos": "习",
+        "en": "food and medicine share a source",
+        "example": "药食同源的意思是：日常那口饭也在治或伤。",
+        "exampleEn": "Food and medicine sharing a source means the daily mouthful is also healing or harming."
+      },
+      {
+        "hanzi": "拔罐",
+        "pinyin": "báguàn",
+        "pos": "动/名",
+        "en": "cupping",
+        "example": "拔罐留下的圆印，有人当疗效，有人当照片。",
+        "exampleEn": "The round marks of cupping are efficacy to some, a photograph to others."
+      },
+      {
+        "hanzi": "把脉",
+        "pinyin": "bǎmài",
+        "pos": "动",
+        "en": "to read the pulse",
+        "example": "把脉看的是寸关尺，不是手表上的心跳数。",
+        "exampleEn": "Reading the pulse looks at cun, guan and chi, not the number on a watch."
+      },
+      {
+        "hanzi": "寒热",
+        "pinyin": "hánrè",
+        "pos": "名",
+        "en": "cold and heat (as patterns)",
+        "example": "中医先问你是寒还是热，不像先问炎症。",
+        "exampleEn": "Chinese medicine asks first whether you are cold or hot, not first about inflammation."
+      },
+      {
+        "hanzi": "姜茶",
+        "pinyin": "jiāngchá",
+        "pos": "名",
+        "en": "ginger tea",
+        "example": "感冒第一晚，家里先上的往往是姜茶。",
+        "exampleEn": "On the first night of a cold, what the house brings first is often ginger tea."
+      },
+      {
+        "hanzi": "汤药",
+        "pinyin": "tāngyào",
+        "pos": "名",
+        "en": "herbal decoction",
+        "example": "汤药的苦是仪式的一部分。",
+        "exampleEn": "The bitterness of a decoction is part of the rite."
+      },
+      {
+        "hanzi": "坐月子",
+        "pinyin": "zuò yuèzi",
+        "pos": "习",
+        "en": "postpartum confinement",
+        "example": "坐月子把性别和身体观绑在同一张床上。",
+        "exampleEn": "Sitting the month binds gender and a view of the body to the same bed."
+      },
+      {
+        "hanzi": "双轨",
+        "pinyin": "shuāngguǐ",
+        "pos": "名",
+        "en": "dual track (TCM + biomedicine)",
+        "example": "当代中国看病常常是双轨，不是二选一。",
+        "exampleEn": "Seeking care in contemporary China is often two tracks, not either-or."
+      }
+    ]
+  }
+]

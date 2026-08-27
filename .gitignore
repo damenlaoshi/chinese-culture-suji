@@ -1,0 +1,35 @@
+# deps & build
+node_modules/
+.tanstack/
+.vercel/
+.output/
+.nitro/
+dist/
+*.local
+
+# logs & env
+*.log
+.env
+.env.*
+!.env.example
+
+# sandbox / teacher-private (never publish)
+.grok/
+AGENTS.md
+AGENTS.project.md
+.project_id
+.node_modules.lock
+screenshots/
+artifacts/
+attachments/
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# test output
+playwright-report/
+test-results/
+/tmp/

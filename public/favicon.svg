@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="10" fill="#9c2b24"/>
+  <rect x="8" y="8" width="84" height="84" rx="6" fill="none" stroke="#faf6ef" stroke-width="2"/>
+  <text x="50" y="62" font-size="54" text-anchor="middle" fill="#faf6ef" font-family="Noto Serif SC, Songti SC, serif" font-weight="600">速</text>
+</svg>

@@ -1,0 +1,2019 @@
+[
+  {
+    "slug": "laji",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "四只市政分类桶并排，蓝、绿、红、黄（或棕、黑），盖上印着不同类别。",
+        "en": "Four municipal bins stand in a row — blue, green, red, yellow (or brown, black) — lids stamped with different categories."
+      },
+      {
+        "zh": "桶立在人行道外侧、路牙和绿化带之间，像新的街道家具。",
+        "en": "They sit on the outer pavement, between kerb and greenery, like new street furniture."
+      },
+      {
+        "zh": "投放口形状不同：有的圆、有的方，有的加锁，告诉手不要随手掀开。",
+        "en": "The openings differ — round, square, some locked — telling the hand not to flip a lid at random."
+      },
+      {
+        "zh": "画面里几乎没有正在扔垃圾的人——规则留在路上，人已经走开。",
+        "en": "Almost no one is throwing anything away: the rule stays on the street; the people have already left."
+      },
+      {
+        "zh": "旁边常有盲道或切过的地砖，桶一挪，无障碍就被挡住。",
+        "en": "A tactile strip or cut paving often runs beside them; shift a bin, and access is blocked."
+      },
+      {
+        "zh": "桶身有图标、箭头，有时还有二维码或积分说明。",
+        "en": "Icons, arrows, sometimes a QR code or points scheme are printed on the body."
+      },
+      {
+        "zh": "天色往往普通、偏阴，不是「美丽中国」海报，是工作日的街道。",
+        "en": "The sky is ordinary, a little grey — not a Beautiful China poster, a weekday street."
+      },
+      {
+        "zh": "远处可能有电动车、外卖箱、刚拆的纸箱，暗示分类真正的敌人是包装。",
+        "en": "In the distance: e-bikes, delivery boxes, a freshly torn carton — sorting’s real enemy is packaging."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "人行道上四只市政桶并排：蓝、绿、红、黄，盖上印着可回收、湿垃圾、有害、其他。上海把最后一格叫「干垃圾」，口试先说颜色，再说这四个名字。桶立在路牙和冬青之间，盲道从旁边切过去。画面里几乎没有人。分类最中国的瞬间，不是大家围着扔，是规则被留在路上、人已经走开。阴天、地砖、桶身图标，是不美但比雕塑更管事的街道家具。",
+        "en": "Four municipal bins stand on the pavement — blue, green, red, yellow — lids marked recyclable, wet, hazardous, other. Shanghai calls the last slot “dry waste”; in the oral, name the colours first, then the four Shanghai names. The bins sit between kerb and privet; a tactile strip cuts past. Almost no one is in the frame. The most Chinese moment of sorting is not a crowd around a bin: the rule is left on the street, and people have already walked off. Grey sky, paving, icons on the body — unlovely street furniture that governs more than a sculpture."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "上海等地把生活垃圾分成可回收、有害、湿垃圾、干垃圾。一开始有人抱怨、有人发笑话，后来它变成一种新的日常纪律。它解决的不是发环保奖状，是把个人的手接到公共系统：环卫车按类来，填埋场少吃混合的湿，河少喝渗滤液。四个名字是接口。三十秒的选择，决定下游是人、是土、还是水。共享地球在这里很具体——不是爱地球的心情，是扔对的那一下。",
+        "en": "Shanghai and other cities split household waste into recyclable, hazardous, wet and dry. People complained and joked; then it became a new daily discipline. It is not awarding green medals. It plugs a private hand into a public system: trucks come by type, landfills swallow less mixed wet waste, rivers drink less leachate. The four names are sockets. A thirty-second choice decides whether the downstream cost falls on people, soil or water. Sharing the planet is concrete here — not a feeling for the earth, but the throw that lands in the right bin."
+      },
+      {
+        "key": "how",
+        "title": "谁在分、怎么扔",
+        "titleEn": "Who sorts, and how",
+        "zh": "谁盯着？社区志愿者、物业，有的街道请督导在桶边拆袋。湿垃圾要控水、去塑料袋；奶茶杯要把盖、杯、茶渣分开；电池和灯管走有害，不能混进干垃圾图省事。钱和规则：特制垃圾袋、定时投放、积分换日用品，或罚款。合租往往只有一个桶，最难练。学校食堂用大桶演示，比标语有用。口语里演示一次：先控水，再分杯，再盖盖。动作能救命。",
+        "en": "Who watches? Volunteers, property staff; some streets hire inspectors to open bags at the bin. Wet waste must be drained and debagged; a milk-tea cup splits into lid, cup and dregs; batteries and tubes go hazardous, not into dry waste for ease. Money and rules: special bags, timed drop-off, points for soap, or a fine. Shared flats often have one bin — hardest to practise. A canteen’s big bins teach more than a slogan. In the oral, demonstrate once: drain, split the cup, close the lid. An action can save the exam."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：厨房多三十秒，手知道什么是湿、什么是干，少把电池扔进普通袋。家庭：分类变成公共课，晚饭后那一趟是全家唯一同时对着公共规则的时刻。社会：市政能按类处理，湿的去堆肥，干的少占地；更要紧的是公民训练——自己的扔会变成别人的河、别人的班次、别人的填埋场。桶值得，因为它把「我」接到「下游」。",
+        "en": "Person: thirty extra seconds in the kitchen, and the hand knows wet from dry, and stops dropping a battery into the ordinary bag. Family: sorting becomes a public lesson; that after-dinner trip is the only moment the whole household faces the same civic rule. Society: the city can treat by type — wet to compost, dry taking less land. More important is the civic drill: your throw becomes someone else’s river, shift, landfill. The bins are worth it because they plug “I” into “downstream”."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：合租共用一个桶，谁都不想洗湿垃圾；下雨袋子破，督导当场拆袋让人难堪；外卖盒带油，四个桶很累。结构：前端包装不改，后端分类只是把生产的外部成本翻译成居民义务。暴雨把没盖严的桶冲进管网，气候把垃圾立刻变成水问题。被排除的是没有独立厨房的人、赶不上定时投放的人，以及住在焚烧厂下风口的人。账不能只记在居民身上。",
+        "en": "Everyday: one shared bin in a flat, and no one wants to rinse wet waste; rain splits bags; an inspector opening yours in public is humiliation; oily takeaway boxes exhaust the four bins. Structure: if packaging upstream does not change, sorting only translates a producer’s external cost into a resident’s duty. A storm washes poorly lidded bins into the drains — climate turns waste into water at once. Left out: people with no kitchen of their own, night-shift workers who miss timed drop-off, those living downwind of an incinerator. The bill cannot sit only on residents."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "督导的马甲和喇叭是新职业；租房者的桶在楼道里争夺位置；学校食堂的大桶比家庭更诚实，因为量大、藏不住。快递纸箱让可回收看起来很成功，胶带和泡沫却仍在。台风和暴雨把下水道变成临时河，分类成果一夜清零。填埋场的渗滤液、冲洗湿垃圾的水，最后都要问同一条河。临场选一条：督导、合租、暴雨，或河。",
+        "en": "The inspector’s vest and megaphone are a new job. Tenants fight for bin space in the stairwell. A school canteen’s vats are more honest than a household, because volume cannot hide. Parcel cartons make recycling look like a win; tape and foam remain. A typhoon turns the drain into a temporary river and wipes a night of sorting clean. Landfill leachate and the water used to rinse wet waste all ask the same river. In the exam, pick one side: inspector, shared flat, storm, or the river."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙城市常见四色系统：黄桶装包装，蓝桶装纸，绿桶装玻璃，灰或棕装剩余；大件、废油、电器去「干净点」。对应物不是「他们也有垃圾桶」，是同一套把生活接到市政的公民练习。谁在和地球共处？扔的人、收的人、住在填埋场下风口的人，还有被包装喂肥的河流。代价记在环卫工时、郊区土地和下游水质上，很少记在外卖广告里。四个桶值得练，工厂和平台要先少造。",
+        "en": "Spanish cities often run four colours: yellow for packaging (envases), blue for paper, green for glass, grey or brown for the rest; bulky waste, oil and appliances go to a punto limpio. The counterpart is not “they have bins too”, but the same civic drill that plugs daily life into the municipality. Who is sharing the planet? Those who throw, those who collect, those downwind of the landfill, and rivers fattened on packaging. The cost is booked to sanitation hours, suburban land and downstream water — rarely to a takeaway ad. The four bins are worth practising; factories and platforms should make less first."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "四色桶、路牙、没人、阴天；「规则被漆在路上」。",
+        "en": "Four-colour bins, kerb, no people, grey sky; “the rule is painted onto the street.”"
+      },
+      {
+        "time": "0:30–0:50",
+        "zh": "上海四分类四个名字；个人扔接到市政；纪律，不是奖状。",
+        "en": "Shanghai’s four names; a private throw plugs into the city; discipline, not a medal."
+      },
+      {
+        "time": "0:50–1:30",
+        "zh": "督导拆袋；湿垃圾控水；演示拆奶茶；积分或罚款。",
+        "en": "Inspector opens bags; drain wet waste; show splitting a milk-tea cup; points or a fine."
+      },
+      {
+        "time": "1:30–2:15",
+        "zh": "厨房三十秒／全家公共课／为下游、为河。",
+        "en": "Thirty kitchen seconds / a family civic lesson / for the downstream, for the river."
+      },
+      {
+        "time": "2:15–3:00",
+        "zh": "合租一个桶；包装不停产；暴雨冲进下水道。",
+        "en": "One shared bin; packaging still produced; a storm washes it into the drain."
+      },
+      {
+        "time": "3:00–4:00",
+        "zh": "西班牙四色桶加干净点；谁在共处＝手接到系统；桶值得，账要记到工厂。",
+        "en": "Spanish colours plus punto limpio; sharing = the hand meets the system; bins worth it, bill the factory."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "描述人行道上的四个桶。颜色、盖、人在不在？",
+        "en": "Describe the four bins on the pavement. Colours, lids, is anyone there?"
+      },
+      {
+        "zh": "垃圾分类麻烦吗？值不值得？",
+        "en": "Is waste sorting a bother? Is it worth it?"
+      },
+      {
+        "zh": "如果四个桶都满了，责任在消费者，还是在超市和外卖？",
+        "en": "If all four bins are full, is the duty on consumers, or on shops and delivery?"
+      },
+      {
+        "zh": "比较上海四分类和西班牙的四色桶、干净点。",
+        "en": "Compare Shanghai’s four categories with Spain’s coloured bins and the punto limpio."
+      },
+      {
+        "zh": "合租只有一个桶，你怎么练垃圾分类？",
+        "en": "If a shared flat has only one bin, how do you practise sorting?"
+      },
+      {
+        "zh": "暴雨把垃圾冲进河里，这还算垃圾题，还是水的题？",
+        "en": "If a storm washes waste into the river, is this still a waste question, or a water one?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "如果四个桶都满了，责任在消费者，还是在超市和外卖？",
+        "en": "If all four bins overflow, does the duty sit with consumers, or with shops and delivery apps?"
+      },
+      {
+        "zh": "暴雨把垃圾冲进河里，这还算「垃圾分类」题，还是水的题？",
+        "en": "When a storm washes rubbish into the river, is this still “waste sorting”, or a water question?"
+      },
+      {
+        "zh": "西班牙的干净点和上海的有害垃圾桶，哪一个更难坚持？",
+        "en": "Which is harder to keep up: Spain’s punto limpio, or Shanghai’s hazardous bin?"
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "垃圾分类",
+        "pinyin": "lājī fēnlèi",
+        "pos": "名",
+        "en": "waste sorting",
+        "example": "上海的垃圾分类把生活接到市政系统。",
+        "exampleEn": "Shanghai’s waste sorting plugs daily life into the municipal system."
+      },
+      {
+        "hanzi": "可回收",
+        "pinyin": "kě huíshōu",
+        "pos": "形",
+        "en": "recyclable",
+        "example": "纸箱是可回收，胶带最好撕掉。",
+        "exampleEn": "Cartons are recyclable; tear the tape off if you can."
+      },
+      {
+        "hanzi": "湿垃圾",
+        "pinyin": "shī lājī",
+        "pos": "名",
+        "en": "food / wet waste",
+        "example": "湿垃圾要控水，不能连袋扔。",
+        "exampleEn": "Wet waste must be drained; do not throw the bag with it."
+      },
+      {
+        "hanzi": "干垃圾",
+        "pinyin": "gān lājī",
+        "pos": "名",
+        "en": "residual / dry waste",
+        "example": "上海把剩余的叫干垃圾。",
+        "exampleEn": "Shanghai calls what is left “dry waste”."
+      },
+      {
+        "hanzi": "有害",
+        "pinyin": "yǒuhài",
+        "pos": "形",
+        "en": "hazardous",
+        "example": "电池是有害垃圾，不能进普通袋。",
+        "exampleEn": "Batteries are hazardous waste; they do not go in the ordinary bag."
+      },
+      {
+        "hanzi": "包装",
+        "pinyin": "bāozhuāng",
+        "pos": "名",
+        "en": "packaging",
+        "example": "前端包装不改，后端四个桶会很累。",
+        "exampleEn": "If packaging upstream does not change, the four bins downstream tire out."
+      },
+      {
+        "hanzi": "浪费",
+        "pinyin": "làngfèi",
+        "pos": "动/名",
+        "en": "waste / to waste",
+        "example": "分类不能掩盖过度包装的浪费。",
+        "exampleEn": "Sorting cannot hide the waste of over-packaging."
+      },
+      {
+        "hanzi": "责任",
+        "pinyin": "zérèn",
+        "pos": "名",
+        "en": "responsibility",
+        "example": "责任不该只在居民，也在生产。",
+        "exampleEn": "Duty should not sit only on residents; production shares it."
+      },
+      {
+        "hanzi": "环保",
+        "pinyin": "huánbǎo",
+        "pos": "名/形",
+        "en": "environmental protection",
+        "example": "环保口试最怕空话，要有动作。",
+        "exampleEn": "An environmental oral dies from empty talk; it needs an action."
+      },
+      {
+        "hanzi": "可持续",
+        "pinyin": "kěchíxù",
+        "pos": "形",
+        "en": "sustainable",
+        "example": "可持续要问整条链，不只问桶。",
+        "exampleEn": "Sustainable means asking about the whole chain, not only the bin."
+      },
+      {
+        "hanzi": "习惯",
+        "pinyin": "xíguàn",
+        "pos": "名",
+        "en": "habit",
+        "example": "新规则变成习惯需要时间，也需要一个独立的桶。",
+        "exampleEn": "A new rule takes time to become habit — and it needs a bin of your own."
+      },
+      {
+        "hanzi": "督导",
+        "pinyin": "dūdǎo",
+        "pos": "名",
+        "en": "inspector / supervisor",
+        "example": "有的街道请督导在桶边拆袋。",
+        "exampleEn": "Some streets hire inspectors to open bags at the bin."
+      },
+      {
+        "hanzi": "填埋",
+        "pinyin": "tiánmái",
+        "pos": "动/名",
+        "en": "to landfill / landfill",
+        "example": "分类是为了让填埋场少吃一堆混合的湿。",
+        "exampleEn": "Sorting is so the landfill swallows less mixed wet waste."
+      },
+      {
+        "hanzi": "投放",
+        "pinyin": "tóufàng",
+        "pos": "动",
+        "en": "to drop off / put in",
+        "example": "赶不上定时投放的人，等于被规则排除。",
+        "exampleEn": "People who miss timed drop-off are written out of the rule."
+      },
+      {
+        "hanzi": "渗滤液",
+        "pinyin": "shènlǜyè",
+        "pos": "名",
+        "en": "leachate",
+        "example": "河少喝渗滤液，才是分类真正接到的下游。",
+        "exampleEn": "A river that drinks less leachate is the downstream sorting actually reaches."
+      },
+      {
+        "hanzi": "下游",
+        "pinyin": "xiàyóu",
+        "pos": "名",
+        "en": "downstream",
+        "example": "三十秒的选择，决定下游是人、是土、还是水。",
+        "exampleEn": "A thirty-second choice decides whether the downstream cost is people, soil or water."
+      }
+    ]
+  },
+  {
+    "slug": "gongxiang",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一排橙黄色共享单车，车筐朝前，像临时围栏。",
+        "en": "A row of orange-yellow shared bikes, baskets facing forward, like a temporary fence."
+      },
+      {
+        "zh": "车把上的手机支架，说明这车被设计成「边骑边看导航」。",
+        "en": "A phone mount on the handlebar: the bike is designed for riding while watching a map."
+      },
+      {
+        "zh": "车身或车锁上有二维码，使用的第一动作是扫，不是借钥匙。",
+        "en": "A QR code on the frame or lock: the first act is a scan, not borrowing a key."
+      },
+      {
+        "zh": "车停在人行道边缘，和汽车、行人抢同一条边。",
+        "en": "They sit on the pavement edge, fighting cars and walkers for the same strip."
+      },
+      {
+        "zh": "行道树和树池被车筐顶住，根和盲道都可能被挡。",
+        "en": "Baskets shove against tree pits; roots and tactile paving may both be blocked."
+      },
+      {
+        "zh": "画面里往往没有骑车的人——车在等人扫，也在等人乱停。",
+        "en": "Often no rider is in the picture — bikes waiting to be scanned, and waiting to be dumped."
+      },
+      {
+        "zh": "背后是马路和楼，这是城市中心的共享，不是乡村的共享。",
+        "en": "Road and towers behind: this is sharing in the city centre, not in a village."
+      },
+      {
+        "zh": "车筐里可能有广告、废弃奶茶杯，共享物自己也在收垃圾。",
+        "en": "A basket may hold an ad or a discarded cup — the shared object is collecting rubbish too."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "城市里最常见的共享，不是理念，是一排橙黄车筐。车把上架着手机，二维码贴在车锁上，人行道被骑成停车场。共享单车、共享汽车、共享充电宝，理论上减少闲置。画面里没有骑车的人，只有车在等人扫。车辆堆积、损坏、挡盲道，都要有人负责。共享地球在这里变成设计题：物品的寿命、维修、回收，以及谁有权把公共路面当成仓库。",
+        "en": "The most common sharing in a city is not an idea: it is a row of orange-yellow baskets. A phone sits on the bar, a QR code on the lock, the pavement ridden into a car park. Shared bikes, cars, power banks theoretically cut idle stock. No rider is in the frame, only bikes waiting to be scanned. Piles, breakage, blocked tactile paving — someone must answer. Sharing the planet becomes a design problem here: lifespan, repair, take-back, and who has the right to use the public pavement as a warehouse."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "共享经济把「拥有」改成「按分钟用」。它到底在解决谁的问题？可以说给买不起车、不想养车的人一段灵活的路；也可以说给平台一段被占用的人行道、一组用户数据和一笔押金。少买一些、多借一会儿，只有在车被修好、被停进线、被真正用到报废之前，才是绿色。如果只是换一种收费方式，绿色就是广告。伦理不在 App 的树叶图标，在车倒进河里之后谁下去捞。",
+        "en": "The sharing economy turns owning into paying by the minute. Whose problem does it solve? A flexible stretch of road for people who cannot or will not keep a car — or a strip of occupied pavement, a set of user data and a deposit for the platform. Borrowing more and buying less is green only if the bike is repaired, parked in the bay, and used until it is truly worn out. If it is only another way to charge, green is an advert. The ethics are not in the app’s leaf icon; they are in who wades in after a bike is thrown in the river."
+      },
+      {
+        "key": "how",
+        "title": "谁在用、谁来修",
+        "titleEn": "Who uses, who repairs",
+        "zh": "谁用：学生、上班族、游客，扫码、交押金或免押（看信用分）、按分钟计费、在电子围栏里关锁。谁修：平台调度工、路边维修点，有时根本没人修——单车坟场就是无人认领的金属山。车被扔到桥下、河里，常常是市政去捞，不是 App。共享充电宝更极端：电和数据归平台，坏了的宝被丢进普通垃圾桶。口语里举一种你用过的，讲方便，也讲浪费。",
+        "en": "Who uses: students, commuters, tourists — scan, pay a deposit or skip it on a credit score, pay by the minute, lock inside the e-fence. Who repairs: platform dispatchers, a roadside stall; sometimes no one — the “bike graveyards” were unclaimed metal hills. A bike under a bridge or in a river is often fished out by the city, not the app. Shared power banks are sharper: power and data belong to the platform; a dead bank goes in the ordinary bin. In the oral, name one you have used; talk convenience and waste."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：少买一辆闲置的车或一把用三次的伞，口袋和屋子都轻一点。家庭：一辆车被几个人错峰用，车库不必按「每人都有车」来设计。社会与地球：城市少一些停车位，生产端少一些闲置金属；如果调度和维修跟上，寿命被用满，共享才把「少消耗」做实。好处要分开说，不能用一句「方便又环保」糊过去——方便是用户的，环保只有在有人修的时候才成立。",
+        "en": "Person: one fewer idle car, one fewer umbrella used three times; pocket and room both lighten. Family: one car used in shifts, so a garage need not be designed as if everyone owned one. Society and earth: fewer parking bays, less idle metal at the factory; only if dispatch and repair keep up, and the lifespan is used up, does sharing make “use less” real. Split the goods. Do not paste “convenient and green” over them — convenience is the user’s; green holds only when someone repairs."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：乱停挡盲道，残障者和推车的人要绕；押金难退；车坏了找不到人；二维码被贴假的。结构：绿色广告把占路写成共享地球；数据归平台；乡村和城市边缘根本没有这些车，共享是中心城区的特权。被排除的是走盲道的人、没有智能手机的人。单车坟场证明：少生产一辆的理想，可以先多生产一百万辆再倒掉。没有维修的共享，是加速版的浪费。",
+        "en": "Everyday: illegal parking blocks the tactile strip, so wheelchair users and pushchairs detour; deposits stick; a broken bike has no owner; fake codes are pasted on. Structure: a green ad writes occupying the pavement as sharing the planet; data belongs to the platform; villages and the urban edge have none of these bikes — sharing is a privilege of the centre. Left out: people who use the tactile path, people without a smartphone. Bike graveyards prove the ideal of making one fewer can begin by making a million and dumping them. Sharing without repair is waste on fast-forward."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "信用分把礼貌写成准入：分低的人免不了押，共享变成新门槛。数据归谁，比车归谁更隐蔽。共享充电宝把「绿色」做成进店的机器，电是煤和电网来的，塑料壳用几次就进垃圾桶。汽车共享若总空驶去接下一单，碳排放不一定下降。代际：年轻人当它是基础设施，老人当它是挡路的铁。城乡：村里没有电子围栏，也没有人来调度。临场可转盲道、押金或「为什么只有城里才共享」。",
+        "en": "A credit score turns politeness into access: a low score still pays a deposit; sharing becomes a new threshold. Who owns the data is more hidden than who owns the bike. A shared power bank makes “green” into a machine in a shop; the electricity comes from coal and the grid; the plastic shell hits the bin after a few uses. If a shared car deadheads to the next rider, carbon may not fall. Generation: the young treat it as infrastructure; elders treat it as iron in the way. Village: no e-fence, no dispatcher. Pivot to the tactile path, the deposit, or why only the city shares."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "马德里的 BiciMAD、巴塞罗那的 Bicing 是有桩的公共车：车有固定的家，坏了有人收，占路被设计进系统。BlaBlaCar 把空座位共享，对应的是少开一辆空车，不是多造一堆车筐。更通用的锚是维修咖啡馆：共享的核心是寿命，不是扫码。谁在和地球共处？骑的人、被挡路的人、调度工、以及被提前报废的金属。代价记在人行道、市政打捞和填埋场上，很少记在平台的绿色广告里。没人修，就不是共享，是租赁版的浪费。",
+        "en": "Madrid’s BiciMAD and Barcelona’s Bicing are docked public bikes: each has a home, a broken one is collected, occupying the street is designed into the system. BlaBlaCar shares an empty seat — one fewer empty car, not a million extra baskets. A broader anchor is the repair café: sharing’s core is lifespan, not the scan. Who is sharing the planet? Riders, people blocked on the path, dispatchers, and metal retired too early. The cost is booked to the pavement, municipal salvage and the landfill — rarely to the platform’s green ad. Unrepaired, it is not sharing. It is rental-shaped waste."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "橙黄车筐、手机支架、二维码、盲道、和汽车抢边。",
+        "en": "Orange baskets, phone mount, QR, tactile strip, fighting cars for the edge."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "减少闲置；问：没车的人，还是要占路的平台。",
+        "en": "Cut idle stock; ask: people without a car, or a platform that wants the pavement?"
+      },
+      {
+        "time": "0:55–1:35",
+        "zh": "扫码计时；谁维修；单车坟场；举一种自己用过的。",
+        "en": "Scan and pay by the minute; who repairs; bike graveyards; name one you have used."
+      },
+      {
+        "time": "1:35–2:20",
+        "zh": "少买／错峰共用／少停车位；点到寿命和回收。",
+        "en": "Buy less / share in shifts / fewer bays; hit lifespan and take-back."
+      },
+      {
+        "time": "2:20–3:05",
+        "zh": "乱停挡盲道；绿色广告；乡村没有。",
+        "en": "Illegal parking blocks the strip; green ads; the village has none."
+      },
+      {
+        "time": "3:05–4:00",
+        "zh": "BiciMAD 或 BlaBlaCar，或维修咖啡馆；没人修就不是共享。",
+        "en": "BiciMAD or BlaBlaCar, or a repair café; unrepaired, it is not sharing."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "共享真的比拥有更环保吗？",
+        "en": "Is sharing really greener than owning?"
+      },
+      {
+        "zh": "车挡了盲道，该罚骑的人，还是公司？",
+        "en": "If a bike blocks the tactile path, fine the rider or the company?"
+      },
+      {
+        "zh": "你愿意和陌生人共享哪些东西，不愿意共享哪些？",
+        "en": "What would you share with a stranger, and what would you not?"
+      },
+      {
+        "zh": "比较中国的无桩单车和马德里有桩的 BiciMAD。",
+        "en": "Compare China’s dockless bikes with Madrid’s docked BiciMAD."
+      },
+      {
+        "zh": "共享充电宝算绿色吗？电和塑料壳最后去哪？",
+        "en": "Is a shared power bank green? Where do the electricity and the plastic shell end?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "共享真的比拥有更环保吗？要看寿命、维修、空驶和是否多造了一堆。",
+        "en": "Is sharing greener than owning? Look at lifespan, repair, empty miles, and whether a pile was made first."
+      },
+      {
+        "zh": "车挡了盲道，该罚骑的人，还是公司？日常摩擦和调度结构要分开记账。",
+        "en": "Bike on the tactile path: fine the rider or the firm? Everyday friction and dispatch are different books."
+      },
+      {
+        "zh": "你愿意和陌生人共享车，不愿意共享什么？说到数据、卫生、责任。",
+        "en": "You would share a bike with a stranger — what would you not share? Name data, hygiene, duty."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "共享",
+        "pinyin": "gòngxiǎng",
+        "pos": "动",
+        "en": "to share / sharing",
+        "example": "共享如果没人修，就只是换一种收费。",
+        "exampleEn": "If no one repairs, sharing is only another way to charge."
+      },
+      {
+        "hanzi": "闲置",
+        "pinyin": "xiánzhì",
+        "pos": "形/动",
+        "en": "idle / unused",
+        "example": "理论是减少闲置，现实可能先多生产。",
+        "exampleEn": "In theory it cuts idle stock; in practice it may first overproduce."
+      },
+      {
+        "hanzi": "资源",
+        "pinyin": "zīyuán",
+        "pos": "名",
+        "en": "resource",
+        "example": "路面也是公共资源，不是平台的仓库。",
+        "exampleEn": "The pavement is a public resource, not the platform’s warehouse."
+      },
+      {
+        "hanzi": "维修",
+        "pinyin": "wéixiū",
+        "pos": "动/名",
+        "en": "repair / maintenance",
+        "example": "没有维修的共享是加速浪费。",
+        "exampleEn": "Sharing without repair is waste on fast-forward."
+      },
+      {
+        "hanzi": "回收",
+        "pinyin": "huíshōu",
+        "pos": "动",
+        "en": "recycling / take-back",
+        "example": "电池和车架最后要问谁来回收。",
+        "exampleEn": "Ask who takes back the battery and the frame at the end."
+      },
+      {
+        "hanzi": "浪费",
+        "pinyin": "làngfèi",
+        "pos": "名",
+        "en": "waste",
+        "example": "单车坟场是看得见的浪费。",
+        "exampleEn": "A bike graveyard is waste you can see."
+      },
+      {
+        "hanzi": "公共",
+        "pinyin": "gōnggòng",
+        "pos": "形",
+        "en": "public",
+        "example": "人行道是公共的，不能被车筐私有化。",
+        "exampleEn": "The pavement is public; baskets cannot privatise it."
+      },
+      {
+        "hanzi": "可持续",
+        "pinyin": "kěchíxù",
+        "pos": "形",
+        "en": "sustainable",
+        "example": "可持续要看寿命，不看 App 上的树叶。",
+        "exampleEn": "Sustainable looks at lifespan, not the leaf on the app."
+      },
+      {
+        "hanzi": "押金",
+        "pinyin": "yājīn",
+        "pos": "名",
+        "en": "deposit",
+        "example": "押金难退，共享就变成扣人。",
+        "exampleEn": "If the deposit will not come back, sharing becomes a hold on people."
+      },
+      {
+        "hanzi": "调度",
+        "pinyin": "diàodù",
+        "pos": "动/名",
+        "en": "dispatch / redistribution",
+        "example": "车堆在一边，另一边没有，是调度失败。",
+        "exampleEn": "A pile here and none there is a dispatch failure."
+      },
+      {
+        "hanzi": "堆积",
+        "pinyin": "duījī",
+        "pos": "动",
+        "en": "to pile up",
+        "example": "车辆堆积把人行道变成仓库。",
+        "exampleEn": "Piled vehicles turn the pavement into a warehouse."
+      },
+      {
+        "hanzi": "乱停",
+        "pinyin": "luàntíng",
+        "pos": "动",
+        "en": "to park illegally / dump",
+        "example": "乱停挡盲道，残障者要绕路。",
+        "exampleEn": "Dumped bikes block the tactile path; wheelchair users must detour."
+      },
+      {
+        "hanzi": "盲道",
+        "pinyin": "mángdào",
+        "pos": "名",
+        "en": "tactile paving",
+        "example": "共享如果挡住盲道，绿色就是占路。",
+        "exampleEn": "If sharing blocks the tactile path, green is just occupying the street."
+      },
+      {
+        "hanzi": "平台",
+        "pinyin": "píngtái",
+        "pos": "名",
+        "en": "platform",
+        "example": "数据归平台，用户只「借用」自己的轨迹。",
+        "exampleEn": "Data belongs to the platform; users only “borrow” their own tracks."
+      },
+      {
+        "hanzi": "寿命",
+        "pinyin": "shòumìng",
+        "pos": "名",
+        "en": "lifespan",
+        "example": "共享的核心是寿命，不是扫码。",
+        "exampleEn": "The core of sharing is lifespan, not the scan."
+      },
+      {
+        "hanzi": "围栏",
+        "pinyin": "wéilán",
+        "pos": "名",
+        "en": "fence / e-fence",
+        "example": "村里没有电子围栏，也没有人来调度。",
+        "exampleEn": "The village has no e-fence, and no one comes to dispatch."
+      }
+    ]
+  },
+  {
+    "slug": "tianren",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "正中是月洞门：一圈白墙把外面切成圆，里面的园被门框成一幅画。",
+        "en": "Centre: a moon gate. A ring of white wall cuts the outside into a circle; the garden inside is framed as a painting."
+      },
+      {
+        "zh": "墙上有六角窗或漏窗，光和风被故意漏进来，不是密闭。",
+        "en": "A hexagonal or leak window lets light and wind in on purpose — not a seal."
+      },
+      {
+        "zh": "白墙、灰瓦、深色门洞，颜色少，让水和树出声。",
+        "en": "White wall, grey tile, a dark opening — few colours, so water and trees can speak."
+      },
+      {
+        "zh": "门内一池水，天光贴在水面上，园林先处理的是水，不是楼。",
+        "en": "A pond inside the gate, sky stuck to the surface: the garden treats water first, not the building."
+      },
+      {
+        "zh": "湖石或太湖石立在水边，石头当山用，是缩小的宇宙。",
+        "en": "Lake rock stands at the water’s edge; stone is used as mountain — a cosmos scaled down."
+      },
+      {
+        "zh": "柳、竹或松从墙边探出来，植物不是装饰，是层次。",
+        "en": "Willow, bamboo or pine leans from the wall: plants are layers, not decoration."
+      },
+      {
+        "zh": "远处有亭或廊，人被安排成「走着看」，不是「站着征服」。",
+        "en": "A pavilion or corridor in the distance: you are asked to walk and look, not stand and conquer."
+      },
+      {
+        "zh": "石板路和倒影说明：这是可以走进去的哲学，不是墙上的标语。",
+        "en": "Flagstones and reflections say this is a philosophy you can walk into, not a slogan on a wall."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "月洞门把园子切成一幅圆画：白墙、灰瓦、六角窗，门内是池、石、柳、亭。人走过去，先看见水，再看见自己的倒影。天人合一最中国的表达，不是论文，是这座可以走进去的小宇宙。阴阳讲消长，风水讲房屋、水、山的位置，园林把石头和水面布置成可走的宇宙。这些观念有迷信的外壳，也有「不要硬来」的智慧。口试先点名门、窗、水、石。",
+        "en": "A moon gate cuts the garden into a round painting: white wall, grey tile, hexagonal window; inside, pond, rock, willow, pavilion. You walk up and see water first, then your own reflection. The most Chinese expression of heaven-and-human-as-one is not an essay: it is this small cosmos you can enter. Yin-yang is wax and wane; fengshui places house, water, hill; the garden lays stone and pond into a walkable universe. There is a superstitious shell, and a wisdom that says do not force it. In the oral, name gate, window, water, stone first."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "天人合一是一种环境哲学：人不在自然对面，而在自然里面。它解决的是「人太急、地太被逼」——开发之前先问场地：水往哪流，风从哪来，夏天哪里有荫。用现代话说，它接近生态伦理：生活看节气，身体看寒热，建筑看朝向。IB 学生不必相信风水先生的罗盘，但可以借用它的提问——这座建筑尊重场地了吗？河还在不在？共享地球在这一站，不是口号「和谐」，是把人从征服者的位置请回门里。",
+        "en": "Heaven-and-human-as-one is an environmental philosophy: people are not opposite nature, they are inside it. It answers “humans too hurried, land too forced” — before you build, ask the site: where does water run, where does wind come, where is summer shade. In modern speech it is close to ecological ethics: live by the solar terms, treat the body as weather, face the building to the sun. IB students need not believe a fengshui master’s compass. They can borrow its question: does this building respect the site? Is the river still there? Sharing the planet here is not the slogan “harmony”. It is asking the conqueror back inside the gate."
+      },
+      {
+        "key": "how",
+        "title": "谁在建、水往哪流",
+        "titleEn": "Who builds, where the water goes",
+        "zh": "传统做法：房子尽量朝南，冬天纳阳，夏天靠廊和树挡晒；理水，让雨水有去处，而不是填了河再装泵；借景，把墙外的山和树「借」进院子。反例也很中国：「人定胜天」一度鼓励填湖、截弯；北方缺水城市靠远距离调水；空调代替朝向，玻璃代替檐。长江、黄河仍是国家的水账本，南水北调是工程版的「硬来」，海绵城市是工程版的「不要硬来」。口语里比较园林和现代大楼如何对待水。",
+        "en": "Traditional practice: face the house south, take winter sun, use corridor and tree against summer heat; manage water so rain has somewhere to go, instead of filling the river and then installing a pump; borrow scenery — pull the hill and tree beyond the wall into the yard. The counter-example is also Chinese: “man will conquer nature” once licensed filling lakes and cutting bends. Northern thirsty cities drink long-distance transfers; air-con replaces orientation, glass replaces the eave. The Yangtze and Yellow River remain the nation’s water ledger. South-to-North Water Diversion is engineered forcing; the sponge city is engineered “do not force it”. In the oral, compare how a garden and a glass tower treat water."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：身体被园子换了节奏，夏天少一场硬晒，走在廊里比走在玻璃幕墙下更像人。家庭：老屋的朝向和天井让潮、燥、风有一条路，几代人住在同一套「看天」的经验里。社会：如果城里还留得住河、树和渗水的地面，暴雨就不必全部变成灾难；风水里那句「水为财」也可以读成：水在，城才在。好处不是神秘，是少跟场地打仗。人在自然里面，代价会小一号。",
+        "en": "Person: the garden changes the body’s pace; one less hard blast of summer sun; walking a corridor feels more human than walking under a glass curtain wall. Family: the old house’s orientation and courtyard give damp, dry and wind a path; generations live inside the same experience of watching the sky. Society: if the city can still keep a river, trees and ground that soaks, a storm need not become a disaster. Fengshui’s “water is wealth” can also be read: while the water stays, the city stays. The good is not mystic. It is fighting the site less. Inside nature, the cost comes in a smaller size."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：风水容易变成房地产话术——「东边不能开门」「这个楼盘有气」，咨询费比树贵，迷信外壳盖住了本来可用的经验。结构：「人定胜天」改过河、填过湖，洪水和地面沉降把账送回来；缺水的城市继续增大，调水的终点很少问起点的人。园林本身也势利：能走进月洞门的，常常是有墙的人家。被排除的是住在河边却喝不到干净水的人。哲学若只服务房价，就不是共处。",
+        "en": "Everyday: fengshui slides into property talk — “don’t open a door on the east”, “this estate has qi” — the consultation costs more than a tree, and the superstitious shell covers experience that was usable. Structure: “man will conquer nature” straightened rivers and filled lakes; flood and subsidence send the bill back. Thirsty cities still grow; the receiving end of a transfer rarely asks the people at the source. Gardens themselves are snobbish: those who walk through the moon gate often live behind a wall. Left out: people who live by a river and cannot drink clean water. A philosophy that only serves house prices is not coexistence."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "水是这一站必须展开的面：长江的航运与保护、黄河的断流记忆、华北平原的地下水、南方城市的内涝，都比「阴阳」三个字更硬。海绵城市用渗水砖和蓄水塘翻译「理水」；别墅区的私家园林把「天人合一」做成围墙里的商品。节气、中医的寒热、建筑的檐，是同一套「不要硬来」的技术。气候极端化以后，风水里那些被嘲笑的朝向和排水，会突然变得很像工程学。",
+        "en": "Water is the face this station must open: Yangtze shipping and protection, the Yellow River’s memory of running dry, groundwater on the North China Plain, southern cities flooding from within — all harder than the three characters yin-yang. A sponge city translates “managing water” into permeable brick and holding ponds. A villa garden turns heaven-and-human-as-one into a commodity behind a wall. Solar terms, Chinese medicine’s hot and cold, the building’s eave: the same technique of not forcing it. After climate extremes, the orientation and drainage once mocked in fengshui suddenly look like engineering."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "安达卢西亚的庭院把水放在房子中间：喷泉降温、瓷砖反光，人在阴影里坐——这是南欧版的「人在自然里面」。阿尔罕布拉的水渠把山泉引进宫，和中国园林的理水是同一类智慧。更通用的锚是国家公园：把人从核心区请出去，也是一种共处。谁在和地球共处？走在月洞门里的人、下游喝水的人、被调走河水的起点村庄，还有河本身。代价记在被填的湖、被抽的地下水、以及夏天必须开到十八度的玻璃楼上。罗盘可以不信，提问要留下。",
+        "en": "An Andalusian patio puts water in the middle of the house: a fountain cools, tiles throw light, people sit in shade — a southern-European version of being inside nature. The Alhambra’s channels bring mountain water into the palace; that is the same family of wisdom as managing water in a Chinese garden. A broader anchor is the national park: asking people out of the core is also a way of sharing. Who is sharing the planet? Those walking through the moon gate, those drinking downstream, the source village whose river was diverted, and the river itself. The cost is booked to filled lakes, pumped groundwater, and glass towers that must be cooled to eighteen in summer. You need not believe the compass. Keep the question."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "月洞门、六角窗、白墙灰瓦、池石柳亭。",
+        "en": "Moon gate, hexagonal window, white wall, grey tile; pond, rock, willow, pavilion."
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "人在自然里面；迷信外壳加「不要硬来」。",
+        "en": "People inside nature; a superstitious shell plus “do not force it”."
+      },
+      {
+        "time": "0:55–1:40",
+        "zh": "朝南、理水、借景；反例：填河、空调、调水。",
+        "en": "Face south, manage water, borrow scenery; counter: filled rivers, air-con, transfers."
+      },
+      {
+        "time": "1:40–2:20",
+        "zh": "身体换节奏／老屋朝向／城里留河与荫。",
+        "en": "The body changes pace / the old house’s face / keep river and shade in the city."
+      },
+      {
+        "time": "2:20–3:00",
+        "zh": "风水话术；人定胜天的洪水账；园林势利。",
+        "en": "Fengshui as sales talk; the flood bill of conquering nature; gardens as snobbery."
+      },
+      {
+        "time": "3:00–4:00",
+        "zh": "安达卢西亚庭院或阿尔罕布拉的水；建可以，场地不能不存在。",
+        "en": "Andalusian patio or Alhambra water; you may build, the site may not be pretended away."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "「人定胜天」和「天人合一」，你更同意哪一句？",
+        "en": "Which do you agree with more: humans conquer nature, or heaven and human are one?"
+      },
+      {
+        "zh": "风水是迷信，还是一种环境经验？",
+        "en": "Is fengshui superstition, or environmental experience?"
+      },
+      {
+        "zh": "缺水的城市还搞喷泉和园林，算不算假的天人合一？",
+        "en": "Is a fountain in a water-scarce city a fake heaven-and-human-as-one?"
+      },
+      {
+        "zh": "比较苏州园林的理水和阿尔罕布拉的水渠。",
+        "en": "Compare water in a Suzhou garden with the channels of the Alhambra."
+      },
+      {
+        "zh": "一座现代玻璃楼尊重场地了吗？光、风、树、水呢？",
+        "en": "Does a modern glass tower respect the site — light, wind, trees, water?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "「人定胜天」和「天人合一」，你更同意哪一句？工程有时必要，但账单要算给下游和起点。",
+        "en": "Conquer nature, or heaven and human as one? Engineering is sometimes needed; the bill still goes to downstream and source."
+      },
+      {
+        "zh": "风水是迷信，还是一种环境经验？拆开外壳和提问：朝向、水、风是经验，房价话术是迷信。",
+        "en": "Fengshui: superstition or site experience? Split the shell from the question — orientation, water, wind are experience; house-price talk is superstition."
+      },
+      {
+        "zh": "缺水的城市还搞喷泉和园林，算不算假的天人合一？问水从哪来、蒸发给谁看。",
+        "en": "Fountains in a thirsty city: fake coexistence? Ask where the water comes from, and who the evaporation is for."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "天人合一",
+        "pinyin": "tiān rén hé yī",
+        "pos": "习语",
+        "en": "heaven and human as one",
+        "example": "天人合一是人在自然里面，不是对面。",
+        "exampleEn": "Heaven-and-human-as-one means people are inside nature, not opposite it."
+      },
+      {
+        "hanzi": "阴阳",
+        "pinyin": "yīnyáng",
+        "pos": "名",
+        "en": "yin and yang",
+        "example": "阴阳讲消长，不一定要迷信。",
+        "exampleEn": "Yin-yang is wax and wane; it need not be superstition."
+      },
+      {
+        "hanzi": "风水",
+        "pinyin": "fēngshuǐ",
+        "pos": "名",
+        "en": "feng shui",
+        "example": "风水有外壳，也有看场地的经验。",
+        "exampleEn": "Fengshui has a shell, and also the experience of reading a site."
+      },
+      {
+        "hanzi": "和谐",
+        "pinyin": "héxié",
+        "pos": "形/名",
+        "en": "harmony",
+        "example": "和谐不能只写在售楼处。",
+        "exampleEn": "Harmony cannot live only on a sales office wall."
+      },
+      {
+        "hanzi": "哲学",
+        "pinyin": "zhéxué",
+        "pos": "名",
+        "en": "philosophy",
+        "example": "哲学一旦有地点，就不会空。",
+        "exampleEn": "Philosophy with a place does not float."
+      },
+      {
+        "hanzi": "尊重",
+        "pinyin": "zūnzhòng",
+        "pos": "动",
+        "en": "to respect",
+        "example": "先问这座楼尊重场地了吗。",
+        "exampleEn": "Ask first whether this building respects the site."
+      },
+      {
+        "hanzi": "平衡",
+        "pinyin": "pínghéng",
+        "pos": "名",
+        "en": "balance",
+        "example": "平衡要看水还在不在。",
+        "exampleEn": "Balance is whether the water is still there."
+      },
+      {
+        "hanzi": "自然",
+        "pinyin": "zìrán",
+        "pos": "名",
+        "en": "nature",
+        "example": "人不必在自然对面。",
+        "exampleEn": "People need not stand opposite nature."
+      },
+      {
+        "hanzi": "借景",
+        "pinyin": "jièjǐng",
+        "pos": "动/名",
+        "en": "borrowed scenery",
+        "example": "借景是少占地，把墙外的山借进来。",
+        "exampleEn": "Borrowed scenery uses less land: it pulls the hill beyond the wall inside."
+      },
+      {
+        "hanzi": "缺水",
+        "pinyin": "quēshuǐ",
+        "pos": "形/动",
+        "en": "water-scarce",
+        "example": "北方不少城市长期缺水。",
+        "exampleEn": "Many northern cities have long been short of water."
+      },
+      {
+        "hanzi": "理水",
+        "pinyin": "lǐshuǐ",
+        "pos": "动",
+        "en": "to manage water in a landscape",
+        "example": "园林先理水，城市也可以。",
+        "exampleEn": "A garden manages water first; a city can too."
+      },
+      {
+        "hanzi": "园林",
+        "pinyin": "yuánlín",
+        "pos": "名",
+        "en": "garden / landscape garden",
+        "example": "园林把石头和水面布置成可走的宇宙。",
+        "exampleEn": "A garden lays stone and pond into a walkable cosmos."
+      },
+      {
+        "hanzi": "朝向",
+        "pinyin": "cháoxiàng",
+        "pos": "名",
+        "en": "orientation / aspect",
+        "example": "房子朝南，冬天纳阳，夏天靠廊挡晒。",
+        "exampleEn": "A south-facing house takes winter sun and uses a corridor against summer heat."
+      },
+      {
+        "hanzi": "月洞门",
+        "pinyin": "yuèdòngmén",
+        "pos": "名",
+        "en": "moon gate",
+        "example": "月洞门把园子切成一幅圆画。",
+        "exampleEn": "The moon gate cuts the garden into a round painting."
+      },
+      {
+        "hanzi": "场地",
+        "pinyin": "chǎngdì",
+        "pos": "名",
+        "en": "site / ground",
+        "example": "建可以，假装场地不存在不行。",
+        "exampleEn": "You may build; you may not pretend the site does not exist."
+      },
+      {
+        "hanzi": "海绵城市",
+        "pinyin": "hǎimián chéngshì",
+        "pos": "名",
+        "en": "sponge city",
+        "example": "海绵城市用渗水砖翻译「理水」。",
+        "exampleEn": "A sponge city translates “managing water” into permeable brick."
+      }
+    ]
+  },
+  {
+    "slug": "xiongmao",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一只熊猫幼崽，体型还小，黑白已经齐全。",
+        "en": "A panda cub, still small, the black and white already complete."
+      },
+      {
+        "zh": "黑眼圈、黑耳朵、白脸，脸比身体更先被认出——这是「明星物种」的设计感。",
+        "en": "Black eye-patches, black ears, a white face — the face is recognised before the body. That is the design of a star species."
+      },
+      {
+        "zh": "背景是密竹，叶子近、山远，栖息地被压成一层绿色墙。",
+        "en": "Dense bamboo behind: leaves close, hills far; habitat is crushed into a green wall."
+      },
+      {
+        "zh": "浅景深：竹子虚了，熊实了，镜头在教观众看谁、不看谁。",
+        "en": "Shallow focus: bamboo blurs, the bear is sharp. The lens teaches whom to look at, and whom not to."
+      },
+      {
+        "zh": "幼崽趴着或坐着，姿势像被安排好的观看。",
+        "en": "The cub sits or lies in a pose that looks arranged for being watched."
+      },
+      {
+        "zh": "画面里没有铁笼，但取景框就是笼子——谁在看，谁被看。",
+        "en": "No iron cage in the frame, but the frame itself is a cage: who looks, who is looked at."
+      },
+      {
+        "zh": "没有游客的脸，门票和自拍杆在镜头外面等着。",
+        "en": "No tourist faces; tickets and selfie sticks wait outside the shot."
+      },
+      {
+        "zh": "竹子既是食物，也是布景；没有竹，这张脸无处可放。",
+        "en": "Bamboo is food and also set; without it, this face has nowhere to sit."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "竹林里一只幼崽：黑眼圈、黑耳朵，毛色对比强到不用字幕。浅景深把竹子虚掉，把脸推到观众眼前。大熊猫是中国最成功的保护符号：稀有、能让全世界排队看。它也是外交礼物和旅游引擎。真正让它活下去的，不是玩偶，而是竹林、走廊和不再被公路切碎的栖息地。口试先说你看见的脸，再强迫自己说你没看见的山。国宝策略有效，因为它会募捐；它也有盲区，因为募捐跟着脸走。",
+        "en": "A cub in the bamboo: black patches, black ears, contrast so strong it needs no caption. Shallow focus blurs the bamboo and pushes the face at the viewer. The giant panda is China’s most successful conservation symbol: rare, able to make the world queue. It is also a diplomatic gift and a tourism engine. What actually keeps it alive is not the toy, but bamboo, corridors, and habitat no longer sliced by roads. In the oral, name the face you see, then force yourself to name the mountain you do not. The national-treasure strategy works because it raises money. It is also blind, because money follows the face."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "熊猫保护同时是科学、政治和生意。表面是拯救一种濒危动物；底下是解决「人愿意为什么付钱、为什么让路」——有脸，才有保护区的编制、才有游客、才有外交上的微笑。圈养繁育、野外放归、国家公园、对外国动物园的租借，都是同一套符号的不同接口。共享地球要求把目光从一张脸移到一整张系统：竹子、走廊、水，以及那些不那么可爱的邻居。没有竹的国宝，只是一张可以出圈的照片。",
+        "en": "Panda conservation is science, politics and business at once. On the surface it saves an endangered animal; underneath it answers what people will pay for, and what they will make way for. A face brings staff for a reserve, tourists, a diplomatic smile. Captive breeding, release, national parks, loans to foreign zoos — different sockets of the same symbol. Sharing the planet asks the eye to move from one face to a whole system: bamboo, corridors, water, and the less cute neighbours. A national treasure without bamboo is only a photograph that can go viral."
+      },
+      {
+        "key": "how",
+        "title": "谁在保护、钱往哪走",
+        "titleEn": "Who protects, where the money goes",
+        "zh": "谁：保护区巡护员、繁育基地饲养员、林业和公园系统、旅游公司、外交部门。怎么做：划核心区，公路留下生态走廊，种竹、控放牧、限制游客路线；基地里配对、育幼；对外「租借」熊猫，对方出保护费。钱从门票、周边、地方政府和租借合同来。反面同样具体：一条公路可以把山切开；旅游车开到竹林边上，保护变成观看。口语里谈动物园伦理：圈养是教育还是消费？你为保护做过什么具体的事？",
+        "en": "Who: rangers, keepers at breeding bases, forestry and parks, tourism firms, the foreign ministry. How: mark a core, leave corridors when a road is cut, plant bamboo, limit grazing and visitor routes; pair and raise cubs on the base; “loan” pandas abroad for a conservation fee. Money comes from tickets, merch, local government and the loan contract. The reverse is just as concrete: one road can split a mountain; a tour bus to the bamboo edge turns protection into a viewing. In the oral, talk zoo ethics: is captivity education or consumption? What concrete thing have you done for protection?"
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：孩子在动物园第一次看见不是卡通的熊，课本上的「濒危」有了呼吸和气味。家庭或学校：春游和纪录片把「国宝」做成共同语言，家长愿意为这张脸花钱，也愿意听「不要乱喂」。社会与地球：明星动物能把一整片山带起来——伞护效应：为了熊猫留下的竹林、走廊和水，也留给金丝猴、鸟、昆虫和下游的人。好处是真的，前提是钱和路真的回到山里，而不是只回到礼品店。",
+        "en": "Person: a child sees a bear that is not a cartoon; “endangered” in the textbook gains breath and smell. Family or school: a spring trip and a documentary make “national treasure” a shared language; parents will spend for this face, and will hear “do not feed”. Society and earth: a star animal can lift a whole mountain — the umbrella effect. Bamboo, corridors and water left for the panda are also left for golden monkeys, birds, insects and people downstream. The good is real, if the money and the road actually go back into the mountain, and not only into the gift shop."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：景区人挤人，闪光灯、敲玻璃、买竹叶味道的饼干；圈养的熊重复走同一段，观看很像消费。结构：保护一种明星容易募捐，保护一片「不那么可爱」的湿地更难；竹子大规模开花会让食物突然断档；公路、水库若和保护区抢同一坡，国宝也让路。被排除的是没有黑眼圈的物种，以及住在保护区边缘、既不能打猎也不能公平分享门票的人。圈养如果只为排队，教育就是广告。",
+        "en": "Everyday: a packed scenic area, flash, tapping glass, biscuits that taste of bamboo; a captive bear repeats the same walk; watching looks like consumption. Structure: a star is easy to fundraise for; a less cute wetland is harder. A mass bamboo flowering can cut food overnight. If a road or reservoir fights the reserve for the same slope, the treasure gives way too. Left out: species without eye-patches, and people on the reserve’s edge who may neither hunt nor share ticket money fairly. If captivity exists only for the queue, education is an advert."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "旅游车和民宿把保护地写成旺季；毛绒玩具和奶茶联名让国宝变成货架。乡村振兴若把熊猫村做成拍照墙，农户的地可能变成停车场。气候：竹的物候一乱，熊的食谱先乱。水：山里的水源同时供熊、供下游城市。IUCN 一度把大熊猫从更危的级别下调，说明繁育和栖息地工作有效，不等于野外已经无忧。临场可转伞护、租借外交、玩具货架，或「你为没脸的物种做过什么」。不要停在「熊猫好可爱」。",
+        "en": "Tour buses and guesthouses write the reserve as high season. Plush toys and milk-tea tie-ins put the treasure on a shelf. If rural revitalization turns a panda village into a photo wall, a farmer’s field may become a car park. Climate: when bamboo’s phenology slips, the bear’s menu slips first. Water: the mountain spring feeds the bear and the city downstream. IUCN once downlisted the giant panda — breeding and habitat work counted, not that the wild is already safe. Pivot to the umbrella, loan diplomacy, the toy shelf, or what you have done for a species with no face. Do not stop at “pandas are cute”."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙的斗牛把一种动物做成民族符号：有人说这是节日、身份、地方经济；有人说这是公开的残忍。加泰罗尼亚等地的禁令说明伦理可以立法。熊猫把另一种动物做成民族符号：有人说保护成功，有人说一张脸做成了门票。两种争论倒着对称——一个问「有没有权看它死」，一个问「有没有权看它活」。生态上更近的是伊比利亚猞猁：没那么可爱，却是真的栖息地工程。谁在和地球共处？熊、竹、巡护员、排队的人，还有没黑眼圈的物种。代价记在被切开的山、被忽略的湿地、以及被斗牛或被镜头消耗的动物身上。",
+        "en": "Spanish bullfighting makes an animal a national symbol: some call it fiesta, identity, local economy; some call it public cruelty. Bans in Catalonia and elsewhere show ethics can be written into law. The panda makes another animal a national symbol: some call it a conservation success, some a face turned into a ticket. The two arguments are inverted twins — one asks whether we have the right to watch it die, the other whether we have the right to watch it live. Ecologically closer is the Iberian lynx: less cute, a real habitat project. Who is sharing the planet? Bear, bamboo, ranger, the queue, and species without eye-patches. The cost is booked to a sliced mountain, a neglected wetland, and animals spent by the bullring or the lens."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "幼崽、黑白、密竹、浅景深；「镜头即笼子」。",
+        "en": "Cub, black and white, dense bamboo, shallow focus; “the lens is already a cage.”"
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "符号加外交加旅游；活下去靠走廊和竹。",
+        "en": "Symbol plus diplomacy plus tourism; survival depends on corridors and bamboo."
+      },
+      {
+        "time": "0:55–1:35",
+        "zh": "保护区、繁育、公路留走廊、租借。",
+        "en": "Reserve, breeding, corridors left by the road, the loan."
+      },
+      {
+        "time": "1:35–2:15",
+        "zh": "教育／国家形象／伞护一片山。",
+        "en": "Education / national image / an umbrella over a whole mountain."
+      },
+      {
+        "time": "2:15–3:00",
+        "zh": "可爱募捐；湿地没脸；圈养消费。",
+        "en": "Cute raises money; the wetland has no face; captivity as consumption."
+      },
+      {
+        "time": "3:00–4:00",
+        "zh": "斗牛伦理加猞猁；目光移到系统；具体做过什么。",
+        "en": "Bullfighting ethics plus the lynx; move the eye to the system; name one concrete act."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "为什么熊猫能成为中国的象征？",
+        "en": "Why can the panda stand for China?"
+      },
+      {
+        "zh": "保护明星动物是否比保护普通物种更重要？",
+        "en": "Is protecting a star animal more important than protecting ordinary species?"
+      },
+      {
+        "zh": "斗牛和熊猫都能当国家符号，伦理上差在哪？",
+        "en": "Bullfighting and the panda can both be national symbols. Where do the ethics differ?"
+      },
+      {
+        "zh": "动物园对保护有帮助还是有伤害？",
+        "en": "Do zoos help conservation, or harm it?"
+      },
+      {
+        "zh": "你为没有「脸」的物种做过什么具体的事？",
+        "en": "What concrete thing have you done for a species that has no “face”?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "保护明星动物是否比保护普通物种更重要？明星能带资金和伞护，但不能成为唯一标准。",
+        "en": "Is a star animal more important? It can bring money and an umbrella, but it cannot be the only measure."
+      },
+      {
+        "zh": "斗牛和熊猫都能当国家符号，伦理上差在哪？一个把死做成遗产，一个把活做成保护或消费。",
+        "en": "Bullfighting and panda as national symbols: one makes death heritage, the other makes life protection — or consumption."
+      },
+      {
+        "zh": "动物园对保护有帮助还是有伤害？教育、繁育、钱的流向、动物的重复行为，四边都要点。",
+        "en": "Do zoos help or harm? Hit education, breeding, where the money goes, and the animal’s repeated walk."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dàxióngmāo",
+        "pos": "名",
+        "en": "giant panda",
+        "example": "大熊猫是脸，也是一片竹子。",
+        "exampleEn": "The giant panda is a face, and also a stretch of bamboo."
+      },
+      {
+        "hanzi": "保护",
+        "pinyin": "bǎohù",
+        "pos": "动/名",
+        "en": "conservation / to protect",
+        "example": "保护不能停在玩偶。",
+        "exampleEn": "Conservation cannot stop at the toy."
+      },
+      {
+        "hanzi": "濒危",
+        "pinyin": "bīnwēi",
+        "pos": "形",
+        "en": "endangered",
+        "example": "明星濒危好募捐，没脸的物种更难。",
+        "exampleEn": "A star that is endangered raises money; a species with no face does not."
+      },
+      {
+        "hanzi": "栖息地",
+        "pinyin": "qīxīdì",
+        "pos": "名",
+        "en": "habitat",
+        "example": "真正让它活的是栖息地，不是镜头。",
+        "exampleEn": "What keeps it alive is habitat, not the lens."
+      },
+      {
+        "hanzi": "物种",
+        "pinyin": "wùzhǒng",
+        "pos": "名",
+        "en": "species",
+        "example": "一个物种可以带动一片系统。",
+        "exampleEn": "One species can lift a whole system."
+      },
+      {
+        "hanzi": "野生",
+        "pinyin": "yěshēng",
+        "pos": "形",
+        "en": "wild",
+        "example": "野外走廊断了，繁育也救不回山。",
+        "exampleEn": "If the wild corridor is cut, breeding will not save the mountain."
+      },
+      {
+        "hanzi": "生态",
+        "pinyin": "shēngtài",
+        "pos": "名",
+        "en": "ecology / ecosystem",
+        "example": "把目光从脸移到生态。",
+        "exampleEn": "Move the eye from the face to the ecology."
+      },
+      {
+        "hanzi": "象征",
+        "pinyin": "xiàngzhēng",
+        "pos": "名",
+        "en": "symbol",
+        "example": "国宝是象征，也是旅游引擎。",
+        "exampleEn": "The national treasure is a symbol, and also a tourism engine."
+      },
+      {
+        "hanzi": "圈养",
+        "pinyin": "quǎnyǎng",
+        "pos": "动/名",
+        "en": "captivity / to keep captive",
+        "example": "圈养是教育还是消费，要自己判断。",
+        "exampleEn": "Whether captivity is education or consumption is a judgement you must make."
+      },
+      {
+        "hanzi": "走廊",
+        "pinyin": "zǒuláng",
+        "pos": "名",
+        "en": "corridor",
+        "example": "公路要给动物留走廊。",
+        "exampleEn": "A road must leave animals a corridor."
+      },
+      {
+        "hanzi": "繁育",
+        "pinyin": "fányù",
+        "pos": "动/名",
+        "en": "breeding",
+        "example": "繁育有效，不等于野外已经无忧。",
+        "exampleEn": "Breeding can work without the wild already being safe."
+      },
+      {
+        "hanzi": "国宝",
+        "pinyin": "guóbǎo",
+        "pos": "名",
+        "en": "national treasure",
+        "example": "没有竹的国宝，只是一张可以出圈的照片。",
+        "exampleEn": "A national treasure without bamboo is only a photograph that can go viral."
+      },
+      {
+        "hanzi": "外交",
+        "pinyin": "wàijiāo",
+        "pos": "名",
+        "en": "diplomacy",
+        "example": "租借熊猫是保护，也是外交微笑。",
+        "exampleEn": "Loaning a panda is conservation, and also a diplomatic smile."
+      },
+      {
+        "hanzi": "租借",
+        "pinyin": "zūjiè",
+        "pos": "动",
+        "en": "to loan / lease",
+        "example": "对外租借熊猫，对方出保护费和展览条件。",
+        "exampleEn": "Pandas are loaned abroad for a conservation fee and exhibition terms."
+      },
+      {
+        "hanzi": "湿地",
+        "pinyin": "shīdì",
+        "pos": "名",
+        "en": "wetland",
+        "example": "保护一片不那么可爱的湿地，比保护一张脸更难募捐。",
+        "exampleEn": "Protecting a less cute wetland is harder to fundraise for than protecting a face."
+      },
+      {
+        "hanzi": "巡护员",
+        "pinyin": "xúnhùyuán",
+        "pos": "名",
+        "en": "ranger / patrol officer",
+        "example": "真正和山待在一起的，是巡护员，不是排队的人。",
+        "exampleEn": "The ones who stay with the mountain are rangers, not the queue."
+      }
+    ]
+  },
+  {
+    "slug": "jieqi",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "梯田一层一层，田埂是曲线，不是旅游的几何图案，是工作的台阶。",
+        "en": "Terraces layer on layer; the ridges are curves, not a tourist geometry — they are working steps."
+      },
+      {
+        "zh": "水面反光，有的田有水、有的田是土，说明同一天里农活不同。",
+        "en": "Water throws light: some fields are wet, some earth — the same day holds different work."
+      },
+      {
+        "zh": "远山把地平线压低，人的尺度在田里，不在天上。",
+        "en": "Far hills press the horizon down; the human scale is in the field, not in the sky."
+      },
+      {
+        "zh": "日出或晨雾：这是下地的时间，不是明信片的滤镜。",
+        "en": "Sunrise or morning mist: this is the hour for going down to the field, not a postcard filter."
+      },
+      {
+        "zh": "村里的屋顶在田的边缘，住和种还没有完全分开。",
+        "en": "Village roofs sit at the field’s edge; living and planting have not fully split."
+      },
+      {
+        "zh": "看不见大型农机，或农机只是小点——日历仍按手和天走。",
+        "en": "No big machines, or they are only dots: the calendar still runs by hand and sky."
+      },
+      {
+        "zh": "天色从暖到冷，一层田一种光，节气是可以拍照的物理。",
+        "en": "The light cools from terrace to terrace; a solar term is physics you can photograph."
+      },
+      {
+        "zh": "没有节气海报，没有「今日立春」的美术字——物候自己在场。",
+        "en": "No solar-term poster, no art letters saying “Beginning of Spring today” — phenology is present itself."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "日出的梯田一层层接着水光，村里的屋顶还在田的边缘。这不是「美丽乡村」的空镜头，是一份可以看见的农时：有的田要水，有的田要干，同一天里活不一样。二十四节气把一年切成可以感知的气候：惊蛰开始有虫，芒种要抢收抢种，冬至白天最短。城市人不再种田，却仍在立冬吃饺子、在夏至抱怨热。画面里没有「今日立春」的美术字，物候自己在场。口试先说田、水、山、屋顶，再说这是一份工作的日历。",
+        "en": "Sunrise terraces take the water’s light in layers; village roofs still sit at the field’s edge. This is not an empty Beautiful Countryside shot. It is farm time you can see: some plots want water, some want dry; the work differs on the same day. The twenty-four solar terms cut a year into climate you can feel: insects wake at Jingzhe, Grain in Ear is a race to harvest and sow, Dongzhi is the shortest day. City people no longer farm, yet still eat dumplings at Lidong and complain of heat at the summer solstice. No art letters saying “Beginning of Spring today”; phenology is present itself. In the oral, name field, water, hill, roof, then say: this is a working calendar."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "二十四节气是联合国教科文组织列入的人类非物质文化遗产，也是一部农业操作系统。它主要按太阳走，和只按月亮过的年节不是同一把尺：春分秋分昼夜平，夏至冬至是白天最长和最短。它解决的是「人如何与不可控的天共处」——什么时候下种、什么时候收、什么时候进补，不靠心情，靠把太阳切成二十四份。城市把它过成饮食和朋友圈，农民把它过成是否误农时。气候一乱，这份比口号更老的工具就会报警。",
+        "en": "The twenty-four solar terms are UNESCO Intangible Cultural Heritage, and also an operating system for farming. They run mainly by the sun, not by the same ruler as festivals that follow the moon: spring and autumn equinox even day and night; summer and winter solstice the longest and shortest days. They answer how people share time with a sky they cannot control — when to sow, when to harvest, when to eat richer food — not by mood, by cutting the sun into twenty-four. The city lives them as food and a feed; farmers live them as whether a season is missed. When climate slips, this tool older than any slogan sounds an alarm."
+      },
+      {
+        "key": "how",
+        "title": "谁还在按天过",
+        "titleEn": "Who still lives by the sky",
+        "zh": "谁还认真看：种田的人、做节气饮食的家庭、中医和养生节目，还有把节气写成奶茶文案的店。怎么过：只选两个讲透——冬至，北方包饺子、南方煮汤圆，白天最短；清明既是节气也是节日，扫墓、踏青。芒种是抢，立冬是进补。城市人用 App 推送「今日雨水」，办公室没有田，只有一杯按节气命名的饮品。规则仍在农村更硬：误了芒种，误的是一季。口语里选两个节气，讲食物和天气，再连到气候变化。",
+        "en": "Who still watches seriously: people who farm, families who cook by the term, Chinese medicine and wellness shows, and shops that write the term into milk-tea copy. How to live them: pick two and go deep — Dongzhi, dumplings in the north, rice balls in the south, the shortest day; Qingming is both a term and a festival, graves and a walk in new green. Grain in Ear is a race; Lidong is eating richer. City people get an app push, “Rain Water today”; the office has no field, only a drink named after a term. The rule is still harder in the village: miss Grain in Ear, miss a season. In the oral, pick two terms, talk food and weather, then climate change."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：身体按年记住冷、热、湿、燥，一碗冬至饺子比天气预报更早告诉你白天短了；节气给焦虑的城市人一个合法的减速按钮。家庭：一张桌把太阳翻译成菜，立冬的补、夏至的清，几代人用同一张菜单对话。社会：农业社会曾靠这份公共时间同时下地，灌溉、集市、祭祀都按它走；今天它仍是文化共同日历。好处不是诗意，是同步——人和地、人和家、人和一整条河的汛期，曾经对过表。",
+        "en": "Person: the body remembers cold, heat, damp and dry by the year; a bowl of Dongzhi dumplings tells you the day has shortened before the forecast does. The terms give an anxious city person a legal brake. Family: a table translates the sun into dishes — richer at Lidong, lighter at the summer solstice — generations talking through one menu. Society: farming society once went to the fields on this public clock; irrigation, markets, rites all ran by it. Today it is still a shared cultural calendar. The good is not poetry. It is sync — people and land, people and family, people and a river’s flood season once set their watches together."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：节气变成奶茶店文案和手机壁纸，立春只剩一张绿图，没有一口咬得动的菜；城市人过节气，像过一种无农时的时尚。结构：极端天气让物候错位——该惊蛰的虫子提前，该芒种的雨不来或来得太猛，农民比诗人先知道节气「不准」了。不准不是文化失败，是气候把操作系统的前提改了。被排除的是仍靠天吃饭、却很少出现在非遗宣传里的人：他们的损失是收成，不是点赞。日历还在，地已经乱。",
+        "en": "Everyday: the terms become milk-tea copy and a phone wallpaper; Beginning of Spring is a green picture with nothing you can bite. City people keep the terms like a fashion with no farm time. Structure: extreme weather knocks phenology aside — insects due at Jingzhe come early, the Grain in Ear rain does not come or comes too hard. Farmers know the terms have “gone wrong” before poets do. Wrong is not a cultural failure. Climate has rewritten the operating system’s premise. Left out: people who still eat by the sky and rarely appear in heritage posters. Their loss is a harvest, not a like. The calendar remains; the ground has already slipped."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "南北不是一种冬至：饺和汤圆是气候写在舌头上的差异。少数民族的物候和农历不一定重叠，中国不是一份节气走天下。城市节气 App、博物馆体验馆、短视频「今日宜」把遗产做成流量。气候必须说透：热浪、春寒、梅雨失常、台风季延长，都会让「按天下地」变成冒险。水：节气管的是雨和旱，梯田的水光一少，日历就变成警告。临场可转奶茶文案、南北冬至、物候错位，或「农民的不准和诗人的不准不是一回事」。",
+        "en": "North and south do not keep one Dongzhi: dumpling and rice ball are climate written on the tongue. Minority phenology and the agricultural calendar need not overlap; China is not one set of terms for the whole land. City apps, museum halls, short videos of “today is good for…” turn heritage into traffic. Climate must be said fully: heatwaves, late spring cold, a broken plum-rain, a longer typhoon season — all make “dress and farm by the sky” a gamble. Water: the terms govern rain and drought; when the terrace light thins, the calendar becomes a warning. Pivot to milk-tea copy, north-south Dongzhi, phenology out of place, or the farmer’s “wrong” not being the poet’s."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "地中海饮食也是联合国非遗：不是一道菜的荣誉，是按季、按近、按蔬菜和橄榄油把人和土地绑在同一张桌上。西班牙的葡萄收获季、番茄季、冬天的炖菜，是他们的芒种和立冬——日历不叫二十四节气，提醒是一样的。更通用的锚是任何物候记录：开花早了、候鸟改道，都是同一声警报。谁在和地球共处？还在看天的人、把节气写成文案的人、以及田里不能改期的种子。代价记在误农时的一季、涨价的菜、被热浪改写的物候上，不记在壁纸的绿色里。不准了，不要只改文案，要改生产和排放。",
+        "en": "The Mediterranean diet is also UNESCO heritage: not the honour of one dish, but binding people and land to one table by season, nearness, vegetables and olive oil. Spain’s grape harvest, tomato season, winter stews are their Grain in Ear and Lidong — the calendar is not called twenty-four terms; the reminder is the same. A broader anchor is any phenology record: blossom early, birds rerouted, the same alarm. Who is sharing the planet? People still watching the sky, people writing the terms into copy, and seeds in the field that cannot reschedule. The cost is booked to a missed season, dearer vegetables, phenology rewritten by heat — not to the green of a wallpaper. When the terms go wrong, do not only change the copy. Change production and emissions."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "梯田、水光、山、村；「工作的日历」。",
+        "en": "Terraces, water-light, hills, village; “a working calendar.”"
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "按太阳走；联合国非遗；操作系统；从田搬进嘴巴。",
+        "en": "Run by the sun; UNESCO heritage; an operating system; moved from field to mouth."
+      },
+      {
+        "time": "0:55–1:35",
+        "zh": "只选冬至加清明或芒种；食物加物候。",
+        "en": "Pick only Dongzhi plus Qingming or Grain in Ear; food plus phenology."
+      },
+      {
+        "time": "1:35–2:15",
+        "zh": "身体时间／一桌翻译／公共下地。",
+        "en": "The body’s year / a table that translates / going to the fields on a public clock."
+      },
+      {
+        "time": "2:15–3:00",
+        "zh": "文案化；极端天气让农时冒险。",
+        "en": "Turned into copy; extreme weather makes farm time a gamble."
+      },
+      {
+        "time": "3:00–4:00",
+        "zh": "地中海饮食或葡萄收获季；留下两三个提醒；不准就改生产。",
+        "en": "Mediterranean diet or grape harvest; keep two or three reminders; if they fail, change production."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "介绍一个你喜欢的节气，讲食物和天气。",
+        "en": "Introduce one solar term you like; talk food and weather."
+      },
+      {
+        "zh": "城市人还有必要过节气吗？",
+        "en": "Do city people still need the solar terms?"
+      },
+      {
+        "zh": "气候变化会怎样影响传统农时？",
+        "en": "How might climate change affect traditional farming time?"
+      },
+      {
+        "zh": "比较二十四节气和地中海饮食：哪一种更像与土地同步？",
+        "en": "Compare the twenty-four terms with the Mediterranean diet: which is closer to keeping time with the land?"
+      },
+      {
+        "zh": "节气「不准」了，该改文案，还是改生产和排放？",
+        "en": "If the terms go wrong, change the copy — or production and emissions?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "城市人还有必要过节气吗？不必装农民，可留下当身体和气候的提醒。",
+        "en": "Must city people keep the terms? They need not play farmer; they can keep two or three as reminders of body and climate."
+      },
+      {
+        "zh": "气候变化会怎样影响传统农时？物候错位、雨旱失常，农民先知道；代价在收成。",
+        "en": "How does climate change hit farm time? Phenology slips, rain and drought go wrong; farmers know first; the cost is a harvest."
+      },
+      {
+        "zh": "地中海饮食和节气，哪一种更像「与土地同步」？一个切太阳，一个切盘子，都怕日历还在地已乱。",
+        "en": "Mediterranean diet or the terms: which keeps time with the land? One cuts the sun, one cuts the plate; both fear a calendar that outlives the ground."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "节气",
+        "pinyin": "jiéqì",
+        "pos": "名",
+        "en": "solar term",
+        "example": "节气是联合国非遗，也是农时。",
+        "exampleEn": "The solar terms are UNESCO heritage, and also farm time."
+      },
+      {
+        "hanzi": "农历",
+        "pinyin": "nónglì",
+        "pos": "名",
+        "en": "lunar / agricultural calendar",
+        "example": "年节跟农历，节气更跟太阳。",
+        "exampleEn": "Festivals follow the lunar calendar; the terms follow the sun more."
+      },
+      {
+        "hanzi": "春分",
+        "pinyin": "chūnfēn",
+        "pos": "名",
+        "en": "Spring Equinox",
+        "example": "春分昼夜差不多长。",
+        "exampleEn": "At the Spring Equinox day and night are almost equal."
+      },
+      {
+        "hanzi": "冬至",
+        "pinyin": "dōngzhì",
+        "pos": "名",
+        "en": "Winter Solstice",
+        "example": "冬至白天最短，北方吃饺子。",
+        "exampleEn": "Dongzhi is the shortest day; the north eats dumplings."
+      },
+      {
+        "hanzi": "芒种",
+        "pinyin": "mángzhòng",
+        "pos": "名",
+        "en": "Grain in Ear",
+        "example": "芒种要抢收抢种。",
+        "exampleEn": "Grain in Ear is a race to harvest and sow."
+      },
+      {
+        "hanzi": "农事",
+        "pinyin": "nóngshì",
+        "pos": "名",
+        "en": "farm work",
+        "example": "农事一误，是一季不是一天。",
+        "exampleEn": "Miss the farm work, and you miss a season, not a day."
+      },
+      {
+        "hanzi": "物候",
+        "pinyin": "wùhòu",
+        "pos": "名",
+        "en": "phenology",
+        "example": "物候错了，节气就报警。",
+        "exampleEn": "When phenology slips, the terms sound an alarm."
+      },
+      {
+        "hanzi": "气候",
+        "pinyin": "qìhòu",
+        "pos": "名",
+        "en": "climate",
+        "example": "气候一乱，日历还在地不在。",
+        "exampleEn": "When climate slips, the calendar remains and the ground does not."
+      },
+      {
+        "hanzi": "同步",
+        "pinyin": "tóngbù",
+        "pos": "动",
+        "en": "to synchronise",
+        "example": "节气教人和天同步。",
+        "exampleEn": "The terms teach people to keep time with the sky."
+      },
+      {
+        "hanzi": "遗产",
+        "pinyin": "yíchǎn",
+        "pos": "名",
+        "en": "heritage",
+        "example": "遗产可以进馆，田不能进馆。",
+        "exampleEn": "Heritage can go into a museum; a field cannot."
+      },
+      {
+        "hanzi": "惊蛰",
+        "pinyin": "jīngzhé",
+        "pos": "名",
+        "en": "Awakening of Insects",
+        "example": "该惊蛰的虫子提前，农民比诗人先知道。",
+        "exampleEn": "When insects due at Jingzhe come early, farmers know before poets."
+      },
+      {
+        "hanzi": "立冬",
+        "pinyin": "lìdōng",
+        "pos": "名",
+        "en": "Beginning of Winter",
+        "example": "立冬是进补，一张桌把太阳翻译成菜。",
+        "exampleEn": "Lidong is eating richer: a table translates the sun into a dish."
+      },
+      {
+        "hanzi": "农时",
+        "pinyin": "nóngshí",
+        "pos": "名",
+        "en": "farming season / farm time",
+        "example": "误了农时，误的是一季收成。",
+        "exampleEn": "Miss farm time, and you miss a season’s harvest."
+      },
+      {
+        "hanzi": "进补",
+        "pinyin": "jìnbǔ",
+        "pos": "动",
+        "en": "to eat richer / tonic food",
+        "example": "立冬进补，是身体按年记住冷。",
+        "exampleEn": "Eating richer at Lidong is the body remembering cold by the year."
+      },
+      {
+        "hanzi": "非遗",
+        "pinyin": "fēiyí",
+        "pos": "名",
+        "en": "intangible cultural heritage",
+        "example": "二十四节气是联合国列入的非遗。",
+        "exampleEn": "The twenty-four terms are UNESCO-listed intangible heritage."
+      },
+      {
+        "hanzi": "错位",
+        "pinyin": "cuòwèi",
+        "pos": "动/名",
+        "en": "to be out of place / dislocation",
+        "example": "极端天气让物候错位。",
+        "exampleEn": "Extreme weather knocks phenology out of place."
+      }
+    ]
+  },
+  {
+    "slug": "xiangcun",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "一个人举着手机或云台，镜头对着菜垄，不是对着自己的脸——至少在这张图里，货在前。",
+        "en": "Someone holds a phone or gimbal; the lens faces the vegetable rows, not their own face. In this picture, at least, the goods come first."
+      },
+      {
+        "zh": "绿叶菜一行行，泥土还在，说明直播的对象首先是地里的东西。",
+        "en": "Rows of greens, soil still there: what the livestream first sells is what is in the ground."
+      },
+      {
+        "zh": "山在后面，村子的尺度是山给的，不是商场给的。",
+        "en": "Hills behind: the village’s scale is given by the mountain, not by a mall."
+      },
+      {
+        "zh": "瓦房或小楼在田边，住和种仍贴在一起。",
+        "en": "Tile houses or small blocks sit by the field; living and planting still stick together."
+      },
+      {
+        "zh": "谁举手机、谁被拍：主播、农户、还是城里来的团队，画面会泄露权力。",
+        "en": "Who holds the phone, who is filmed — host, farmer, or a team from the city — the frame leaks power."
+      },
+      {
+        "zh": "旁边可能有塑料筐、胶带、快递袋——货要走的路已经是物流，不是扁担。",
+        "en": "Plastic crates, tape, courier bags nearby: the goods already leave by logistics, not by a shoulder pole."
+      },
+      {
+        "zh": "天空开阔，信号和路才是真正的道具。",
+        "en": "The sky is open; signal and the road are the real props."
+      },
+      {
+        "zh": "没有游客成群，像生产现场；一旦换成民宿墙绘，性格就不一样了。",
+        "en": "No tourist crowd — it looks like a production site. Swap in guesthouse murals, and the character changes."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "山前是菜垄，人手上是云台。镜头对着土，不是对着滤镜里的「诗和远方」。乡村振兴、扶贫、共同富裕，说的是同一件难事：不要让农村只剩下老人和空房子。直播把土货卖出去，公路把游客请进来，年轻人回乡开咖啡馆。成功的村子像一个产品；失败的村子则在照片之外。共享地球在乡村这一站，包括共享机会——如果发展只发生在沿海大城市，乡村就变成水库和食堂，给城市供水、供菜、供周末的风景。",
+        "en": "Vegetable rows in front of the hill; a gimbal in someone’s hand. The lens faces soil, not a filtered “poetry and faraway”. Rural revitalization, poverty relief, common prosperity name one hard task: villages should not be left with only elders and empty houses. Livestreams sell local goods, roads invite visitors, young people come home to open cafés. A successful village looks like a product; a failing one lives outside the photograph. Sharing the planet, at this station, includes sharing chances. If growth happens only on the coastal megacities, the countryside becomes a reservoir and a canteen — water, vegetables and weekend scenery for the city."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "振兴要解决的是：机会不和土地在一起。人走了，地还在；货能寄出，学校不一定能留下。商务部公布过这样的量级：每天超过一亿件包裹进出农村。这证明物流到了村，货车和纸箱进了村，不证明村子已经富裕——包装和运力是基础设施，不是共同富裕本身。快递到村，孩子仍可能去县里上学；网红土货爆单的一周，诊所仍可能只有一个人值班。讨论时避免宣传腔，问具体的人：谁留下，谁离开，孩子在哪里上学，水从哪口井来。",
+        "en": "Revitalization has to solve this: chance does not sit with the land. People leave, the ground stays; goods can be posted, a school may not remain. The Ministry of Commerce has published a magnitude: more than a hundred million parcels enter and leave the countryside each day. That proves logistics reached the village — trucks and cartons came in. It does not prove the village is already rich. Packaging and haulage are infrastructure, not common prosperity itself. Couriers arrive; the child may still study in the county town. A week of viral local goods can still leave the clinic with one person on duty. Avoid slogan-tone. Ask about people: who stays, who leaves, where the child goes to school, which well the water comes from."
+      },
+      {
+        "key": "how",
+        "title": "谁留下、路和快递给谁",
+        "titleEn": "Who stays, who the road serves",
+        "zh": "谁投资：政府的路、网、厕改；电商平台的流量；回乡青年的咖啡馆和民宿；有时是外来资本包下一整坡。谁干活：拍短视频的可能是农户，更可能是团队；分货、打包、等快递的是村里的手。谁分红：平台抽成、带头人、村集体，不一定到每一垄菜。公路、学校、诊所、快递点，比墙绘更像振兴。户口和学籍仍把一些人钉在「出得去、回不来」。口语里把助农直播和乡村旅游放在一起比较：镜头一关，还剩下路、学、医，还是一排卖同款辣椒酱的店铺？",
+        "en": "Who invests: the state’s roads, net and toilet upgrades; an e-commerce platform’s traffic; returnees’ cafés and guesthouses; sometimes outside capital wrapping a whole slope. Who works: the person on camera may be a farmer, more often a team; sorting, packing, waiting for the courier are village hands. Who takes a cut: the platform, the local lead, the collective — not always every row of greens. Road, school, clinic, courier point look more like revitalization than a mural. Hukou and school registration still nail some people as able to leave, unable to come back. In the oral, set farmer livestreams beside village tourism: when the lens switches off, what remains — road, school, clinic, or a row of shops selling the same chilli sauce?"
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：不离开土地也能有一份被看见的收入，不必把青春全部交给沿海工厂。家庭：少一些留守儿童和空巢，年不必只靠春运兑现；一亿件包裹进出的另一面，是土货能到达城市厨房。社会与地球：城市靠村供水、供菜、供清洁的空气；粮食和水源安全最后写在田里，不写在写字楼里。振兴若做成学校和诊所，共享的是机会；若只做成周末，共享的是风景。",
+        "en": "Person: an income that can be seen without leaving the land; youth need not all be handed to a coastal factory. Family: fewer left-behind children and empty nests; the year need not be cashed only at Chunyun. The other face of a hundred million parcels is local goods reaching a city kitchen. Society and earth: the city drinks the village’s water, eats its vegetables, breathes its cleaner air. Grain and water security are written in the field, not in an office tower. If revitalization becomes school and clinic, what is shared is chance. If it becomes only the weekend, what is shared is scenery."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：表演式墙绘、统一的白墙灰瓦、为镜头反复播同一筐菜；农户被要求「再笑一点」；同款特产在每个直播间打架。结构：游客改变村子的性格，酒吧和民宿把粮田改成停车场；水源被占用，灌溉先让路给温泉；气候让农产品更赌——一场春寒、一场暴雨，助农口播救不回一季。被排除的是不上镜的老人、没有普通话和网的人。物流到村也会把包装和泡沫送到河沟。一亿件包裹是流通的成绩，也可以是垃圾分类的新考题。",
+        "en": "Everyday: performance murals, unified white walls and grey tiles, the same basket of greens restaged for the lens; a farmer told to “smile a bit more”; the same specialty fighting in every livestream room. Structure: visitors change the village’s character; bars and guesthouses turn grain fields into car parks. Water is taken; irrigation yields to a hot spring. Climate makes the crop more of a gamble — a late frost, a storm, and a sales pitch cannot save a season. Left out: elders who do not photograph well, people without Putonghua or a net. Logistics to the village also delivers packaging and foam into the ditch. A hundred million parcels are a circulation success, and also a new exam for waste sorting."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "留守和空心化是振兴的反面词：学校并点、年轻人在县里租房陪读，村里白天只剩狗。气候让靠天的作物变成金融产品，保险和订单农业是新词。水这一面最硬：乡村常常是城市的水库，调水、建坝、发展观光，会重新分配谁渴、谁灌。电商的纸箱和胶带进村，前端包装问题从上海的桶转移到村口的沟。性别：直播里出镜的常常是女性农户，平台和资本不一定在她们名下。临场可转陪读、水库、包装进村，或「咖啡馆算不算产业」。",
+        "en": "Left-behind and hollowing-out are revitalization’s antonyms: schools merged, the young rent in the county town to accompany a child, the village by day left to dogs. Climate turns a sky-dependent crop into a financial product; insurance and contract farming are new words. Water is the hardest face: the countryside is often the city’s reservoir. Transfers, dams, sightseeing reallocate who thirsts and who irrigates. E-commerce cartons and tape enter the village; the packaging problem moves from Shanghai’s bins to the ditch at the village mouth. Gender: the face on camera is often a woman farmer; the platform and the capital need not be in her name. Pivot to accompanying study, the reservoir, packaging arriving, or whether a café counts as industry."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙人用 España vaciada 称呼内陆被掏空的省：学校并掉、医生巡回、年轻人去马德里和海岸。对应的不是「他们也有农村」，是同一句——土地上还剩谁，公共服务还能否跟着人走。日本过疏、意大利空村是更通用的锚。中国讲振兴，西班牙讲被掏空，方向相反，问题同构。谁在和地球共处？留下的人、进城的人、城市里喝水库水的人，还有那垄要看天的菜。代价记在空教室、被占用的水源、气候赌局里的一季收成，以及镜头外的老人身上。物流到村值得高兴，但不要夸成已经富裕。",
+        "en": "Spaniards call the emptied inland provinces España vaciada: schools merged, doctors on circuit, the young gone to Madrid and the coast. The counterpart is not “they have villages too”. It is the same sentence — who is left on the land, and can public services still follow people. Japan’s kaso and Italy’s empty villages are broader anchors. China speaks of revitalization, Spain of being hollowed out: opposite directions, the same structure. Who is sharing the planet? Those who stay, those who went to the city, those in the city drinking reservoir water, and that row of greens that still watches the sky. The cost is booked to an empty classroom, taken water, a gambled harvest, and elders outside the shot. Logistics to the village is worth being glad about. Do not inflate it into already-rich."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "云台、菜垄、山、小楼；「种菜也种流量」。",
+        "en": "Gimbal, vegetable rows, hill, small house; “growing greens and growing traffic.”"
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "机会不和土地在一起；别只剩老人和空房。",
+        "en": "Chance does not sit with the land; do not leave only elders and empty houses."
+      },
+      {
+        "time": "0:55–1:40",
+        "zh": "路、学、医加直播民宿；一亿件包裹＝物流到村，不等于已富裕。",
+        "en": "Road, school, clinic plus livestream and guesthouse; 100 million parcels = logistics arrived, not already rich."
+      },
+      {
+        "time": "1:40–2:20",
+        "zh": "不离开的工作／少留守／城市靠村供水供菜。",
+        "en": "Work without leaving / fewer left-behind / the city drinks and eats from the village."
+      },
+      {
+        "time": "2:20–3:05",
+        "zh": "表演式墙绘；游客改性格；气候一赌；包装进村。",
+        "en": "Performance murals; visitors change the character; climate as a gamble; packaging arrives."
+      },
+      {
+        "time": "3:05–4:00",
+        "zh": "España vaciada；共享机会；学校诊所比墙绘真。",
+        "en": "España vaciada; share chances; school and clinic are more real than a mural."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "年轻人为什么不愿意回农村？",
+        "en": "Why are young people unwilling to return to the village?"
+      },
+      {
+        "zh": "旅游能救一个村子，还是会改变它的性格？",
+        "en": "Can tourism save a village, or will it change its character?"
+      },
+      {
+        "zh": "每天一亿件包裹进出农村，能说明农村富了吗？",
+        "en": "Do a hundred million parcels a day prove the countryside is rich?"
+      },
+      {
+        "zh": "比较中国乡村振兴和西班牙的 España vaciada。",
+        "en": "Compare China’s rural revitalization with Spain’s España vaciada."
+      },
+      {
+        "zh": "助农直播和乡村旅游，哪一种更可持续？",
+        "en": "Which is more sustainable: farmer livestreams, or village tourism?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "年轻人为什么不愿意回农村？学校、诊所、对象、收入、面子，要点到结构，不只「没夜生活」。",
+        "en": "Why won’t the young return? School, clinic, a partner, income, face — hit structure, not only “no nightlife”."
+      },
+      {
+        "zh": "旅游能救一个村子，还是会改变它的性格？路和就业是真的，水源和地价也是真的。",
+        "en": "Can tourism save a village, or change it? Roads and jobs are real; so are water and land prices."
+      },
+      {
+        "zh": "每天一亿件包裹进出农村，能说明农村富了吗？说明物流到村；富裕要看学校、医生、谁分红。",
+        "en": "A hundred million parcels a day: does that mean rich? It means logistics arrived. Wealth needs school, doctor, and who takes the cut."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "乡村",
+        "pinyin": "xiāngcūn",
+        "pos": "名",
+        "en": "countryside / village",
+        "example": "乡村不能只当城市的食堂。",
+        "exampleEn": "The countryside cannot only be the city’s canteen."
+      },
+      {
+        "hanzi": "振兴",
+        "pinyin": "zhènxīng",
+        "pos": "动/名",
+        "en": "revitalisation",
+        "example": "振兴要看谁留下，不看墙绘。",
+        "exampleEn": "Revitalization is who stays, not the mural."
+      },
+      {
+        "hanzi": "扶贫",
+        "pinyin": "fúpín",
+        "pos": "动",
+        "en": "poverty alleviation",
+        "example": "扶贫之后仍要问孩子在哪上学。",
+        "exampleEn": "After poverty relief, still ask where the child goes to school."
+      },
+      {
+        "hanzi": "共同富裕",
+        "pinyin": "gòngtóng fùyù",
+        "pos": "名",
+        "en": "common prosperity",
+        "example": "物流到村不等于共同富裕。",
+        "exampleEn": "Logistics to the village is not the same as common prosperity."
+      },
+      {
+        "hanzi": "留守",
+        "pinyin": "liúshǒu",
+        "pos": "动",
+        "en": "left-behind / to stay behind",
+        "example": "留守是机会不在土地上的结果。",
+        "exampleEn": "Left-behind is what happens when chance is not on the land."
+      },
+      {
+        "hanzi": "空心化",
+        "pinyin": "kōngxīnhuà",
+        "pos": "名",
+        "en": "hollowing-out",
+        "example": "空心化和 España vaciada 是同一类问题。",
+        "exampleEn": "Hollowing-out and España vaciada are the same family of problem."
+      },
+      {
+        "hanzi": "产业",
+        "pinyin": "chǎnyè",
+        "pos": "名",
+        "en": "industry",
+        "example": "咖啡馆是不是产业，要看它能否过冬。",
+        "exampleEn": "Whether a café is industry depends on whether it can last the winter."
+      },
+      {
+        "hanzi": "差距",
+        "pinyin": "chājù",
+        "pos": "名",
+        "en": "gap / disparity",
+        "example": "城乡差距写在学校和诊所上。",
+        "exampleEn": "The urban-rural gap is written on the school and the clinic."
+      },
+      {
+        "hanzi": "物流",
+        "pinyin": "wùliú",
+        "pos": "名",
+        "en": "logistics",
+        "example": "每天超一亿件包裹，说明物流到了村。",
+        "exampleEn": "More than a hundred million parcels a day means logistics reached the village."
+      },
+      {
+        "hanzi": "可持续",
+        "pinyin": "kěchíxù",
+        "pos": "形",
+        "en": "sustainable",
+        "example": "旅游能不能持续，要看水还在不在。",
+        "exampleEn": "Whether tourism can last depends on whether the water is still there."
+      },
+      {
+        "hanzi": "直播",
+        "pinyin": "zhíbō",
+        "pos": "名/动",
+        "en": "livestream",
+        "example": "直播可以救急，学校和诊所比墙绘更真。",
+        "exampleEn": "A livestream can help in an emergency; school and clinic are more real than a mural."
+      },
+      {
+        "hanzi": "助农",
+        "pinyin": "zhùnóng",
+        "pos": "动",
+        "en": "to help farmers / farm-support",
+        "example": "助农口播救不回被暴雨毁掉的一季。",
+        "exampleEn": "A farm-support pitch cannot save a season a storm has already ruined."
+      },
+      {
+        "hanzi": "包裹",
+        "pinyin": "bāoguǒ",
+        "pos": "名",
+        "en": "parcel / package",
+        "example": "一亿件包裹是流通的成绩，也可以是垃圾的新考题。",
+        "exampleEn": "A hundred million parcels are a circulation success, and a new waste exam."
+      },
+      {
+        "hanzi": "诊所",
+        "pinyin": "zhěnsuǒ",
+        "pos": "名",
+        "en": "clinic",
+        "example": "网红土货爆单的一周，诊所仍可能只有一个人值班。",
+        "exampleEn": "A week of viral local goods can still leave the clinic with one person on duty."
+      },
+      {
+        "hanzi": "水源",
+        "pinyin": "shuǐyuán",
+        "pos": "名",
+        "en": "water source",
+        "example": "游客可以来，水源不能先让路。",
+        "exampleEn": "Visitors may come; the water source must not yield first."
+      },
+      {
+        "hanzi": "墙绘",
+        "pinyin": "qiánghuì",
+        "pos": "名",
+        "en": "mural / wall painting",
+        "example": "表演式墙绘改变村子的性格，却留不住人。",
+        "exampleEn": "A performance mural changes the village’s character and still does not keep people."
+      }
+    ]
+  },
+  {
+    "slug": "chuantong-xiandai",
+    "minutes": 10,
+    "lookFor": [
+      {
+        "zh": "近景是古建筑的琉璃瓦，黄或绿，曲线和瓦当清楚可数。",
+        "en": "Close: glazed tiles of an old building, yellow or green; curves and tile-ends you can count."
+      },
+      {
+        "zh": "屋脊上的兽或吻，传统的天际线先占领画面下半。",
+        "en": "Beasts or ridge ornaments: the traditional skyline takes the lower half of the frame first."
+      },
+      {
+        "zh": "远处一座白塔或传统塔，把「故」再钉一次。",
+        "en": "A white pagoda or traditional tower in the distance nails “the old” a second time."
+      },
+      {
+        "zh": "更远是深色玻璃写字楼，方、直、反光，和瓦的曲线抢同一片天。",
+        "en": "Farther: a dark glass office tower, square, straight, reflective, fighting the tile’s curve for the same sky."
+      },
+      {
+        "zh": "冬树枯枝在中间，像两种时间之间的翻译。",
+        "en": "Winter branches in the middle, like a translation between two times."
+      },
+      {
+        "zh": "同一片阴天罩住瓦和玻璃，说明它们真的在同一座城市，不是拼贴。",
+        "en": "One grey sky covers tile and glass: they really share one city, this is not a collage."
+      },
+      {
+        "zh": "人在画面里很小，或根本没有——谈判对象是屋顶，不是游客笑脸。",
+        "en": "People are tiny, or absent — the negotiation is between roofs, not tourist smiles."
+      },
+      {
+        "zh": "两套天际线叠在一张照片里，像一份还没谈完的合同。",
+        "en": "Two skylines stacked in one photograph, like a contract still unsigned."
+      }
+    ],
+    "sections": [
+      {
+        "key": "scene",
+        "title": "画面与现象",
+        "titleEn": "The scene",
+        "zh": "近处是琉璃瓦的曲线，远处是白塔，再远处是深色玻璃楼。冬树光着枝，阴天把三样东西罩在同一张照片里。中国当代最醒目的风景之一，是传统与现代贴在一起：故宫的瓦后面是写字楼；茶馆隔壁是咖啡店；汉服博主用最新的手机直播。全球化没有把中国变成另一个地方，它把选择摊在桌上。口试先数瓦、塔、玻璃、树，再说这不是「古今交融」的海报，是一份还没谈完的合同：留下哪些过去，才能走向还能住人的未来。",
+        "en": "Close: the curve of glazed tile. Farther: a white pagoda. Farther still: a dark glass tower. Winter trees are bare; one grey sky covers all three in a single photograph. One of contemporary China’s sharpest sights is tradition and the modern stuck together: office towers behind palace tiles; a café next to a teahouse; a hanfu blogger livestreaming on the newest phone. Globalization did not turn China into somewhere else. It laid choices on the table. In the oral, count tile, pagoda, glass, tree, then say this is not a “ancient meets modern” poster. It is a contract still unsigned: which past do we keep so the future is still liveable."
+      },
+      {
+        "key": "define",
+        "title": "这是什么",
+        "titleEn": "What it is",
+        "zh": "传统与现代在这里不是风格题，是共处题：人如何与自己的时间共处，也与能源、水和尺度共处。它解决的是「既要根，又要速度」的日常分裂——同一天里，人可以去博物馆，也可以进玻璃塔上班。平衡不是各一半。有的传统该进博物馆，有的该继续长；有的现代该引进，有的该拒绝。谈判对象不只是审美，还包括夏天这面玻璃要吃多少电、暴雨时老城的砖缝还能否排水。共享地球的最后一题，其实是共享时间。",
+        "en": "Tradition and the modern are not a style question here. They are a coexistence question: how people share time with their own past, and also with energy, water and scale. They answer the everyday split of wanting roots and speed — the same day, a museum and a glass tower to work in. Balance is not fifty-fifty. Some traditions belong in a museum; some should keep growing. Some modern things should be imported; some refused. The other party in the negotiation is not only taste. It is how much electricity this glass will eat in summer, and whether the old city’s brick joints can still drain in a storm. The last sharing-the-planet question is sharing time."
+      },
+      {
+        "key": "how",
+        "title": "谁决定留还是拆",
+        "titleEn": "Who decides to keep or demolish",
+        "zh": "谁拍板：规划局的限高和保护名录、开发商的仿古街、游客的打卡清单、还住在老城的居民。做法很具体：一片老城被划成步行区，租金上涨，原住民搬走，留下茶馆和汉服租赁；另一片被推平起玻璃塔；高铁站里贴春联，奶茶店的墙上写书法，像把传统做成配料。钱从门票、写字楼租金、短视频来。规则是：能赚钱的「故」被点亮，不能赚钱的檐和井被填。口语里选一个你观察过的矛盾。矛盾比「融合得很好」更像思考。",
+        "en": "Who decides: the planning bureau’s height limits and protection lists, a developer’s fake-antique street, a tourist checklist, residents still living in the old city. Practice is concrete: one old quarter becomes a pedestrian zone, rents rise, locals leave, teahouses and hanfu hire remain; another is flattened for a glass tower. Couplets go up in a high-speed station; calligraphy on a milk-tea wall treats tradition as an ingredient. Money comes from tickets, office rent, short video. The rule: a profitable “old” is lit; an unprofitable eave or well is filled. In the oral, pick one contradiction you have seen. Contradiction writes more like thinking than “they blend well”."
+      },
+      {
+        "key": "good",
+        "title": "三层好处",
+        "titleEn": "Three layers of good",
+        "zh": "个人：同一天可以过两种身份，穿汉服拍照，再进空调办公室；不必在「全盘古」和「全盘新」里选边。家庭：一桌两套规矩——长辈要年夜饭，晚辈要咖啡馆，城市提供两种场地。社会与地球：若谈判包含能源和尺度，城市可以既留记忆，又留得住荫、风、排水；传统的大屋顶和巷道有时比玻璃幕墙更适合这一片气候。好处不是明信片上的并置，是还可以住人。能住，才是共处；只能拍，是布景。",
+        "en": "Person: two identities in one day — hanfu for a photograph, then an air-conditioned office. You need not choose all-ancient or all-new. Family: two sets of rules at one table — elders want the New Year meal, the young want a café; the city offers both rooms. Society and earth: if the negotiation includes energy and scale, a city can keep memory and also keep shade, wind and drainage. A traditional big roof and lane sometimes fit this climate better than a glass curtain wall. The good is not juxtaposition on a postcard. It is still being liveable. Liveable is coexistence. Photographable only is a set."
+      },
+      {
+        "key": "bad",
+        "title": "两层问题",
+        "titleEn": "Two kinds of trouble",
+        "zh": "日常：假古董一条街，水泥仿木，夜景灯把檐照成主题公园；汉服和书法变成滤镜，传统被消费，不被使用。结构：玻璃幕墙的电费和热岛记在夏天的电网和街上的人身上；老城排水系统被地下停车场打断，暴雨一来，保护建筑泡在水里；居民被租金挤走，留下的「传统」没有生活。被排除的是付不起保护名录里那杯茶的本地人，以及热浪里必须穿过玻璃峡谷去上班的人。平衡失败的时候，瓦和玻璃都在，人却不在。",
+        "en": "Everyday: a fake-antique street, cement pretending to be wood, night lights turning eaves into a theme park. Hanfu and calligraphy become filters; tradition is consumed, not used. Structure: the glass wall’s electricity and heat island are booked to the summer grid and to people on the street. The old city’s drains are cut by an underground car park; a storm puts a protected building in water. Residents are priced out; the “tradition” left behind has no life. Left out: locals who cannot afford the cup of tea on the protection list, and people who must walk a glass canyon to work in a heatwave. When the balance fails, tile and glass remain, and people do not."
+      },
+      {
+        "key": "sides",
+        "title": "广度侧面",
+        "titleEn": "Other sides",
+        "zh": "水与热必须说：大屋顶的荫、巷子的风、砖的热惰性，对玻璃的温室；老城的河道和雨水系统，对突然的极端降水。仿古商业把「故」做成可复制的店面，全国一条街像同一家公司。短视频让汉服、茶、瓦变成可导出的符号，比建筑本身走得更快。气候让「现代」的定义改写：耗能的现代可能比节气里的檐更旧。临场可转仿古街、玻璃电费、老城内涝，或「春联贴在高铁站算不算继续长」。这一站是前面六站的汇总键：桶、车、园、熊、节气、村，都在问留下什么。",
+        "en": "Water and heat must be said: the shade of a big roof, wind in a lane, brick’s thermal mass, against glass as a greenhouse; the old city’s channels and rain system, against a sudden extreme fall. Fake-antique commerce makes “the old” a shopfront you can copy; one street nationwide looks like one company. Short video exports hanfu, tea and tile as symbols faster than the building itself can travel. Climate rewrites what “modern” means: an energy-hungry modern may be older than an eave in the solar terms. Pivot to the fake-antique street, the glass bill, old-city flooding, or whether a couplet in a rail station counts as still growing. This station is the summary key of the previous six: bin, bike, garden, bear, term, village — all ask what to keep."
+      },
+      {
+        "key": "compare",
+        "title": "比较与主题",
+        "titleEn": "Comparison and the theme",
+        "zh": "西班牙城市常见「历史城区加扩建区」：老城的石头巷，扩建区的林荫道和现代楼，两套时间并排，也抢租金、也抢水。京都的町屋是更通用的锚。斗牛在西班牙同样卡在传统与现代之间：遗产还是残忍，立法可以改，广场还在。谁在和地球共处？住在瓦下的人、在玻璃楼里开空调的人、被挤出老城的居民，以及同一条河上的排水口。代价记在电费、热岛、内涝和空掉的老房子上，不记在「古今同框」的海报里。留下能用的檐、井、树和排水，拒绝不能住的布景。",
+        "en": "Spanish cities often run a historic centre plus an extension: stone lanes of the casco histórico, avenues and modern blocks of the Ensanche — two times side by side, also fighting over rent and water. Kyoto’s machiya is a broader anchor. Bullfighting in Spain is stuck in the same hinge of tradition and the modern: heritage or cruelty; law can change, the square remains. Who is sharing the planet? People under the tiles, people running air-con in glass, residents priced out of the old city, and the outfall on the same river. The cost is booked to the electricity bill, the heat island, flooding and emptied old houses — not to a poster of “ancient and modern in one frame”. Keep eaves, wells, trees and drains that still work. Refuse a set you cannot live in."
+      }
+    ],
+    "oralSkeleton": [
+      {
+        "time": "0:00–0:30",
+        "zh": "琉璃瓦、白塔、玻璃楼、冬树；「还没谈完的合同」。",
+        "en": "Glazed tile, white pagoda, glass tower, winter tree; “a contract still unsigned.”"
+      },
+      {
+        "time": "0:30–0:55",
+        "zh": "选择摊在桌上；谈判对象包括能源、水、记忆。",
+        "en": "Choices laid on the table; the other party includes energy, water, memory."
+      },
+      {
+        "time": "0:55–1:35",
+        "zh": "限高或仿古街；春联加奶茶书法；选一个矛盾。",
+        "en": "Height limit or fake-antique street; couplets plus milk-tea calligraphy; pick one contradiction."
+      },
+      {
+        "time": "1:35–2:15",
+        "zh": "同一天两种身份／一桌两套规矩／可住的未来。",
+        "en": "Two identities in one day / two rules at one table / a future you can still live in."
+      },
+      {
+        "time": "2:15–3:00",
+        "zh": "假古董；玻璃的电费；居民被挤走；老城内涝。",
+        "en": "Fake antiques; the glass electricity bill; residents priced out; the old city floods."
+      },
+      {
+        "time": "3:00–4:00",
+        "zh": "历史城区加扩建区，或京都町屋；留下能用的，拒绝不能住的。",
+        "en": "Historic centre plus extension, or Kyoto machiya; keep what still works, refuse what you cannot live in."
+      }
+    ],
+    "oralPrompts": [
+      {
+        "zh": "传统和现代一定冲突吗？",
+        "en": "Must tradition and the modern conflict?"
+      },
+      {
+        "zh": "全球化让中国文化更强，还是更淡？",
+        "en": "Has globalization made Chinese culture stronger, or thinner?"
+      },
+      {
+        "zh": "哪些传统你希望被保留，哪些可以改变？",
+        "en": "Which traditions would you keep, and which may change?"
+      },
+      {
+        "zh": "比较中国的瓦与玻璃，和西班牙的历史城区加扩建区。",
+        "en": "Compare China’s tile and glass with Spain’s historic centre plus extension."
+      },
+      {
+        "zh": "大屋顶和玻璃幕墙，哪一个更适合这一片气候？",
+        "en": "Which fits this climate better: a big traditional roof, or a glass curtain wall?"
+      },
+      {
+        "zh": "一张同时有古建筑和摩天楼的照片，你会怎样描述？",
+        "en": "How would you describe a photo with an old building and a skyscraper together?"
+      }
+    ],
+    "followUps": [
+      {
+        "zh": "传统和现代一定冲突吗？冲突在能源、租金、谁住；不一定在审美。",
+        "en": "Must they conflict? The clash is energy, rent, who lives there — not always taste."
+      },
+      {
+        "zh": "全球化让中国文化更强，还是更淡？菜单变长，厨房可能被拆；举瓦与玻璃、汉服与手机。",
+        "en": "Stronger or thinner under globalization? The menu lengthens; the kitchen may be demolished. Cite tile and glass, hanfu and the phone."
+      },
+      {
+        "zh": "哪些传统你希望被保留，哪些可以改变？给清单，连到能用、能住、能排水。",
+        "en": "Which traditions would you keep, which change? Give a list, tied to usable, liveable, able to drain."
+      }
+    ],
+    "vocab": [
+      {
+        "hanzi": "传统",
+        "pinyin": "chuántǒng",
+        "pos": "名",
+        "en": "tradition",
+        "example": "传统该继续长，还是进博物馆，要分开说。",
+        "exampleEn": "Say separately which tradition should keep growing, and which belongs in a museum."
+      },
+      {
+        "hanzi": "现代",
+        "pinyin": "xiàndài",
+        "pos": "形/名",
+        "en": "modern / modernity",
+        "example": "现代如果不能住，就只是布景。",
+        "exampleEn": "If the modern cannot be lived in, it is only a set."
+      },
+      {
+        "hanzi": "全球化",
+        "pinyin": "quánqiúhuà",
+        "pos": "名",
+        "en": "globalisation",
+        "example": "全球化换的是菜单，不是国家。",
+        "exampleEn": "Globalization changes the menu, not the country."
+      },
+      {
+        "hanzi": "平衡",
+        "pinyin": "pínghéng",
+        "pos": "名",
+        "en": "balance",
+        "example": "平衡不是各一半。",
+        "exampleEn": "Balance is not fifty-fifty."
+      },
+      {
+        "hanzi": "冲突",
+        "pinyin": "chōngtū",
+        "pos": "名/动",
+        "en": "conflict / to conflict",
+        "example": "冲突比「融合得很好」更好写。",
+        "exampleEn": "Conflict writes better than “they blend well”."
+      },
+      {
+        "hanzi": "保留",
+        "pinyin": "bǎoliú",
+        "pos": "动",
+        "en": "to preserve / keep",
+        "example": "保留檐和排水，不只保留拍照角。",
+        "exampleEn": "Keep the eave and the drain, not only the photo corner."
+      },
+      {
+        "hanzi": "融合",
+        "pinyin": "rónghé",
+        "pos": "动",
+        "en": "fusion / blending",
+        "example": "融合不能把原住民融走。",
+        "exampleEn": "Blending must not blend the residents away."
+      },
+      {
+        "hanzi": "未来",
+        "pinyin": "wèilái",
+        "pos": "名",
+        "en": "future",
+        "example": "未来要还能住人，不只还能拍照。",
+        "exampleEn": "The future must still be liveable, not only photographable."
+      },
+      {
+        "hanzi": "仿古",
+        "pinyin": "fǎnggǔ",
+        "pos": "形/动",
+        "en": "pseudo-antique",
+        "example": "仿古街常常没有生活。",
+        "exampleEn": "A fake-antique street often has no life in it."
+      },
+      {
+        "hanzi": "耗能",
+        "pinyin": "hàonéng",
+        "pos": "形/动",
+        "en": "energy-consuming",
+        "example": "玻璃幕墙的耗能是夏天的账。",
+        "exampleEn": "The glass wall’s energy use is summer’s bill."
+      },
+      {
+        "hanzi": "琉璃瓦",
+        "pinyin": "liúlíwǎ",
+        "pos": "名",
+        "en": "glazed tile",
+        "example": "琉璃瓦后面是玻璃塔，两套时间叠在同一帧。",
+        "exampleEn": "Behind the glazed tiles is a glass tower: two times stacked in one frame."
+      },
+      {
+        "hanzi": "天际线",
+        "pinyin": "tiānjìxiàn",
+        "pos": "名",
+        "en": "skyline",
+        "example": "两套天际线像一份还没谈完的合同。",
+        "exampleEn": "Two skylines look like a contract still unsigned."
+      },
+      {
+        "hanzi": "热岛",
+        "pinyin": "rèdǎo",
+        "pos": "名",
+        "en": "heat island",
+        "example": "玻璃幕墙的热岛记在街上走路的人身上。",
+        "exampleEn": "The glass wall’s heat island is booked to people walking the street."
+      },
+      {
+        "hanzi": "排水",
+        "pinyin": "páishuǐ",
+        "pos": "动/名",
+        "en": "drainage / to drain",
+        "example": "老城排水被地下停车场打断，暴雨就泡到保护建筑。",
+        "exampleEn": "When old-city drains are cut by an underground car park, a storm soaks the protected building."
+      },
+      {
+        "hanzi": "布景",
+        "pinyin": "bùjǐng",
+        "pos": "名",
+        "en": "set / scenery",
+        "example": "只能拍、不能住，就是布景。",
+        "exampleEn": "If you can only photograph it and cannot live in it, it is a set."
+      },
+      {
+        "hanzi": "限高",
+        "pinyin": "xiàngāo",
+        "pos": "名",
+        "en": "height limit",
+        "example": "规划局的限高决定瓦后面还能不能看见天。",
+        "exampleEn": "The planning bureau’s height limit decides whether sky is still visible behind the tiles."
+      }
+    ]
+  }
+]

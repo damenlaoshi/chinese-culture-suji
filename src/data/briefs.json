@@ -1,0 +1,5988 @@
+[
+  {
+    "slug": "xiao-dao",
+    "theme": "identities",
+    "titleZh": "孝道与家庭",
+    "titleEn": "Filial piety and the family",
+    "subtitle": "先学会做人，再谈独立。",
+    "ibLens": "Identities · Beliefs & values",
+    "image": "/images/topics/xiao-dao.jpg",
+    "imageAlt": "祖母教孩子包饺子",
+    "related": [
+      "mianzi",
+      "jiating",
+      "yanglao",
+      "wangzi"
+    ],
+    "oneLineCore": {
+      "zh": "先照顾家庭关系，再谈个人独立。",
+      "en": "Family ties often come before talking about independence."
+    },
+    "memoryPoints": [
+      {
+        "zh": "孝道是家庭秩序，不只是感情。",
+        "en": "Filial piety is family order, not only feeling."
+      },
+      {
+        "zh": "小事里可见：先让长辈动筷。",
+        "en": "It shows in small acts: elders start the meal."
+      },
+      {
+        "zh": "年轻一代更要空间，两代容易吵。",
+        "en": "Younger people want space, so generations clash."
+      },
+      {
+        "zh": "尊重不等于什么都听父母的。",
+        "en": "Respect is not the same as obeying everything."
+      },
+      {
+        "zh": "身份在关系网里：你是谁的孩子。",
+        "en": "Identity sits in a net: whose child you are."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "穿红毛衣的小女孩，头低着，手指还不会自己擀皮",
+        "en": "A little girl in a red sweater, head down, fingers not yet able to roll the dough alone"
+      },
+      {
+        "zh": "花白头发、深蓝外套的祖母，身体侧过来包住孩子的手",
+        "en": "A grey-haired grandmother in a dark-blue coat, her body angled to enclose the child's hands"
+      },
+      {
+        "zh": "案板上的圆面皮、一撮馅、撒了干粉的木面",
+        "en": "Round wrappers on the board, a pinch of filling, wood dusted with dry flour"
+      },
+      {
+        "zh": "竹匾或笸箩里已经码好的一排饺子",
+        "en": "A row of finished dumplings already lined in a bamboo tray"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "孝道",
+        "pinyin": "xiàodào",
+        "en": "filial piety",
+        "collocation": "孝道是中国文化的核心价值之一。",
+        "collocationEn": "Filial piety is a core Chinese value."
+      },
+      {
+        "hanzi": "长辈",
+        "pinyin": "zhǎngbèi",
+        "en": "elder / senior relative",
+        "collocation": "吃饭时应该先给长辈夹菜。",
+        "collocationEn": "At meals you should serve the elders first."
+      },
+      {
+        "hanzi": "独立",
+        "pinyin": "dúlì",
+        "en": "independent",
+        "collocation": "她想独立生活，但每周仍回家看父母。",
+        "collocationEn": "She wants to live independently but still visits weekly."
+      },
+      {
+        "hanzi": "责任",
+        "pinyin": "zérèn",
+        "en": "responsibility",
+        "collocation": "照顾父母是一种责任，不只是感情。",
+        "collocationEn": "Caring for parents is a duty, not only a feeling."
+      },
+      {
+        "hanzi": "尊重",
+        "pinyin": "zūnzhòng",
+        "en": "to respect",
+        "collocation": "尊重长辈不等于什么都听他们的。",
+        "collocationEn": "Respecting elders is not the same as obeying everything."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把孝说成所有人都盲目服从。",
+      "en": "Do not call filial piety blind obedience for everyone."
+    },
+    "compareAnchor": {
+      "zh": "西班牙也有 familia 和「先听爷爷奶奶的」",
+      "en": "Spain also has familia and “listen to the grandparents first”: the Sunday long table, Nochebuena you must attend, a neighbour’s look if you send an elder to a home."
+    },
+    "oralRound1": [
+      {
+        "zh": "描述这张包饺子的图：谁的手在用力？窗外是什么光？",
+        "en": "Describe this dumpling scene: whose hands are doing the work? What light is at the window?",
+        "cues": [
+          "穿红毛衣的小女孩",
+          "花白头发、深蓝外套的祖母",
+          "案板上的圆面皮、一撮馅",
+          "竹匾或笸箩里已经码好的一排饺子"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "你觉得孝顺和独立可以同时存在吗？",
+        "en": "Can being filial and being independent exist together?",
+        "cues": [
+          "孝道是家庭秩序",
+          "小事里可见：先让长辈动筷",
+          "年轻一代更要空间",
+          "尊重不等于什么都听父母"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「孝道与家庭」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Filial piety and the family? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙也有 familia 和「先听爷爷奶奶的」",
+          "不要把孝说成所有人都盲目服从",
+          "孝道是家庭秩序",
+          "小事里可见：先让长辈动筷"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "mianzi",
+    "theme": "identities",
+    "titleZh": "面子与谦虚",
+    "titleEn": "Face and humility",
+    "subtitle": "有面子，没面子，丢面子，爱面子。",
+    "ibLens": "Identities · Beliefs & values",
+    "image": "/images/topics/mianzi.jpg",
+    "imageAlt": "宴席上的劝酒",
+    "related": [
+      "jiuculture",
+      "daike",
+      "jiti",
+      "renqing"
+    ],
+    "oneLineCore": {
+      "zh": "面子是别人眼中的体面。",
+      "en": "Face is dignity as other people see it."
+    },
+    "memoryPoints": [
+      {
+        "zh": "请客、成绩、学校都可能关乎面子。",
+        "en": "Bills, grades and schools can all touch face."
+      },
+      {
+        "zh": "谦虚常用来挡住过于张扬。",
+        "en": "Modesty often blocks being too high-profile."
+      },
+      {
+        "zh": "劝酒有时是热情，有时是权力测试。",
+        "en": "A toast can be warmth, or a test of power."
+      },
+      {
+        "zh": "拒绝要给人台阶，不只硬说不。",
+        "en": "A refusal should leave a way out, not only a no."
+      },
+      {
+        "zh": "爱面子能护荣誉，也能变成虚荣。",
+        "en": "Caring about face can guard honour, or become vanity."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "红木圆桌，转盘上还有没动完的鱼和青菜",
+        "en": "A rosewood round table; fish and greens still unfinished on the lazy Susan"
+      },
+      {
+        "zh": "一圈人把小白酒杯举到同一高度",
+        "en": "A circle of people raising small baijiu cups to the same height"
+      },
+      {
+        "zh": "主位上穿深色西装的中年男人，杯沿对着全桌",
+        "en": "A middle-aged man in a dark suit at the seat of honour, cup-rim facing the table"
+      },
+      {
+        "zh": "穿红旗袍或深色礼服的人坐在侧位",
+        "en": "Someone in a red qipao or dark formal dress seated to the side"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "面子",
+        "pinyin": "miànzi",
+        "en": "face / social dignity",
+        "collocation": "当众批评他会让他很没面子。",
+        "collocationEn": "Criticising him in public would make him lose face."
+      },
+      {
+        "hanzi": "谦虚",
+        "pinyin": "qiānxū",
+        "en": "modest / humble",
+        "collocation": "中国人常常用谦虚的方式接受夸奖。",
+        "collocationEn": "Chinese people often accept praise modestly."
+      },
+      {
+        "hanzi": "虚荣",
+        "pinyin": "xūróng",
+        "en": "vanity",
+        "collocation": "为了虚荣买名牌，不一定让人更快乐。",
+        "collocationEn": "Buying luxury for vanity does not always make people happier."
+      },
+      {
+        "hanzi": "张扬",
+        "pinyin": "zhāngyáng",
+        "en": "to show off / high-profile",
+        "collocation": "她很优秀，但从不张扬。",
+        "collocationEn": "She is excellent but never shows off."
+      },
+      {
+        "hanzi": "劝酒",
+        "pinyin": "quànjiǔ",
+        "en": "to press someone to drink",
+        "collocation": "有些饭局上，劝酒会让人很尴尬。",
+        "collocationEn": "At some dinners, being pressed to drink is awkward."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要说中国人全都爱面子、都喝酒。",
+      "en": "Do not say all Chinese people care about face or drink."
+    },
+    "compareAnchor": {
+      "zh": "西班牙也有 el qué dirán 和荣誉",
+      "en": "Spain also has el qué dirán and honour: neighbours’ eyes, a family name, one more glass pressed at table — not the same word as face, but the same layer of skin."
+    },
+    "oralRound1": [
+      {
+        "zh": "描述这张酒桌：谁坐主位？谁不敢先放下杯子？",
+        "en": "Describe this banquet table: who sits in the seat of honour? Who dares not set the cup down first?",
+        "cues": [
+          "红木圆桌，转盘上还有没动完的鱼和青",
+          "一圈人把小白酒杯举到同一高度",
+          "主位上穿深色西装的中年男人",
+          "穿红旗袍或深色礼服的人坐在侧位"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "别人夸你时，你通常怎么回答？为什么？",
+        "en": "When someone praises you, how do you usually reply, and why?",
+        "cues": [
+          "请客、成绩、学校都可能关乎面子",
+          "谦虚常用来挡住过于张扬",
+          "劝酒有时是热情",
+          "拒绝要给人台阶"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「面子与谦虚」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Face and humility? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙也有 el qué dirán 和荣誉",
+          "不要说中国人全都爱面子",
+          "请客、成绩、学校都可能关乎面子",
+          "谦虚常用来挡住过于张扬"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "jiti",
+    "theme": "identities",
+    "titleZh": "集体主义",
+    "titleEn": "Collectivism",
+    "subtitle": "集体大于个人，并不等于没有自我。",
+    "ibLens": "Identities · Subcultures / values",
+    "image": "/images/topics/jiti.jpg",
+    "imageAlt": "团队合影",
+    "related": [
+      "mianzi",
+      "gaokao",
+      "shequ",
+      "neijuan"
+    ],
+    "oneLineCore": {
+      "zh": "自我常常通过集体来确认。",
+      "en": "The self is often confirmed through a group."
+    },
+    "memoryPoints": [
+      {
+        "zh": "班、队、公司有时排在「我」前面。",
+        "en": "Class, team or company can come before “I”."
+      },
+      {
+        "zh": "校服和班歌训练同一种归属。",
+        "en": "Uniforms and class songs train belonging."
+      },
+      {
+        "zh": "好处是互助；代价是异议像不合群。",
+        "en": "Gain is help; cost is that dissent looks unsocial."
+      },
+      {
+        "zh": "城市年轻人同时追求个性和合群。",
+        "en": "City youth chase both individuality and fitting in."
+      },
+      {
+        "zh": "更准确：不是没有自我，是自我有位置。",
+        "en": "Fairer: not no self, but a self with a place."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一排红校服、白边，领口和袖口几乎同一尺寸",
+        "en": "A row of red uniforms with white trim; collars and cuffs almost the same size"
+      },
+      {
+        "zh": "中间的孩子把奖杯举过肩，金属反光",
+        "en": "The child in the middle lifts the cup past the shoulder; metal catches the light"
+      },
+      {
+        "zh": "几条金色绶带斜挎在胸前，上面能看见「冠军」一类的字",
+        "en": "Gold sashes across chests, with words like “champion” still readable"
+      },
+      {
+        "zh": "后排有人把手指成 V，笑是统一的方向",
+        "en": "Someone in the back row makes a V; the smiles face one way"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "集体",
+        "pinyin": "jítǐ",
+        "en": "collective / group",
+        "collocation": "他不愿意为了集体放弃自己的兴趣。",
+        "collocationEn": "He does not want to drop his interests for the group."
+      },
+      {
+        "hanzi": "合群",
+        "pinyin": "héqún",
+        "en": "sociable / fitting in",
+        "collocation": "老师常夸她很合群。",
+        "collocationEn": "Teachers often praise her for fitting in."
+      },
+      {
+        "hanzi": "归属感",
+        "pinyin": "guīshǔgǎn",
+        "en": "sense of belonging",
+        "collocation": "班集体给他很强的归属感。",
+        "collocationEn": "The class gave him a strong sense of belonging."
+      },
+      {
+        "hanzi": "个性",
+        "pinyin": "gèxìng",
+        "en": "individuality / personality",
+        "collocation": "现在的年轻人更敢于表现个性。",
+        "collocationEn": "Young people today dare more to show individuality."
+      },
+      {
+        "hanzi": "团结",
+        "pinyin": "tuánjié",
+        "en": "united / to unite",
+        "collocation": "比赛前教练强调团结。",
+        "collocationEn": "Before the match the coach stressed unity."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把集体主义说成没有个人意见。",
+      "en": "Do not treat collectivism as having no personal view."
+    },
+    "compareAnchor": {
+      "zh": "西班牙有 peña、cuadrilla、球队和合唱节：潘普洛纳的朋友会、学校的 equipo，也把人写成「我们」",
+      "en": "Spain has the peña, the cuadrilla, the team and the choral festival: the Pamplona friends’ club, the school equipo, also write a person as “we.” Southern Europe does not lack the c"
+    },
+    "oralRound1": [
+      {
+        "zh": "描述这张合影：衣服一样吗？谁举着奖杯？",
+        "en": "Describe this group photo: are the clothes the same? Who is holding the cup?",
+        "cues": [
+          "一排红校服、白边",
+          "中间的孩子把奖杯举过肩",
+          "几条金色绶带斜挎在胸前",
+          "后排有人把手指成 V"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "你更喜欢团队合作还是单独完成任务？为什么？",
+        "en": "Do you prefer teamwork or working alone, and why?",
+        "cues": [
+          "班、队、公司有时排在「我」前面",
+          "校服和班歌训练同一种归属",
+          "好处是互助；代价是异议像不合群",
+          "城市年轻人同时追求个性和合群"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「集体主义」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Collectivism? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙有 peña、cuadrilla、球队和合唱节",
+          "不要把集体主义说成没有个人意见",
+          "班、队、公司有时排在「我」前面",
+          "校服和班歌训练同一种归属"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "shengxiao",
+    "theme": "identities",
+    "titleZh": "十二生肖",
+    "titleEn": "The twelve zodiac animals",
+    "subtitle": "先天的属相，后天的习惯。",
+    "ibLens": "Identities · Beliefs & language",
+    "image": "/images/topics/shengxiao.jpg",
+    "imageAlt": "窗花上的生肖龙",
+    "related": [
+      "qiming",
+      "jieri",
+      "tianren",
+      "long-de-chuanren"
+    ],
+    "oneLineCore": {
+      "zh": "属相是日常标签，不是科学证明。",
+      "en": "The zodiac is an everyday tag, not a scientific proof."
+    },
+    "memoryPoints": [
+      {
+        "zh": "见面可问「你属什么」，再问星座。",
+        "en": "People may ask your animal before a star sign."
+      },
+      {
+        "zh": "龙年出生的孩子往往特别多。",
+        "en": "Dragon years often see more births."
+      },
+      {
+        "zh": "属相进入语言：牛能吃苦，猴聪明。",
+        "en": "Animals enter speech: oxen endure, monkeys are clever."
+      },
+      {
+        "zh": "它给陌生人话题，也给人生来的位置。",
+        "en": "It gives strangers a topic and a place of birth."
+      },
+      {
+        "zh": "性格更多来自习惯，不只来自年份。",
+        "en": "Character comes more from habit than from the year."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一整扇红窗花，剪成龙的形状",
+        "en": "A whole pane of red paper-cut, snipped into the shape of a dragon"
+      },
+      {
+        "zh": "龙的须、角、鳞片都是锯齿状的纸边",
+        "en": "The whiskers, horns and scales are all serrated paper edges"
+      },
+      {
+        "zh": "木头窗格把龙分成几块，像被框住的命运",
+        "en": "Wooden muntins divide the dragon into pieces, like a fate held in a frame"
+      },
+      {
+        "zh": "窗外雪光或冷白的天，红纸被衬得很烈",
+        "en": "Snow-light or a cold white sky outside, setting the red paper on fire"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "生肖",
+        "pinyin": "shēngxiào",
+        "en": "Chinese zodiac",
+        "collocation": "十二生肖十二年一轮回。",
+        "collocationEn": "The twelve animals cycle every twelve years."
+      },
+      {
+        "hanzi": "属",
+        "pinyin": "shǔ",
+        "en": "to be born in the year of",
+        "collocation": "我属虎。",
+        "collocationEn": "I was born in the Year of the Tiger."
+      },
+      {
+        "hanzi": "象征",
+        "pinyin": "xiàngzhēng",
+        "en": "to symbolise / symbol",
+        "collocation": "龙象征力量和权威。",
+        "collocationEn": "The dragon symbolises power and authority."
+      },
+      {
+        "hanzi": "运气",
+        "pinyin": "yùnqi",
+        "en": "luck",
+        "collocation": "不能把一切都交给运气。",
+        "collocationEn": "You cannot leave everything to luck."
+      },
+      {
+        "hanzi": "民俗",
+        "pinyin": "mínsú",
+        "en": "folk custom",
+        "collocation": "生肖是一种流传很久的民俗。",
+        "collocationEn": "The zodiac is a long-standing folk custom."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要用属相判断一个人的全部性格。",
+      "en": "Do not judge a whole personality by the zodiac."
+    },
+    "compareAnchor": {
+      "zh": "西班牙更常先问星座：白羊、天蝎，和属虎、属龙是同一类「用出生时刻给人画像」的游戏",
+      "en": "Spain more often asks a star sign first: Aries, Scorpio — the same game as tiger and dragon, painting a person with the hour of birth."
+    },
+    "oralRound1": [
+      {
+        "zh": "描述这张窗花：你看见什么颜色、什么动物？",
+        "en": "Describe this window-cut: what colour, what animal do you see?",
+        "cues": [
+          "一整扇红窗花",
+          "龙的须、角、鳞片都是锯齿状的纸边",
+          "木头窗格把龙分成几块",
+          "窗外雪光或冷白的天"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "你属什么？你觉得它准吗？",
+        "en": "What is your zodiac animal? Do you think it fits?",
+        "cues": [
+          "见面可问「你属什么」",
+          "龙年出生的孩子往往特别多",
+          "属相进入语言：牛能吃苦",
+          "它给陌生人话题"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「十二生肖」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The twelve zodiac animals? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙更常先问星座",
+          "不要用属相判断一个人的全部性格",
+          "见面可问「你属什么」",
+          "龙年出生的孩子往往特别多"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "qiming",
+    "theme": "identities",
+    "titleZh": "起名文化",
+    "titleEn": "The culture of naming",
+    "subtitle": "姓在前，名在后；一个字，可能是整代人的约定。",
+    "ibLens": "Identities · Language & identity",
+    "image": "/images/topics/qiming.jpg",
+    "imageAlt": "用毛笔写名字",
+    "related": [
+      "xiao-dao",
+      "fangyan",
+      "hanzi",
+      "long-de-chuanren"
+    ],
+    "oneLineCore": {
+      "zh": "姓连着家族，名是父母的第一句话。",
+      "en": "The surname ties a clan; the given name is a first sentence."
+    },
+    "memoryPoints": [
+      {
+        "zh": "中文姓名先姓后名。",
+        "en": "A Chinese name puts the family name first."
+      },
+      {
+        "zh": "字里常藏愿望：嘉、睿、安、宁。",
+        "en": "Characters often hide wishes: excellence, peace."
+      },
+      {
+        "zh": "有的家族按字辈取名，一代共用一字。",
+        "en": "Some clans share a generation character."
+      },
+      {
+        "zh": "起名还要听声音、避讳长辈的字。",
+        "en": "Sound matters, and an elder’s given name is avoided."
+      },
+      {
+        "zh": "生僻字好看，却可能难在系统里输入。",
+        "en": "Rare characters look special but are hard to type."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一张铺平的宣纸，纸边微微起毛",
+        "en": "A sheet of xuan paper laid flat, the edges slightly fluffed"
+      },
+      {
+        "zh": "毛笔锋还含着墨，停在一个未干的点上",
+        "en": "The brush tip still holds ink, paused on a point that has not dried"
+      },
+      {
+        "zh": "纸上能看见表扬、愿望一类的字，例如「嘉」「睿」",
+        "en": "On the paper, characters of praise and wish — Jia, Rui"
+      },
+      {
+        "zh": "砚台或墨碟在手边，墨色由浓到淡",
+        "en": "An inkstone or dish at hand, the ink running from dark to thin"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "姓名",
+        "pinyin": "xìngmíng",
+        "en": "full name",
+        "collocation": "请在表格上填写你的姓名。",
+        "collocationEn": "Please write your full name on the form."
+      },
+      {
+        "hanzi": "姓",
+        "pinyin": "xìng",
+        "en": "surname",
+        "collocation": "中国人的姓放在名字前面。",
+        "collocationEn": "In Chinese the surname comes first."
+      },
+      {
+        "hanzi": "寓意",
+        "pinyin": "yùyì",
+        "en": "implied meaning",
+        "collocation": "这个名字的寓意是平安。",
+        "collocationEn": "This name implies peace."
+      },
+      {
+        "hanzi": "辈分",
+        "pinyin": "bèifen",
+        "en": "seniority in the clan",
+        "collocation": "按辈分，我应该叫他叔叔。",
+        "collocationEn": "By generation rank I should call him uncle."
+      },
+      {
+        "hanzi": "家族",
+        "pinyin": "jiāzú",
+        "en": "clan / extended family",
+        "collocation": "家族历史写在家谱里。",
+        "collocationEn": "Clan history is written in the genealogy book."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把名字的寓意说成命运已经被写死。",
+      "en": "Do not treat a name’s meaning as a fixed destiny."
+    },
+    "compareAnchor": {
+      "zh": "西班牙名字常是名＋父姓＋母姓",
+      "en": "A Spanish name is often given name plus father’s surname plus mother’s; a saint’s calendar and a grandfather’s name may enter."
+    },
+    "oralRound1": [
+      {
+        "zh": "描述这张写名字的图：笔停在哪一个字上？",
+        "en": "Describe this naming picture: on which character has the brush paused?",
+        "cues": [
+          "一张铺平的宣纸",
+          "毛笔锋还含着墨",
+          "纸上能看见表扬、愿望一类的字",
+          "砚台或墨碟在手边"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "介绍你的中文名字：哪个字是声音，哪个字是愿望？",
+        "en": "Introduce your Chinese name: which character is sound, which is a wish?",
+        "cues": [
+          "中文姓名先姓后名",
+          "字里常藏愿望：嘉、睿",
+          "有的家族按字辈取名",
+          "起名还要听声音"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「起名文化」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The culture of naming? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙名字常是名＋父姓＋母姓",
+          "不要把名字的寓意说成命运已经被写",
+          "中文姓名先姓后名",
+          "字里常藏愿望：嘉、睿"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "fangyan",
+    "theme": "identities",
+    "titleZh": "普通话与方言",
+    "titleEn": "Putonghua and dialects",
+    "subtitle": "你说哪种话，别人就知道你从哪里来。",
+    "ibLens": "Identities · Language & identity",
+    "image": "/images/topics/fangyan.jpg",
+    "imageAlt": "巷子里用方言聊天的邻居",
+    "related": [
+      "qiming",
+      "hanzi",
+      "hukou",
+      "chunyun"
+    ],
+    "oneLineCore": {
+      "zh": "普通话方便交流，方言保存记忆。",
+      "en": "Putonghua eases talk; a dialect stores memory."
+    },
+    "memoryPoints": [
+      {
+        "zh": "普通话让上课、考试、电视能共用。",
+        "en": "Putonghua lets school, exams and TV be shared."
+      },
+      {
+        "zh": "方言一开口，别人就听到家乡。",
+        "en": "A dialect lets others hear a hometown at once."
+      },
+      {
+        "zh": "很多人学校说普通话，回家说方言。",
+        "en": "Many speak Putonghua at school and a dialect at home."
+      },
+      {
+        "zh": "父母觉得普通话有用，孩子觉得方言不酷。",
+        "en": "Parents call Putonghua useful; children call dialects uncool."
+      },
+      {
+        "zh": "一种话消失，可能带走一种看世界的方式。",
+        "en": "When a tongue dies, a way of seeing may go with it."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一条窄巷，青石板或旧水泥，光从巷口进来",
+        "en": "A narrow lane of slate or old cement; light comes in from the mouth of the alley"
+      },
+      {
+        "zh": "坐在小板凳或竹椅上的老人，身子往对方那边斜",
+        "en": "An elder on a low stool or bamboo chair, body leaning toward the other person"
+      },
+      {
+        "zh": "靠墙站着的中年人，手里可能有扇子或烟",
+        "en": "A middle-aged person standing against the wall, perhaps a fan or a cigarette in hand"
+      },
+      {
+        "zh": "墙皮剥落，墙根有盆花或一排晾着的衣服",
+        "en": "Plaster peeling; at the foot of the wall, a pot of flowers or a line of washing"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "普通话",
+        "pinyin": "pǔtōnghuà",
+        "en": "Mandarin / Putonghua",
+        "collocation": "上课要用普通话。",
+        "collocationEn": "Class is conducted in Putonghua."
+      },
+      {
+        "hanzi": "方言",
+        "pinyin": "fāngyán",
+        "en": "dialect",
+        "collocation": "他一说方言，我就知道他是南方人。",
+        "collocationEn": "The moment he used dialect I knew he was from the south."
+      },
+      {
+        "hanzi": "口音",
+        "pinyin": "kǒuyīn",
+        "en": "accent",
+        "collocation": "她普通话说得很好，但还有一点口音。",
+        "collocationEn": "Her Putonghua is good, with a slight accent."
+      },
+      {
+        "hanzi": "母语",
+        "pinyin": "mǔyǔ",
+        "en": "mother tongue",
+        "collocation": "方言也可以是一个人的母语。",
+        "collocationEn": "A dialect can also be someone’s mother tongue."
+      },
+      {
+        "hanzi": "推广",
+        "pinyin": "tuīguǎng",
+        "en": "to promote / spread",
+        "collocation": "推广普通话方便了跨省交流。",
+        "collocationEn": "Promoting Putonghua made cross-province talk easier."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "保护方言不是反对普通话，二者可以并存。",
+      "en": "Protecting a dialect is not rejecting Putonghua."
+    },
+    "compareAnchor": {
+      "zh": "西班牙学生最硬的对应物是 castellano 和 català",
+      "en": "The hardest counterpart for a Spanish student is castellano against català, euskera, galego: one common tongue for class, one hometown tongue for recognition; the lane and the scho"
+    },
+    "oralRound1": [
+      {
+        "zh": "描述这条巷子：谁坐着？嘴型为什么不像课堂普通话？",
+        "en": "Describe this lane: who is sitting? Why do the mouth-shapes not look like classroom Putonghua?",
+        "cues": [
+          "一条窄巷，青石板或旧水泥",
+          "坐在小板凳或竹椅上的老人",
+          "靠墙站着的中年人",
+          "墙皮剥落，墙根有盆花或一排晾着的衣"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "你在家说什么语言？在学校呢？哪一种让你最像你自己？",
+        "en": "What language do you speak at home? At school? Which makes you most like yourself?",
+        "cues": [
+          "普通话让上课、考试",
+          "方言一开口，别人就听到家乡",
+          "很多人学校说普通话",
+          "父母觉得普通话有用"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「普通话与方言」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Putonghua and dialects? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙学生最硬的对应物是 castellano 和 català",
+          "保护方言不是反对普通话",
+          "普通话让上课、考试",
+          "方言一开口，别人就听到家乡"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "fushi",
+    "theme": "identities",
+    "titleZh": "传统服饰",
+    "titleEn": "Traditional dress",
+    "subtitle": "汉服、旗袍，以及五十六个民族的衣裳。",
+    "ibLens": "Identities · Lifestyles / subcultures",
+    "image": "/images/topics/fushi.jpg",
+    "imageAlt": "园林里的旗袍与汉服",
+    "related": [
+      "long-de-chuanren",
+      "chuantong-yishu",
+      "jieri",
+      "chuantong-xiandai"
+    ],
+    "oneLineCore": {
+      "zh": "衣服能说出你想属于谁。",
+      "en": "Clothes can say who you want to belong to."
+    },
+    "memoryPoints": [
+      {
+        "zh": "汉服流行，不一定等于日常都穿交领。",
+        "en": "Hanfu’s return does not mean crossed collars every day."
+      },
+      {
+        "zh": "旗袍把身体曲线和城市记忆缝在一起。",
+        "en": "The qipao sews body line to city memory."
+      },
+      {
+        "zh": "少数民族服饰提醒：中国不是一种样子。",
+        "en": "Minority dress reminds us China is not one look."
+      },
+      {
+        "zh": "景区拍照可以是自信，也可以是消费符号。",
+        "en": "A scenic photo can be confidence, or a consumer prop."
+      },
+      {
+        "zh": "离开镜头后，留下的应是工艺，不只滤镜。",
+        "en": "After the photo, craft should remain, not only a filter."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "两条交领长袍，一人偏月白，一人偏暖黄或浅褐",
+        "en": "Two crossed-collar robes, one moon-white, one warm yellow or pale brown"
+      },
+      {
+        "zh": "宽袖几乎垂到膝，走路时袖口自己会摆",
+        "en": "Wide sleeves almost to the knee; the cuffs swing by themselves as they walk"
+      },
+      {
+        "zh": "园林木廊、柱子、石板地面，光线从廊外的树缝进来",
+        "en": "A wooden garden corridor, pillars, stone flags; light comes through trees beyond the colonnade"
+      },
+      {
+        "zh": "没有双肩包，没有耳机，步子比日常上班慢",
+        "en": "No backpack, no earphones; the step is slower than a weekday commute"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "汉服",
+        "pinyin": "hànfú",
+        "en": "Han clothing",
+        "collocation": "很多年轻人周末会穿汉服去古镇。",
+        "collocationEn": "Many young people wear hanfu to old towns on weekends."
+      },
+      {
+        "hanzi": "旗袍",
+        "pinyin": "qípáo",
+        "en": "qipao / cheongsam",
+        "collocation": "旗袍常在正式场合出现。",
+        "collocationEn": "The qipao often appears on formal occasions."
+      },
+      {
+        "hanzi": "民族",
+        "pinyin": "mínzú",
+        "en": "ethnic group / nation",
+        "collocation": "中国有五十六个民族。",
+        "collocationEn": "China has fifty-six ethnic groups."
+      },
+      {
+        "hanzi": "传统",
+        "pinyin": "chuántǒng",
+        "en": "tradition / traditional",
+        "collocation": "传统不一定等于过时。",
+        "collocationEn": "Traditional is not the same as outdated."
+      },
+      {
+        "hanzi": "工艺",
+        "pinyin": "gōngyì",
+        "en": "craft / workmanship",
+        "collocation": "刺绣是一种需要时间的工艺。",
+        "collocationEn": "Embroidery is a craft that takes time."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把汉服说成全体中国人的日常服装。",
+      "en": "Do not call hanfu everyday dress for all Chinese people."
+    },
+    "compareAnchor": {
+      "zh": "西班牙有 traje de flamenca、fallera、巴斯克的 txapela：不是天天穿，可一穿就在说「我从哪场节日里来」",
+      "en": "Spain has the traje de flamenca, the fallera, the Basque txapela: not worn every day, but once on they say “which feast I come from.” Southern European festival dress and Chinese r"
+    },
+    "oralRound1": [
+      {
+        "zh": "描述这两身衣服：交领、袖子、他们走在哪里？",
+        "en": "Describe these two garments: collar, sleeves, where are they walking?",
+        "cues": [
+          "两条交领长袍，一人偏月白",
+          "宽袖几乎垂到膝",
+          "园林木廊、柱子、石板地面",
+          "没有双肩包，没有耳机"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "离开镜头以后，这身汉服还留下什么：工艺、知识，还是一张滤镜？",
+        "en": "After the lens leaves, what remains of this hanfu: craft, knowledge, or a filter?",
+        "cues": [
+          "汉服流行，不一定等于日常都穿交领",
+          "旗袍把身体曲线和城市记忆缝在一起",
+          "少数民族服饰提醒：中国不是一种样子",
+          "景区拍照可以是自信"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「传统服饰」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Traditional dress? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙有 traje de flamenca、fallera、巴斯克的 txapela",
+          "不要把汉服说成全体中国人的日常服",
+          "汉服流行，不一定等于日常都穿交领",
+          "旗袍把身体曲线和城市记忆缝在一起"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "long-de-chuanren",
+    "theme": "identities",
+    "titleZh": "龙的传人",
+    "titleEn": "Descendants of the dragon",
+    "subtitle": "炎黄子孙，是诗，也是一种集体称呼。",
+    "ibLens": "Identities · Beliefs & belonging",
+    "image": "/images/topics/long-de-chuanren.jpg",
+    "imageAlt": "故宫石阶上的龙雕",
+    "related": [
+      "shengxiao",
+      "fushi",
+      "fangyan",
+      "jieri"
+    ],
+    "oneLineCore": {
+      "zh": "龙是雨水与归属，不是喷火的恶兽。",
+      "en": "The dragon is rain and belonging, not a fire-breathing villain."
+    },
+    "memoryPoints": [
+      {
+        "zh": "「龙的传人」把个人接到长故事上。",
+        "en": "“Descendants of the dragon” plugs a person into a long story."
+      },
+      {
+        "zh": "过年、唱这首歌、看龙纹，都在练习归属。",
+        "en": "New year, the song, dragon patterns all rehearse belonging."
+      },
+      {
+        "zh": "海外华人可用它在异乡找到根。",
+        "en": "Overseas Chinese may use it to find a root far from home."
+      },
+      {
+        "zh": "集体称呼也可能把地方身份说得太简单。",
+        "en": "A collective label can also flatten local identities."
+      },
+      {
+        "zh": "更稳的说法：大河里有很多支流。",
+        "en": "A steadier image: a great river with many tributaries."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "汉白玉石阶，台阶一级一级往上",
+        "en": "White marble steps, rising one by one"
+      },
+      {
+        "zh": "浮雕龙纹贴着石面：须、鳞、爪都还在",
+        "en": "A carved dragon still on the stone: whiskers, scales, claws all there"
+      },
+      {
+        "zh": "龙身顺着台阶爬，不喷火，是盘着往上走",
+        "en": "The body climbs the steps; it does not breathe fire; it coils upward"
+      },
+      {
+        "zh": "栏杆上有云纹，像给龙留的天空",
+        "en": "Cloud patterns on the balustrade, like a sky left for the dragon"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "传人",
+        "pinyin": "chuánrén",
+        "en": "inheritor / descendant",
+        "collocation": "他们自称是龙的传人。",
+        "collocationEn": "They call themselves descendants of the dragon."
+      },
+      {
+        "hanzi": "祖先",
+        "pinyin": "zǔxiān",
+        "en": "ancestor",
+        "collocation": "清明节是纪念祖先的日子。",
+        "collocationEn": "Qingming is a day to remember ancestors."
+      },
+      {
+        "hanzi": "归属",
+        "pinyin": "guīshǔ",
+        "en": "belonging",
+        "collocation": "文化归属不一定等于国籍。",
+        "collocationEn": "Cultural belonging is not always the same as nationality."
+      },
+      {
+        "hanzi": "象征",
+        "pinyin": "xiàngzhēng",
+        "en": "symbol",
+        "collocation": "龙是中华文化的重要象征。",
+        "collocationEn": "The dragon is an important symbol of Chinese culture."
+      },
+      {
+        "hanzi": "根",
+        "pinyin": "gēn",
+        "en": "roots",
+        "collocation": "很多人回老家是为了寻找根。",
+        "collocationEn": "Many people return to their hometown to find their roots."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把「龙的传人」说成唯一合法的中国身份。",
+      "en": "Do not treat “descendants of the dragon” as the only Chinese identity."
+    },
+    "compareAnchor": {
+      "zh": "西班牙有 hispanidad、天主教符号",
+      "en": "Spain has hispanidad, Catholic signs, the shell of Santiago: a name that plugs scattered people into a long story, able to give a root, and able to make Basque, Catalan, Latin Amer"
+    },
+    "oralRound1": [
+      {
+        "zh": "描述石阶上的龙：它在喷火吗？人要抬头看什么？",
+        "en": "Describe the dragon on the steps: is it breathing fire? What must a person look up at?",
+        "cues": [
+          "汉白玉石阶，台阶一级一级往上",
+          "浮雕龙纹贴着石面",
+          "龙身顺着台阶爬，不喷火",
+          "栏杆上有云纹"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "「龙」在中国文化和西方文化里有什么不同？",
+        "en": "How does the dragon differ in Chinese and Western cultures?",
+        "cues": [
+          "「龙的传人」把个人接到长故事上",
+          "过年、唱这首歌、看龙纹",
+          "海外华人可用它在异乡找到根",
+          "集体称呼也可能把地方身份说得太简"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「龙的传人」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Descendants of the dragon? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙有 hispanidad、天主教符号",
+          "不要把「龙的传人」说成唯一合法的中国",
+          "「龙的传人」把个人接到长故事上",
+          "过年、唱这首歌、看龙纹"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "zhongyi-shenti",
+    "theme": "identities",
+    "titleZh": "中医与身体观",
+    "titleEn": "Chinese medicine and the body",
+    "subtitle": "药食同源：身体是可以调的，不只是可以修的。",
+    "ibLens": "Identities · Health & wellbeing",
+    "image": "/images/topics/zhongyi-shenti.jpg",
+    "imageAlt": "中医把脉与药柜",
+    "related": [
+      "tianren",
+      "chadao",
+      "yinshi",
+      "jieqi"
+    ],
+    "oneLineCore": {
+      "zh": "身体可以调，不只是可以修。",
+      "en": "The body can be regulated, not only repaired."
+    },
+    "memoryPoints": [
+      {
+        "zh": "中医常用寒热、虚实、气顺不顺来看人。",
+        "en": "Chinese medicine reads cold, heat, deficiency and flow."
+      },
+      {
+        "zh": "针灸、拔罐、热水、苦药，对有人是习惯。",
+        "en": "Acupuncture, cupping, hot water and herbs are habit for many."
+      },
+      {
+        "zh": "药食同源：日常吃什么，就是在慢慢治或伤。",
+        "en": "Food and medicine share a source: daily meals slowly heal or harm."
+      },
+      {
+        "zh": "当代常是双轨：医院检查，家里喝姜茶。",
+        "en": "Today often runs two tracks: hospital tests and ginger tea at home."
+      },
+      {
+        "zh": "要区分安慰、经验和文化，也尊重现代医学。",
+        "en": "Separate comfort, experience and culture; still respect modern medicine."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "老中医低头，三指按在患者腕上（寸、关、尺）",
+        "en": "An old doctor looks down, three fingers on the patient’s wrist (cun, guan, chi)"
+      },
+      {
+        "zh": "患者把一只手安静地递出去，袖口被挽起",
+        "en": "The patient holds out one hand, quiet, the cuff rolled back"
+      },
+      {
+        "zh": "身后一墙木抽屉药柜，每个小格有手写药名",
+        "en": "A wall of wooden drawers behind, each small cell with a handwritten herb name"
+      },
+      {
+        "zh": "柜上可能有药秤、瓷瓶或一摞纸",
+        "en": "On the cabinet perhaps a herb scale, porcelain jars, or a stack of paper"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "中医",
+        "pinyin": "zhōngyī",
+        "en": "Chinese medicine",
+        "collocation": "她去看中医调理睡眠。",
+        "collocationEn": "She saw a Chinese-medicine doctor about sleep."
+      },
+      {
+        "hanzi": "针灸",
+        "pinyin": "zhēnjiǔ",
+        "en": "acupuncture",
+        "collocation": "针灸被一些人用来缓解疼痛。",
+        "collocationEn": "Some people use acupuncture for pain."
+      },
+      {
+        "hanzi": "调理",
+        "pinyin": "tiáolǐ",
+        "en": "to regulate / nurse back",
+        "collocation": "冬天适合用食物调理身体。",
+        "collocationEn": "Winter is a time to regulate the body with food."
+      },
+      {
+        "hanzi": "上火",
+        "pinyin": "shànghuǒ",
+        "en": "to suffer internal heat",
+        "collocation": "他嘴角起泡，说自己上火了。",
+        "collocationEn": "He got a mouth ulcer and said he had internal heat."
+      },
+      {
+        "hanzi": "草药",
+        "pinyin": "cǎoyào",
+        "en": "herbal medicine",
+        "collocation": "这碗汤药很苦，但她还是喝完了。",
+        "collocationEn": "The herbal decoction was bitter, but she finished it."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把中医说成全对或全错，也不要用它替代急救。",
+      "en": "Do not call Chinese medicine all true or all false, or a substitute for emergency care."
+    },
+    "compareAnchor": {
+      "zh": "西班牙家里也有 abuela 的热汤",
+      "en": "Spanish homes also have an abuela’s hot soup, herbal tea, advice from the pharmacy counter: not Chinese medicine, yet the same layer — kitchen first, hospital second."
+    },
+    "oralRound1": [
+      {
+        "zh": "描述这间诊室：三根手指按在哪里？背后是什么柜子？",
+        "en": "Describe this consulting room: where are the three fingers? What cabinet stands behind?",
+        "cues": [
+          "老中医低头，三指按在患者腕上（寸",
+          "患者把一只手安静地递出去",
+          "身后一墙木抽屉药柜",
+          "柜上可能有药秤"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "你生病时更相信医院，还是家里的土办法？",
+        "en": "When you are ill, do you trust the hospital or home remedies more?",
+        "cues": [
+          "中医常用寒热、虚实",
+          "针灸、拔罐、热水、苦药",
+          "药食同源：日常吃什么",
+          "当代常是双轨：医院检查"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「中医与身体观」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Chinese medicine and the body? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙家里也有 abuela 的热汤",
+          "不要把中医说成全对或全错",
+          "中医常用寒热、虚实",
+          "针灸、拔罐、热水、苦药"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "chunjie",
+    "theme": "experiences",
+    "titleZh": "春节团圆",
+    "titleEn": "Spring Festival reunion",
+    "subtitle": "一年的路，都是为了这一顿饭。",
+    "ibLens": "Experiences · Customs & holidays",
+    "image": "/images/topics/chunjie.jpg",
+    "imageAlt": "孩子接过红包",
+    "related": [
+      "chunyun",
+      "jieri",
+      "daike",
+      "xiao-dao"
+    ],
+    "oneLineCore": {
+      "zh": "一年的路，常是为了这一顿团圆饭。",
+      "en": "A year’s travel is often for one reunion dinner."
+    },
+    "memoryPoints": [
+      {
+        "zh": "除夕、红包、春联、拜年把人拉回一桌。",
+        "en": "Eve, envelopes, couplets and visits pull people to one table."
+      },
+      {
+        "zh": "北方饺子、南方鱼和年糕，各有寓意。",
+        "en": "Northern dumplings, southern fish and rice cake carry wishes."
+      },
+      {
+        "zh": "热闹底下也可能有催婚、比成绩、比房子。",
+        "en": "Under the noise there may be marriage talk and comparisons."
+      },
+      {
+        "zh": "回家可以是心愿，也可以是必须兑现的关系。",
+        "en": "Going home can be a wish, or a relationship that must be honoured."
+      },
+      {
+        "zh": "对应物：西班牙圣诞夜和三王节也强制团圆。",
+        "en": "A counterpart: Spanish Nochebuena also forces reunion."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "除夕夜的圆桌，热气和灯",
+        "en": "A round table on New Year's Eve: steam and lamplight"
+      },
+      {
+        "zh": "鱼、饺子、故意没吃完的菜",
+        "en": "Fish, dumplings, dishes left unfinished on purpose"
+      },
+      {
+        "zh": "红包、新衣、窗上的倒「福」",
+        "en": "Red envelopes, new clothes, the inverted fu on the window"
+      },
+      {
+        "zh": "春联的墨还没干",
+        "en": "Spring couplets whose ink is still wet"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "团圆",
+        "pinyin": "tuányuán",
+        "en": "reunion / to reunite",
+        "collocation": "春节是团圆的日子，少一个人空气都会变。",
+        "collocationEn": "Spring Festival is a time of reunion; one person missing changes the air."
+      },
+      {
+        "hanzi": "除夕",
+        "pinyin": "chúxī",
+        "en": "Lunar New Year's Eve",
+        "collocation": "除夕必须赶到，晚一天就不算过年。",
+        "collocationEn": "You must arrive by New Year's Eve; a day later does not count."
+      },
+      {
+        "hanzi": "红包",
+        "pinyin": "hóngbāo",
+        "en": "red envelope",
+        "collocation": "红包的金额会被比较，里面藏着等级。",
+        "collocationEn": "The sum in a red envelope will be compared; rank lives inside it."
+      },
+      {
+        "hanzi": "春联",
+        "pinyin": "chūnlián",
+        "en": "spring couplets",
+        "collocation": "春联是写在门上的愿望，墨有时还没干。",
+        "collocationEn": "Couplets are wishes written on the door, the ink sometimes still wet."
+      },
+      {
+        "hanzi": "拜年",
+        "pinyin": "bàinián",
+        "en": "to pay a New Year call",
+        "collocation": "拜年的顺序仍然很讲究：先父母，再亲戚。",
+        "collocationEn": "The order of New Year calls is still strict: parents first, then relatives."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把春节说成每个家庭都温暖、都没有压力。",
+      "en": "Do not describe Spring Festival as warm and pressure-free for every family."
+    },
+    "compareAnchor": {
+      "zh": "西班牙圣诞夜和三王节也强制团圆，礼物和弥撒是他们的春联与红包",
+      "en": "Spanish Nochebuena and Three Kings' Day also force reunion; gifts and mass are their couplets and red envelopes."
+    },
+    "oralRound1": [
+      {
+        "zh": "描述你家的一顿团圆饭：谁坐上座，什么菜不能吃完。",
+        "en": "Describe a reunion meal in your family: who sits in the seat of honour, which dish must not be finished.",
+        "cues": [
+          "除夕夜的圆桌",
+          "鱼、饺子、故意没吃完的菜",
+          "红包、新衣、窗上的倒「福」",
+          "春联的墨还没干"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "红包对孩子意味着什么？对大人呢？",
+        "en": "What does a red envelope mean to a child? To an adult?",
+        "cues": [
+          "除夕、红包、春联",
+          "北方饺子、南方鱼和年糕",
+          "热闹底下也可能有催婚",
+          "回家可以是心愿"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「春节团圆」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Spring Festival reunion? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙圣诞夜和三王节也强制团圆",
+          "不要把春节说成每个家庭都温暖",
+          "除夕、红包、春联",
+          "北方饺子、南方鱼和年糕"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "jieri",
+    "theme": "experiences",
+    "titleZh": "岁时节日",
+    "titleEn": "The festival year",
+    "subtitle": "元宵灯，清明纸，端午粽，中秋月，重阳菊。",
+    "ibLens": "Experiences · Customs & traditions",
+    "image": "/images/topics/jieri.jpg",
+    "imageAlt": "河上的元宵灯会",
+    "related": [
+      "chunjie",
+      "rensheng",
+      "jieqi",
+      "yanglao"
+    ],
+    "oneLineCore": {
+      "zh": "节日跟着月亮走，一年是一部时间诗。",
+      "en": "Festivals follow the moon; the year is a poem about time."
+    },
+    "memoryPoints": [
+      {
+        "zh": "元宵看灯吃汤圆，清明扫墓也踏青。",
+        "en": "Lanterns at Yuanxiao; tombs and spring walks at Qingming."
+      },
+      {
+        "zh": "端午粽与龙舟，纪念和驱邪缠在一起。",
+        "en": "Duanwu zongzi and boats mix memory and driving out harm."
+      },
+      {
+        "zh": "中秋赏月，重阳登高并敬老。",
+        "en": "Mid-Autumn looks at the moon; Chongyang climbs and honours elders."
+      },
+      {
+        "zh": "西方节日进入城市，很少真正取代春节。",
+        "en": "Western dates enter cities but rarely replace Spring Festival."
+      },
+      {
+        "zh": "传统要活，需要味道和仪式，也允许新玩法。",
+        "en": "A tradition lives with flavour and ritual, and room for new play."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "元宵的灯笼街道，汤圆的碗",
+        "en": "Lantern streets at Yuanxiao, bowls of rice balls"
+      },
+      {
+        "zh": "清明的坟、纸钱、新土",
+        "en": "Qingming graves, joss paper, freshly turned earth"
+      },
+      {
+        "zh": "端午的粽叶、龙舟鼓",
+        "en": "Duanwu zongzi leaves and the drum of a dragon boat"
+      },
+      {
+        "zh": "中秋的月饼盒和圆月",
+        "en": "Mid-Autumn mooncake boxes and a round moon"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "元宵节",
+        "pinyin": "Yuánxiāo jié",
+        "en": "Lantern Festival",
+        "collocation": "元宵节我们去看灯，碗里是汤圆。",
+        "collocationEn": "At Yuanxiao we go to see the lanterns; the bowls hold rice balls."
+      },
+      {
+        "hanzi": "清明",
+        "pinyin": "Qīngmíng",
+        "en": "Tomb-Sweeping Day",
+        "collocation": "清明再忙也要扫墓，谁没来会被记。",
+        "collocationEn": "However busy Qingming is, the graves must be swept; who did not come will be not"
+      },
+      {
+        "hanzi": "端午",
+        "pinyin": "Duānwǔ",
+        "en": "Dragon Boat Festival",
+        "collocation": "端午的粽子有甜的也有咸的。",
+        "collocationEn": "Duanwu zongzi can be sweet or savoury."
+      },
+      {
+        "hanzi": "中秋",
+        "pinyin": "Zhōngqiū",
+        "en": "Mid-Autumn Festival",
+        "collocation": "中秋夜我们一起赏月，月饼盒比馅更醒目。",
+        "collocationEn": "On Mid-Autumn night we watch the moon; the box is more visible than the filling."
+      },
+      {
+        "hanzi": "重阳",
+        "pinyin": "Chóngyáng",
+        "en": "Double Ninth Festival",
+        "collocation": "重阳节有登高和敬老的习俗。",
+        "collocationEn": "Chongyang includes climbing high and honouring the old."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把烧纸钱说成所有中国人的统一信仰。",
+      "en": "Do not treat burning paper money as a uniform Chinese belief."
+    },
+    "compareAnchor": {
+      "zh": "西班牙的 Semana Santa 处理神圣与死亡，圣诞处理团圆，万灵节上坟——对应清明的那一层",
+      "en": "Spain's Semana Santa handles the sacred and death, Christmas handles reunion, All Saints' Day visits graves — that last layer maps onto Qingming."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：河上的元宵灯会。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「岁时节日」？",
+        "en": "From the picture (河上的元宵灯会): who do you see, what are they doing, what is the setting, and how does it connect to The festival year?",
+        "cues": [
+          "元宵的灯笼街道",
+          "清明的坟、纸钱",
+          "端午的粽叶、龙舟鼓",
+          "中秋的月饼盒和圆月"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "为什么有人在清明烧纸钱？你怎么看？",
+        "en": "Why do some people burn paper money at Qingming? What do you think?",
+        "cues": [
+          "元宵看灯吃汤圆",
+          "端午粽与龙舟",
+          "中秋赏月，重阳登高并敬老",
+          "西方节日进入城市"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「岁时节日」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The festival year? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙的 Semana Santa 处理神圣与死亡",
+          "不要把烧纸钱说成所有中国人的统",
+          "元宵看灯吃汤圆",
+          "端午粽与龙舟"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "rensheng",
+    "theme": "experiences",
+    "titleZh": "人生礼仪",
+    "titleEn": "Rites of a life",
+    "subtitle": "满月、抓周、婚礼、寿宴：用仪式把时间钉住。",
+    "ibLens": "Experiences · Life stories / rites of passage",
+    "image": "/images/topics/rensheng.jpg",
+    "imageAlt": "婚礼敬茶",
+    "related": [
+      "chunjie",
+      "daike",
+      "xiao-dao",
+      "yanglao"
+    ],
+    "oneLineCore": {
+      "zh": "酒席把人生的关口当众钉住。",
+      "en": "Banquets pin life’s gates in public."
+    },
+    "memoryPoints": [
+      {
+        "zh": "满月请客，承认一个孩子进入亲戚圈。",
+        "en": "A full-month feast admits a child into the kin circle."
+      },
+      {
+        "zh": "抓周把希望摊在桌上，让孩子随便抓。",
+        "en": "Zhuazhou lays hopes on a table and lets the child grab."
+      },
+      {
+        "zh": "婚礼敬茶，当众改口称呼。",
+        "en": "A wedding tea ceremony changes forms of address in public."
+      },
+      {
+        "zh": "六十、八十常办寿宴，长寿面是可见的祝愿。",
+        "en": "Sixtieth and eightieth birthdays become feasts with longevity noodles."
+      },
+      {
+        "zh": "仪式一半给当事人，一半给围观的家族。",
+        "en": "Rites are half for the person, half for the watching clan."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "满月酒的红蛋、亲友签名",
+        "en": "Red eggs at the full-month feast, relatives signing a book"
+      },
+      {
+        "zh": "抓周桌上：钱、笔、书、乐器、算盘",
+        "en": "The zhuazhou table: money, a pen, books, an instrument, an abacus"
+      },
+      {
+        "zh": "婚礼上的敬茶、改口",
+        "en": "Serving tea at a wedding, and changing how you address the parents"
+      },
+      {
+        "zh": "六十或八十寿宴的长寿面",
+        "en": "Longevity noodles at a sixtieth or eightieth banquet"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "满月",
+        "pinyin": "mǎnyuè",
+        "en": "full-month celebration",
+        "collocation": "满月酒是孩子第一次被公开，红蛋要分给亲友。",
+        "collocationEn": "The full-month feast is the child's first being made public; red eggs are given "
+      },
+      {
+        "hanzi": "抓周",
+        "pinyin": "zhuāzhōu",
+        "en": "first-birthday catch",
+        "collocation": "抓周桌上摆着钱、笔、书、乐器和算盘。",
+        "collocationEn": "The zhuazhou table holds money, a pen, books, an instrument and an abacus."
+      },
+      {
+        "hanzi": "婚礼",
+        "pinyin": "hūnlǐ",
+        "en": "wedding",
+        "collocation": "中式婚礼常有敬茶的环节，那是改口的时刻。",
+        "collocationEn": "A Chinese wedding often includes serving tea — the moment you change how you add"
+      },
+      {
+        "hanzi": "寿宴",
+        "pinyin": "shòuyàn",
+        "en": "longevity banquet",
+        "collocation": "八十岁的寿宴是子女的成绩单。",
+        "collocationEn": "An eightieth longevity banquet is the children's report card."
+      },
+      {
+        "hanzi": "仪式",
+        "pinyin": "yíshì",
+        "en": "ceremony",
+        "collocation": "仪式让平常的一天变得重要，因为有人见证。",
+        "collocationEn": "Ceremony makes an ordinary day important, because someone witnesses it."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把抓周说成科学测验或命运证明。",
+      "en": "Do not treat the one-year catch as a scientific test of destiny."
+    },
+    "compareAnchor": {
+      "zh": "西班牙有洗礼、初领圣体",
+      "en": "Spain has baptism, first communion, weddings and birthday feasts, more often walked into a church; China more often walks them into a hotel or a village flowing banquet."
+    },
+    "oralRound1": [
+      {
+        "zh": "描述一次你参加过的婚礼或寿宴。",
+        "en": "Describe a wedding or longevity banquet you have attended.",
+        "cues": [
+          "满月酒的红蛋",
+          "抓周桌上",
+          "婚礼上的敬茶",
+          "六十或八十寿宴的长寿面"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "抓周有意思还是迷信？你怎么看？",
+        "en": "Is the one-year catch charming or superstitious? What do you think?",
+        "cues": [
+          "满月请客，承认一个孩子进入亲戚圈",
+          "抓周把希望摊在桌上",
+          "婚礼敬茶，当众改口称呼",
+          "六十、八十常办寿宴"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「人生礼仪」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Rites of a life? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙有洗礼",
+          "不要把抓周说成科学测验或命运证明",
+          "满月请客，承认一个孩子进入亲戚圈",
+          "抓周把希望摊在桌上"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "daike",
+    "theme": "experiences",
+    "titleZh": "待客之道",
+    "titleEn": "The art of hosting",
+    "subtitle": "先倒茶，再说话；把最好的留给客人。",
+    "ibLens": "Experiences · Social customs",
+    "image": "/images/topics/daike.jpg",
+    "imageAlt": "主人在门口迎客",
+    "related": [
+      "mianzi",
+      "jiuculture",
+      "yinshi",
+      "renqing"
+    ],
+    "oneLineCore": {
+      "zh": "待客是一套看不见的剧本：劝与推辞。",
+      "en": "Hosting is an invisible script: insist and decline."
+    },
+    "memoryPoints": [
+      {
+        "zh": "茶和瓜子常在客人坐下之前就上来。",
+        "en": "Tea and seeds often arrive before the guest sits."
+      },
+      {
+        "zh": "客人要客气地推辞，主人要热情地坚持。",
+        "en": "The guest declines; the host insists."
+      },
+      {
+        "zh": "菜点得太多，是怕被看成小气。",
+        "en": "Too many dishes, lest the host look stingy."
+      },
+      {
+        "zh": "懂待客的人会看：这是真劝，还是给台阶。",
+        "en": "A good guest reads real pressure versus a way out."
+      },
+      {
+        "zh": "简单也可以热情，丰盛不是唯一礼貌。",
+        "en": "Simple can still be warm; lavish is not the only politeness."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "客人进门换鞋或被让到上座",
+        "en": "Guests change shoes at the door, or are shown to the seat of honour"
+      },
+      {
+        "zh": "茶和瓜子马上出现",
+        "en": "Tea and melon seeds appear at once"
+      },
+      {
+        "zh": "主人不停夹菜，客人举手挡",
+        "en": "The host keeps serving food; the guest raises a hand to fend it off"
+      },
+      {
+        "zh": "「吃好了」之后又上一碗",
+        "en": "After \"I'm full\", another bowl still arrives"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "待客",
+        "pinyin": "dàikè",
+        "en": "to receive guests",
+        "collocation": "她家很会待客，茶和瓜子马上就到。",
+        "collocationEn": "Her family is good at receiving guests; tea and seeds arrive at once."
+      },
+      {
+        "hanzi": "热情",
+        "pinyin": "rèqíng",
+        "en": "warm / enthusiasm",
+        "collocation": "主人热情得让我有点不好意思。",
+        "collocationEn": "The host was so warm I felt a little shy."
+      },
+      {
+        "hanzi": "客气",
+        "pinyin": "kèqi",
+        "en": "polite / modest",
+        "collocation": "别客气，可客人仍要推辞一次。",
+        "collocationEn": "Don't be polite — yet a guest still declines once."
+      },
+      {
+        "hanzi": "上座",
+        "pinyin": "shàngzuò",
+        "en": "seat of honour",
+        "collocation": "客人被让到上座，等级就被安排好了。",
+        "collocationEn": "The guest was shown to the seat of honour; rank had been arranged."
+      },
+      {
+        "hanzi": "推辞",
+        "pinyin": "tuīcí",
+        "en": "to decline politely",
+        "collocation": "推辞也是剧本的一部分，不是真的拒绝。",
+        "collocationEn": "A polite decline is part of the script, not a real refusal."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把不断夹菜理解成唯一正确的热情。",
+      "en": "Do not treat piling food on a guest as the only correct warmth."
+    },
+    "compareAnchor": {
+      "zh": "西班牙的小食和劝「再来一点」很像夹菜",
+      "en": "Spanish tapas and the push to have \"just a little more\" resemble serving food onto another's plate; warmth is equally concrete, down to the dish."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：主人在门口迎客。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「待客之道」？",
+        "en": "From the picture (主人在门口迎客): who do you see, what are they doing, what is the setting, and how does it connect to The art of hosting?",
+        "cues": [
+          "客人进门换鞋或被让到上座",
+          "茶和瓜子马上出现",
+          "主人不停夹菜",
+          "「吃好了」之后又上一碗"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "待客一定要丰盛吗？简单是否也可以热情？",
+        "en": "Must hospitality be lavish? Can simple also be warm?",
+        "cues": [
+          "茶和瓜子常在客人坐下之前就上来",
+          "客人要客气地推辞",
+          "菜点得太多，是怕被看成小气",
+          "懂待客的人会看：这是真劝"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「待客之道」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The art of hosting? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙的小食和劝「再来一点」很像夹菜",
+          "不要把不断夹菜理解成唯一正确的热",
+          "茶和瓜子常在客人坐下之前就上来",
+          "客人要客气地推辞"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "chadao",
+    "theme": "experiences",
+    "titleZh": "茶文化",
+    "titleEn": "Tea culture",
+    "subtitle": "绿茶求鲜，红茶求火，普洱求时间。",
+    "ibLens": "Experiences · Leisure / customs",
+    "image": "/images/topics/chadao.jpg",
+    "imageAlt": "盖碗与龙井",
+    "related": [
+      "jiuculture",
+      "yinshi",
+      "zhongyi-shenti",
+      "daike"
+    ],
+    "oneLineCore": {
+      "zh": "茶是速度不同的习惯，不只是饮料。",
+      "en": "Tea is a habit at different speeds, not only a drink."
+    },
+    "memoryPoints": [
+      {
+        "zh": "绿茶求鲜，明前春茶最被珍视。",
+        "en": "Green tea prizes freshness; pre-Qingming pick is treasured."
+      },
+      {
+        "zh": "红茶更稳，乌龙在中间，普洱论年份。",
+        "en": "Black tea is steadier; oolong sits between; puer is sold by year."
+      },
+      {
+        "zh": "功夫茶把水、器、时间练成顺序。",
+        "en": "Gongfu tea turns water, ware and time into a sequence."
+      },
+      {
+        "zh": "请人喝茶可以闲聊，也可以谈事。",
+        "en": "Tea can be chat, or a quieter place to talk business."
+      },
+      {
+        "zh": "办公室茶包和茶馆盖碗，属于两种节奏。",
+        "en": "A bag at work and a gaiwan in a teahouse are two tempos."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "玻璃杯里的龙井，叶子站着",
+        "en": "Longjing in a glass, the leaves standing upright"
+      },
+      {
+        "zh": "紫砂壶、公道杯、闻香杯",
+        "en": "A zisha pot, a fairness pitcher, an aroma cup"
+      },
+      {
+        "zh": "茶荷里的干茶",
+        "en": "Dry leaves in a tea scoop"
+      },
+      {
+        "zh": "一盅热水，第一泡被倒掉",
+        "en": "A cup of hot water; the first infusion poured away"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "绿茶",
+        "pinyin": "lǜchá",
+        "en": "green tea",
+        "collocation": "龙井是最有名的绿茶之一，四月最鲜。",
+        "collocationEn": "Longjing is one of the best-known green teas; April is when it is freshest."
+      },
+      {
+        "hanzi": "红茶",
+        "pinyin": "hóngchá",
+        "en": "black tea",
+        "collocation": "红茶经过完全发酵，味道更稳。",
+        "collocationEn": "Black tea is fully oxidised; the taste is steadier."
+      },
+      {
+        "hanzi": "普洱",
+        "pinyin": "pǔ'ěr",
+        "en": "puer tea",
+        "collocation": "好的普洱可以存放很多年，像酒一样论年份。",
+        "collocationEn": "Good puer can be aged for many years; it is sold by vintage, like wine."
+      },
+      {
+        "hanzi": "功夫茶",
+        "pinyin": "gōngfu chá",
+        "en": "gongfu tea service",
+        "collocation": "功夫茶把时间切成小泡。",
+        "collocationEn": "Gongfu tea slices time into small infusions."
+      },
+      {
+        "hanzi": "产地",
+        "pinyin": "chǎndì",
+        "en": "place of origin",
+        "collocation": "绿茶很讲究产地，山头会变成品味语言。",
+        "collocationEn": "Green tea prizes origin; a hillside becomes a language of taste."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要说所有中国人每天都喝功夫茶。",
+      "en": "Do not say all Chinese people drink gongfu tea every day."
+    },
+    "compareAnchor": {
+      "zh": "南欧用咖啡和红酒标记时间和身份，年份与产地的语言几乎可直接翻译到普洱",
+      "en": "Southern Europe marks time and identity with coffee and wine; the language of year and origin translates almost directly onto puer."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：盖碗与龙井。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「茶文化」？",
+        "en": "From the picture (盖碗与龙井): who do you see, what are they doing, what is the setting, and how does it connect to Tea culture?",
+        "cues": [
+          "玻璃杯里的龙井",
+          "紫砂壶、公道杯",
+          "茶荷里的干茶",
+          "一盅热水，第一泡被倒掉"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "为什么明前绿茶、四月的春茶特别贵？",
+        "en": "Why is pre-Qingming green tea, April spring tea, especially expensive?",
+        "cues": [
+          "绿茶求鲜，明前春茶最被珍视",
+          "红茶更稳，乌龙在中间",
+          "功夫茶把水、器",
+          "请人喝茶可以闲聊"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「茶文化」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Tea culture? Under what condition does your stance hold?",
+        "cues": [
+          "南欧用咖啡和红酒标记时间和身份",
+          "不要说所有中国人每天都喝功夫茶",
+          "绿茶求鲜，明前春茶最被珍视",
+          "红茶更稳，乌龙在中间"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "jiuculture",
+    "theme": "experiences",
+    "titleZh": "酒文化",
+    "titleEn": "Drinking culture",
+    "subtitle": "啤酒、白酒、红酒，酒桌上藏着权力。",
+    "ibLens": "Experiences · Social life / health",
+    "image": "/images/topics/jiuculture.jpg",
+    "imageAlt": "宴席上的酒杯",
+    "related": [
+      "mianzi",
+      "daike",
+      "renqing",
+      "zhongyi-shenti"
+    ],
+    "oneLineCore": {
+      "zh": "酒桌有热情，也可能有权力测试。",
+      "en": "A drinking table can be warmth, or a test of power."
+    },
+    "memoryPoints": [
+      {
+        "zh": "2024年调查：15岁以上近一年饮酒约27.6%。",
+        "en": "A 2024 survey: about 27.6% aged 15+ drank in the past year."
+      },
+      {
+        "zh": "男性近一年饮酒率明显高于女性。",
+        "en": "Men’s past-year drinking rate is much higher than women’s."
+      },
+      {
+        "zh": "白酒度数高，啤酒显得轻松，红酒带着品味。",
+        "en": "Strong baijiu, easy beer, wine that signals “taste”."
+      },
+      {
+        "zh": "不会喝仍可能被劝；拒绝需要台阶。",
+        "en": "You may be pressed even if you do not drink; refusal needs a way out."
+      },
+      {
+        "zh": "以茶代酒、说明身体原因，比硬扛更成熟。",
+        "en": "Tea instead of liquor, or a health reason, is more mature than forcing it."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "圆桌上的白酒杯，很小",
+        "en": "Baijiu cups on a round table, very small"
+      },
+      {
+        "zh": "啤酒瓶、红酒、洋酒同时在",
+        "en": "Beer bottles, wine and spirits on the table at once"
+      },
+      {
+        "zh": "有人站起来敬主位",
+        "en": "Someone stands to toast the host's seat"
+      },
+      {
+        "zh": "有人把酒倒进植物或自己的水",
+        "en": "Someone pours the drink into a plant, or into their own water"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "白酒",
+        "pinyin": "báijiǔ",
+        "en": "baijiu / sorghum liquor",
+        "collocation": "白酒的杯子很小，酒却很烈，最像仪式。",
+        "collocationEn": "Baijiu cups are tiny, the liquor strong; it is the most like ritual."
+      },
+      {
+        "hanzi": "啤酒",
+        "pinyin": "píjiǔ",
+        "en": "beer",
+        "collocation": "夏天很多人喜欢喝啤酒，它显得比白酒轻松。",
+        "collocationEn": "In summer many people like beer; it looks easier than baijiu."
+      },
+      {
+        "hanzi": "敬酒",
+        "pinyin": "jìngjiǔ",
+        "en": "to toast",
+        "collocation": "他站起来给主位敬酒，眼睛要看人。",
+        "collocationEn": "He stood to toast the host's seat; the eyes had to meet."
+      },
+      {
+        "hanzi": "以茶代酒",
+        "pinyin": "yǐ chá dài jiǔ",
+        "en": "to substitute tea for wine",
+        "collocation": "我开车，就以茶代酒吧。",
+        "collocationEn": "I'm driving, so I'll drink tea instead."
+      },
+      {
+        "hanzi": "酒精",
+        "pinyin": "jiǔjīng",
+        "en": "alcohol",
+        "collocation": "过量酒精伤害身体，连续应酬更明显。",
+        "collocationEn": "Too much alcohol harms the body; a run of banquets makes it clearer."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "数字说明喝酒常见，但远不是人人都喝。",
+      "en": "The figures show drinking is common, not that everyone drinks."
+    },
+    "compareAnchor": {
+      "zh": "西班牙红酒配餐、啤酒配足球，醉有时是欢乐不是效忠；账单可以 AA，不必把拒绝写成拆台",
+      "en": "In Spain wine goes with the meal, beer with football; drunkenness is sometimes joy, not allegiance."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：宴席上的酒杯。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「酒文化」？",
+        "en": "From the picture (宴席上的酒杯): who do you see, what are they doing, what is the setting, and how does it connect to Drinking culture?",
+        "cues": [
+          "圆桌上的白酒杯",
+          "啤酒瓶、红酒、洋酒同时在",
+          "有人站起来敬主位",
+          "有人把酒倒进植物或自己的水"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "为什么酒桌有时会变成权力游戏？",
+        "en": "Why does a drinking table sometimes become a power game?",
+        "cues": [
+          "2024年调查：15岁以上近一年饮酒约27.6%",
+          "男性近一年饮酒率明显高于女性",
+          "白酒度数高，啤酒显得轻松",
+          "不会喝仍可能被劝；拒绝需要台阶"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「酒文化」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Drinking culture? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙红酒配餐、啤酒配足球",
+          "数字说明喝酒常见",
+          "2024年调查：15岁以上近一年饮酒约27.6%",
+          "男性近一年饮酒率明显高于女性"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": 2024
+  },
+  {
+    "slug": "yinshi",
+    "theme": "experiences",
+    "titleZh": "八大菜系",
+    "titleEn": "The eight cuisines",
+    "subtitle": "南甜北咸，一边是家，一边是地图。",
+    "ibLens": "Experiences · Leisure / travel",
+    "image": "/images/topics/yinshi.jpg",
+    "imageAlt": "沸腾的火锅",
+    "related": [
+      "chadao",
+      "daike",
+      "waimai",
+      "chunjie"
+    ],
+    "oneLineCore": {
+      "zh": "中国菜不是一种味道，是一张可走的地图。",
+      "en": "Chinese food is not one taste; it is a map you can walk."
+    },
+    "memoryPoints": [
+      {
+        "zh": "川菜麻辣，粤菜求鲜，鲁菜偏咸香。",
+        "en": "Sichuan is numbing-spicy; Cantonese prizes freshness."
+      },
+      {
+        "zh": "主食是米、面、包子、馒头；菜围着桌子。",
+        "en": "Staples are rice, noodles, bao, mantou; dishes circle the table."
+      },
+      {
+        "zh": "「南甜北咸」是粗线条，却很好用。",
+        "en": "“Sweet south, salty north” is crude and useful."
+      },
+      {
+        "zh": "火锅是为桌子设计的，不只为一个人。",
+        "en": "Hotpot is designed for a table, not only one person."
+      },
+      {
+        "zh": "年轻人点外卖、喝奶茶，家常菜仍在圆桌上。",
+        "en": "The young order delivery; home dishes still live on the round table."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "圆桌转盘，十道菜围着主食",
+        "en": "A lazy Susan, ten dishes around the staple"
+      },
+      {
+        "zh": "辣椒、花椒，或清蒸鱼的蒸汽",
+        "en": "Chilli and Sichuan pepper, or steam off a whole fish"
+      },
+      {
+        "zh": "筷子、公筷、汤碗",
+        "en": "Chopsticks, serving chopsticks, soup bowls"
+      },
+      {
+        "zh": "米饭、面条、包子、馒头四种主食之一",
+        "en": "One of four staples: rice, noodles, bao, mantou"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "菜系",
+        "pinyin": "càixì",
+        "en": "culinary region / cuisine school",
+        "collocation": "八大菜系是方便的说法，真实生活更碎。",
+        "collocationEn": "The eight cuisine schools are a convenient phrase; real life is more broken up."
+      },
+      {
+        "hanzi": "主食",
+        "pinyin": "zhǔshí",
+        "en": "staple food",
+        "collocation": "主食多是碳水化合物：米饭、面条、包子、馒头。",
+        "collocationEn": "Staples are mostly carbohydrates: rice, noodles, bao, mantou."
+      },
+      {
+        "hanzi": "火锅",
+        "pinyin": "huǒguō",
+        "en": "hotpot",
+        "collocation": "火锅把煮变成聚会，人人伸筷。",
+        "collocationEn": "Hotpot turns cooking into the gathering; everyone reaches."
+      },
+      {
+        "hanzi": "街头小吃",
+        "pinyin": "jiētóu xiǎochī",
+        "en": "street food",
+        "collocation": "真正的菜系还在街头小吃里，不只在商场。",
+        "collocationEn": "The real cuisines still live in street food, not only in malls."
+      },
+      {
+        "hanzi": "口味",
+        "pinyin": "kǒuwèi",
+        "en": "taste / flavour preference",
+        "collocation": "我吃不惯太辣的口味，全桌必须辣就没有位置。",
+        "collocationEn": "I cannot take a very spicy taste; if the whole table must be hot, I have no plac"
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要用一顿网红店代表全中国的口味。",
+      "en": "Do not let one viral restaurant stand for all Chinese taste."
+    },
+    "compareAnchor": {
+      "zh": "西班牙有地域菜和火腿语言",
+      "en": "Spain has regional cooking and a language of ham; small plates are small-plate social life, the Chinese lazy Susan is large-plate social life."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：沸腾的火锅。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「八大菜系」？",
+        "en": "From the picture (沸腾的火锅): who do you see, what are they doing, what is the setting, and how does it connect to The eight cuisines?",
+        "cues": [
+          "圆桌转盘，十道菜围着主食",
+          "辣椒、花椒，或清蒸鱼的蒸汽",
+          "筷子、公筷、汤碗",
+          "米饭、面条、包子"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "火锅为什么适合朋友聚会？",
+        "en": "Why is hotpot good for gathering friends?",
+        "cues": [
+          "川菜麻辣，粤菜求鲜",
+          "主食是米、面、包子",
+          "「南甜北咸」是粗线条",
+          "火锅是为桌子设计"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「八大菜系」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The eight cuisines? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙有地域菜和火腿语言",
+          "不要用一顿网红店代表全中国的口味",
+          "川菜麻辣，粤菜求鲜",
+          "主食是米、面、包子"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "mingsheng",
+    "theme": "experiences",
+    "titleZh": "名胜古迹",
+    "titleEn": "Famous places",
+    "subtitle": "不到长城非好汉；故宫里住过故事。",
+    "ibLens": "Experiences · Holidays & travel",
+    "image": "/images/topics/mingsheng.jpg",
+    "imageAlt": "日出时的长城",
+    "related": [
+      "chunyun",
+      "chuantong-yishu",
+      "gaotie",
+      "chuantong-xiandai"
+    ],
+    "oneLineCore": {
+      "zh": "好的游览是把地方读成文本，不只打卡。",
+      "en": "A good visit reads a place as a text, not only a stamp."
+    },
+    "memoryPoints": [
+      {
+        "zh": "长城在山脊上，故宫中轴说明权力方向。",
+        "en": "The Wall sits on a ridge; the palace axis shows power."
+      },
+      {
+        "zh": "兵马俑的脸并不完全相同。",
+        "en": "Terracotta faces are not all the same."
+      },
+      {
+        "zh": "「故」：从前的宫，老朋友，以前的事。",
+        "en": "The character 故: former palace, old friend, old matter."
+      },
+      {
+        "zh": "人太多时，意义要靠你问的问题来救。",
+        "en": "When crowds are huge, meaning is saved by the questions you ask."
+      },
+      {
+        "zh": "选一个真去过的地方讲路线和天气。",
+        "en": "Pick a place you really visited; talk route and weather."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "长城的墙在山脊上，人比砖显眼",
+        "en": "The Wall on a ridge, people more visible than bricks"
+      },
+      {
+        "zh": "故宫中轴，黄色屋顶，安检队伍",
+        "en": "The Forbidden City axis, yellow roofs, a security queue"
+      },
+      {
+        "zh": "兵马俑一张张不同的脸",
+        "en": "Terracotta faces, each one different"
+      },
+      {
+        "zh": "江南古镇的酒吧招牌和原住民后门",
+        "en": "Bar signs in a Jiangnan old town, and the back doors of people who still live there"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "名胜古迹",
+        "pinyin": "míngshèng gǔjì",
+        "en": "scenic spots and historic sites",
+        "collocation": "这些名胜古迹像必背课文，漂亮也拥挤。",
+        "collocationEn": "These famous sites are like set texts: beautiful and crowded."
+      },
+      {
+        "hanzi": "故宫",
+        "pinyin": "Gùgōng",
+        "en": "the Forbidden City",
+        "collocation": "故宫的中轴在说权力，黄色屋顶排成一条线。",
+        "collocationEn": "The Forbidden City's axis speaks power; yellow roofs run in a line."
+      },
+      {
+        "hanzi": "长城",
+        "pinyin": "Chángchéng",
+        "en": "the Great Wall",
+        "collocation": "不到长城非好汉，这句话写在标牌上。",
+        "collocationEn": "\"He who has not been to the Wall is no true hero\" is written on a sign."
+      },
+      {
+        "hanzi": "兵马俑",
+        "pinyin": "bīngmǎyǒng",
+        "en": "terracotta warriors",
+        "collocation": "兵马俑的表情各不相同，一张脸一个故事。",
+        "collocationEn": "The terracotta warriors' faces are all different; each face is a story."
+      },
+      {
+        "hanzi": "博物馆",
+        "pinyin": "bówùguǎn",
+        "en": "museum",
+        "collocation": "博物馆里收藏着许多国宝，人在玻璃外证明来过。",
+        "collocationEn": "The museum holds many national treasures; people outside the glass prove they ca"
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把拥挤的景区说成没有文化价值。",
+      "en": "Do not say a crowded site has no cultural value."
+    },
+    "compareAnchor": {
+      "zh": "西班牙有阿尔罕布拉",
+      "en": "Spain has the Alhambra and the Camino de Santiago, and the same problems of crowds and whose story it is: visitors want beauty, people who live there want a life."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：日出时的长城。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「名胜古迹」？",
+        "en": "From the picture (日出时的长城): who do you see, what are they doing, what is the setting, and how does it connect to Famous places?",
+        "cues": [
+          "长城的墙在山脊上",
+          "故宫中轴，黄色屋顶",
+          "兵马俑一张张不同的脸",
+          "江南古镇的酒吧招牌和原住民后门"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "旅游人太多时，名胜古迹还会有意义吗？",
+        "en": "When sites are overcrowded, do they still mean something?",
+        "cues": [
+          "长城在山脊上",
+          "兵马俑的脸并不完全相同",
+          "「故」：从前的宫，老朋友",
+          "人太多时，意义要靠你问的问题来救"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「名胜古迹」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Famous places? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙有阿尔罕布拉",
+          "不要把拥挤的景区说成没有文化价值",
+          "长城在山脊上",
+          "兵马俑的脸并不完全相同"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "chunyun",
+    "theme": "experiences",
+    "titleZh": "春运回家",
+    "titleEn": "The Chunyun journey home",
+    "subtitle": "世界上最大的人类迁徙，目的地往往只是一碗汤。",
+    "ibLens": "Experiences · Travel / life stories",
+    "image": "/images/topics/chunyun.jpg",
+    "imageAlt": "春运车站",
+    "related": [
+      "chunjie",
+      "gaotie",
+      "hukou",
+      "jiating"
+    ],
+    "oneLineCore": {
+      "zh": "春运是回家潮，目的地常常只是一碗汤。",
+      "en": "Chunyun is a homeward rush; the destination is often a bowl of soup."
+    },
+    "memoryPoints": [
+      {
+        "zh": "春节前后，火车票仍然紧张。",
+        "en": "Around Spring Festival, train tickets stay tight."
+      },
+      {
+        "zh": "对在外工作的人，回家是把一年交回去看一眼。",
+        "en": "For workers away from home, return is handing a year back to be seen."
+      },
+      {
+        "zh": "买不到票就可能「就地过年」，视频代替饭桌。",
+        "en": "No ticket may mean spending the year where you are, on a video call."
+      },
+      {
+        "zh": "两种过年都在问：家在哪里？",
+        "en": "Two new years still ask: where is home?"
+      },
+      {
+        "zh": "对应物：任何「一年必须回家一次」的节日。",
+        "en": "A counterpart: any festival that says you must go home once a year."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "火车站候车大厅的人潮和行李箱",
+        "en": "A station hall of crowds and suitcases"
+      },
+      {
+        "zh": "电子屏上的晚点、候补",
+        "en": "Delays and waitlists on the electronic board"
+      },
+      {
+        "zh": "羽绒服、编织袋、挂在胸前的票",
+        "en": "Down coats, woven bags, a ticket hung on the chest"
+      },
+      {
+        "zh": "站台上的热气和广播",
+        "en": "Steam on the platform and the loudspeaker"
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "春运",
+        "pinyin": "chūnyùn",
+        "en": "Spring Festival travel rush",
+        "collocation": "春运是把关系写成迁徙，不是度假。",
+        "collocationEn": "Chunyun writes a relationship as migration; it is not a holiday."
+      },
+      {
+        "hanzi": "回家",
+        "pinyin": "huíjiā",
+        "en": "to go home",
+        "collocation": "无论多远，他都要回家过年，把人交回去。",
+        "collocationEn": "However far, he goes home for the new year, to hand a person back."
+      },
+      {
+        "hanzi": "迁徙",
+        "pinyin": "qiānxǐ",
+        "en": "migration",
+        "collocation": "春运是定期的国内迁徙，规模像公共工程。",
+        "collocationEn": "Chunyun is a regular domestic migration; the scale is like public works."
+      },
+      {
+        "hanzi": "车票",
+        "pinyin": "chēpiào",
+        "en": "ticket",
+        "collocation": "他提前一个月抢车票，候补还亮着红。",
+        "collocationEn": "He grabbed tickets a month in advance; the waitlist was still red."
+      },
+      {
+        "hanzi": "就地过年",
+        "pinyin": "jiùdì guònián",
+        "en": "to spend the New Year where one is",
+        "collocation": "有的年份提倡就地过年，像把义务暂停。",
+        "collocationEn": "Some years promote spending the New Year in place, like pausing the duty."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把挤车写成所有人的自愿浪漫。",
+      "en": "Do not write the crush as a voluntary romance for everyone."
+    },
+    "compareAnchor": {
+      "zh": "西班牙八月返乡、圣周回家",
+      "en": "Spain's August return and Holy Week homecoming are the same \"you must appear\", only the scale and the transport organisation differ — there is no national adding of services as pub"
+    },
+    "oralRound1": [
+      {
+        "zh": "描述一张春运火车站的照片。",
+        "en": "Describe a photograph of a Chunyun railway station.",
+        "cues": [
+          "火车站候车大厅的人潮和行李箱",
+          "电子屏上的晚点",
+          "羽绒服、编织袋",
+          "站台上的热气和广播"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "为什么人们宁愿挤车也要回家？",
+        "en": "Why do people squeeze onto trains just to go home?",
+        "cues": [
+          "春节前后，火车票仍然紧张",
+          "对在外工作的人",
+          "买不到票就可能「就地过年」",
+          "两种过年都在问"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「春运回家」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The Chunyun journey home? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙八月返乡",
+          "不要把挤车写成所有人的自愿浪漫",
+          "春节前后，火车票仍然紧张",
+          "对在外工作的人"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "sida-faming",
+    "theme": "ingenuity",
+    "titleZh": "四大发明",
+    "titleEn": "The four great inventions",
+    "subtitle": "纸、版、火、针：改的是见面的方式。",
+    "ibLens": "Human ingenuity · Scientific innovation",
+    "image": "/images/topics/sida-faming.jpg",
+    "imageAlt": "文房与古印刷",
+    "related": [
+      "hanzi",
+      "gaotie",
+      "yidong-zhifu",
+      "chuantong-yishu"
+    ],
+    "oneLineCore": {
+      "zh": "纸、版、火、针，改的是人怎么见面。",
+      "en": "Paper, type, fire and the needle change how people meet."
+    },
+    "memoryPoints": [
+      {
+        "zh": "造纸让陌生人能读同一份文字。",
+        "en": "Paper lets strangers read the same text."
+      },
+      {
+        "zh": "印刷让一句话活过说它的人。",
+        "en": "Print lets a sentence outlive the person who spoke it."
+      },
+      {
+        "zh": "火药可写成节日，也可写成爆破。",
+        "en": "Gunpowder can be written as a festival, or as blasting."
+      },
+      {
+        "zh": "指南针压缩海里的未知；今天变成手机里的箭头。",
+        "en": "The compass shrank the unknown sea; today it is an arrow in a phone."
+      },
+      {
+        "zh": "下一件「四大」，要问它改了关系还是只改了方便。",
+        "en": "The next “four” should be tested on relations, not only convenience."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "木桌被一盏暖灯罩住，这是书房，不是实验室。",
+        "en": "A wooden desk sits under a warm lamp: this is a study, not a laboratory."
+      },
+      {
+        "zh": "一垛线装旧书叠在左手边，书口发黄。",
+        "en": "A stack of thread-bound old books on the left, their edges yellowed."
+      },
+      {
+        "zh": "墙上或架上挂着书法立轴，墨色比桌上的纸更深。",
+        "en": "A calligraphy scroll hangs on the wall or shelf; its ink is darker than the paper on the desk."
+      },
+      {
+        "zh": "砚台里有一汪墨，墨条搁在旁边。",
+        "en": "A pool of ink in the inkstone, an ink stick laid beside it."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "发明",
+        "pinyin": "fāmíng",
+        "en": "invention / to invent",
+        "collocation": "指南针是一项改变航海的发明。",
+        "collocationEn": "The compass is an invention that changed seafaring."
+      },
+      {
+        "hanzi": "造纸",
+        "pinyin": "zàozhǐ",
+        "en": "papermaking",
+        "collocation": "造纸术让书写变得便宜。",
+        "collocationEn": "Papermaking made writing cheaper."
+      },
+      {
+        "hanzi": "印刷",
+        "pinyin": "yìnshuā",
+        "en": "printing",
+        "collocation": "印刷让知识传播得更快。",
+        "collocationEn": "Printing let knowledge travel faster."
+      },
+      {
+        "hanzi": "火药",
+        "pinyin": "huǒyào",
+        "en": "gunpowder",
+        "collocation": "火药既用于战争，也用于烟花。",
+        "collocationEn": "Gunpowder is used in war and in fireworks."
+      },
+      {
+        "hanzi": "指南针",
+        "pinyin": "zhǐnánzhēn",
+        "en": "compass",
+        "collocation": "水手靠指南针辨别方向。",
+        "collocationEn": "Sailors used the compass to find direction."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把四大发明说成欧洲没有对应的纸与印刷。",
+      "en": "Do not say Europe had no counterparts in paper and print."
+    },
+    "compareAnchor": {
+      "zh": "西班牙也有对应物",
+      "en": "Spain has counterparts too: Madrid’s old-book stalls, Salamanca’s paper, Cervantes printed into countless copies — paper taking a sentence out of a mouth and into a stranger’s hand"
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：文房与古印刷。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「四大发明」？",
+        "en": "From the picture (文房与古印刷): who do you see, what are they doing, what is the setting, and how does it connect to The four great inventions?",
+        "cues": [
+          "木桌被一盏暖灯罩住",
+          "一垛线装旧书叠在左手边",
+          "墙上或架上挂着书法立轴",
+          "砚台里有一汪墨"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "一项发明可能同时带来好处和伤害吗？举火药或印刷为例。",
+        "en": "Can one invention help and harm at once? Use gunpowder or printing as an example.",
+        "cues": [
+          "造纸让陌生人能读同一份文字",
+          "印刷让一句话活过说它的人",
+          "火药可写成节日",
+          "指南针压缩海里的未知；今天变成手机"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「四大发明」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The four great inventions? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙也有对应物",
+          "不要把四大发明说成欧洲没有对应",
+          "造纸让陌生人能读同一份文字",
+          "印刷让一句话活过说它的人"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "hanzi",
+    "theme": "ingenuity",
+    "titleZh": "汉字文化",
+    "titleEn": "The culture of Chinese characters",
+    "subtitle": "字可以拆，口音不同的人仍能同读。",
+    "ibLens": "Human ingenuity · Communication / art",
+    "image": "/images/topics/hanzi.jpg",
+    "imageAlt": "宣纸上的书法",
+    "related": [
+      "qiming",
+      "chuantong-yishu",
+      "fangyan",
+      "sida-faming"
+    ],
+    "oneLineCore": {
+      "zh": "字可以拆；口音不同的人仍能同读。",
+      "en": "Characters can be taken apart; different accents can still read together."
+    },
+    "memoryPoints": [
+      {
+        "zh": "笔画和偏旁是记忆的骨架。",
+        "en": "Strokes and radicals are a skeleton for memory."
+      },
+      {
+        "zh": "繁简并存：招牌求古，菜单求快。",
+        "en": "Traditional and simplified coexist: signs look old, menus look fast."
+      },
+      {
+        "zh": "输入法把一句话缩成一秒，手却更少落在纸上。",
+        "en": "Input methods shrink a sentence to a second; hands meet paper less."
+      },
+      {
+        "zh": "能写的机器，不等于你会认。",
+        "en": "A machine that can write is not the same as you being able to recognise."
+      },
+      {
+        "zh": "当场拆一个字，比只说「汉字很美」更有分。",
+        "en": "Taking one character apart scores higher than calling characters beautiful."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "镜头贴得很近，纸的纤维一根一根看得见。",
+        "en": "The lens is very close: the fibres of the paper can be seen one by one."
+      },
+      {
+        "zh": "墨还湿，边缘有润开，说明字刚写下不久。",
+        "en": "The ink is still wet, bleeding at the edges, so the character was written only a moment ago."
+      },
+      {
+        "zh": "笔画是中锋走出来的，有粗有细，不是打印体。",
+        "en": "The strokes were made with a centred brush, thick and thin — not a printed font."
+      },
+      {
+        "zh": "某处有飞白或枯笔，手的速度被留在纸上。",
+        "en": "Somewhere there is flying white or a dry brush: the speed of the hand is left on the paper."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "汉字",
+        "pinyin": "hànzì",
+        "en": "Chinese character",
+        "collocation": "每个汉字都有自己的故事。",
+        "collocationEn": "Every character has its own story."
+      },
+      {
+        "hanzi": "书法",
+        "pinyin": "shūfǎ",
+        "en": "calligraphy",
+        "collocation": "他每天练习书法。",
+        "collocationEn": "He practises calligraphy every day."
+      },
+      {
+        "hanzi": "笔画",
+        "pinyin": "bǐhuà",
+        "en": "stroke",
+        "collocation": "这个字有十二画。",
+        "collocationEn": "This character has twelve strokes."
+      },
+      {
+        "hanzi": "偏旁",
+        "pinyin": "piānpáng",
+        "en": "radical / component",
+        "collocation": "三点水的偏旁多与水有关。",
+        "collocationEn": "The three-drop radical often relates to water."
+      },
+      {
+        "hanzi": "识字",
+        "pinyin": "shízì",
+        "en": "to be literate / recognise characters",
+        "collocation": "识字率的提高改变了社会。",
+        "collocationEn": "Higher literacy changed society."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把简化字说成毁掉了全部中文文化。",
+      "en": "Do not treat simplified characters as destroying all Chinese culture."
+    },
+    "compareAnchor": {
+      "zh": "西班牙孩子先把二十六字母排成一条线，不是先拆部首；一封手写信仍比 WhatsApp 更像郑重",
+      "en": "Spanish children first line up twenty-six letters; they do not first take a radical apart."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：宣纸上的书法。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「汉字文化」？",
+        "en": "From the picture (宣纸上的书法): who do you see, what are they doing, what is the setting, and how does it connect to The culture of Chinese characters?",
+        "cues": [
+          "镜头贴得很近",
+          "墨还湿，边缘有润开",
+          "笔画是中锋走出来",
+          "某处有飞白或枯笔"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "如果明天起中文只准拼音，课堂、报纸、你的名字各会失去什么？",
+        "en": "If from tomorrow Chinese allowed only pinyin, what would class, newspapers and your name lose?",
+        "cues": [
+          "笔画和偏旁是记忆的骨架",
+          "繁简并存：招牌求古",
+          "输入法把一句话缩成一秒",
+          "能写的机器，不等于你会认"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「汉字文化」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The culture of Chinese characters? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙孩子先把二十六字母排成一条",
+          "不要把简化字说成毁掉了全部中文文",
+          "笔画和偏旁是记忆的骨架",
+          "繁简并存：招牌求古"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "chuantong-yishu",
+    "theme": "ingenuity",
+    "titleZh": "传统艺术",
+    "titleEn": "Traditional arts",
+    "subtitle": "手艺按年学，亮相可以按秒传。",
+    "ibLens": "Human ingenuity · Artistic expression",
+    "image": "/images/topics/chuantong-yishu.jpg",
+    "imageAlt": "京剧演员上妆",
+    "related": [
+      "hanzi",
+      "fushi",
+      "mingsheng",
+      "chuantong-xiandai"
+    ],
+    "oneLineCore": {
+      "zh": "手艺按年学，亮相可以按秒传播。",
+      "en": "A craft is learned by years; a flourish can travel in seconds."
+    },
+    "memoryPoints": [
+      {
+        "zh": "京剧脸谱把角色写成可阅读的颜色。",
+        "en": "Opera face-paint writes a role in readable colour."
+      },
+      {
+        "zh": "书法、瓷器、剪纸都靠师徒和重复的手。",
+        "en": "Calligraphy, porcelain and paper-cut rely on master, apprentice and repetition."
+      },
+      {
+        "zh": "短视频能当门口，不能当全部的屋子。",
+        "en": "Short video can be a doorway, not the whole house."
+      },
+      {
+        "zh": "对应物：弗拉门戈也靠年岁和身体。",
+        "en": "A counterpart: flamenco also needs years and the body."
+      },
+      {
+        "zh": "改变呈现可以，前提是还说得出材料和步骤。",
+        "en": "Form may change if you can still name material and the first step."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一张脸被红和白的油彩分成区域，黑线描到眼角。",
+        "en": "A face is divided into zones of red and white greasepaint, black lines drawn to the corners of the eyes."
+      },
+      {
+        "zh": "头面上的绒球和珠子还没完全戴稳，能看见重量。",
+        "en": "The pom-poms and beads on the headdress are not yet fully settled; you can see their weight."
+      },
+      {
+        "zh": "一只手正把妆补上，艺术先发生在化妆桌，不是舞台。",
+        "en": "A hand is still adding makeup: the art happens first at the dressing table, not on stage."
+      },
+      {
+        "zh": "脸只完成了一半，另一半还是皮肤，过程被拍下来。",
+        "en": "Only half the face is done; the other half is still skin — the process has been photographed."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "京剧",
+        "pinyin": "jīngjù",
+        "en": "Peking opera",
+        "collocation": "京剧的脸谱很有象征意义。",
+        "collocationEn": "Opera face paint is highly symbolic."
+      },
+      {
+        "hanzi": "水墨画",
+        "pinyin": "shuǐmòhuà",
+        "en": "ink wash painting",
+        "collocation": "水墨画善于留白。",
+        "collocationEn": "Ink painting is skilled at leaving emptiness."
+      },
+      {
+        "hanzi": "剪纸",
+        "pinyin": "jiǎnzhǐ",
+        "en": "paper-cutting",
+        "collocation": "窗上贴着红色的剪纸。",
+        "collocationEn": "Red paper-cuts are pasted on the window."
+      },
+      {
+        "hanzi": "瓷器",
+        "pinyin": "cíqì",
+        "en": "porcelain",
+        "collocation": "青花瓷曾经通过海上丝绸之路运往世界。",
+        "collocationEn": "Blue-and-white porcelain once travelled the maritime silk road."
+      },
+      {
+        "hanzi": "皮影戏",
+        "pinyin": "píyǐngxì",
+        "en": "shadow puppetry",
+        "collocation": "皮影戏靠灯光和兽皮完成故事。",
+        "collocationEn": "Shadow plays tell stories with light and hide."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把一次体验课说成已经完成传承。",
+      "en": "Do not treat one taster class as completed transmission."
+    },
+    "compareAnchor": {
+      "zh": "弗拉门戈是西班牙的对应物：cante、baile、guitarra 一样靠师徒、年岁和身体，一样怕被剪成十五秒的纪念品",
+      "en": "Flamenco is Spain’s counterpart: cante, baile, guitarra also depend on master and apprentice, years and the body, and also fear being cut into a fifteen-second souvenir."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：京剧演员上妆。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「传统艺术」？",
+        "en": "From the picture (京剧演员上妆): who do you see, what are they doing, what is the setting, and how does it connect to Traditional arts?",
+        "cues": [
+          "一张脸被红和白的油彩分成区域",
+          "头面上的绒球和珠子还没完全戴稳",
+          "一只手正把妆补上",
+          "脸只完成了一半，另一半还是皮肤"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "意大利手作和中国手艺，哪一句共同的话你愿意带进口试？",
+        "en": "Italian craft and a Chinese craft: which shared sentence would you bring into the oral?",
+        "cues": [
+          "京剧脸谱把角色写成可阅读的颜色",
+          "书法、瓷器、剪纸都靠师徒和重复的手",
+          "短视频能当门口",
+          "对应物：弗拉门戈也靠年岁和身体"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「传统艺术」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Traditional arts? Under what condition does your stance hold?",
+        "cues": [
+          "弗拉门戈是西班牙的对应物",
+          "不要把一次体验课说成已经完成传承",
+          "京剧脸谱把角色写成可阅读的颜色",
+          "书法、瓷器、剪纸都靠师徒和重复的手"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "yidong-zhifu",
+    "theme": "ingenuity",
+    "titleZh": "移动支付",
+    "titleEn": "Mobile payment",
+    "subtitle": "手机一亮，现金从桌上消失。",
+    "ibLens": "Human ingenuity · Technology",
+    "image": "/images/topics/yidong-zhifu.jpg",
+    "imageAlt": "夜市扫码付款",
+    "related": [
+      "zhibo",
+      "waimai",
+      "shejiao",
+      "gaotie"
+    ],
+    "oneLineCore": {
+      "zh": "手机一亮，现金从桌上消失。",
+      "en": "A phone lights up, and cash leaves the table."
+    },
+    "memoryPoints": [
+      {
+        "zh": "夜市扫码，看不见钱包和找零。",
+        "en": "A night-market scan hides wallets and change."
+      },
+      {
+        "zh": "方便的门票，常常是被记住每一次购买。",
+        "en": "The ticket for convenience is often being remembered on every purchase."
+      },
+      {
+        "zh": "老人、游客、系统故障时，现金仍有用。",
+        "en": "For elders, visitors and outages, cash still works."
+      },
+      {
+        "zh": "对应物：西班牙的 Bizum 快，却没有吃掉全部现金。",
+        "en": "A counterpart: Spain’s Bizum is fast, but has not eaten all cash."
+      },
+      {
+        "zh": "失败的十秒，能看出谁被系统排除。",
+        "en": "Ten seconds of failure show who the system leaves out."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "夜市的灯是暖的，摊位上方挂着食物，蒸汽往上走。",
+        "en": "The night-market lights are warm; food hangs above the stall and steam rises."
+      },
+      {
+        "zh": "一个人举起手机，屏幕亮着，动作像拍照，其实是在付款。",
+        "en": "Someone lifts a phone, the screen glowing; the gesture looks like taking a photo, but it is paying."
+      },
+      {
+        "zh": "码在摊主那边或在桌上，镜头不一定给清，但手的方向说明了一切。",
+        "en": "The code is on the vendor’s side or on the table; the lens may not show it clearly, but the direction of the hand explains everything."
+      },
+      {
+        "zh": "看不见钱包、看不见纸币、看不见找零的抽屉。",
+        "en": "No wallet in sight, no banknotes, no change drawer."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "移动支付",
+        "pinyin": "yídòng zhīfù",
+        "en": "mobile payment",
+        "collocation": "移动支付在中国非常普及。",
+        "collocationEn": "Mobile payment is extremely widespread in China."
+      },
+      {
+        "hanzi": "二维码",
+        "pinyin": "èrwéimǎ",
+        "en": "QR code",
+        "collocation": "请扫描桌上的二维码点餐。",
+        "collocationEn": "Please scan the QR code on the table to order."
+      },
+      {
+        "hanzi": "现金",
+        "pinyin": "xiànjīn",
+        "en": "cash",
+        "collocation": "有的小店已经不收现金。",
+        "collocationEn": "Some small shops no longer take cash."
+      },
+      {
+        "hanzi": "方便",
+        "pinyin": "fāngbiàn",
+        "en": "convenient",
+        "collocation": "扫码确实很方便。",
+        "collocationEn": "Scanning a code is truly convenient."
+      },
+      {
+        "hanzi": "隐私",
+        "pinyin": "yǐnsī",
+        "en": "privacy",
+        "collocation": "支付记录可能涉及隐私。",
+        "collocationEn": "Payment records may involve privacy."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要说中国已经完全没有现金。",
+      "en": "Do not say cash has completely disappeared in China."
+    },
+    "compareAnchor": {
+      "zh": "Bizum 是西班牙最该点名的对应物：熟人转账极快，菜市场和酒吧却仍常见现金",
+      "en": "Bizum is the Spanish counterpart that should be named: bank-joint transfers, extremely fast among acquaintances, yet cash and cards are still common in markets and bars."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：夜市扫码付款。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「移动支付」？",
+        "en": "From the picture (夜市扫码付款): who do you see, what are they doing, what is the setting, and how does it connect to Mobile payment?",
+        "cues": [
+          "夜市的灯是暖的，摊位上方挂着食物",
+          "一个人举起手机，屏幕亮着",
+          "码在摊主那边或在桌上",
+          "看不见钱包、看不见纸币"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "Bizum 和微信／支付宝最大的不同，是速度，还是它有没有吃掉现金？",
+        "en": "The biggest difference between Bizum and WeChat / Alipay: speed, or whether it has eaten cash?",
+        "cues": [
+          "夜市扫码，看不见钱包和找零",
+          "方便的门票，常常是被记住每一次购买",
+          "老人、游客、系统故障时",
+          "对应物：西班牙的 Bizum 快"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「移动支付」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Mobile payment? Under what condition does your stance hold?",
+        "cues": [
+          "Bizum 是西班牙最该点名的对应物",
+          "不要说中国已经完全没有现金",
+          "夜市扫码，看不见钱包和找零",
+          "方便的门票，常常是被记住每一次购买"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "zhibo",
+    "theme": "ingenuity",
+    "titleZh": "电商与直播",
+    "titleEn": "E-commerce and livestreams",
+    "subtitle": "观看变成结账，倒计时收走犹豫。",
+    "ibLens": "Human ingenuity · Media / technology",
+    "image": "/images/topics/zhibo.jpg",
+    "imageAlt": "助农直播",
+    "related": [
+      "yidong-zhifu",
+      "xiangcun",
+      "shejiao",
+      "waimai"
+    ],
+    "oneLineCore": {
+      "zh": "观看变成结账，倒计时收走犹豫。",
+      "en": "Watching becomes checkout; a countdown takes hesitation."
+    },
+    "memoryPoints": [
+      {
+        "zh": "灯、支架、托给镜头的手，顾客并不在场。",
+        "en": "Lamp, stand, a hand for the lens: the buyer is not in the room."
+      },
+      {
+        "zh": "助农直播里，农民、平台、观众付出不同。",
+        "en": "In farm livestreams, farmer, platform and viewer pay different costs."
+      },
+      {
+        "zh": "信任靠语气和倒计时，退货路径要能说清。",
+        "en": "Trust rides on tone and countdown; returns must still be explainable."
+      },
+      {
+        "zh": "实体店剩下镜头给不了的：摸、量、等。",
+        "en": "A shop keeps what a lens cannot give: touch, measure, wait."
+      },
+      {
+        "zh": "对应物：Instagram 小店同样把观看变成购买。",
+        "en": "A counterpart: Instagram shops also turn watching into buying."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一部手机被支架固定，镜头比人的眼睛更正。",
+        "en": "A phone is fixed on a stand; the lens is more upright than the person’s eyes."
+      },
+      {
+        "zh": "旁边有灯，水果或货物被照得比房间其余部分更亮。",
+        "en": "There is a lamp beside it; fruit or goods are lit brighter than the rest of the room."
+      },
+      {
+        "zh": "一筐柑橘或土货占据前景，叶子还在，像刚从地里来。",
+        "en": "A basket of oranges or farm goods fills the foreground; the leaves are still on, as if just from the field."
+      },
+      {
+        "zh": "一只手托起果实给镜头看，比给旁边的人看更认真。",
+        "en": "A hand holds a fruit up to the lens, more carefully than it would for the person next to them."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "直播",
+        "pinyin": "zhíbō",
+        "en": "livestream",
+        "collocation": "她靠直播介绍家乡的水果。",
+        "collocationEn": "She introduces hometown fruit through livestreams."
+      },
+      {
+        "hanzi": "带货",
+        "pinyin": "dàihuò",
+        "en": "to sell goods on stream",
+        "collocation": "带货主播需要很会说话。",
+        "collocationEn": "A selling host needs to be a good talker."
+      },
+      {
+        "hanzi": "电商",
+        "pinyin": "diànshāng",
+        "en": "e-commerce",
+        "collocation": "电商让小城市也能买到同样的货。",
+        "collocationEn": "E-commerce lets small cities buy the same goods."
+      },
+      {
+        "hanzi": "助农",
+        "pinyin": "zhùnóng",
+        "en": "to help farmers",
+        "collocation": "这场直播的目的是助农。",
+        "collocationEn": "The aim of this stream is to help farmers."
+      },
+      {
+        "hanzi": "消费者",
+        "pinyin": "xiāofèizhě",
+        "en": "consumer",
+        "collocation": "消费者需要辨别广告和事实。",
+        "collocationEn": "Consumers need to tell ads from facts."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把助农宣传自动写成已经公平的供应链。",
+      "en": "Do not treat a farm-aid pitch as a fair supply chain by default."
+    },
+    "compareAnchor": {
+      "zh": "西班牙不是没有带货：Instagram 小店、周日 Mercadillo、El Corte Inglés 的柜员，仍要求你看清货、摸得到退",
+      "en": "Spain is not without selling-by-looking: Instagram shops, Sunday mercadillos, a clerk at El Corte Inglés still expect you to see the goods and know where a return goes."
+    },
+    "oralRound1": [
+      {
+        "zh": "描述一场你看过的直播：灯、语气、你为什么下单或不下单。",
+        "en": "Describe a stream you watched: the lamp, the tone, why you ordered or did not.",
+        "cues": [
+          "一部手机被支架固定",
+          "旁边有灯，水果或货物被照得比房间其",
+          "一筐柑橘或土货占据前景",
+          "一只手托起果实给镜头看"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "助农直播里，农民、平台、观众，谁付出最多，谁最容易先离开？",
+        "en": "In a farm-aid stream, who pays most — farmer, platform, viewer — and who leaves first?",
+        "cues": [
+          "灯、支架、托给镜头的手",
+          "助农直播里，农民、平台",
+          "信任靠语气和倒计时",
+          "实体店剩下镜头给不了的：摸"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「电商与直播」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about E-commerce and livestreams? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙不是没有带货",
+          "不要把助农宣传自动写成已经公平",
+          "灯、支架、托给镜头的手",
+          "助农直播里，农民、平台"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "shejiao",
+    "theme": "ingenuity",
+    "titleZh": "社交媒体",
+    "titleEn": "Social media",
+    "subtitle": "一条消息发给谁，比发什么更说明关系。",
+    "ibLens": "Human ingenuity · Communication & media",
+    "image": "/images/topics/shejiao.jpg",
+    "imageAlt": "书法与列车——新旧媒介",
+    "related": [
+      "zhibo",
+      "yidong-zhifu",
+      "neijuan",
+      "hanzi"
+    ],
+    "oneLineCore": {
+      "zh": "发给谁，比发什么更说明关系。",
+      "en": "Who you send it to says more than what you send."
+    },
+    "memoryPoints": [
+      {
+        "zh": "同一条坏消息，软件不同，关系不同。",
+        "en": "The same bad news goes to different apps for different ties."
+      },
+      {
+        "zh": "点赞快，解释慢；谣言走得比更正快。",
+        "en": "A like is fast; explanation is slow; rumours outrun corrections."
+      },
+      {
+        "zh": "刷到深夜，先抗议的是拇指、脖子和睡眠。",
+        "en": "Late scrolling first protests in the thumb, the neck, and sleep."
+      },
+      {
+        "zh": "父母看孩子账号，保护的也许是自己的焦虑。",
+        "en": "Parents watching a child’s account may be guarding their own anxiety."
+      },
+      {
+        "zh": "一周不用，能测出媒介占了你哪一块身体。",
+        "en": "A week off can show which part of the body the medium occupies."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一个人低头写字，宣纸和木头把室内放得很慢。",
+        "en": "Someone looks down writing; xuan paper and wood slow the room."
+      },
+      {
+        "zh": "墨和笔在手里，旧媒介的全部工具不超过一张桌。",
+        "en": "Ink and brush are in the hand; the whole toolkit of the old medium fits on one desk."
+      },
+      {
+        "zh": "窗外或画面另一侧，一列高铁横穿，金属和速度突然进来。",
+        "en": "Outside the window or on the other side of the frame, a high-speed train cuts across; metal and speed suddenly enter."
+      },
+      {
+        "zh": "两种时间挤在同一张图里：一笔一画，和一小时三百公里。",
+        "en": "Two kinds of time are squeezed into one picture: stroke by stroke, and three hundred kilometres an hour."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "社交媒体",
+        "pinyin": "shèjiāo méitǐ",
+        "en": "social media",
+        "collocation": "社交媒体让远方的朋友变得很近。",
+        "collocationEn": "Social media makes distant friends feel close."
+      },
+      {
+        "hanzi": "刷",
+        "pinyin": "shuā",
+        "en": "to scroll / refresh",
+        "collocation": "他一晚上都在刷短视频。",
+        "collocationEn": "He spent the whole evening scrolling short videos."
+      },
+      {
+        "hanzi": "点赞",
+        "pinyin": "diǎnzàn",
+        "en": "to like",
+        "collocation": "她不求火，只想要几个真心的点赞。",
+        "collocationEn": "She does not want fame, only a few sincere likes."
+      },
+      {
+        "hanzi": "关注",
+        "pinyin": "guānzhù",
+        "en": "to follow / pay attention",
+        "collocation": "我关注了几位科普博主。",
+        "collocationEn": "I follow several science explainers."
+      },
+      {
+        "hanzi": "焦虑",
+        "pinyin": "jiāolǜ",
+        "en": "anxiety / anxious",
+        "collocation": "看别人的生活容易让人焦虑。",
+        "collocationEn": "Watching other people’s lives easily makes one anxious."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把「年轻人刷手机」写成唯一的中国现象。",
+      "en": "Do not write “young people on phones” as a China-only fact."
+    },
+    "compareAnchor": {
+      "zh": "Instagram 是最该点名的对应物：故事像夜市，贴文像手册，私信有一点客厅",
+      "en": "Instagram is the counterpart that should be named: four functions squeezed into one app — stories like a night market, posts like a handbook, DMs with a little of the living room."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：书法与列车——新旧媒介。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「社交媒体」？",
+        "en": "From the picture (书法与列车——新旧媒介): who do you see, what are they doing, what is the setting, and how does it connect to Social media?",
+        "cues": [
+          "一个人低头写字",
+          "墨和笔在手里",
+          "窗外或画面另一侧",
+          "两种时间挤在同一张图里：一笔一画"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "如果一周不用社交媒体，你的身体哪一部分会先抗议：拇指、脖子，还是睡眠？",
+        "en": "A week without social media: which part of the body protests first — thumb, neck, or sleep?",
+        "cues": [
+          "同一条坏消息，软件不同",
+          "点赞快，解释慢；谣言走得比更正快",
+          "刷到深夜，先抗议的是拇指",
+          "父母看孩子账号"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「社交媒体」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Social media? Under what condition does your stance hold?",
+        "cues": [
+          "Instagram 是最该点名的对应物",
+          "不要把「年轻人刷手机」写成唯一的中国",
+          "同一条坏消息，软件不同",
+          "点赞快，解释慢；谣言走得比更正快"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "gaotie",
+    "theme": "ingenuity",
+    "titleZh": "高铁与基建",
+    "titleEn": "High-speed rail and infrastructure",
+    "subtitle": "土地被压缩，有人被连上，有人被路过。",
+    "ibLens": "Human ingenuity · Technology / innovation",
+    "image": "/images/topics/gaotie.jpg",
+    "imageAlt": "穿越山谷的高铁",
+    "related": [
+      "chunyun",
+      "mingsheng",
+      "waimai",
+      "sida-faming"
+    ],
+    "oneLineCore": {
+      "zh": "高铁压缩土地；有人被连上，有人被路过。",
+      "en": "High-speed rail compresses land; some are connected, some are passed."
+    },
+    "memoryPoints": [
+      {
+        "zh": "准点和高架桥把旅行变成可计算的时间。",
+        "en": "Punctuality and viaducts make travel into countable time."
+      },
+      {
+        "zh": "身体感受：加速、声音、窗外的尺度变小。",
+        "en": "The body feels acceleration, sound, and a smaller landscape."
+      },
+      {
+        "zh": "对应物：西班牙 AVE 也压缩距离，网络更稀。",
+        "en": "A counterpart: Spain’s AVE also shrinks distance, on a thinner net."
+      },
+      {
+        "zh": "先连大城市更有效率，偏远地区可能被路过。",
+        "en": "Linking big cities is efficient; remote places may be skipped."
+      },
+      {
+        "zh": "基建的问题不只是快，是谁先被连上。",
+        "en": "Infrastructure is not only speed; it is who is linked first."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "白色或银色的列车贴在高架上，窗几乎连成一条线。",
+        "en": "A white or silver train is stuck to the viaduct; the windows almost form a single line."
+      },
+      {
+        "zh": "桥在山谷或田野上方，桥墩一根一根重复。",
+        "en": "The bridge runs above a valley or fields; the piers repeat one after another."
+      },
+      {
+        "zh": "下面有河或田，生活的尺度比车小很多。",
+        "en": "Below there is a river or farmland; the scale of living is much smaller than the train."
+      },
+      {
+        "zh": "山在远处，隧道的黑口也许刚被车甩在身后。",
+        "en": "Mountains in the distance; the black mouth of a tunnel may have just been thrown behind the train."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "高铁",
+        "pinyin": "gāotiě",
+        "en": "high-speed rail",
+        "collocation": "坐高铁去邻省只需要两小时。",
+        "collocationEn": "The neighbouring province is only two hours by high-speed rail."
+      },
+      {
+        "hanzi": "基础设施",
+        "pinyin": "jīchǔ shèshī",
+        "en": "infrastructure",
+        "collocation": "基础设施决定一个城市好不好住。",
+        "collocationEn": "Infrastructure decides how liveable a city is."
+      },
+      {
+        "hanzi": "准点",
+        "pinyin": "zhǔndiǎn",
+        "en": "on time",
+        "collocation": "这趟车非常准点。",
+        "collocationEn": "This train is extremely punctual."
+      },
+      {
+        "hanzi": "压缩",
+        "pinyin": "yāsuō",
+        "en": "to compress",
+        "collocation": "高铁压缩了城市之间的距离。",
+        "collocationEn": "High-speed rail compressed the distance between cities."
+      },
+      {
+        "hanzi": "隧道",
+        "pinyin": "suìdào",
+        "en": "tunnel",
+        "collocation": "列车钻进一条很长的隧道。",
+        "collocationEn": "The train entered a long tunnel."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把高铁写成已经均匀覆盖每一个县城。",
+      "en": "Do not write high-speed rail as evenly covering every county."
+    },
+    "compareAnchor": {
+      "zh": "AVE 是必须点名的对应物：1992 年马德里到塞维利亚开通，同样用速度改周末、改谁还愿意住在哪",
+      "en": "AVE is the counterpart that must be named: Madrid to Seville in 1992, the same use of speed to change weekends and who is still willing to live where."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：穿越山谷的高铁。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「高铁与基建」？",
+        "en": "From the picture (穿越山谷的高铁): who do you see, what are they doing, what is the setting, and how does it connect to High-speed rail and infrastructure?",
+        "cues": [
+          "白色或银色的列车贴在高架上",
+          "桥在山谷或田野上方",
+          "下面有河或田",
+          "山在远处，隧道的黑口也许刚被车甩在"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "AVE 和中国高铁，除了长短，还差在谁先被连上、谁被路过？",
+        "en": "AVE and Chinese high-speed rail: besides length, who is connected first, and who is only passed?",
+        "cues": [
+          "准点和高架桥把旅行变成可计算的时",
+          "身体感受：加速、声音",
+          "对应物：西班牙 AVE 也压缩距离",
+          "先连大城市更有效率"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「高铁与基建」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about High-speed rail and infrastructure? Under what condition does your stance hold?",
+        "cues": [
+          "AVE 是必须点名的对应物",
+          "不要把高铁写成已经均匀覆盖每一个",
+          "准点和高架桥把旅行变成可计算的时",
+          "身体感受：加速、声音"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "waimai",
+    "theme": "ingenuity",
+    "titleZh": "外卖与共享",
+    "titleEn": "Delivery and sharing",
+    "subtitle": "便利改了晚饭，也改了谁在路上跑。",
+    "ibLens": "Human ingenuity · Technology / everyday life",
+    "image": "/images/topics/waimai.jpg",
+    "imageAlt": "城市里的共享与配送",
+    "related": [
+      "yidong-zhifu",
+      "gongxiang",
+      "laji",
+      "neijuan"
+    ],
+    "oneLineCore": {
+      "zh": "便利改了晚饭，也改了谁在路上跑。",
+      "en": "Convenience changed dinner, and who runs on the road."
+    },
+    "memoryPoints": [
+      {
+        "zh": "骑手头盔和车把上的手机，说明他不会久停。",
+        "en": "Helmet and phone on the bars say the rider will not stay long."
+      },
+      {
+        "zh": "超时由算法催；雨天的电话在问你下不下去。",
+        "en": "Overtime is pushed by an algorithm; rain asks if you will come down."
+      },
+      {
+        "zh": "包装和共享单车都把便利变成街上的物件。",
+        "en": "Packaging and shared bikes turn convenience into objects on the street."
+      },
+      {
+        "zh": "没有外卖，一天哪一段会变慢？变慢不一定坏。",
+        "en": "Without delivery, which hour slows? Slowing is not always bad."
+      },
+      {
+        "zh": "劳动、垃圾、习惯，要分开说，不要混成一句「方便」。",
+        "en": "Labour, waste and habit should be named, not folded into “convenient”."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "外卖箱的黄或蓝是城市里新的制服色。",
+        "en": "The yellow or blue of the delivery box is a new uniform colour in the city."
+      },
+      {
+        "zh": "骑手头盔还戴着，下巴的带子说明他不会久停。",
+        "en": "The rider still has a helmet on; the strap under the chin says they will not stay long."
+      },
+      {
+        "zh": "车把上固定着手机，地图比路牌更有权力。",
+        "en": "A phone is fixed to the handlebars; the map has more power than street signs."
+      },
+      {
+        "zh": "电单车或摩托车占着马路牙子，和行人抢边。",
+        "en": "An e-bike or motorbike occupies the kerb, competing with pedestrians for the edge."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "外卖",
+        "pinyin": "wàimài",
+        "en": "food delivery / takeaway",
+        "collocation": "他一周有四天吃外卖。",
+        "collocationEn": "He eats delivery four days a week."
+      },
+      {
+        "hanzi": "骑手",
+        "pinyin": "qíshǒu",
+        "en": "delivery rider",
+        "collocation": "雨天骑手的工作更危险。",
+        "collocationEn": "A rider’s work is more dangerous in the rain."
+      },
+      {
+        "hanzi": "共享单车",
+        "pinyin": "gòngxiǎng dānchē",
+        "en": "shared bike",
+        "collocation": "共享单车解决了最后一公里。",
+        "collocationEn": "Shared bikes solve the last kilometre."
+      },
+      {
+        "hanzi": "便利",
+        "pinyin": "biànlì",
+        "en": "convenience / convenient",
+        "collocation": "便利的背后是别人的劳动。",
+        "collocationEn": "Behind convenience is someone else’s labour."
+      },
+      {
+        "hanzi": "包装",
+        "pinyin": "bāozhuāng",
+        "en": "packaging",
+        "collocation": "外卖包装造成大量垃圾。",
+        "collocationEn": "Delivery packaging creates a lot of rubbish."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把骑手的速度写成他们自愿的生活方式。",
+      "en": "Do not write a rider’s speed as a freely chosen lifestyle."
+    },
+    "compareAnchor": {
+      "zh": "Bizum 可付一笔小钱，却很少把晚饭连同一个人的膝盖送到门口",
+      "en": "Bizum can pay a small sum, yet it rarely packs an evening meal together with a person’s knees to your door — in Spain it is more common to fetch it yourself, or use a little delive"
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：城市里的共享与配送。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「外卖与共享」？",
+        "en": "From the picture (城市里的共享与配送): who do you see, what are they doing, what is the setting, and how does it connect to Delivery and sharing?",
+        "cues": [
+          "外卖箱的黄或蓝是城市里新的制服色",
+          "骑手头盔还戴着",
+          "车把上固定着手机",
+          "电单车或摩托车占着马路牙子"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "共享单车解决了最后一公里，又制造了哪一公里的垃圾和挡路？",
+        "en": "Shared bikes solve the last kilometre; which kilometre of rubbish and blockage do they make?",
+        "cues": [
+          "骑手头盔和车把上的手机",
+          "超时由算法催；雨天的电话在问你下不",
+          "包装和共享单车都把便利变成街上",
+          "没有外卖，一天哪一段会变慢？变慢不"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「外卖与共享」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Delivery and sharing? Under what condition does your stance hold?",
+        "cues": [
+          "Bizum 可付一笔小钱",
+          "不要把骑手的速度写成他们自愿的生",
+          "骑手头盔和车把上的手机",
+          "超时由算法催；雨天的电话在问你下不"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "gaokao",
+    "theme": "society",
+    "titleZh": "高考与教育",
+    "titleEn": "Gaokao and schooling",
+    "subtitle": "一张卷子，常常决定一个家庭的计划。",
+    "ibLens": "Social organization · Education",
+    "image": "/images/topics/gaokao.jpg",
+    "imageAlt": "深夜自习的学生",
+    "related": [
+      "wangzi",
+      "neijuan",
+      "jiating",
+      "jiti"
+    ],
+    "oneLineCore": {
+      "zh": "一张卷子，常常决定一个家庭的计划。",
+      "en": "One exam paper often decides a family’s plan."
+    },
+    "memoryPoints": [
+      {
+        "zh": "高考被许多人看成相对可计算的出路。",
+        "en": "Many see the gaokao as a relatively countable way out."
+      },
+      {
+        "zh": "应试训练排名；素质教育谈的是别的能力。",
+        "en": "Exam schooling trains rank; “quality education” names other skills."
+      },
+      {
+        "zh": "补习把晚上和周末变成第二课堂。",
+        "en": "Cram schools turn nights and weekends into a second classroom."
+      },
+      {
+        "zh": "对应物：西班牙 EBAU、IB 也在筛选，标准不同。",
+        "en": "Counterparts: Spain’s EBAU and the IB also select, by other rules."
+      },
+      {
+        "zh": "公平的争论：同一张卷，还是不同的起点。",
+        "en": "The fairness debate: the same paper, or different starting lines."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "夜里，窗外全黑，只剩教室这一块亮。",
+        "en": "Night: outside is black; only this classroom is still lit."
+      },
+      {
+        "zh": "顶上的白灯管把每张脸照得没有影子。",
+        "en": "Fluorescent tubes overhead wash every face of its shadow."
+      },
+      {
+        "zh": "一排排学生低头写字，几乎没有抬头交谈。",
+        "en": "Rows of students write with heads down; almost no one looks up to talk."
+      },
+      {
+        "zh": "木头课桌连成直线，间距很窄，像被编排过的工位。",
+        "en": "Wooden desks form a straight line, spaced like assigned workstations."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "高考",
+        "pinyin": "gāokǎo",
+        "en": "national college entrance exam",
+        "collocation": "高考那天整座城为考生让路。",
+        "collocationEn": "On gaokao day the whole city makes way for candidates."
+      },
+      {
+        "hanzi": "应试教育",
+        "pinyin": "yìngshì jiàoyù",
+        "en": "exam-oriented schooling",
+        "collocation": "应试教育把人训练成交卷的人。",
+        "collocationEn": "Exam schooling trains people to hand in papers."
+      },
+      {
+        "hanzi": "素质教育",
+        "pinyin": "sùzhì jiàoyù",
+        "en": "whole-person education",
+        "collocation": "素质教育常停在口号里。",
+        "collocationEn": "Quality education often stops at the slogan."
+      },
+      {
+        "hanzi": "压力",
+        "pinyin": "yālì",
+        "en": "pressure",
+        "collocation": "排名给学生很大压力。",
+        "collocationEn": "Rankings put great pressure on students."
+      },
+      {
+        "hanzi": "公平",
+        "pinyin": "gōngpíng",
+        "en": "fair / fairness",
+        "collocation": "相对公平，不是绝对同一。",
+        "collocationEn": "Relatively fair is not absolutely the same."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要说每个中国学生都只为高考活着。",
+      "en": "Do not say every Chinese student lives only for the gaokao."
+    },
+    "compareAnchor": {
+      "zh": "西班牙 EBAU（Selectividad）也是筛选，但是多科成绩加权、还有高中平时分，不是两天吞掉十二年",
+      "en": "Spain’s EBAU (Selectividad) is also a filter, but subjects are weighted and schoolwork counts; two days do not swallow twelve years."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：深夜自习的学生。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「高考与教育」？",
+        "en": "From the picture (深夜自习的学生): who do you see, what are they doing, what is the setting, and how does it connect to Gaokao and schooling?",
+        "cues": [
+          "夜里，窗外全黑",
+          "顶上的白灯管把每张脸照得没有影子",
+          "一排排学生低头写字",
+          "木头课桌连成直线"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "应试教育和素质教育，你更支持哪一种？",
+        "en": "Which do you support more, exam schooling or quality education?",
+        "cues": [
+          "高考被许多人看成相对可计算的出路",
+          "应试训练排名；素质教育谈的是别的能",
+          "补习把晚上和周末变成第二课堂",
+          "对应物：西班牙 EBAU、IB 也在筛选"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「高考与教育」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Gaokao and schooling? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙 EBAU（Selectividad）也是筛选，但是多科成绩加权",
+          "不要说每个中国学生都只为高考活着",
+          "高考被许多人看成相对可计算的出路",
+          "应试训练排名；素质教育谈的是别的能"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "wangzi",
+    "theme": "society",
+    "titleZh": "望子成龙",
+    "titleEn": "Hoping the child becomes a dragon",
+    "subtitle": "「为你好」有时是动力，有时无法上诉。",
+    "ibLens": "Social organization · Family / education",
+    "image": "/images/topics/wangzi.jpg",
+    "imageAlt": "清晨送孩子上学",
+    "related": [
+      "gaokao",
+      "xiao-dao",
+      "jiating",
+      "neijuan"
+    ],
+    "oneLineCore": {
+      "zh": "「为你好」有时是动力，有时无法上诉。",
+      "en": "“For your own good” can be fuel, or a power with no appeal."
+    },
+    "memoryPoints": [
+      {
+        "zh": "校门口的整理领口，是期待的身体动作。",
+        "en": "Straightening a collar at the gate is expectation made physical."
+      },
+      {
+        "zh": "兴趣班可能是兴趣，也可能是第二战场。",
+        "en": "An after-school class may be interest, or a second battlefield."
+      },
+      {
+        "zh": "孩子应不应该有拒绝的权利，要拿到台面上。",
+        "en": "Whether a child may refuse should be brought onto the table."
+      },
+      {
+        "zh": "把「龙」定义成稳定和健康，时间表会变。",
+        "en": "If “dragon” means stability and health, the timetable changes."
+      },
+      {
+        "zh": "对应物：许多家庭都把孩子的成绩当成面子。",
+        "en": "A counterpart: many families treat a child’s grades as face."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "早晨，校门还没完全打开。",
+        "en": "Morning: the school gate is not fully open yet."
+      },
+      {
+        "zh": "孩子蓝校服、黄帽、红领巾，书包在肩上，人还没完全醒。",
+        "en": "Blue uniform, yellow cap, red scarf, bag on the shoulder; the child is not fully awake."
+      },
+      {
+        "zh": "母亲或父亲蹲下，两只手在整理领口或帽子，脸比孩子更紧张。",
+        "en": "A mother or father squats, both hands straightening a collar or cap; the face is tenser than the child’s."
+      },
+      {
+        "zh": "绿色栏杆、校门、已经排起来的接送人群。",
+        "en": "Green railings, the gate, a wall of people already lined up for drop-off."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "期待",
+        "pinyin": "qīdài",
+        "en": "to expect / expectation",
+        "collocation": "过高的期待会把爱说成命令。",
+        "collocationEn": "Excessive expectation can turn love into an order."
+      },
+      {
+        "hanzi": "出息",
+        "pinyin": "chūxi",
+        "en": "prospects / making it",
+        "collocation": "长辈说的出息，常常只有一种样子。",
+        "collocationEn": "The “making it” elders name often has only one look."
+      },
+      {
+        "hanzi": "择校",
+        "pinyin": "zéxiào",
+        "en": "to choose a school",
+        "collocation": "择校让房价和教育绑在一起。",
+        "collocationEn": "School choice binds house prices to education."
+      },
+      {
+        "hanzi": "兴趣班",
+        "pinyin": "xìngqùbān",
+        "en": "extracurricular class",
+        "collocation": "兴趣班里的兴趣，常常是父母的。",
+        "collocationEn": "The interest in a hobby class is often the parents’."
+      },
+      {
+        "hanzi": "焦虑",
+        "pinyin": "jiāolǜ",
+        "en": "anxiety",
+        "collocation": "教育焦虑靠邻居的奖状续命。",
+        "collocationEn": "Education anxiety lives on a neighbour’s certificates."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把父母的期待写成只有中国才有的压力。",
+      "en": "Do not write parental expectation as a pressure unique to China."
+    },
+    "compareAnchor": {
+      "zh": "西班牙家庭也会把期待压进足球队",
+      "en": "Spanish families also press expectation into football teams, extra English, a medical degree; they less often write the whole family’s fate into one primary-school entrance."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：清晨送孩子上学。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「望子成龙」？",
+        "en": "From the picture (清晨送孩子上学): who do you see, what are they doing, what is the setting, and how does it connect to Hoping the child becomes a dragon?",
+        "cues": [
+          "早晨，校门还没完全打开",
+          "孩子蓝校服、黄帽、红领巾",
+          "母亲或父亲蹲下",
+          "绿色栏杆、校门"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "「为你好」在什么情况下变成一种无法上诉的权力？",
+        "en": "When does “it’s for your own good” become a power that cannot be appealed?",
+        "cues": [
+          "校门口的整理领口",
+          "兴趣班可能是兴趣",
+          "孩子应不应该有拒绝的权利",
+          "把「龙」定义成稳定和健康"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「望子成龙」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Hoping the child becomes a dragon? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙家庭也会把期待压进足球队",
+          "不要把父母的期待写成只有中国才有",
+          "校门口的整理领口",
+          "兴趣班可能是兴趣"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "jiating",
+    "theme": "society",
+    "titleZh": "家庭结构变迁",
+    "titleEn": "Changing households",
+    "subtitle": "政策能改数字，养育成本改决定。",
+    "ibLens": "Social organization · Community / family",
+    "image": "/images/topics/jiating.jpg",
+    "imageAlt": "三代同堂的公寓早晨",
+    "related": [
+      "yanglao",
+      "wangzi",
+      "hukou",
+      "chunyun"
+    ],
+    "oneLineCore": {
+      "zh": "政策能改数字，养育成本改决定。",
+      "en": "Policy can change the number; the cost of raising a child changes the decision."
+    },
+    "memoryPoints": [
+      {
+        "zh": "独生子女一代的童年，互助和孤独都可能有。",
+        "en": "Only-child childhoods can hold both extra care and loneliness."
+      },
+      {
+        "zh": "2021年放开三孩后，许多家庭仍只生一个。",
+        "en": "After the 2021 three-child policy, many families still have one."
+      },
+      {
+        "zh": "中年人同时养孩子和父母，时间被劈开。",
+        "en": "Mid-life adults raise children and parents at once; time is split."
+      },
+      {
+        "zh": "空巢不是一种性格，是居住和就业的结构。",
+        "en": "An empty nest is not a personality; it is a structure of jobs and housing."
+      },
+      {
+        "zh": "厨房里的三代同堂，是画面，不是所有家庭的日常。",
+        "en": "Three generations in a kitchen is a scene, not every household’s day."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "空间是小厨房，不是客厅合影。",
+        "en": "The space is a small kitchen, not a living-room portrait."
+      },
+      {
+        "zh": "不锈钢锅、煤气灶、油烟机、窗台上的绿植、墙上的瓷砖。",
+        "en": "A stainless pot, a gas stove, a cooker hood, plants on the sill, tiles on the wall."
+      },
+      {
+        "zh": "老人在灶边，中年人在旁边，小孩伸手——三代都在干活的半径里。",
+        "en": "An elder at the stove, a middle-aged adult beside, a child reaching — three generations inside a working radius."
+      },
+      {
+        "zh": "从窗子进来的早晨，普通、挤、热。",
+        "en": "Morning light from the window: ordinary, crowded, warm."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "独生子女",
+        "pinyin": "dúshēng zǐnǚ",
+        "en": "only child",
+        "collocation": "独生子女的童年是六个大人围着一张桌。",
+        "collocationEn": "An only child’s childhood is six adults around one table."
+      },
+      {
+        "hanzi": "三孩政策",
+        "pinyin": "sānhái zhèngcè",
+        "en": "three-child policy",
+        "collocation": "三孩政策改了文件，没立刻改意愿。",
+        "collocationEn": "The three-child policy changed the document, not the wish at once."
+      },
+      {
+        "hanzi": "空巢",
+        "pinyin": "kōngcháo",
+        "en": "empty nest",
+        "collocation": "空巢不是风景，是子女在另一座城。",
+        "collocationEn": "An empty nest is not scenery; it is children in another city."
+      },
+      {
+        "hanzi": "养育",
+        "pinyin": "yǎngyù",
+        "en": "to raise a child",
+        "collocation": "养育成本让很多家庭停在一个孩子。",
+        "collocationEn": "The cost of raising keeps many families at one child."
+      },
+      {
+        "hanzi": "负担",
+        "pinyin": "fùdān",
+        "en": "burden",
+        "collocation": "房贷和托育是一笔叠在一起的负担。",
+        "collocationEn": "The mortgage and childcare are one stacked burden."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把政策口号写成已经改变了每个家庭的选择。",
+      "en": "Do not write a policy slogan as having changed every family’s choice."
+    },
+    "compareAnchor": {
+      "zh": "南欧也有多代同堂和极低生育：西班牙的祖父母接孩子放学",
+      "en": "Southern Europe also has multi-generation homes and very low fertility: Spanish abuelos collecting children from school is their skip-generation care; expensive housing and unstabl"
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：三代同堂的公寓早晨。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「家庭结构变迁」？",
+        "en": "From the picture (三代同堂的公寓早晨): who do you see, what are they doing, what is the setting, and how does it connect to Changing households?",
+        "cues": [
+          "空间是小厨房",
+          "不锈钢锅、煤气灶、油烟机",
+          "老人在灶边，中年人在旁边",
+          "从窗子进来的早晨"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "为什么政策从一孩改到三孩，很多家庭仍然只生一个？请用成本而不是「观念」回答。",
+        "en": "Why do many families still have one child after policy moved from one to three? Answer with cost, not “values”.",
+        "cues": [
+          "独生子女一代的童年",
+          "2021年放开三孩后",
+          "中年人同时养孩子和父母",
+          "空巢不是一种性格"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「家庭结构变迁」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Changing households? Under what condition does your stance hold?",
+        "cues": [
+          "南欧也有多代同堂和极低生育",
+          "不要把政策口号写成已经改变了每个",
+          "独生子女一代的童年",
+          "2021年放开三孩后"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": 2021
+  },
+  {
+    "slug": "neijuan",
+    "theme": "society",
+    "titleZh": "996 与内卷",
+    "titleEn": "996 and involution",
+    "subtitle": "蛋糕不变时，竞争会吃掉晚上。",
+    "ibLens": "Social organization · The working world",
+    "image": "/images/topics/neijuan.jpg",
+    "imageAlt": "深夜办公室",
+    "related": [
+      "gaokao",
+      "waimai",
+      "wangzi",
+      "hukou"
+    ],
+    "oneLineCore": {
+      "zh": "蛋糕不变时，竞争会吃掉晚上。",
+      "en": "When the cake does not grow, competition eats the evening."
+    },
+    "memoryPoints": [
+      {
+        "zh": "996 把加班说成文化，而不是账单。",
+        "en": "996 names overtime as culture, not as a bill."
+      },
+      {
+        "zh": "内卷是更多投入、不一定更多出路。",
+        "en": "Involution is more input, not always more of a way out."
+      },
+      {
+        "zh": "躺平被有些人写成放弃，也被写成诊断。",
+        "en": "Lying flat is written as giving up, and also as a diagnosis."
+      },
+      {
+        "zh": "铁饭碗和热爱的工作，往往不能同时拿到。",
+        "en": "An iron rice bowl and loved work often cannot both be taken."
+      },
+      {
+        "zh": "若加班费按规则发足，文化叙事会变弱。",
+        "en": "If overtime pay were fully paid, the culture story would weaken."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "夜里。窗外是城市灯火，里面是另一座不睡觉的城。",
+        "en": "Night. City lights outside; inside, another city that will not sleep."
+      },
+      {
+        "zh": "玻璃幕墙、格子间，人被玻璃和隔板同时装进去。",
+        "en": "Glass curtain wall, cubicles: people packed in by glass and partitions at once."
+      },
+      {
+        "zh": "显示器的蓝白比顶灯更亮，脸被屏幕照着。",
+        "en": "The blue-white of the monitor is brighter than the ceiling light; faces are lit by the screen."
+      },
+      {
+        "zh": "有人还坐着，没人聊天，身体对着键盘。",
+        "en": "Someone is still sitting; no one chats; bodies face the keyboard."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "内卷",
+        "pinyin": "nèijuǎn",
+        "en": "involution / rat race",
+        "collocation": "内卷是蛋糕不变，努力互相抵消。",
+        "collocationEn": "Involution is an unchanged cake, effort cancelling effort."
+      },
+      {
+        "hanzi": "加班",
+        "pinyin": "jiābān",
+        "en": "to work overtime",
+        "collocation": "加班餐不能把一顿饭还给人。",
+        "collocationEn": "An overtime meal cannot give a person back a meal."
+      },
+      {
+        "hanzi": "躺平",
+        "pinyin": "tǎngpíng",
+        "en": "to lie flat / opt out",
+        "collocation": "躺平是拒绝为无意义比较燃烧。",
+        "collocationEn": "Lying flat is refusing to burn for empty comparison."
+      },
+      {
+        "hanzi": "铁饭碗",
+        "pinyin": "tiě fànwǎn",
+        "en": "iron rice bowl / secure post",
+        "collocation": "铁饭碗把稳定变成另一种考试。",
+        "collocationEn": "The iron rice bowl turns stability into another exam."
+      },
+      {
+        "hanzi": "编制",
+        "pinyin": "biānzhì",
+        "en": "official staffing quota",
+        "collocation": "进入编制，意味着可以少玩时长游戏。",
+        "collocationEn": "Entering the quota means playing the hours game less."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把「躺平」说成一代人的统一选择。",
+      "en": "Do not treat “lying flat” as one generation’s uniform choice."
+    },
+    "compareAnchor": {
+      "zh": "西班牙的工作日和仍被提起的午睡",
+      "en": "Spain’s jornada and the siesta still mentioned are another politics of time: the afternoon may be slow without meaning not working; unpaid overtime is harder to write as a virtue."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：深夜办公室。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「996 与内卷」？",
+        "en": "From the picture (深夜办公室): who do you see, what are they doing, what is the setting, and how does it connect to 996 and involution?",
+        "cues": [
+          "夜里",
+          "玻璃幕墙、格子间",
+          "显示器的蓝白比顶灯更亮",
+          "有人还坐着，没人聊天"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "躺平是对个人的放弃，还是对「蛋糕不变」的集体诊断？",
+        "en": "Is lying flat a personal giving-up, or a collective diagnosis that the cake does not grow?",
+        "cues": [
+          "996 把加班说成文化",
+          "内卷是更多投入",
+          "躺平被有些人写成放弃",
+          "铁饭碗和热爱的工作"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「996 与内卷」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about 996 and involution? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙的工作日和仍被提起的午睡",
+          "不要把「躺平」说成一代人的统一选择",
+          "996 把加班说成文化",
+          "内卷是更多投入"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "shequ",
+    "theme": "society",
+    "titleZh": "广场舞与社区",
+    "titleEn": "Square dancing and community",
+    "subtitle": "谁能把空地编成队，比谁爱跳舞更重要。",
+    "ibLens": "Social organization · Community",
+    "image": "/images/topics/shequ.jpg",
+    "imageAlt": "黄昏的广场舞",
+    "related": [
+      "yanglao",
+      "jiti",
+      "hukou",
+      "laji"
+    ],
+    "oneLineCore": {
+      "zh": "谁能把空地编成队，比谁爱跳舞更重要。",
+      "en": "Who can turn empty ground into a troop matters more than who loves dance."
+    },
+    "memoryPoints": [
+      {
+        "zh": "黄昏广场、统一动作、音箱，是可见的组织。",
+        "en": "Dusk square, matched moves, a speaker: visible organisation."
+      },
+      {
+        "zh": "它给中老年女性一块被看见的时间。",
+        "en": "It gives older women a time to be seen."
+      },
+      {
+        "zh": "噪音和占场是邻居要付的成本。",
+        "en": "Noise and occupying ground are costs neighbours pay."
+      },
+      {
+        "zh": "对应物：paseo 把身体交还街道，却不设领舞。",
+        "en": "A counterpart: the paseo returns the body to the street without a lead dancer."
+      },
+      {
+        "zh": "所以它更像社会组织，而不只是休闲经历。",
+        "en": "That is why it belongs with Social Organization, not only leisure."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "黄昏，天还没全黑，路灯刚亮，地面有一层薄反光。",
+        "en": "Dusk: the sky is not fully dark, street lamps just on, a thin sheen on the ground."
+      },
+      {
+        "zh": "很大的广场，地上有红色跑道线",
+        "en": "A wide plaza with red track lines: by day perhaps for running, by night requisitioned by a dance team."
+      },
+      {
+        "zh": "十几人成排，间隔均匀，动作一致——侧平举，重心在两脚之间。",
+        "en": "A dozen or so in rows, even spacing, the same motion — arms out to the side, weight between both feet."
+      },
+      {
+        "zh": "浅色短袖、深色裤子、旅游鞋，有一点统一，又不是演出服。",
+        "en": "Pale short sleeves, dark trousers, trainers: a little unified, not quite costumes."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "社区",
+        "pinyin": "shèqū",
+        "en": "community / neighbourhood",
+        "collocation": "社区的质量看晚上七点的空地。",
+        "collocationEn": "A neighbourhood’s quality is the empty ground at seven in the evening."
+      },
+      {
+        "hanzi": "广场舞",
+        "pinyin": "guǎngchǎngwǔ",
+        "en": "square dancing",
+        "collocation": "晚饭后她们下楼跳广场舞。",
+        "collocationEn": "After dinner they go downstairs to square-dance."
+      },
+      {
+        "hanzi": "邻里",
+        "pinyin": "línlǐ",
+        "en": "neighbours / neighbourhood",
+        "collocation": "邻里微信群和广场舞是同一张网。",
+        "collocationEn": "The neighbours’ WeChat group and square dancing are the same net."
+      },
+      {
+        "hanzi": "居委会",
+        "pinyin": "jūwěihuì",
+        "en": "residents’ committee",
+        "collocation": "音箱能不能继续响，有时居委会说了算。",
+        "collocationEn": "Whether the speaker may keep sounding is sometimes the residents’ committee’s ca"
+      },
+      {
+        "hanzi": "公共空间",
+        "pinyin": "gōnggòng kōngjiān",
+        "en": "public space",
+        "collocation": "公共空间为谁服务，要看谁能占住它。",
+        "collocationEn": "Whom public space serves depends on who can hold it."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把广场舞写成全中国老人的唯一娱乐。",
+      "en": "Do not write square dancing as the only leisure of all older people in China."
+    },
+    "compareAnchor": {
+      "zh": "西班牙不是「没有这种活动」",
+      "en": "Spain is not “without this kind of activity”."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：黄昏的广场舞。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「广场舞与社区」？",
+        "en": "From the picture (黄昏的广场舞): who do you see, what are they doing, what is the setting, and how does it connect to Square dancing and community?",
+        "cues": [
+          "黄昏，天还没全黑，路灯刚亮",
+          "很大的广场，地上有红色跑道线",
+          "十几人成排，间隔均匀",
+          "浅色短袖、深色裤子"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "如果把音箱换成无线耳机，广场舞还算不算「占领公共空间」？",
+        "en": "If speakers were swapped for wireless earphones, would square dancing still count as occupying public space?",
+        "cues": [
+          "黄昏广场、统一动作",
+          "它给中老年女性一块被看见的时间",
+          "噪音和占场是邻居要付的成本",
+          "对应物：paseo 把身体交还街道"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「广场舞与社区」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Square dancing and community? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙不是「没有这种活动」",
+          "不要把广场舞写成全中国老人的唯",
+          "黄昏广场、统一动作",
+          "它给中老年女性一块被看见的时间"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "yanglao",
+    "theme": "society",
+    "titleZh": "养老与敬老",
+    "titleEn": "Ageing and honouring elders",
+    "subtitle": "照料发生在手里，不只发生在口号里。",
+    "ibLens": "Social organization · Community / social issues",
+    "image": "/images/topics/yanglao.jpg",
+    "imageAlt": "家庭里的照料",
+    "related": [
+      "jiating",
+      "xiao-dao",
+      "shequ",
+      "jieri"
+    ],
+    "oneLineCore": {
+      "zh": "照料发生在手里，不只发生在口号里。",
+      "en": "Care happens in the hands, not only in slogans."
+    },
+    "memoryPoints": [
+      {
+        "zh": "剪指甲、扶着坐，是敬老的身体证据。",
+        "en": "Cutting nails and steadying a seat are bodily evidence of honouring elders."
+      },
+      {
+        "zh": "退休金、护理、住房，决定谁能被照顾。",
+        "en": "Pensions, nursing and housing decide who can be cared for."
+      },
+      {
+        "zh": "「送去养老院」仍可能被写成不孝。",
+        "en": "“Sending someone to a home” can still be written as unfilial."
+      },
+      {
+        "zh": "子女不必同住，但社会要补上独立的尊严。",
+        "en": "Children need not cohabit, yet society must still fund dignity."
+      },
+      {
+        "zh": "老龄化是结构，不是某一个子女的品德考试。",
+        "en": "Ageing is a structure, not a moral exam for one child."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "空间是家里的院子或过道，绿植贴墙，不是病房。",
+        "en": "The space is a courtyard or corridor at home, plants against the wall — not a ward."
+      },
+      {
+        "zh": "老人坐着，身体前倾或手被握住，脸在光里。",
+        "en": "An elder sits, body leaning or a hand held, the face in the light."
+      },
+      {
+        "zh": "中年女性在身后或身侧，动作很近、很细——剪指甲、理衣领、扶着。",
+        "en": "A middle-aged woman behind or beside, the motion close and fine — cutting nails, smoothing a collar, steadying."
+      },
+      {
+        "zh": "两代人之间几乎没有空隙，照料是身体接触，不是远程转账。",
+        "en": "Almost no gap between the two generations: care is body contact, not a remote transfer."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "养老",
+        "pinyin": "yǎnglǎo",
+        "en": "elderly care / to provide for old age",
+        "collocation": "养老不能只靠一句孝顺。",
+        "collocationEn": "Elderly care cannot rest on one word, filialness."
+      },
+      {
+        "hanzi": "退休",
+        "pinyin": "tuìxiū",
+        "en": "to retire",
+        "collocation": "从工位退下来之后，人还怎么被看见。",
+        "collocationEn": "After stepping down from the desk, how is a person still seen."
+      },
+      {
+        "hanzi": "退休金",
+        "pinyin": "tuìxiūjīn",
+        "en": "pension",
+        "collocation": "退休金够不够，先问你曾在哪一类单位。",
+        "collocationEn": "Whether the pension is enough: first ask what kind of work-unit you were in."
+      },
+      {
+        "hanzi": "敬老",
+        "pinyin": "jìnglǎo",
+        "en": "to honour the aged",
+        "collocation": "敬老可以登高，养老在床边。",
+        "collocationEn": "Honouring elders can climb a height; elderly care is at the bedside."
+      },
+      {
+        "hanzi": "护理",
+        "pinyin": "hùlǐ",
+        "en": "nursing / to nurse",
+        "collocation": "长期护理需要专业，不只是孝心。",
+        "collocationEn": "Long-term nursing needs a profession, not only a filial heart."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把家庭照料写成每个子女都能负担的义务。",
+      "en": "Do not write family care as a duty every child can afford."
+    },
+    "compareAnchor": {
+      "zh": "西班牙的退休金和养老院把老更早写成公共账户：退休金是权利，进院不完全等于不孝",
+      "en": "Spain’s pensión and residencia write old age earlier as a public account: a pension is a right; entering a home is not entirely equal to being unfilial."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：家庭里的照料。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「养老与敬老」？",
+        "en": "From the picture (家庭里的照料): who do you see, what are they doing, what is the setting, and how does it connect to Ageing and honouring elders?",
+        "cues": [
+          "空间是家里的院子或过道",
+          "老人坐着，身体前倾或手被握住",
+          "中年女性在身后或身侧",
+          "两代人之间几乎没有空隙"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "为什么「送去养老院」在中国仍可能被写成不孝？这套规则对谁有利？",
+        "en": "Why can “sending someone to a nursing home” still be written as unfilial in China? Whom do these rules favour?",
+        "cues": [
+          "剪指甲、扶着坐",
+          "退休金、护理、住房",
+          "「送去养老院」仍可能被写成不孝",
+          "子女不必同住"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「养老与敬老」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Ageing and honouring elders? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙的退休金和养老院把老更早写",
+          "不要把家庭照料写成每个子女都能负",
+          "剪指甲、扶着坐",
+          "退休金、护理、住房"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "renqing",
+    "theme": "society",
+    "titleZh": "人情与关系",
+    "titleEn": "Renqing and guanxi",
+    "subtitle": "礼物的分量在说话，程序有时不在场。",
+    "ibLens": "Social organization · Social relationships",
+    "image": "/images/topics/renqing.jpg",
+    "imageAlt": "双手递上的礼物",
+    "related": [
+      "mianzi",
+      "daike",
+      "jiuculture",
+      "neijuan"
+    ],
+    "oneLineCore": {
+      "zh": "礼物的分量在说话，公开程序有时不在场。",
+      "en": "The weight of a gift speaks; a public procedure is sometimes absent."
+    },
+    "memoryPoints": [
+      {
+        "zh": "双手递上，身体在说尊重。",
+        "en": "Two hands offering a gift: the body says respect."
+      },
+      {
+        "zh": "人情是可记账的帮忙，也是以后要还的。",
+        "en": "Renqing is help that can be counted, and later repaid."
+      },
+      {
+        "zh": "关系能让事情更快，也可能挡住没有关系的人。",
+        "en": "Guanxi can speed a matter, and block those without ties."
+      },
+      {
+        "zh": "送礼和贿赂的界限：场合、分量、有没有公开程序。",
+        "en": "Gift versus bribe: occasion, size, and whether a public process exists."
+      },
+      {
+        "zh": "分寸是这套系统里最难学的词。",
+        "en": "Measure is the hardest word in this system."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "双手递上——不是随手一塞，身体在说尊重。",
+        "en": "Both hands holding it out — not a casual shove; the body is saying respect."
+      },
+      {
+        "zh": "红金包装、蝴蝶结，体积不小，分量被设计过。",
+        "en": "Red-and-gold wrapping, a bow, not a small volume; the weight has been designed."
+      },
+      {
+        "zh": "茶几、茶具，是拜访，不是生日派对。",
+        "en": "A tea table, tea things: a visit, not a birthday party."
+      },
+      {
+        "zh": "图往往只给手和礼物，脸被虚化——关系比个人更清楚。",
+        "en": "The picture often gives only hands and a gift; faces are blurred — the relation is clearer than the person."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "人情",
+        "pinyin": "rénqíng",
+        "en": "social favour / human feeling",
+        "collocation": "人情有时比合同更难拒绝。",
+        "collocationEn": "Renqing is sometimes harder to refuse than a contract."
+      },
+      {
+        "hanzi": "关系",
+        "pinyin": "guānxi",
+        "en": "guanxi / connections",
+        "collocation": "办事不能只靠关系，可很多人先靠它。",
+        "collocationEn": "You cannot get things done by guanxi alone, yet many people start with it."
+      },
+      {
+        "hanzi": "送礼",
+        "pinyin": "sònglǐ",
+        "en": "to give a gift",
+        "collocation": "送礼要看场合，也要看分量。",
+        "collocationEn": "Gift-giving has to look at occasion, and at weight."
+      },
+      {
+        "hanzi": "面子",
+        "pinyin": "miànzi",
+        "en": "face / social dignity",
+        "collocation": "当众拒绝会让双方都没面子。",
+        "collocationEn": "A public refusal makes both sides lose face."
+      },
+      {
+        "hanzi": "熟人",
+        "pinyin": "shúrén",
+        "en": "someone one knows",
+        "collocation": "有熟人介绍，窗口会短一截。",
+        "collocationEn": "An introduction from someone you know shortens the window a length."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把人情直接等同于腐败，也不要美化成只有温暖。",
+      "en": "Do not equate renqing with corruption, or beautify it as warmth only."
+    },
+    "compareAnchor": {
+      "zh": "西班牙有走后门、有人脉",
+      "en": "Spain has enchufe, has connections; godparenthood also weaves private matters into a public net."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：双手递上的礼物。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「人情与关系」？",
+        "en": "From the picture (双手递上的礼物): who do you see, what are they doing, what is the setting, and how does it connect to Renqing and guanxi?",
+        "cues": [
+          "双手递上——不是随手一塞",
+          "红金包装、蝴蝶结，体积不小",
+          "茶几、茶具，是拜访",
+          "图往往只给手和礼物"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "没有关系，一个人还能把事情办成吗？",
+        "en": "Can someone get things done with no guanxi?",
+        "cues": [
+          "双手递上，身体在说尊重",
+          "人情是可记账的帮忙",
+          "关系能让事情更快",
+          "送礼和贿赂的界限：场合"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「人情与关系」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Renqing and guanxi? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙有走后门",
+          "不要把人情直接等同于腐败",
+          "双手递上，身体在说尊重",
+          "人情是可记账的帮忙"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "hukou",
+    "theme": "society",
+    "titleZh": "城乡与户口",
+    "titleEn": "City, countryside, hukou",
+    "subtitle": "工位和学位被拆开，家就变成两地。",
+    "ibLens": "Social organization · Social issues / community",
+    "image": "/images/topics/hukou.jpg",
+    "imageAlt": "都市社区黄昏",
+    "related": [
+      "jiating",
+      "chunyun",
+      "xiangcun",
+      "gaokao"
+    ],
+    "oneLineCore": {
+      "zh": "工位和学位被拆开，家就变成两地。",
+      "en": "When job and school place are split, home becomes two places."
+    },
+    "memoryPoints": [
+      {
+        "zh": "户口把公共服务和登记地绑在一起。",
+        "en": "Hukou ties public services to a registered place."
+      },
+      {
+        "zh": "在工作的城市纳税，孩子不一定能在这上学。",
+        "en": "You may pay tax in a work city while a child cannot enrol there."
+      },
+      {
+        "zh": "留守儿童往往是结构结果，不只是家庭选择。",
+        "en": "Left-behind children are often a structural result, not only a family choice."
+      },
+      {
+        "zh": "城乡两帧叠在一起：防盗窗和玻璃楼。",
+        "en": "City and village stack in one frame: security bars and glass towers."
+      },
+      {
+        "zh": "公平问题：人流动时，权利是否一起流动。",
+        "en": "Fairness: when people move, do rights move with them?"
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "黄昏，楼和巷都在收光。",
+        "en": "Dusk: buildings and lanes are gathering in the light."
+      },
+      {
+        "zh": "近处是多层老楼、防盗窗、交织的电线、窄巷、晾出的衣服。",
+        "en": "Near: walk-up blocks, security bars, tangled wires, a narrow lane, laundry hung out."
+      },
+      {
+        "zh": "远处是更高、更新的玻璃楼，两种城市叠在同一帧。",
+        "en": "Far: taller, newer glass towers — two cities stacked in one frame."
+      },
+      {
+        "zh": "窗户很密，生活很挤，路不是大街是缝。",
+        "en": "Windows dense, life crowded; the road is not a street, it is a seam."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "户口",
+        "pinyin": "hùkǒu",
+        "en": "household registration",
+        "collocation": "没有本地户口，入学可能先撞墙。",
+        "collocationEn": "Without local hukou, entering school may hit a wall first."
+      },
+      {
+        "hanzi": "城乡",
+        "pinyin": "chéngxiāng",
+        "en": "urban and rural",
+        "collocation": "城乡差距是权利的地理，不只是风景。",
+        "collocationEn": "The urban–rural gap is a geography of rights, not only scenery."
+      },
+      {
+        "hanzi": "流动",
+        "pinyin": "liúdòng",
+        "en": "mobility / migration",
+        "collocation": "人口流动把家和工作拆进两座城。",
+        "collocationEn": "Population mobility splits home and work into two cities."
+      },
+      {
+        "hanzi": "留守儿童",
+        "pinyin": "liúshǒu értóng",
+        "en": "left-behind children",
+        "collocation": "留守儿童用童年支付父母的工位。",
+        "collocationEn": "Left-behind children pay for their parents’ desk with a childhood."
+      },
+      {
+        "hanzi": "本地人",
+        "pinyin": "běndìrén",
+        "en": "local",
+        "collocation": "住了十年，仍可能不算本地人。",
+        "collocationEn": "Ten years living here, and you may still not count as a local."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把城乡差距说成只是观念不同。",
+      "en": "Do not treat the urban–rural gap as a difference of attitude only."
+    },
+    "compareAnchor": {
+      "zh": "西班牙的居住登记让你在居住地登记、接入部分公共服务，门槛比户口低，也不绑死土地",
+      "en": "Spain’s empadronamiento lets you register where you live and plug into some public services; the threshold is lower than hukou, and it is not welded to land."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：都市社区黄昏。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「城乡与户口」？",
+        "en": "From the picture (都市社区黄昏): who do you see, what are they doing, what is the setting, and how does it connect to City, countryside, hukou?",
+        "cues": [
+          "黄昏，楼和巷都在收光",
+          "近处是多层老楼、防盗窗",
+          "远处是更高、更新的玻璃楼",
+          "窗户很密，生活很挤"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "城乡差距会怎样影响一个孩子的机会？",
+        "en": "How can the urban–rural gap shape a child’s chances?",
+        "cues": [
+          "户口把公共服务和登记地绑在一起",
+          "在工作的城市纳税",
+          "留守儿童往往是结构结果",
+          "城乡两帧叠在一起：防盗窗和玻璃楼"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「城乡与户口」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about City, countryside, hukou? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙的居住登记让你在居住地登记",
+          "不要把城乡差距说成只是观念不同",
+          "户口把公共服务和登记地绑在一起",
+          "在工作的城市纳税"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "laji",
+    "theme": "planet",
+    "titleZh": "垃圾分类",
+    "titleEn": "Waste sorting",
+    "subtitle": "四个桶是规则；满了才看见责任在谁。",
+    "ibLens": "Sharing the planet · Environment",
+    "image": "/images/topics/laji.jpg",
+    "imageAlt": "人行道上的分类垃圾桶",
+    "related": [
+      "waimai",
+      "gongxiang",
+      "jieqi",
+      "xiangcun"
+    ],
+    "oneLineCore": {
+      "zh": "四个桶是规则；满了才看见责任在谁。",
+      "en": "Four bins are a rule; when they overflow, responsibility appears."
+    },
+    "memoryPoints": [
+      {
+        "zh": "颜色和投放口形状在教手怎么做。",
+        "en": "Colour and opening shape teach the hand what to do."
+      },
+      {
+        "zh": "湿垃圾、干垃圾、可回收、有害，分类不同。",
+        "en": "Wet, dry, recyclable and hazardous are different streams."
+      },
+      {
+        "zh": "画面里常常没有人——规则留在路上。",
+        "en": "Often nobody is in the frame: the rule stays on the street."
+      },
+      {
+        "zh": "包装来自超市和外卖，不只来自家庭厨房。",
+        "en": "Packaging comes from shops and delivery, not only home kitchens."
+      },
+      {
+        "zh": "麻烦值不值得，要看后端是否真的分开发。",
+        "en": "Whether the bother is worth it depends on whether the back end really sorts."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "四只市政分类桶并排，蓝、绿、红、黄（或棕、黑），盖上印着不同类别。",
+        "en": "Four municipal bins stand in a row — blue, green, red, yellow (or brown, black) — lids stamped with different categories."
+      },
+      {
+        "zh": "桶立在人行道外侧、路牙和绿化带之间，像新的街道家具。",
+        "en": "They sit on the outer pavement, between kerb and greenery, like new street furniture."
+      },
+      {
+        "zh": "投放口形状不同：有的圆、有的方，有的加锁，告诉手不要随手掀开。",
+        "en": "The openings differ — round, square, some locked — telling the hand not to flip a lid at random."
+      },
+      {
+        "zh": "画面里几乎没有正在扔垃圾的人——规则留在路上，人已经走开。",
+        "en": "Almost no one is throwing anything away: the rule stays on the street; the people have already left."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "垃圾分类",
+        "pinyin": "lājī fēnlèi",
+        "en": "waste sorting",
+        "collocation": "上海的垃圾分类把生活接到市政系统。",
+        "collocationEn": "Shanghai’s waste sorting plugs daily life into the municipal system."
+      },
+      {
+        "hanzi": "可回收",
+        "pinyin": "kě huíshōu",
+        "en": "recyclable",
+        "collocation": "纸箱是可回收，胶带最好撕掉。",
+        "collocationEn": "Cartons are recyclable; tear the tape off if you can."
+      },
+      {
+        "hanzi": "湿垃圾",
+        "pinyin": "shī lājī",
+        "en": "food / wet waste",
+        "collocation": "湿垃圾要控水，不能连袋扔。",
+        "collocationEn": "Wet waste must be drained; do not throw the bag with it."
+      },
+      {
+        "hanzi": "干垃圾",
+        "pinyin": "gān lājī",
+        "en": "residual / dry waste",
+        "collocation": "上海把剩余的叫干垃圾。",
+        "collocationEn": "Shanghai calls what is left “dry waste”."
+      },
+      {
+        "hanzi": "有害",
+        "pinyin": "yǒuhài",
+        "en": "hazardous",
+        "collocation": "电池是有害垃圾，不能进普通袋。",
+        "collocationEn": "Batteries are hazardous waste; they do not go in the ordinary bag."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把分类失败只写成居民素质问题。",
+      "en": "Do not write sorting failures as only a problem of residents’ quality."
+    },
+    "compareAnchor": {
+      "zh": "西班牙城市常见四色系统：黄桶装包装",
+      "en": "Spanish cities often run four colours: yellow for packaging (envases), blue for paper, green for glass, grey or brown for the rest; bulky waste, oil and appliances go to a punto li"
+    },
+    "oralRound1": [
+      {
+        "zh": "描述人行道上的四个桶。颜色、盖、人在不在？",
+        "en": "Describe the four bins on the pavement. Colours, lids, is anyone there?",
+        "cues": [
+          "四只市政分类桶并排",
+          "桶立在人行道外侧",
+          "投放口形状不同：有的圆",
+          "画面里几乎没有正在扔垃圾的人——规则"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "垃圾分类麻烦吗？值不值得？",
+        "en": "Is waste sorting a bother? Is it worth it?",
+        "cues": [
+          "颜色和投放口形状在教手怎么做",
+          "湿垃圾、干垃圾、可回收",
+          "画面里常常没有人——规则留在路上",
+          "包装来自超市和外卖"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「垃圾分类」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Waste sorting? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙城市常见四色系统",
+          "不要把分类失败只写成居民素质问题",
+          "颜色和投放口形状在教手怎么做",
+          "湿垃圾、干垃圾、可回收"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "gongxiang",
+    "theme": "planet",
+    "titleZh": "共享经济",
+    "titleEn": "The sharing economy",
+    "subtitle": "共享是否更环保，要看寿命和维修。",
+    "ibLens": "Sharing the planet · Environment / ethics",
+    "image": "/images/topics/gongxiang.jpg",
+    "imageAlt": "城市里的共享出行",
+    "related": [
+      "waimai",
+      "laji",
+      "gaotie",
+      "yidong-zhifu"
+    ],
+    "oneLineCore": {
+      "zh": "共享是否更环保，要看寿命和维修。",
+      "en": "Whether sharing is greener depends on lifespan and repair."
+    },
+    "memoryPoints": [
+      {
+        "zh": "扫码骑走，车把上的支架说明这是导航的车。",
+        "en": "A scan unlocks it; a phone mount says this bike is for navigation."
+      },
+      {
+        "zh": "闲置被调用，也可能被过量生产和乱停。",
+        "en": "Idle goods can be used, or over-produced and dumped on pavements."
+      },
+      {
+        "zh": "挡了盲道，该问骑的人，也该问公司。",
+        "en": "If a bike blocks a tactile path, ask the rider and the company."
+      },
+      {
+        "zh": "共享的是使用权，不是没有环境账单。",
+        "en": "What is shared is use, not a missing environmental bill."
+      },
+      {
+        "zh": "你愿意共享哪些东西，不愿意共享哪些？",
+        "en": "What would you share with a stranger, and what would you not?"
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一排橙黄色共享单车，车筐朝前，像临时围栏。",
+        "en": "A row of orange-yellow shared bikes, baskets facing forward, like a temporary fence."
+      },
+      {
+        "zh": "车把上的手机支架，说明这车被设计成「边骑边看导航」。",
+        "en": "A phone mount on the handlebar: the bike is designed for riding while watching a map."
+      },
+      {
+        "zh": "车身或车锁上有二维码，使用的第一动作是扫，不是借钥匙。",
+        "en": "A QR code on the frame or lock: the first act is a scan, not borrowing a key."
+      },
+      {
+        "zh": "车停在人行道边缘，和汽车、行人抢同一条边。",
+        "en": "They sit on the pavement edge, fighting cars and walkers for the same strip."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "共享",
+        "pinyin": "gòngxiǎng",
+        "en": "to share / sharing",
+        "collocation": "共享如果没人修，就只是换一种收费。",
+        "collocationEn": "If no one repairs, sharing is only another way to charge."
+      },
+      {
+        "hanzi": "闲置",
+        "pinyin": "xiánzhì",
+        "en": "idle / unused",
+        "collocation": "理论是减少闲置，现实可能先多生产。",
+        "collocationEn": "In theory it cuts idle stock; in practice it may first overproduce."
+      },
+      {
+        "hanzi": "资源",
+        "pinyin": "zīyuán",
+        "en": "resource",
+        "collocation": "路面也是公共资源，不是平台的仓库。",
+        "collocationEn": "The pavement is a public resource, not the platform’s warehouse."
+      },
+      {
+        "hanzi": "维修",
+        "pinyin": "wéixiū",
+        "en": "repair / maintenance",
+        "collocation": "没有维修的共享是加速浪费。",
+        "collocationEn": "Sharing without repair is waste on fast-forward."
+      },
+      {
+        "hanzi": "回收",
+        "pinyin": "huíshōu",
+        "en": "recycling / take-back",
+        "collocation": "电池和车架最后要问谁来回收。",
+        "collocationEn": "Ask who takes back the battery and the frame at the end."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把「共享」自动写成已经可持续。",
+      "en": "Do not treat “sharing” as already sustainable."
+    },
+    "compareAnchor": {
+      "zh": "马德里的 BiciMAD、巴塞罗那的 Bicing 是有桩的公共车：车有固定的家，坏了有人收，占路被设计进系统",
+      "en": "Madrid’s BiciMAD and Barcelona’s Bicing are docked public bikes: each has a home, a broken one is collected, occupying the street is designed into the system."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：城市里的共享出行。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「共享经济」？",
+        "en": "From the picture (城市里的共享出行): who do you see, what are they doing, what is the setting, and how does it connect to The sharing economy?",
+        "cues": [
+          "一排橙黄色共享单车",
+          "车把上的手机支架",
+          "车身或车锁上有二维码",
+          "车停在人行道边缘"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "车挡了盲道，该罚骑的人，还是公司？",
+        "en": "If a bike blocks the tactile path, fine the rider or the company?",
+        "cues": [
+          "扫码骑走，车把上的支架说明这是导航",
+          "闲置被调用，也可能被过量生产和乱停",
+          "挡了盲道，该问骑的人",
+          "共享的是使用权"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「共享经济」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The sharing economy? Under what condition does your stance hold?",
+        "cues": [
+          "马德里的 BiciMAD、巴塞罗那的 Bicing 是有桩的公共车",
+          "不要把「共享」自动写成已经可持续",
+          "扫码骑走，车把上的支架说明这是导航",
+          "闲置被调用，也可能被过量生产和乱停"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "tianren",
+    "theme": "planet",
+    "titleZh": "天人合一",
+    "titleEn": "Heaven and human as one",
+    "subtitle": "园林先处理水和风，不是先堆装饰。",
+    "ibLens": "Sharing the planet · Ethics / environment",
+    "image": "/images/topics/tianren.jpg",
+    "imageAlt": "园林里的月洞门",
+    "related": [
+      "jieqi",
+      "zhongyi-shenti",
+      "mingsheng",
+      "chuantong-xiandai"
+    ],
+    "oneLineCore": {
+      "zh": "园林先处理水和风，不是先堆装饰。",
+      "en": "A garden first handles water and wind, not decoration."
+    },
+    "memoryPoints": [
+      {
+        "zh": "月洞门把园切成圆，漏窗让光和风进来。",
+        "en": "A moon gate cuts the garden into a circle; leak windows admit light and wind."
+      },
+      {
+        "zh": "天人合一谈的是配合，不是征服。",
+        "en": "Heaven-and-human talks of cooperating, not conquering."
+      },
+      {
+        "zh": "风水有时是环境经验，有时被写成命运。",
+        "en": "Feng shui is sometimes environmental know-how, sometimes written as fate."
+      },
+      {
+        "zh": "缺水的城市做喷泉，可能是假的和谐。",
+        "en": "Fountains in a dry city can be a false harmony."
+      },
+      {
+        "zh": "「人定胜天」有时必要，账单要算给下游。",
+        "en": "“Man can conquer nature” is sometimes needed; the bill goes downstream."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "正中是月洞门：一圈白墙把外面切成圆，里面的园被门框成一幅画。",
+        "en": "Centre: a moon gate. A ring of white wall cuts the outside into a circle; the garden inside is framed as a painting."
+      },
+      {
+        "zh": "墙上有六角窗或漏窗，光和风被故意漏进来，不是密闭。",
+        "en": "A hexagonal or leak window lets light and wind in on purpose — not a seal."
+      },
+      {
+        "zh": "白墙、灰瓦、深色门洞，颜色少，让水和树出声。",
+        "en": "White wall, grey tile, a dark opening — few colours, so water and trees can speak."
+      },
+      {
+        "zh": "门内一池水，天光贴在水面上，园林先处理的是水，不是楼。",
+        "en": "A pond inside the gate, sky stuck to the surface: the garden treats water first, not the building."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "天人合一",
+        "pinyin": "tiān rén hé yī",
+        "en": "heaven and human as one",
+        "collocation": "天人合一是人在自然里面，不是对面。",
+        "collocationEn": "Heaven-and-human-as-one means people are inside nature, not opposite it."
+      },
+      {
+        "hanzi": "阴阳",
+        "pinyin": "yīnyáng",
+        "en": "yin and yang",
+        "collocation": "阴阳讲消长，不一定要迷信。",
+        "collocationEn": "Yin-yang is wax and wane; it need not be superstition."
+      },
+      {
+        "hanzi": "风水",
+        "pinyin": "fēngshuǐ",
+        "en": "feng shui",
+        "collocation": "风水有外壳，也有看场地的经验。",
+        "collocationEn": "Fengshui has a shell, and also the experience of reading a site."
+      },
+      {
+        "hanzi": "和谐",
+        "pinyin": "héxié",
+        "en": "harmony",
+        "collocation": "和谐不能只写在售楼处。",
+        "collocationEn": "Harmony cannot live only on a sales office wall."
+      },
+      {
+        "hanzi": "哲学",
+        "pinyin": "zhéxué",
+        "en": "philosophy",
+        "collocation": "哲学一旦有地点，就不会空。",
+        "collocationEn": "Philosophy with a place does not float."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把风水说成官方科学，也不要讥为毫无经验。",
+      "en": "Do not call feng shui official science, or empty of all experience."
+    },
+    "compareAnchor": {
+      "zh": "安达卢西亚的庭院把水放在房子中间",
+      "en": "An Andalusian patio puts water in the middle of the house: a fountain cools, tiles throw light, people sit in shade — a southern-European version of being inside nature."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：园林里的月洞门。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「天人合一」？",
+        "en": "From the picture (园林里的月洞门): who do you see, what are they doing, what is the setting, and how does it connect to Heaven and human as one?",
+        "cues": [
+          "正中是月洞门：一圈白墙把外面切成圆",
+          "墙上有六角窗或漏窗",
+          "白墙、灰瓦、深色门洞",
+          "门内一池水，天光贴在水面上"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "风水是迷信，还是一种环境经验？",
+        "en": "Is fengshui superstition, or environmental experience?",
+        "cues": [
+          "月洞门把园切成圆",
+          "天人合一谈的是配合",
+          "风水有时是环境经验",
+          "缺水的城市做喷泉"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「天人合一」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Heaven and human as one? Under what condition does your stance hold?",
+        "cues": [
+          "安达卢西亚的庭院把水放在房子中间",
+          "不要把风水说成官方科学",
+          "月洞门把园切成圆",
+          "天人合一谈的是配合"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "xiongmao",
+    "theme": "planet",
+    "titleZh": "大熊猫与保护",
+    "titleEn": "Pandas and conservation",
+    "subtitle": "明星动物能带资金，不能当唯一标准。",
+    "ibLens": "Sharing the planet · Environment",
+    "image": "/images/topics/xiongmao.jpg",
+    "imageAlt": "竹林中的熊猫幼崽",
+    "related": [
+      "tianren",
+      "xiangcun",
+      "laji",
+      "jieqi"
+    ],
+    "oneLineCore": {
+      "zh": "明星动物能带资金，不能当唯一标准。",
+      "en": "A star species can bring funds, not be the only measure."
+    },
+    "memoryPoints": [
+      {
+        "zh": "黑眼圈先被认出，镜头在教观众看谁。",
+        "en": "The eye-patches are recognised first; the lens teaches who to watch."
+      },
+      {
+        "zh": "栖息地是竹林和山，不是只有动物园。",
+        "en": "Habitat is bamboo and mountain, not only a zoo."
+      },
+      {
+        "zh": "保护伞能盖住别的物种，也可能吸走全部目光。",
+        "en": "An umbrella species can cover others, or swallow all attention."
+      },
+      {
+        "zh": "对应物：斗牛也能当符号，伦理上并不相同。",
+        "en": "A counterpart: bullfighting can be a symbol too, with a different ethic."
+      },
+      {
+        "zh": "要问：钱和土地最后去了栖息地，还是去了礼物店。",
+        "en": "Ask whether money and land reach habitat, or a gift shop."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一只熊猫幼崽，体型还小，黑白已经齐全。",
+        "en": "A panda cub, still small, the black and white already complete."
+      },
+      {
+        "zh": "黑眼圈、黑耳朵、白脸，脸比身体更先被认出——这是「明星物种」的设计感。",
+        "en": "Black eye-patches, black ears, a white face — the face is recognised before the body. That is the design of a star species."
+      },
+      {
+        "zh": "背景是密竹，叶子近、山远，栖息地被压成一层绿色墙。",
+        "en": "Dense bamboo behind: leaves close, hills far; habitat is crushed into a green wall."
+      },
+      {
+        "zh": "浅景深：竹子虚了，熊实了，镜头在教观众看谁、不看谁。",
+        "en": "Shallow focus: bamboo blurs, the bear is sharp. The lens teaches whom to look at, and whom not to."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dàxióngmāo",
+        "en": "giant panda",
+        "collocation": "大熊猫是脸，也是一片竹子。",
+        "collocationEn": "The giant panda is a face, and also a stretch of bamboo."
+      },
+      {
+        "hanzi": "保护",
+        "pinyin": "bǎohù",
+        "en": "conservation / to protect",
+        "collocation": "保护不能停在玩偶。",
+        "collocationEn": "Conservation cannot stop at the toy."
+      },
+      {
+        "hanzi": "濒危",
+        "pinyin": "bīnwēi",
+        "en": "endangered",
+        "collocation": "明星濒危好募捐，没脸的物种更难。",
+        "collocationEn": "A star that is endangered raises money; a species with no face does not."
+      },
+      {
+        "hanzi": "栖息地",
+        "pinyin": "qīxīdì",
+        "en": "habitat",
+        "collocation": "真正让它活的是栖息地，不是镜头。",
+        "collocationEn": "What keeps it alive is habitat, not the lens."
+      },
+      {
+        "hanzi": "物种",
+        "pinyin": "wùzhǒng",
+        "en": "species",
+        "collocation": "一个物种可以带动一片系统。",
+        "collocationEn": "One species can lift a whole system."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把一只熊猫的可爱写成生态系统已经安全。",
+      "en": "Do not write one panda’s cuteness as a safe ecosystem."
+    },
+    "compareAnchor": {
+      "zh": "西班牙的斗牛把一种动物做成民族符号：有人说这是节日",
+      "en": "Spanish bullfighting makes an animal a national symbol: some call it fiesta, identity, local economy; some call it public cruelty."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：竹林中的熊猫幼崽。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「大熊猫与保护」？",
+        "en": "From the picture (竹林中的熊猫幼崽): who do you see, what are they doing, what is the setting, and how does it connect to Pandas and conservation?",
+        "cues": [
+          "一只熊猫幼崽，体型还小",
+          "黑眼圈、黑耳朵、白脸",
+          "背景是密竹，叶子近",
+          "浅景深：竹子虚了，熊实了"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "保护明星动物是否比保护普通物种更重要？",
+        "en": "Is protecting a star animal more important than protecting ordinary species?",
+        "cues": [
+          "黑眼圈先被认出",
+          "栖息地是竹林和山",
+          "保护伞能盖住别的物种",
+          "对应物：斗牛也能当符号"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「大熊猫与保护」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Pandas and conservation? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙的斗牛把一种动物做成民族符",
+          "不要把一只熊猫的可爱写成生态系统",
+          "黑眼圈先被认出",
+          "栖息地是竹林和山"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "jieqi",
+    "theme": "planet",
+    "titleZh": "二十四节气",
+    "titleEn": "The twenty-four solar terms",
+    "subtitle": "节气是农时的诗，也是气候的提醒。",
+    "ibLens": "Sharing the planet · Environment / traditions",
+    "image": "/images/topics/jieqi.jpg",
+    "imageAlt": "日出时的梯田",
+    "related": [
+      "jieri",
+      "tianren",
+      "yinshi",
+      "xiangcun"
+    ],
+    "oneLineCore": {
+      "zh": "节气是农时的诗，也是气候的提醒。",
+      "en": "Solar terms are a poem of farm time, and a climate reminder."
+    },
+    "memoryPoints": [
+      {
+        "zh": "二十四节气按太阳走，不是按生日蛋糕走。",
+        "en": "The twenty-four terms follow the sun, not birthday cakes."
+      },
+      {
+        "zh": "春分、芒种、冬至，把天气写成可做的事。",
+        "en": "Spring Equinox, Grain in Ear, Winter Solstice turn weather into tasks."
+      },
+      {
+        "zh": "梯田里有的田有水、有的是土，同一天农事不同。",
+        "en": "On one day some terraces hold water, some earth: work differs."
+      },
+      {
+        "zh": "城市人不必装农民，仍可用它校对身体和季节。",
+        "en": "City people need not play farmer, yet can still check body and season."
+      },
+      {
+        "zh": "气候一变，传统农时就会和真实天气错位。",
+        "en": "When climate shifts, traditional farm time slips from real weather."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "梯田一层一层，田埂是曲线，不是旅游的几何图案，是工作的台阶。",
+        "en": "Terraces layer on layer; the ridges are curves, not a tourist geometry — they are working steps."
+      },
+      {
+        "zh": "水面反光，有的田有水、有的田是土，说明同一天里农活不同。",
+        "en": "Water throws light: some fields are wet, some earth — the same day holds different work."
+      },
+      {
+        "zh": "远山把地平线压低，人的尺度在田里，不在天上。",
+        "en": "Far hills press the horizon down; the human scale is in the field, not in the sky."
+      },
+      {
+        "zh": "日出或晨雾：这是下地的时间，不是明信片的滤镜。",
+        "en": "Sunrise or morning mist: this is the hour for going down to the field, not a postcard filter."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "节气",
+        "pinyin": "jiéqì",
+        "en": "solar term",
+        "collocation": "节气是联合国非遗，也是农时。",
+        "collocationEn": "The solar terms are UNESCO heritage, and also farm time."
+      },
+      {
+        "hanzi": "农历",
+        "pinyin": "nónglì",
+        "en": "lunar / agricultural calendar",
+        "collocation": "年节跟农历，节气更跟太阳。",
+        "collocationEn": "Festivals follow the lunar calendar; the terms follow the sun more."
+      },
+      {
+        "hanzi": "春分",
+        "pinyin": "chūnfēn",
+        "en": "Spring Equinox",
+        "collocation": "春分昼夜差不多长。",
+        "collocationEn": "At the Spring Equinox day and night are almost equal."
+      },
+      {
+        "hanzi": "冬至",
+        "pinyin": "dōngzhì",
+        "en": "Winter Solstice",
+        "collocation": "冬至白天最短，北方吃饺子。",
+        "collocationEn": "Dongzhi is the shortest day; the north eats dumplings."
+      },
+      {
+        "hanzi": "芒种",
+        "pinyin": "mángzhòng",
+        "en": "Grain in Ear",
+        "collocation": "芒种要抢收抢种。",
+        "collocationEn": "Grain in Ear is a race to harvest and sow."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把节气说成每个城市上班族都在下地。",
+      "en": "Do not say every city office worker still goes down to the fields."
+    },
+    "compareAnchor": {
+      "zh": "地中海饮食也是联合国非遗",
+      "en": "The Mediterranean diet is also UNESCO heritage: not the honour of one dish, but binding people and land to one table by season, nearness, vegetables and olive oil."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：日出时的梯田。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「二十四节气」？",
+        "en": "From the picture (日出时的梯田): who do you see, what are they doing, what is the setting, and how does it connect to The twenty-four solar terms?",
+        "cues": [
+          "梯田一层一层，田埂是曲线",
+          "水面反光，有的田有水",
+          "远山把地平线压低",
+          "日出或晨雾：这是下地的时间"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "城市人还有必要过节气吗？",
+        "en": "Do city people still need the solar terms?",
+        "cues": [
+          "二十四节气按太阳走",
+          "春分、芒种、冬至",
+          "梯田里有的田有水",
+          "城市人不必装农民"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「二十四节气」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about The twenty-four solar terms? Under what condition does your stance hold?",
+        "cues": [
+          "地中海饮食也是联合国非遗",
+          "不要把节气说成每个城市上班族都在",
+          "二十四节气按太阳走",
+          "春分、芒种、冬至"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "xiangcun",
+    "theme": "planet",
+    "titleZh": "乡村振兴",
+    "titleEn": "Rural revitalization",
+    "subtitle": "镜头对着菜垄时，村子仍要学校和诊所。",
+    "ibLens": "Sharing the planet · Urban & rural / ethics",
+    "image": "/images/topics/xiangcun.jpg",
+    "imageAlt": "山村里的助农拍摄",
+    "related": [
+      "zhibo",
+      "hukou",
+      "jieqi",
+      "chuantong-xiandai"
+    ],
+    "oneLineCore": {
+      "zh": "镜头对着菜垄时，村子仍要学校和诊所。",
+      "en": "When the lens faces the rows, the village still needs a school and a clinic."
+    },
+    "memoryPoints": [
+      {
+        "zh": "助农拍摄把地里的菜变成可下单的画面。",
+        "en": "Farm-aid filming turns rows of vegetables into something to order."
+      },
+      {
+        "zh": "年轻人离开，常因学校、诊所、收入和对象。",
+        "en": "Young people leave for school, clinic, income and a partner — not only nightlife."
+      },
+      {
+        "zh": "旅游能带钱，也可能改村子的性格。",
+        "en": "Tourism can bring money, and can change a village’s character."
+      },
+      {
+        "zh": "空心化是结构：住的人少，公共服务更难维持。",
+        "en": "Hollowing-out is structure: fewer residents, harder services."
+      },
+      {
+        "zh": "包裹进出变多，不等于村里的人更有选择。",
+        "en": "More parcels in and out does not mean villagers have more choice."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "一个人举着手机或云台",
+        "en": "Someone holds a phone or gimbal; the lens faces the vegetable rows, not their own face. In this picture, at least, the goods come first."
+      },
+      {
+        "zh": "绿叶菜一行行，泥土还在，说明直播的对象首先是地里的东西。",
+        "en": "Rows of greens, soil still there: what the livestream first sells is what is in the ground."
+      },
+      {
+        "zh": "山在后面，村子的尺度是山给的，不是商场给的。",
+        "en": "Hills behind: the village’s scale is given by the mountain, not by a mall."
+      },
+      {
+        "zh": "瓦房或小楼在田边，住和种仍贴在一起。",
+        "en": "Tile houses or small blocks sit by the field; living and planting still stick together."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "乡村",
+        "pinyin": "xiāngcūn",
+        "en": "countryside / village",
+        "collocation": "乡村不能只当城市的食堂。",
+        "collocationEn": "The countryside cannot only be the city’s canteen."
+      },
+      {
+        "hanzi": "振兴",
+        "pinyin": "zhènxīng",
+        "en": "revitalisation",
+        "collocation": "振兴要看谁留下，不看墙绘。",
+        "collocationEn": "Revitalization is who stays, not the mural."
+      },
+      {
+        "hanzi": "扶贫",
+        "pinyin": "fúpín",
+        "en": "poverty alleviation",
+        "collocation": "扶贫之后仍要问孩子在哪上学。",
+        "collocationEn": "After poverty relief, still ask where the child goes to school."
+      },
+      {
+        "hanzi": "共同富裕",
+        "pinyin": "gòngtóng fùyù",
+        "en": "common prosperity",
+        "collocation": "物流到村不等于共同富裕。",
+        "collocationEn": "Logistics to the village is not the same as common prosperity."
+      },
+      {
+        "hanzi": "留守",
+        "pinyin": "liúshǒu",
+        "en": "left-behind / to stay behind",
+        "collocation": "留守是机会不在土地上的结果。",
+        "collocationEn": "Left-behind is what happens when chance is not on the land."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把乡村振兴的宣传片写成已经完成的事实。",
+      "en": "Do not write a revitalization film as an already finished fact."
+    },
+    "compareAnchor": {
+      "zh": "西班牙人用 España vaciada 称呼内陆被掏空的省：学校并掉、医生巡回、年轻人去马德里和海岸",
+      "en": "Spaniards call the emptied inland provinces España vaciada: schools merged, doctors on circuit, the young gone to Madrid and the coast."
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：山村里的助农拍摄。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「乡村振兴」？",
+        "en": "From the picture (山村里的助农拍摄): who do you see, what are they doing, what is the setting, and how does it connect to Rural revitalization?",
+        "cues": [
+          "一个人举着手机或云台",
+          "绿叶菜一行行，泥土还在",
+          "山在后面，村子的尺度是山给",
+          "瓦房或小楼在田边"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "旅游能救一个村子，还是会改变它的性格？",
+        "en": "Can tourism save a village, or will it change its character?",
+        "cues": [
+          "助农拍摄把地里的菜变成可下单的画",
+          "年轻人离开，常因学校",
+          "旅游能带钱，也可能改村子的性格",
+          "空心化是结构：住的人少"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「乡村振兴」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Rural revitalization? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙人用 España vaciada 称呼内陆被掏空的省",
+          "不要把乡村振兴的宣传片写成已经完",
+          "助农拍摄把地里的菜变成可下单的画",
+          "年轻人离开，常因学校"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  },
+  {
+    "slug": "chuantong-xiandai",
+    "theme": "planet",
+    "titleZh": "传统与现代",
+    "titleEn": "Tradition and the modern",
+    "subtitle": "冲突常在租金和能源，不一定在瓦当。",
+    "ibLens": "Sharing the planet · Globalization / ethics",
+    "image": "/images/topics/chuantong-xiandai.jpg",
+    "imageAlt": "故宫屋顶与玻璃塔",
+    "related": [
+      "fushi",
+      "chuantong-yishu",
+      "gaotie",
+      "tianren"
+    ],
+    "oneLineCore": {
+      "zh": "冲突常在租金和能源，不一定在瓦当。",
+      "en": "The clash is often rent and energy, not always the roof-tile."
+    },
+    "memoryPoints": [
+      {
+        "zh": "琉璃瓦和玻璃楼抢同一条天际线。",
+        "en": "Glazed tiles and glass towers compete for one skyline."
+      },
+      {
+        "zh": "传统可以留形式，也可以留人的居住权。",
+        "en": "Tradition can keep a form, or keep people’s right to stay."
+      },
+      {
+        "zh": "全球化让符号走得更快，解释权也会外流。",
+        "en": "Globalization moves symbols faster, and can export the right to explain."
+      },
+      {
+        "zh": "哪些该留、哪些可改，要说出谁付钱、谁搬走。",
+        "en": "What to keep or change should name who pays and who is moved."
+      },
+      {
+        "zh": "平衡不是一句审美，是一套分配。",
+        "en": "Balance is not a look; it is a distribution."
+      }
+    ],
+    "imageEvidence": [
+      {
+        "zh": "近景是古建筑的琉璃瓦，黄或绿，曲线和瓦当清楚可数。",
+        "en": "Close: glazed tiles of an old building, yellow or green; curves and tile-ends you can count."
+      },
+      {
+        "zh": "屋脊上的兽或吻，传统的天际线先占领画面下半。",
+        "en": "Beasts or ridge ornaments: the traditional skyline takes the lower half of the frame first."
+      },
+      {
+        "zh": "远处一座白塔或传统塔，把「故」再钉一次。",
+        "en": "A white pagoda or traditional tower in the distance nails “the old” a second time."
+      },
+      {
+        "zh": "更远是深色玻璃写字楼，方、直、反光，和瓦的曲线抢同一片天。",
+        "en": "Farther: a dark glass office tower, square, straight, reflective, fighting the tile’s curve for the same sky."
+      }
+    ],
+    "essentialLanguage": [
+      {
+        "hanzi": "传统",
+        "pinyin": "chuántǒng",
+        "en": "tradition",
+        "collocation": "传统该继续长，还是进博物馆，要分开说。",
+        "collocationEn": "Say separately which tradition should keep growing, and which belongs in a museu"
+      },
+      {
+        "hanzi": "现代",
+        "pinyin": "xiàndài",
+        "en": "modern / modernity",
+        "collocation": "现代如果不能住，就只是布景。",
+        "collocationEn": "If the modern cannot be lived in, it is only a set."
+      },
+      {
+        "hanzi": "全球化",
+        "pinyin": "quánqiúhuà",
+        "en": "globalisation",
+        "collocation": "全球化换的是菜单，不是国家。",
+        "collocationEn": "Globalization changes the menu, not the country."
+      },
+      {
+        "hanzi": "平衡",
+        "pinyin": "pínghéng",
+        "en": "balance",
+        "collocation": "平衡不是各一半。",
+        "collocationEn": "Balance is not fifty-fifty."
+      },
+      {
+        "hanzi": "冲突",
+        "pinyin": "chōngtū",
+        "en": "conflict / to conflict",
+        "collocation": "冲突比「融合得很好」更好写。",
+        "collocationEn": "Conflict writes better than “they blend well”."
+      }
+    ],
+    "expressionCaution": {
+      "zh": "不要把「传统与现代」说成只能选一边。",
+      "en": "Do not treat tradition and the modern as a forced either-or."
+    },
+    "compareAnchor": {
+      "zh": "西班牙城市常见「历史城区加扩建区」",
+      "en": "Spanish cities often run a historic centre plus an extension: stone lanes of the casco histórico, avenues and modern blocks of the Ensanche — two times side by side, also fighting "
+    },
+    "oralRound1": [
+      {
+        "zh": "请根据图片陈述：故宫屋顶与玻璃塔。你看见谁、他们在做什么、环境有什么线索？这怎样连接到「传统与现代」？",
+        "en": "From the picture (故宫屋顶与玻璃塔): who do you see, what are they doing, what is the setting, and how does it connect to Tradition and the modern?",
+        "cues": [
+          "近景是古建筑的琉璃瓦",
+          "屋脊上的兽或吻",
+          "远处一座白塔或传统塔",
+          "更远是深色玻璃写字楼"
+        ]
+      }
+    ],
+    "oralRound2": [
+      {
+        "zh": "全球化让中国文化更强，还是更淡？",
+        "en": "Has globalization made Chinese culture stronger, or thinner?",
+        "cues": [
+          "琉璃瓦和玻璃楼抢同一条天际线",
+          "传统可以留形式",
+          "全球化让符号走得更快",
+          "哪些该留、哪些可改"
+        ]
+      }
+    ],
+    "oralRound3": [
+      {
+        "zh": "和西班牙／南欧或你自己的国家比，「传统与现代」有什么相似和不同？你的立场在什么条件下成立？",
+        "en": "Compared with Spain / Southern Europe or your own country, what is similar or different about Tradition and the modern? Under what condition does your stance hold?",
+        "cues": [
+          "西班牙城市常见「历史城区加扩建区」",
+          "不要把「传统与现代」说成只能选一边",
+          "琉璃瓦和玻璃楼抢同一条天际线",
+          "传统可以留形式"
+        ]
+      }
+    ],
+    "contentStatus": "approved",
+    "factStatus": "checked",
+    "rightsStatus": "cleared",
+    "publicStatus": "approved",
+    "timeSensitiveYear": null
+  }
+]
